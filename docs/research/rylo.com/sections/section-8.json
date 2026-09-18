@@ -1,0 +1,74 @@
+{
+  "url": "https://rylo.com",
+  "generatedAt": "2026-09-18T12:47:01.188Z",
+  "viewport": "pc",
+  "selector": "h2.text-display.text-trim.mb-section-sm",
+  "html": "<h2 class=\"text-display text-trim mb-section-sm max-w-[20ch] text-balance\">\nProfessionally recommended. Personally loved.\n</h2>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "h2",
+    "classes": "text-display text-trim mb-section-sm max-w-[20ch] text-balance",
+    "text": "Professionally recommended. Personally loved.",
+    "rect": {
+      "x": 80,
+      "y": 5035,
+      "pageX": 80,
+      "pageY": 5035,
+      "w": 1220,
+      "h": 253
+    },
+    "pseudo": {
+      "::before": {
+        "content": "\"\"",
+        "opacity": "1",
+        "display": "table",
+        "borderColor": "rgb(250, 245, 242)",
+        "borderStyle": "solid",
+        "margin": "0px 0px -8.15375px",
+        "transition": "all"
+      },
+      "::after": {
+        "content": "\"\"",
+        "opacity": "1",
+        "display": "table",
+        "borderColor": "rgb(250, 245, 242)",
+        "borderStyle": "solid",
+        "margin": "0px 0px -11.9937px",
+        "transition": "all"
+      }
+    },
+    "childCount": 0,
+    "style": "s1",
+    "children": []
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "96px",
+      "fontWeight": "600",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "91.2px",
+      "letterSpacing": "-3.84px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "105.135px",
+      "width": "1220px",
+      "height": "253.438px",
+      "maxWidth": "1220px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

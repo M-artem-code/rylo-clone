@@ -1,0 +1,780 @@
+{
+  "url": "https://rylo.com",
+  "generatedAt": "2026-09-18T12:47:01.188Z",
+  "viewport": "pc",
+  "selector": "ul.grid.w-full",
+  "html": "<ul role=\"list\" class=\"grid w-full grid-cols-1 gap-1 @2xl:grid-cols-2\"> <li class=\"rounded-large bg-card transition-[background-color,color] duration-300 ease-cubic-default motion-reduce:transition-none hover:bg-ink hover:text-page\"> <a href=\"/\" class=\"flex h-full items-center gap-md rounded-large px-2xl py-xl focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\"> <span class=\"flex size-3xl shrink-0 items-center justify-center text-accent\"> <svg viewBox=\"0 0 96 96\" fill=\"none\" slot=\"icon\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </span> <span class=\"text-h3 text-trim min-w-0\">Phone Call Captioning</span> </a> </li><li class=\"rounded-large bg-card transition-[background-color,color] duration-300 ease-cubic-default motion-reduce:transition-none hover:bg-ink hover:text-page\"> <a href=\"/live-transcribe\" class=\"flex h-full items-center gap-md rounded-large px-2xl py-xl focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\"> <span class=\"flex size-3xl shrink-0 items-center justify-center text-accent\"> <svg viewBox=\"-75.5 -36 257 257\" fill=\"none\" slot=\"icon\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </span> <span class=\"text-h3 text-trim min-w-0\">Live Transcribe</span> </a> </li><li class=\"rounded-large bg-card transition-[background-color,color] duration-300 ease-cubic-default motion-reduce:transition-none hover:bg-ink hover:text-page\"> <a href=\"/sidekick\" class=\"flex h-full items-center gap-md rounded-large px-2xl py-xl focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\"> <span class=\"flex size-3xl shrink-0 items-center justify-center text-accent\"> <svg viewBox=\"0 0 48 48\" fill=\"none\" slot=\"icon\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </span> <span class=\"text-h3 text-trim min-w-0\">Sidekick for Mac</span> </a> </li><li class=\"rounded-large bg-card transition-[background-color,color] duration-300 ease-cubic-default motion-reduce:transition-none hover:bg-ink hover:text-page\"> <a href=\"/sign\" class=\"flex h-full items-center gap-md rounded-large px-2xl py-xl focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\"> <span class=\"flex size-3xl shrink-0 items-center justify-center text-accent\"> <svg viewBox=\"0 0 48 48\" fill=\"none\" slot=\"icon\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </span> <span class=\"text-h3 text-trim min-w-0\">Sign</span> </a> </li> </ul>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "ul",
+    "classes": "grid w-full grid-cols-1 gap-1 @2xl:grid-cols-2",
+    "text": null,
+    "rect": {
+      "x": 80,
+      "y": 12489,
+      "pageX": 80,
+      "pageY": 12489,
+      "w": 1280,
+      "h": 228
+    },
+    "childCount": 4,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "li",
+        "classes": "rounded-large bg-card transition-[background-color,color] duration-300 ease-cubic-default motion-reduce:transition-none",
+        "text": null,
+        "rect": {
+          "x": 80,
+          "y": 12489,
+          "pageX": 80,
+          "pageY": 12489,
+          "w": 638,
+          "h": 112
+        },
+        "childCount": 1,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "a",
+            "classes": "flex h-full items-center gap-md rounded-large px-2xl",
+            "text": null,
+            "href": "/",
+            "rect": {
+              "x": 80,
+              "y": 12489,
+              "pageX": 80,
+              "pageY": 12489,
+              "w": 638,
+              "h": 112
+            },
+            "childCount": 2,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "span",
+                "classes": "flex size-3xl shrink-0 items-center justify-center text-accent",
+                "text": null,
+                "rect": {
+                  "x": 120,
+                  "y": 12521,
+                  "pageX": 120,
+                  "pageY": 12521,
+                  "w": 48,
+                  "h": 48
+                },
+                "childCount": 1,
+                "style": "s4",
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "text": null,
+                    "isSvg": true,
+                    "rect": {
+                      "x": 120,
+                      "y": 12521,
+                      "pageX": 120,
+                      "pageY": 12521,
+                      "w": 48,
+                      "h": 48
+                    },
+                    "childCount": 1,
+                    "style": "s5",
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 129,
+                          "y": 12530,
+                          "pageX": 129,
+                          "pageY": 12530,
+                          "w": 29,
+                          "h": 29
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "span",
+                "classes": "text-h3 text-trim min-w-0",
+                "text": "Phone Call Captioning",
+                "rect": {
+                  "x": 184,
+                  "y": 12536,
+                  "pageX": 184,
+                  "pageY": 12536,
+                  "w": 236,
+                  "h": 18
+                },
+                "pseudo": {
+                  "::before": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -3.82756px",
+                    "transition": "all"
+                  },
+                  "::after": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -4.78756px",
+                    "transition": "all"
+                  }
+                },
+                "childCount": 0,
+                "style": "s7",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "li",
+        "classes": "rounded-large bg-card transition-[background-color,color] duration-300 ease-cubic-default motion-reduce:transition-none",
+        "text": null,
+        "rect": {
+          "x": 722,
+          "y": 12489,
+          "pageX": 722,
+          "pageY": 12489,
+          "w": 638,
+          "h": 112
+        },
+        "childCount": 1,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "a",
+            "classes": "flex h-full items-center gap-md rounded-large px-2xl",
+            "text": null,
+            "href": "/live-transcribe",
+            "rect": {
+              "x": 722,
+              "y": 12489,
+              "pageX": 722,
+              "pageY": 12489,
+              "w": 638,
+              "h": 112
+            },
+            "childCount": 2,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "span",
+                "classes": "flex size-3xl shrink-0 items-center justify-center text-accent",
+                "text": null,
+                "rect": {
+                  "x": 762,
+                  "y": 12521,
+                  "pageX": 762,
+                  "pageY": 12521,
+                  "w": 48,
+                  "h": 48
+                },
+                "childCount": 1,
+                "style": "s4",
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "text": null,
+                    "isSvg": true,
+                    "rect": {
+                      "x": 762,
+                      "y": 12521,
+                      "pageX": 762,
+                      "pageY": 12521,
+                      "w": 48,
+                      "h": 48
+                    },
+                    "childCount": 2,
+                    "style": "s5",
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 777,
+                          "y": 12528,
+                          "pageX": 777,
+                          "pageY": 12528,
+                          "w": 18,
+                          "h": 22
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      },
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 776,
+                          "y": 12549,
+                          "pageX": 776,
+                          "pageY": 12549,
+                          "w": 20,
+                          "h": 13
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "span",
+                "classes": "text-h3 text-trim min-w-0",
+                "text": "Live Transcribe",
+                "rect": {
+                  "x": 826,
+                  "y": 12536,
+                  "pageX": 826,
+                  "pageY": 12536,
+                  "w": 164,
+                  "h": 18
+                },
+                "pseudo": {
+                  "::before": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -3.82756px",
+                    "transition": "all"
+                  },
+                  "::after": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -4.78756px",
+                    "transition": "all"
+                  }
+                },
+                "childCount": 0,
+                "style": "s8",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "li",
+        "classes": "rounded-large bg-card transition-[background-color,color] duration-300 ease-cubic-default motion-reduce:transition-none",
+        "text": null,
+        "rect": {
+          "x": 80,
+          "y": 12605,
+          "pageX": 80,
+          "pageY": 12605,
+          "w": 638,
+          "h": 112
+        },
+        "childCount": 1,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "a",
+            "classes": "flex h-full items-center gap-md rounded-large px-2xl",
+            "text": null,
+            "href": "/sidekick",
+            "rect": {
+              "x": 80,
+              "y": 12605,
+              "pageX": 80,
+              "pageY": 12605,
+              "w": 638,
+              "h": 112
+            },
+            "childCount": 2,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "span",
+                "classes": "flex size-3xl shrink-0 items-center justify-center text-accent",
+                "text": null,
+                "rect": {
+                  "x": 120,
+                  "y": 12637,
+                  "pageX": 120,
+                  "pageY": 12637,
+                  "w": 48,
+                  "h": 48
+                },
+                "childCount": 1,
+                "style": "s4",
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "text": null,
+                    "isSvg": true,
+                    "rect": {
+                      "x": 120,
+                      "y": 12637,
+                      "pageX": 120,
+                      "pageY": 12637,
+                      "w": 48,
+                      "h": 48
+                    },
+                    "childCount": 1,
+                    "style": "s5",
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 126,
+                          "y": 12643,
+                          "pageX": 126,
+                          "pageY": 12643,
+                          "w": 36,
+                          "h": 36
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "span",
+                "classes": "text-h3 text-trim min-w-0",
+                "text": "Sidekick for Mac",
+                "rect": {
+                  "x": 184,
+                  "y": 12652,
+                  "pageX": 184,
+                  "pageY": 12652,
+                  "w": 179,
+                  "h": 18
+                },
+                "pseudo": {
+                  "::before": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -3.82756px",
+                    "transition": "all"
+                  },
+                  "::after": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -4.78756px",
+                    "transition": "all"
+                  }
+                },
+                "childCount": 0,
+                "style": "s9",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "li",
+        "classes": "rounded-large bg-card transition-[background-color,color] duration-300 ease-cubic-default motion-reduce:transition-none",
+        "text": null,
+        "rect": {
+          "x": 722,
+          "y": 12605,
+          "pageX": 722,
+          "pageY": 12605,
+          "w": 638,
+          "h": 112
+        },
+        "childCount": 1,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "a",
+            "classes": "flex h-full items-center gap-md rounded-large px-2xl",
+            "text": null,
+            "href": "/sign",
+            "rect": {
+              "x": 722,
+              "y": 12605,
+              "pageX": 722,
+              "pageY": 12605,
+              "w": 638,
+              "h": 112
+            },
+            "childCount": 2,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "span",
+                "classes": "flex size-3xl shrink-0 items-center justify-center text-accent",
+                "text": null,
+                "rect": {
+                  "x": 762,
+                  "y": 12637,
+                  "pageX": 762,
+                  "pageY": 12637,
+                  "w": 48,
+                  "h": 48
+                },
+                "childCount": 1,
+                "style": "s4",
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "text": null,
+                    "isSvg": true,
+                    "rect": {
+                      "x": 762,
+                      "y": 12637,
+                      "pageX": 762,
+                      "pageY": 12637,
+                      "w": 48,
+                      "h": 48
+                    },
+                    "childCount": 2,
+                    "style": "s5",
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 769,
+                          "y": 12652,
+                          "pageX": 769,
+                          "pageY": 12652,
+                          "w": 35,
+                          "h": 28
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      },
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "rect": {
+                          "x": 769,
+                          "y": 12642,
+                          "pageX": 769,
+                          "pageY": 12642,
+                          "w": 35,
+                          "h": 27
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "span",
+                "classes": "text-h3 text-trim min-w-0",
+                "text": "Sign",
+                "rect": {
+                  "x": 826,
+                  "y": 12652,
+                  "pageX": 826,
+                  "pageY": 12652,
+                  "w": 47,
+                  "h": 18
+                },
+                "pseudo": {
+                  "::before": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -3.82756px",
+                    "transition": "all"
+                  },
+                  "::after": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -4.78756px",
+                    "transition": "all"
+                  }
+                },
+                "childCount": 0,
+                "style": "s10",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "227.906px",
+      "display": "grid",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px",
+      "gridTemplateColumns": "638px 638px",
+      "gridTemplateRows": "111.953px 111.953px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundColor": "rgb(49, 38, 35)",
+      "backgroundPosition": "0% 0%",
+      "width": "638px",
+      "height": "111.953px",
+      "display": "list-item",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "40px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "background-color 0.3s cubic-bezier(0.65, 0, 0, 1), color 0.3s cubic-bezier(0.65, 0, 0, 1)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "31.9998px",
+      "paddingRight": "39.9995px",
+      "paddingBottom": "31.9998px",
+      "paddingLeft": "39.9995px",
+      "width": "638px",
+      "height": "111.953px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "16px",
+      "rowGap": "16px",
+      "columnGap": "16px",
+      "gridAutoFlow": "row",
+      "borderRadius": "40px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "color": "rgb(255, 139, 43)",
+      "backgroundPosition": "0% 0%",
+      "width": "47.9844px",
+      "height": "47.9844px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(255, 139, 43)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "0"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "width": "47.9844px",
+      "height": "47.9844px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(255, 139, 43)",
+      "borderStyle": "solid",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "backgroundPosition": "0% 0%",
+      "display": "inline",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(255, 139, 43)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "fontSize": "23.9998px",
+      "fontWeight": "600",
+      "lineHeight": "26.3998px",
+      "letterSpacing": "-0.719995px",
+      "backgroundPosition": "0% 0%",
+      "width": "235.891px",
+      "height": "17.7969px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s8": {
+      "fontSize": "23.9998px",
+      "fontWeight": "600",
+      "lineHeight": "26.3998px",
+      "letterSpacing": "-0.719995px",
+      "backgroundPosition": "0% 0%",
+      "width": "164.203px",
+      "height": "17.7969px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "fontSize": "23.9998px",
+      "fontWeight": "600",
+      "lineHeight": "26.3998px",
+      "letterSpacing": "-0.719995px",
+      "backgroundPosition": "0% 0%",
+      "width": "179.484px",
+      "height": "17.7969px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s10": {
+      "fontSize": "23.9998px",
+      "fontWeight": "600",
+      "lineHeight": "26.3998px",
+      "letterSpacing": "-0.719995px",
+      "backgroundPosition": "0% 0%",
+      "width": "47.125px",
+      "height": "17.7969px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

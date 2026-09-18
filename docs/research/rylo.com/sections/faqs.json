@@ -1,0 +1,1015 @@
+{
+  "url": "https://rylo.com",
+  "generatedAt": "2026-09-18T12:48:46.357Z",
+  "viewport": "pc",
+  "selector": "main#main > section:nth-of-type(8)",
+  "html": "<section data-surface=\"dark\" class=\"relative overflow-clip z-1 rounded-b-huge bg-card pt-section-lg pb-section-main -mt-20\">  <div class=\"container-site gap-x-gutter gap-y-3xl grid grid-cols-1 items-start md:grid-cols-12\"> <div class=\"md:top-section-main md:col-span-3 md:sticky\"> <h2 id=\"home-faq-title\" class=\"text-h1 text-trim max-w-[20ch] text-balance\">FAQs</h2> </div> <ul role=\"list\" class=\"flex flex-col gap-1 md:col-span-9\" aria-labelledby=\"home-faq-title\"> <li data-astro-cid-iekunezp=\"\"> <details name=\"home-faq\" class=\"group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <summary class=\"gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer list-none items-center justify-between focus-visible:ring-2 focus-visible:outline-none [&amp;::-webkit-details-marker]:hidden\" data-astro-cid-iekunezp=\"\"> <span class=\"text-h4 text-trim text-balance\" data-astro-cid-iekunezp=\"\">What is Rylo?</span> <span aria-hidden=\"true\" class=\"size-xl ease-cubic-button flex shrink-0 items-center justify-center transition-transform duration-600 group-open:rotate-180 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <svg viewBox=\"0 0 12 12\" fill=\"none\" class=\"size-lg\" data-astro-cid-iekunezp=\"true\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </span> </summary>  <div class=\"min-h-0 overflow-hidden\" data-astro-cid-iekunezp=\"\"> <div class=\"px-xl pb-xl gap-md flex flex-col\" data-astro-cid-iekunezp=\"\"> <p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">Rylo is a free call captioning and live transcription app that provides real-time captions for phone conversations and in-person communication.</p><p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">Designed for people who are Deaf, hard of hearing, or have speech disabilities, Rylo combines automated speech recognition, text-to-speech and the latest tech to make communication more accessible.</p>  </div> </div> </details> </li><li data-astro-cid-iekunezp=\"\"> <details name=\"home-faq\" class=\"group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <summary class=\"gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer list-none items-center justify-between focus-visible:ring-2 focus-visible:outline-none [&amp;::-webkit-details-marker]:hidden\" data-astro-cid-iekunezp=\"\"> <span class=\"text-h4 text-trim text-balance\" data-astro-cid-iekunezp=\"\">Is there an app that captions phone calls?</span> <span aria-hidden=\"true\" class=\"size-xl ease-cubic-button flex shrink-0 items-center justify-center transition-transform duration-600 group-open:rotate-180 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <svg viewBox=\"0 0 12 12\" fill=\"none\" class=\"size-lg\" data-astro-cid-iekunezp=\"true\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </span> </summary>  <div class=\"min-h-0 overflow-hidden\" data-astro-cid-iekunezp=\"\"> <div class=\"px-xl pb-xl gap-md flex flex-col\" data-astro-cid-iekunezp=\"\"> <p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">Yes. Rylo is a free app that captions incoming and outgoing phone conversations in real time. Using advanced speech recognition technology, Rylo generates accurate captions that appear on your mobile device while you talk.</p><p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">Caption telephone calls, video calls, conference calls, and calls on speakerphone.</p><p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">The call captioning and live transcription app is available for iPhone and Android phones, helping users stay connected with family, friends, healthcare providers, and customer support teams.</p>  </div> </div> </details> </li><li data-astro-cid-iekunezp=\"\"> <details name=\"home-faq\" class=\"group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <summary class=\"gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer list-none items-center justify-between focus-visible:ring-2 focus-visible:outline-none [&amp;::-webkit-details-marker]:hidden\" data-astro-cid-iekunezp=\"\"> <span class=\"text-h4 text-trim text-balance\" data-astro-cid-iekunezp=\"\">How do you start using Rylo?</span> <span aria-hidden=\"true\" class=\"size-xl ease-cubic-button flex shrink-0 items-center justify-center transition-transform duration-600 group-open:rotate-180 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <svg viewBox=\"0 0 12 12\" fill=\"none\" class=\"size-lg\" data-astro-cid-iekunezp=\"true\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </span> </summary>  <div class=\"min-h-0 overflow-hidden\" data-astro-cid-iekunezp=\"\"> <div class=\"px-xl pb-xl gap-md flex flex-col\" data-astro-cid-iekunezp=\"\"> <p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">Download the Rylo mobile app from the App Store for iOS devices or Google Play Store for Android phones. After registering, you can place and receive captioned calls from your cell phone, access live captions, and use text-to-speech features.</p><p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">Rylo is designed to work with your existing phone number and includes helpful functionality such as call transcripts and accessibility settings.</p>  </div> </div> </details> </li><li data-astro-cid-iekunezp=\"\"> <details name=\"home-faq\" class=\"group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <summary class=\"gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer list-none items-center justify-between focus-visible:ring-2 focus-visible:outline-none [&amp;::-webkit-details-marker]:hidden\" data-astro-cid-iekunezp=\"\"> <span class=\"text-h4 text-trim text-balance\" data-astro-cid-iekunezp=\"\">Can Rylo caption voicemail messages?</span> <span aria-hidden=\"true\" class=\"size-xl ease-cubic-button flex shrink-0 items-center justify-center transition-transform duration-600 group-open:rotate-180 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <svg viewBox=\"0 0 12 12\" fill=\"none\" class=\"size-lg\" data-astro-cid-iekunezp=\"true\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </span> </summary>  <div class=\"min-h-0 overflow-hidden\" data-astro-cid-iekunezp=\"\"> <div class=\"px-xl pb-xl gap-md flex flex-col\" data-astro-cid-iekunezp=\"\"> <p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">Yes. Rylo captions every single voicemail automatically - transcripts stay fully private.</p>  </div> </div> </details> </li><li data-astro-cid-iekunezp=\"\"> <details name=\"home-faq\" class=\"group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <summary class=\"gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer list-none items-center justify-between focus-visible:ring-2 focus-visible:outline-none [&amp;::-webkit-details-marker]:hidden\" data-astro-cid-iekunezp=\"\"> <span class=\"text-h4 text-trim text-balance\" data-astro-cid-iekunezp=\"\">Does Rylo offer real-time transcription of face-to-face conversations?</span> <span aria-hidden=\"true\" class=\"size-xl ease-cubic-button flex shrink-0 items-center justify-center transition-transform duration-600 group-open:rotate-180 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <svg viewBox=\"0 0 12 12\" fill=\"none\" class=\"size-lg\" data-astro-cid-iekunezp=\"true\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </span> </summary>  <div class=\"min-h-0 overflow-hidden\" data-astro-cid-iekunezp=\"\"> <div class=\"px-xl pb-xl gap-md flex flex-col\" data-astro-cid-iekunezp=\"\"> <p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">Yes. Rylo Live Transcribe provides real-time speech-to-text transcription for in-person conversations.</p>  </div> </div> </details> </li><li data-astro-cid-iekunezp=\"\"> <details name=\"home-faq\" class=\"group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <summary class=\"gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer list-none items-center justify-between focus-visible:ring-2 focus-visible:outline-none [&amp;::-webkit-details-marker]:hidden\" data-astro-cid-iekunezp=\"\"> <span class=\"text-h4 text-trim text-balance\" data-astro-cid-iekunezp=\"\">Is Rylo really free?</span> <span aria-hidden=\"true\" class=\"size-xl ease-cubic-button flex shrink-0 items-center justify-center transition-transform duration-600 group-open:rotate-180 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <svg viewBox=\"0 0 12 12\" fill=\"none\" class=\"size-lg\" data-astro-cid-iekunezp=\"true\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </span> </summary>  <div class=\"min-h-0 overflow-hidden\" data-astro-cid-iekunezp=\"\"> <div class=\"px-xl pb-xl gap-md flex flex-col\" data-astro-cid-iekunezp=\"\"> <p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">Yes. Rylo is free for eligible users who are Deaf, hard of hearing, or have a speech disability. As an FCC-certified captioned telephone service and IP Relay provider, Rylo is reimbursed through a federally administered fund, allowing users to access call captioning services at no cost.</p>  </div> </div> </details> </li><li data-astro-cid-iekunezp=\"\"> <details name=\"home-faq\" class=\"group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <summary class=\"gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer list-none items-center justify-between focus-visible:ring-2 focus-visible:outline-none [&amp;::-webkit-details-marker]:hidden\" data-astro-cid-iekunezp=\"\"> <span class=\"text-h4 text-trim text-balance\" data-astro-cid-iekunezp=\"\">Does Rylo need internet connectivity?</span> <span aria-hidden=\"true\" class=\"size-xl ease-cubic-button flex shrink-0 items-center justify-center transition-transform duration-600 group-open:rotate-180 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <svg viewBox=\"0 0 12 12\" fill=\"none\" class=\"size-lg\" data-astro-cid-iekunezp=\"true\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </span> </summary>  <div class=\"min-h-0 overflow-hidden\" data-astro-cid-iekunezp=\"\"> <div class=\"px-xl pb-xl gap-md flex flex-col\" data-astro-cid-iekunezp=\"\"> <p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">Yes. Rylo requires an active internet connection to provide real-time phone call captions, but can work offline for live transcriptions. You can connect using Wi-Fi or mobile data on your smartphone or other compatible mobile device.</p>  </div> </div> </details> </li><li data-astro-cid-iekunezp=\"\"> <details name=\"home-faq\" class=\"group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <summary class=\"gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer list-none items-center justify-between focus-visible:ring-2 focus-visible:outline-none [&amp;::-webkit-details-marker]:hidden\" data-astro-cid-iekunezp=\"\"> <span class=\"text-h4 text-trim text-balance\" data-astro-cid-iekunezp=\"\">What languages does Rylo support?</span> <span aria-hidden=\"true\" class=\"size-xl ease-cubic-button flex shrink-0 items-center justify-center transition-transform duration-600 group-open:rotate-180 motion-reduce:transition-none\" data-astro-cid-iekunezp=\"\"> <svg viewBox=\"0 0 12 12\" fill=\"none\" class=\"size-lg\" data-astro-cid-iekunezp=\"true\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </span> </summary>  <div class=\"min-h-0 overflow-hidden\" data-astro-cid-iekunezp=\"\"> <div class=\"px-xl pb-xl gap-md flex flex-col\" data-astro-cid-iekunezp=\"\"> <p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">Rylo currently supports over 50 languages.</p><p class=\"text-main text-trim text-ink/70 max-w-[80ch] text-pretty\" data-astro-cid-iekunezp=\"\">The platform can automatically detect language changes during conversations, helping users communicate more naturally. Rylo regularly introduces new features and language support updates as part of its mission to make communication more accessible for Deaf and hard of hearing communities.</p>  </div> </div> </details> </li> </ul> </div>  <div aria-hidden=\"true\" data-section-parallax-overlay=\"\" class=\"pointer-events-none absolute inset-0 z-10 bg-black opacity-0\"></div> </section>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "section",
+    "classes": "relative overflow-clip z-1 rounded-b-huge bg-card pt-section-lg",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 11452,
+      "pageX": 0,
+      "pageY": 11452,
+      "w": 1440,
+      "h": 1262
+    },
+    "childCount": 2,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "container-site gap-x-gutter gap-y-3xl grid grid-cols-1 items-start",
+        "text": null,
+        "rect": {
+          "x": 80,
+          "y": 11724,
+          "pageX": 80,
+          "pageY": 11724,
+          "w": 1280,
+          "h": 796
+        },
+        "childCount": 2,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "div",
+            "classes": "md:top-section-main md:col-span-3 md:sticky",
+            "text": null,
+            "rect": {
+              "x": 80,
+              "y": 11724,
+              "pageX": 80,
+              "pageY": 11724,
+              "w": 307,
+              "h": 47
+            },
+            "childCount": 1,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "h2",
+                "classes": "text-h1 text-trim max-w-[20ch] text-balance",
+                "text": "FAQs",
+                "rect": {
+                  "x": 80,
+                  "y": 11724,
+                  "pageX": 80,
+                  "pageY": 11724,
+                  "w": 307,
+                  "h": 47
+                },
+                "pseudo": {
+                  "::before": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -10.2353px",
+                    "transition": "all"
+                  },
+                  "::after": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -12.7953px",
+                    "transition": "all"
+                  }
+                },
+                "childCount": 0,
+                "style": "s4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "ul",
+            "classes": "flex flex-col gap-1 md:col-span-9",
+            "text": null,
+            "rect": {
+              "x": 404,
+              "y": 11724,
+              "pageX": 404,
+              "pageY": 11724,
+              "w": 956,
+              "h": 796
+            },
+            "childCount": 8,
+            "style": "s5",
+            "children": [
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 404,
+                  "y": 11724,
+                  "pageX": 404,
+                  "pageY": 11724,
+                  "w": 956,
+                  "h": 96
+                },
+                "childCount": 1,
+                "style": "s6",
+                "children": [
+                  {
+                    "tag": "details",
+                    "classes": "group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300",
+                    "text": null,
+                    "rect": {
+                      "x": 404,
+                      "y": 11724,
+                      "pageX": 404,
+                      "pageY": 11724,
+                      "w": 956,
+                      "h": 96
+                    },
+                    "childCount": 2,
+                    "style": "s7",
+                    "children": [
+                      {
+                        "tag": "summary",
+                        "classes": "gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 11724,
+                          "pageX": 404,
+                          "pageY": 11724,
+                          "w": 956,
+                          "h": 96
+                        },
+                        "childCount": 2,
+                        "style": "s8",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "min-h-0 overflow-hidden",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 11820,
+                          "pageX": 404,
+                          "pageY": 11820,
+                          "w": 956,
+                          "h": 0
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 404,
+                  "y": 11824,
+                  "pageX": 404,
+                  "pageY": 11824,
+                  "w": 956,
+                  "h": 96
+                },
+                "childCount": 1,
+                "style": "s6",
+                "children": [
+                  {
+                    "tag": "details",
+                    "classes": "group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300",
+                    "text": null,
+                    "rect": {
+                      "x": 404,
+                      "y": 11824,
+                      "pageX": 404,
+                      "pageY": 11824,
+                      "w": 956,
+                      "h": 96
+                    },
+                    "childCount": 2,
+                    "style": "s7",
+                    "children": [
+                      {
+                        "tag": "summary",
+                        "classes": "gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 11824,
+                          "pageX": 404,
+                          "pageY": 11824,
+                          "w": 956,
+                          "h": 96
+                        },
+                        "childCount": 2,
+                        "style": "s8",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "min-h-0 overflow-hidden",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 11920,
+                          "pageX": 404,
+                          "pageY": 11920,
+                          "w": 956,
+                          "h": 0
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 404,
+                  "y": 11924,
+                  "pageX": 404,
+                  "pageY": 11924,
+                  "w": 956,
+                  "h": 96
+                },
+                "childCount": 1,
+                "style": "s6",
+                "children": [
+                  {
+                    "tag": "details",
+                    "classes": "group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300",
+                    "text": null,
+                    "rect": {
+                      "x": 404,
+                      "y": 11924,
+                      "pageX": 404,
+                      "pageY": 11924,
+                      "w": 956,
+                      "h": 96
+                    },
+                    "childCount": 2,
+                    "style": "s7",
+                    "children": [
+                      {
+                        "tag": "summary",
+                        "classes": "gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 11924,
+                          "pageX": 404,
+                          "pageY": 11924,
+                          "w": 956,
+                          "h": 96
+                        },
+                        "childCount": 2,
+                        "style": "s8",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "min-h-0 overflow-hidden",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 12020,
+                          "pageX": 404,
+                          "pageY": 12020,
+                          "w": 956,
+                          "h": 0
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 404,
+                  "y": 12024,
+                  "pageX": 404,
+                  "pageY": 12024,
+                  "w": 956,
+                  "h": 96
+                },
+                "childCount": 1,
+                "style": "s6",
+                "children": [
+                  {
+                    "tag": "details",
+                    "classes": "group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300",
+                    "text": null,
+                    "rect": {
+                      "x": 404,
+                      "y": 12024,
+                      "pageX": 404,
+                      "pageY": 12024,
+                      "w": 956,
+                      "h": 96
+                    },
+                    "childCount": 2,
+                    "style": "s7",
+                    "children": [
+                      {
+                        "tag": "summary",
+                        "classes": "gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 12024,
+                          "pageX": 404,
+                          "pageY": 12024,
+                          "w": 956,
+                          "h": 96
+                        },
+                        "childCount": 2,
+                        "style": "s8",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "min-h-0 overflow-hidden",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 12120,
+                          "pageX": 404,
+                          "pageY": 12120,
+                          "w": 956,
+                          "h": 0
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 404,
+                  "y": 12124,
+                  "pageX": 404,
+                  "pageY": 12124,
+                  "w": 956,
+                  "h": 96
+                },
+                "childCount": 1,
+                "style": "s6",
+                "children": [
+                  {
+                    "tag": "details",
+                    "classes": "group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300",
+                    "text": null,
+                    "rect": {
+                      "x": 404,
+                      "y": 12124,
+                      "pageX": 404,
+                      "pageY": 12124,
+                      "w": 956,
+                      "h": 96
+                    },
+                    "childCount": 2,
+                    "style": "s7",
+                    "children": [
+                      {
+                        "tag": "summary",
+                        "classes": "gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 12124,
+                          "pageX": 404,
+                          "pageY": 12124,
+                          "w": 956,
+                          "h": 96
+                        },
+                        "childCount": 2,
+                        "style": "s8",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "min-h-0 overflow-hidden",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 12220,
+                          "pageX": 404,
+                          "pageY": 12220,
+                          "w": 956,
+                          "h": 0
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 404,
+                  "y": 12224,
+                  "pageX": 404,
+                  "pageY": 12224,
+                  "w": 956,
+                  "h": 96
+                },
+                "childCount": 1,
+                "style": "s6",
+                "children": [
+                  {
+                    "tag": "details",
+                    "classes": "group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300",
+                    "text": null,
+                    "rect": {
+                      "x": 404,
+                      "y": 12224,
+                      "pageX": 404,
+                      "pageY": 12224,
+                      "w": 956,
+                      "h": 96
+                    },
+                    "childCount": 2,
+                    "style": "s7",
+                    "children": [
+                      {
+                        "tag": "summary",
+                        "classes": "gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 12224,
+                          "pageX": 404,
+                          "pageY": 12224,
+                          "w": 956,
+                          "h": 96
+                        },
+                        "childCount": 2,
+                        "style": "s8",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "min-h-0 overflow-hidden",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 12319,
+                          "pageX": 404,
+                          "pageY": 12319,
+                          "w": 956,
+                          "h": 0
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 404,
+                  "y": 12323,
+                  "pageX": 404,
+                  "pageY": 12323,
+                  "w": 956,
+                  "h": 96
+                },
+                "childCount": 1,
+                "style": "s6",
+                "children": [
+                  {
+                    "tag": "details",
+                    "classes": "group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300",
+                    "text": null,
+                    "rect": {
+                      "x": 404,
+                      "y": 12323,
+                      "pageX": 404,
+                      "pageY": 12323,
+                      "w": 956,
+                      "h": 96
+                    },
+                    "childCount": 2,
+                    "style": "s7",
+                    "children": [
+                      {
+                        "tag": "summary",
+                        "classes": "gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 12323,
+                          "pageX": 404,
+                          "pageY": 12323,
+                          "w": 956,
+                          "h": 96
+                        },
+                        "childCount": 2,
+                        "style": "s8",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "min-h-0 overflow-hidden",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 12419,
+                          "pageX": 404,
+                          "pageY": 12419,
+                          "w": 956,
+                          "h": 0
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 404,
+                  "y": 12423,
+                  "pageX": 404,
+                  "pageY": 12423,
+                  "w": 956,
+                  "h": 96
+                },
+                "childCount": 1,
+                "style": "s6",
+                "children": [
+                  {
+                    "tag": "details",
+                    "classes": "group rounded-medium bg-page open:bg-ink/5 transition-colors duration-300",
+                    "text": null,
+                    "rect": {
+                      "x": 404,
+                      "y": 12423,
+                      "pageX": 404,
+                      "pageY": 12423,
+                      "w": 956,
+                      "h": 96
+                    },
+                    "childCount": 2,
+                    "style": "s7",
+                    "children": [
+                      {
+                        "tag": "summary",
+                        "classes": "gap-lg p-xl rounded-medium focus-visible:ring-ink/40 flex cursor-pointer",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 12423,
+                          "pageX": 404,
+                          "pageY": 12423,
+                          "w": 956,
+                          "h": 96
+                        },
+                        "childCount": 2,
+                        "style": "s8",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "min-h-0 overflow-hidden",
+                        "text": null,
+                        "rect": {
+                          "x": 404,
+                          "y": 12519,
+                          "pageX": 404,
+                          "pageY": 12519,
+                          "w": 956,
+                          "h": 0
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "classes": "pointer-events-none absolute inset-0 z-10 bg-black opacity-0",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": 11452,
+          "pageX": 0,
+          "pageY": 11452,
+          "w": 1440,
+          "h": 1262
+        },
+        "childCount": 0,
+        "style": "s10",
+        "children": []
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundColor": "rgb(49, 38, 35)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "272px",
+      "paddingBottom": "194.272px",
+      "marginTop": "-80px",
+      "width": "1440px",
+      "height": "1261.89px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "0px 0px 79.9994px 79.9994px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "clip",
+      "overflowX": "clip",
+      "overflowY": "clip",
+      "position": "relative",
+      "zIndex": "1",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "marginRight": "80px",
+      "marginLeft": "80px",
+      "width": "1280px",
+      "height": "795.625px",
+      "maxWidth": "1440px",
+      "display": "grid",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "flex-start",
+      "gap": "47.9994px 17.7274px",
+      "rowGap": "47.9994px",
+      "columnGap": "17.7274px",
+      "gridTemplateColumns": "90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px",
+      "gridTemplateRows": "795.625px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "backgroundPosition": "0% 0%",
+      "width": "306.703px",
+      "height": "47.375px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "position": "sticky",
+      "top": "194.272px",
+      "inset": "194.272px auto auto",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "fontSize": "64px",
+      "fontWeight": "600",
+      "lineHeight": "70.4px",
+      "letterSpacing": "-1.92px",
+      "backgroundPosition": "0% 0%",
+      "width": "306.703px",
+      "height": "47.375px",
+      "maxWidth": "820px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "width": "955.578px",
+      "height": "795.625px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "backgroundPosition": "0% 0%",
+      "width": "955.578px",
+      "height": "95.9531px",
+      "display": "list-item",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "backgroundColor": "rgb(25, 20, 18)",
+      "backgroundPosition": "0% 0%",
+      "width": "955.578px",
+      "height": "95.9531px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "23.9995px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "color 0.3s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), fill 0.3s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.3s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.3s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.3s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s8": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "31.9998px",
+      "paddingRight": "31.9998px",
+      "paddingBottom": "31.9998px",
+      "paddingLeft": "31.9998px",
+      "width": "955.578px",
+      "height": "95.9531px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gap": "23.9998px",
+      "rowGap": "23.9998px",
+      "columnGap": "23.9998px",
+      "gridAutoFlow": "row",
+      "borderRadius": "23.9995px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "backgroundPosition": "0% 0%",
+      "width": "955.578px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s10": {
+      "backgroundColor": "rgb(0, 0, 0)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "1261.89px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "position": "absolute",
+      "zIndex": "10",
+      "opacity": "0",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

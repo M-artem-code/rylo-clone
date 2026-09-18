@@ -1,0 +1,106 @@
+---
+component: SeenOnSection
+target: src/components/SeenOnSection.tsx
+page: /
+screenshot: docs/design-references/rylo.com/seen-on-pc.png
+interaction_model: static
+states: default
+assets: icons only (icons.tsx)
+responsive: phone, ipad, pc
+---
+
+# SeenOnSection Specification
+
+## DOM Structure
+- section.relative.overflow-clip > div.container-site.gap-section-sm [1280×1166]
+  - div.flex.flex-col [1280×232]
+    - div.border-card.rounded-large
+      - div.border-card.px-2xl > p.text-h3.text-trim — "Seen on"
+      - div.relative.flex
+        - ×4 ul.flex.items-center
+    - div.rounded-large.gap-md
+      - span.w-3xl.block > svg.[object.SVGAnimatedString]
+      - p.text-h4.text-trim — "Certified by the FCC and offered at no cost to …"
+  - div.gap-section-sm.flex [1280×829]
+    - div.gap-4xl.flex
+      - h2.text-display.text-trim — "Communication without confusion"
+      - p.text-large.text-trim — "That means no gaps, dropped words, or thoughts …"
+    - div.flex.h-112
+      - ×2 div.rounded-large.px-lg
+        - h3.text-h4.text-trim — "They talk"
+        - div.relative.z-2 > div
+        - div.pointer-events-none.absolute > div
+
+## Source Markup
+Utility CSS detected — translate this markup first, verify with probe values second.
+```html
+<section data-surface="light" data-section-parallax="" class="relative overflow-clip z-2 rounded-t-huge -mb-band-overlap pt-section-sm pb-section-lg" style="will-change: transform; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);">  <div class="container-site gap-section-sm flex flex-col"> <div class="flex flex-col gap-1"> <div class="border-card rounded-large flex flex-col border-2 md:flex-row"> <div class="border-card px-2xl py-lg flex shrink-0 flex-col items-center justify-center border-b-2 text-center md:border-r-2 md:border-b-0 md:py-2xl"> <p class="text-h3 text-trim">Seen on</p> </div> <div data-css-marquee="" data-css-marquee-copies="3" class="relative flex w-full overflow-hidden" data-astro-cid-ryr5daqu="" data-css-marquee-ready=""> <ul data-css-marquee-list="" aria-label="Seen on" class="flex items-center justify-center" data-astro-cid-ryr5daqu="" style="animation-duration: 22.4s; animation-play-state: paused;"> <li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/d8f225c6f8d84bd052fd4a8b6c8f3e949d52e95d-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/d8f225c6f8d84bd052fd4a8b6c8f3e949d52e95d-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Forbes logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/e46965cb4cf5afd18cc784168031ca52694f9fb2-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/e46965cb4cf5afd18cc784168031ca52694f9fb2-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Comcast NBC Universal logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/26bd03c381563af69f23deaa48009d6f4ed43522-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/26bd03c381563af69f23deaa48009d6f4ed43522-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="The Wall Street Journal logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/0ae7fe3d271b05952c1416e7b5c00538a1d06f9d-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/0ae7fe3d271b05952c1416e7b5c00538a1d06f9d-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="The Hearing Review logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/a9e4e1eed11831ba3643e962f19e8c8a7ba78836-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/a9e4e1eed11831ba3643e962f19e8c8a7ba78836-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Yahoo Finance logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li> </ul> <ul data-css-marquee-list="" aria-label="Seen on" class="flex items-center justify-center" data-astro-cid-ryr5daqu="" aria-hidden="true" style="animation-duration: 22.4s; animation-play-state: paused;"> <li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/d8f225c6f8d84bd052fd4a8b6c8f3e949d52e95d-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/d8f225c6f8d84bd052fd4a8b6c8f3e949d52e95d-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Forbes logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/e46965cb4cf5afd18cc784168031ca52694f9fb2-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/e46965cb4cf5afd18cc784168031ca52694f9fb2-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Comcast NBC Universal logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/26bd03c381563af69f23deaa48009d6f4ed43522-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/26bd03c381563af69f23deaa48009d6f4ed43522-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="The Wall Street Journal logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/0ae7fe3d271b05952c1416e7b5c00538a1d06f9d-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/0ae7fe3d271b05952c1416e7b5c00538a1d06f9d-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="The Hearing Review logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/a9e4e1eed11831ba3643e962f19e8c8a7ba78836-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/a9e4e1eed11831ba3643e962f19e8c8a7ba78836-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Yahoo Finance logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li> </ul><ul data-css-marquee-list="" aria-label="Seen on" class="flex items-center justify-center" data-astro-cid-ryr5daqu="" aria-hidden="true" style="animation-duration: 22.4s; animation-play-state: paused;"> <li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/d8f225c6f8d84bd052fd4a8b6c8f3e949d52e95d-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/d8f225c6f8d84bd052fd4a8b6c8f3e949d52e95d-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Forbes logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/e46965cb4cf5afd18cc784168031ca52694f9fb2-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/e46965cb4cf5afd18cc784168031ca52694f9fb2-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Comcast NBC Universal logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/26bd03c381563af69f23deaa48009d6f4ed43522-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/26bd03c381563af69f23deaa48009d6f4ed43522-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="The Wall Street Journal logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/0ae7fe3d271b05952c1416e7b5c00538a1d06f9d-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/0ae7fe3d271b05952c1416e7b5c00538a1d06f9d-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="The Hearing Review logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/a9e4e1eed11831ba3643e962f19e8c8a7ba78836-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/a9e4e1eed11831ba3643e962f19e8c8a7ba78836-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Yahoo Finance logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li> </ul><ul data-css-marquee-list="" aria-label="Seen on" class="flex items-center justify-center" data-astro-cid-ryr5daqu="" aria-hidden="true" style="animation-duration: 22.4s; animation-play-state: paused;"> <li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/d8f225c6f8d84bd052fd4a8b6c8f3e949d52e95d-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/d8f225c6f8d84bd052fd4a8b6c8f3e949d52e95d-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Forbes logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/e46965cb4cf5afd18cc784168031ca52694f9fb2-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/e46965cb4cf5afd18cc784168031ca52694f9fb2-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Comcast NBC Universal logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/26bd03c381563af69f23deaa48009d6f4ed43522-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/26bd03c381563af69f23deaa48009d6f4ed43522-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="The Wall Street Journal logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/0ae7fe3d271b05952c1416e7b5c00538a1d06f9d-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/0ae7fe3d271b05952c1416e7b5c00538a1d06f9d-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="The Hearing Review logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li><li class="shrink-0 sm:px-2 md:px-4 lg:px-8"> <img src="https://cdn.sanity.io/images/cp6a9qoi/production/a9e4e1eed11831ba3643e962f19e8c8a7ba78836-672x448.avif?rect=1,0,670,448&amp;w=160&amp;h=107&amp;fit=crop&amp;auto=format" srcset="https://cdn.sanity.io/images/cp6a9qoi/production/a9e4e1eed11831ba3643e962f19e8c8a7ba78836-672x448.avif?rect=1,0,670,448&amp;w=320&amp;h=214&amp;fit=crop&amp;auto=format 320w" alt="Yahoo Finance logo" width="160" height="107" loading="lazy" decoding="async" class="h-auto w-30 sm:w-34 lg:w-40"> </li> </ul></div> </div>  <div data-surface="light" class="rounded-large gap-md px-lg py-xl flex flex-wrap items-center justify-center bg-white">  <span class="w-3xl block"> <svg viewBox="1 0.56 18 18" fill="none" class="size-3xl inline scale-[83.333%] align-baseline" aria-hidden="true">
+  <path d="…" fill="currentColor"></path>
+  <path d="…" fill="currentColor"></path>
+</svg> </span> <p class="text-h4 text-trim max-w-[60ch] text-center">
+Certified by the FCC and offered at no cost to individuals with hearing loss
+</p> </div> </div> <div class="gap-section-sm flex flex-col"> <div class="gap-4xl flex flex-col"> <h2 class="text-display text-trim max-w-[20ch] text-balance">
+Communication without confusion
+</h2> <p class="text-large text-trim text-ink/70 max-w-[68ch] text-pretty">
+That means no gaps, dropped words, or thoughts lost in translation. Rylo exists so the Deaf
+      and hard of hearing community can connect more fully with family, friends, and the world.
+</p> </div> <div data-card-reveal="" class="flex h-112 *:w-1/2"> <div data-card-reveal="left" data-surface="dark" class="rounded-large px-lg py-2xl relative flex flex-col items-center overflow-clip text-center bg-card" data-astro-cid-hqqgykxr="" style="will-change: transform; translate: none; rotate: none; scale: none; transform: translate(-50%, 0%);"> <h3 class="text-h4 text-trim" data-astro-cid-hqqgykxr="">They talk</h3> <div data-css-marquee-sync="" class="relative z-2 flex w-full flex-1 items-center" data-astro-cid-hqqgykxr="" data-css-marquee-sync-ready=""> <div data-css-marquee-sync-list="" class="relative flex items-center justify-center" data-astro-cid-hqqgykxr="" style="will-change: transform; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"> <p class="text-nav text-trim rounded-regular p-lg" data-astro-cid-hqqgykxr=""> Hey love! What time are we meeting today? </p> </div> </div>  <div aria-hidden="true" class="pointer-events-none absolute bottom-[-2%] left-0 flex h-full w-full" data-astro-cid-hqqgykxr=""> <div data-card-reveal-bg="" class="flex w-full shrink-0 items-end" data-astro-cid-hqqgykxr="" style="will-change: transform; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"> <div class="aspect-1232/294 w-[200%] shrink-0 text-ink/15" data-astro-cid-hqqgykxr=""> <svg viewBox="0 0 1232 294" fill="none" class="w-full" data-astro-cid-hqqgykxr="true">
+  <defs>
+    <pattern id="rylo-wave-stripes-tile" patternUnits="userSpaceOnUse" x="1.5" width="11.5" height="294">
+      <rect width="4" height="294" fill="currentColor"></rect>
+    </pattern>
+    <mask id="rylo-wave-stripes-shape">
+      <path d="…" fill="#fff"></path>
+    </mask>
+  </defs>
+  <rect width="1232" height="294" fill="url(#rylo-wave-stripes-tile)" mask="url(#rylo-wave-stripes-shape)"></rect>
+</svg> </div> </div> </div> </div> <div data-card-reveal="right" class="rounded-large px-lg py-2xl relative flex flex-col items-center overflow-clip text-center bg-accent" data-astro-cid-hqqgykxr="" style="will-change: transform; translate: none; rotate: none; scale: none; transform: translate(50%, 0%);"> <h3 class="text-h4 text-trim" data-astro-cid-hqqgykxr="">You read</h3> <div data-css-marquee-sync="" aria-hidden="true" class="relative z-2 flex w-full flex-1 items-center" data-astro-cid-hqqgykxr="" data-css-marquee-sync-ready=""> <div data-css-marquee-sync-list="" class="relative flex items-center justify-center" data-astro-cid-hqqgykxr="" style="will-change: transform; translate: none; rotate: none; scale: none; transform: translate(-640px, 0px);"> <p class="text-nav text-trim rounded-regular p-lg bg-card outline-page/50 outline-4" data-astro-cid-hqqgykxr=""> Hey love! What time are we meeting today? </p> </div> </div>  <div aria-hidden="true" class="pointer-events-none absolute bottom-[-2%] left-0 flex h-full w-full" data-astro-cid-hqqgykxr=""> <div data-card-reveal-bg="" class="flex w-full shrink-0 items-end" data-astro-cid-hqqgykxr="" style="will-change: transform; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"> <div class="aspect-1232/294 w-[200%] shrink-0 text-page/15" data-astro-cid-hqqgykxr=""> <svg viewBox="0 0 1232 294" fill="none" class="w-full" data-astro-cid-hqqgykxr="true">
+  <path d="…" fill="currentColor"></path>
+</svg> </div> </div> </div> </div> </div> </div> </div>   </section>
+```
+
+## Computed Styles
+- **section.relative.overflow-clip** [1440×1543]: bg rgb(250, 245, 242); radius 79.9994px 79.9994px 0px 0px; pad 105.135px 0px 272px 0px; mb -97.1338px; relative z2; transform matrix(1, 0, 0, 1, 0, 0)
+- **section.relative.overflow-clip > div.container-site.gap-section-sm** [1280×1166]: flex column gap 105.135px; max-w 1440px; relative
+- **div.container-site.gap-section-sm > div.flex.flex-col** [1280×232]: flex column gap 4px
+- **div.flex.flex-col > div.border-card.rounded-large** [1280×111]: radius 40px; border 2px solid rgb(238, 231, 225); flex row
+- **div.border-card.rounded-large > div.border-card.px-2xl** [167×107]: border 2px solid rgb(238, 231, 225); pad 39.9995px 39.9995px 39.9995px 39.9995px; flex column justify center items center
+- **div.border-card.px-2xl > p.text-h3.text-trim ("Seen on")** [85×18]: 23.9998px/600/26.3998px -0.719995px rgb(25, 20, 18); center
+- **div.border-card.rounded-large > div.relative.flex** [1109×107]: flex row; relative
+- **div.relative.flex > ul.flex.items-center** ×4 [1120×107]: flex row justify center items center; transform matrix(1, 0, 0, 1, -2.50235, 0)
+- … +13 more styled nodes — resolve any node with `node scripts/resolve-walk.mjs` (JSON is ground truth)
+- Key anchors only — the Source Markup above is the primary spec; resolve any node via resolve-walk.mjs.
+
+## States & Behaviors
+- **Logos Marquee:** Horizontal auto-scrolling marquee containing press logos (Forbes, Comcast, WSJ, Hearing Review, Yahoo Finance).
+- **Communication Cards Split:** Dual side-by-side card showing "They talk" on left (dark/gray background with waveform pattern) and "You read" on right (vibrant accent background with real-time text message card).
+
+## Per-State Content
+N/A — static content with marquee animation
+
+## Assets
+- inline SVG ×1 — use/extend components in src/components/icons.tsx
+
+## Text Content
+- p: "Seen on"
+- p: "Certified by the FCC and offered at no cost to individuals with hearing loss"
+- h2: "Communication without confusion"
+- p: "That means no gaps, dropped words, or thoughts lost in translation. Rylo exists so the Deaf
+      and hard of hearing community can connect more fully with family, friends, and the world."
+- h3: "They talk"
+- h3: "You read"
+
+## Responsive Behavior
+- phone 390: section 390×1268px; heading 43.5px; body 15.0619px; 5 cols (5 items, gap normal); pt 51.5707px, pb 122.001px, lh 19.5804px
+- ipad 768: section 768×1316px; heading 62.4px; body 15.3994px; 5 cols (5 items, gap normal); pt 70.854px, pb 176.001px, lh 20.0193px
+- pc 1440: section 1440×1543px; heading 96px; body 15.9995px; 5 cols (5 items, gap normal); pt 105.135px, pb 272px, lh 20.7994px
+- change: heading size: 96px (pc) → 43.5px (phone)
+- ipad matches pc layout
+- exact per-property values: probe-seen-on.json + responsive.json (ground truth)
+
+## Notes
+- Extract data to `src/data/seen-on.ts`
+- Use the 5 downloaded press logos from `public/images/`
+- Render the FCC certificate callout bar with icon
+- Render "Communication without confusion" heading and description
+- Implement the "They talk" / "You read" comparison display cards

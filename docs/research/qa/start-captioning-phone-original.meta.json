@@ -1,0 +1,9 @@
+{
+  "url": "https://rylo.com",
+  "selector": "main#main > section:nth-of-type(7)",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "capturedAt": 1789736352974
+}

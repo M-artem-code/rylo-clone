@@ -1,0 +1,1351 @@
+{
+  "url": "https://rylo.com",
+  "generatedAt": "2026-09-18T12:47:01.188Z",
+  "viewport": "pc",
+  "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(4)",
+  "html": "<div> <div class=\"mb-lg flex flex-wrap items-center justify-between gap-x-2xl gap-y-lg\"> <div class=\"flex flex-wrap items-center gap-lg\"> <p class=\"text-footnote text-trim\">\n© <span data-current-year=\"\">2026</span> Rylo. All rights reserved.\n</p> <ul role=\"list\" class=\"group flex flex-wrap items-center gap-lg\"> <li class=\"flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50\"> <a class=\"text-footnote rounded-small -my-2 inline-flex items-center gap-xs py-2 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"/legal/privacy\"> <span class=\"text-trim\">Privacy</span>  </a> </li><li class=\"flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50\"> <a class=\"text-footnote rounded-small -my-2 inline-flex items-center gap-xs py-2 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"/legal/terms\"> <span class=\"text-trim\">Terms</span>  </a> </li><li class=\"flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50\"> <a class=\"text-footnote rounded-small -my-2 inline-flex items-center gap-xs py-2 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"/legal/terms#annex-1-rylo-e911-services\"> <span class=\"text-trim\">911 Notice</span>  </a> </li><li class=\"flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50\"> <a class=\"text-footnote rounded-small -my-2 inline-flex items-center gap-xs py-2 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"/legal/accessibility\"> <span class=\"text-trim\">Accessibility</span>  </a> </li><li class=\"flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50\"> <a class=\"text-footnote rounded-small -my-2 inline-flex items-center gap-xs py-2 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"/legal/google-user-data\"> <span class=\"text-trim\">Google User Data</span>  </a> </li><li class=\"flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50\"> <a class=\"text-footnote rounded-small -my-2 inline-flex items-center gap-xs py-2 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"https://rylostatus.com/\" target=\"_blank\" rel=\"noopener noreferrer\"> <span class=\"text-trim\">Status</span>  </a> </li><li class=\"flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50\"> <a class=\"text-footnote rounded-small -my-2 inline-flex items-center gap-xs py-2 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"/legal/privacy#cookies-and-other-information-collected-by-automated-means\" data-cookie-settings=\"\"> <span class=\"text-trim\">Your Privacy Choices</span> <svg viewBox=\"0 0 30 14\" class=\"h-auto w-10\" aria-hidden=\"true\">\n  <path fill=\"#fff\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"…\"></path>\n  <path fill=\"#06f\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"…\"></path>\n  <path fill=\"#fff\" d=\"…\"></path>\n  <path fill=\"#06f\" d=\"…\"></path>\n</svg> </a> </li> </ul> </div> <ul role=\"list\" class=\"flex flex-wrap gap-md\"> <li> <a class=\"-m-2.5 flex items-center justify-center rounded-small p-2.5 opacity-50 transition-opacity duration-300 ease-[ease] motion-reduce:transition-none hover:opacity-100 focus-visible:opacity-100 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"https://x.com/RyloHQ\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Rylo on X\"> <svg viewBox=\"0 0 24 24\" fill=\"none\" class=\"size-lg\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </a> </li><li> <a class=\"-m-2.5 flex items-center justify-center rounded-small p-2.5 opacity-50 transition-opacity duration-300 ease-[ease] motion-reduce:transition-none hover:opacity-100 focus-visible:opacity-100 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"https://www.linkedin.com/company/rylohq\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Rylo on LinkedIn\"> <svg viewBox=\"0 0 24 24\" fill=\"none\" class=\"size-lg\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </a> </li><li> <a class=\"-m-2.5 flex items-center justify-center rounded-small p-2.5 opacity-50 transition-opacity duration-300 ease-[ease] motion-reduce:transition-none hover:opacity-100 focus-visible:opacity-100 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"https://www.tiktok.com/@rylohq\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Rylo on TikTok\"> <svg viewBox=\"0 0 24 24\" fill=\"none\" class=\"size-lg\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </a> </li><li> <a class=\"-m-2.5 flex items-center justify-center rounded-small p-2.5 opacity-50 transition-opacity duration-300 ease-[ease] motion-reduce:transition-none hover:opacity-100 focus-visible:opacity-100 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"https://www.instagram.com/rylohq/\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Rylo on Instagram\"> <svg viewBox=\"0 0 24 24\" fill=\"none\" class=\"size-lg\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </a> </li><li> <a class=\"-m-2.5 flex items-center justify-center rounded-small p-2.5 opacity-50 transition-opacity duration-300 ease-[ease] motion-reduce:transition-none hover:opacity-100 focus-visible:opacity-100 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none\" href=\"https://www.facebook.com/ryloHQ/\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Rylo on Facebook\"> <svg viewBox=\"0 0 24 24\" fill=\"none\" class=\"size-lg\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </a> </li> </ul> </div> <p class=\"text-footnote text-trim max-w-[150ch] opacity-50\">FEDERAL LAW PROHIBITS ANYONE BUT REGISTERED USERS WITH HEARING LOSS FROM USING INTERNET PROTOCOL (IP) CAPTIONED TELEPHONES WITH THE CAPTIONS TURNED ON. There is a cost for each minute of captions generated, paid from a federally administered fund. There are also eligibility requirements and a cost, paid by a federally administered fund for each minute of IP Relay service. Emergency calling through Rylo works similar to, but not the same as, calling 911 directly through a landline. It is important to keep your Rylo Registered Location updated.</p> </div>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "div",
+    "classes": null,
+    "text": null,
+    "rect": {
+      "x": 80,
+      "y": 13616,
+      "pageX": 80,
+      "pageY": 13616,
+      "w": 1280,
+      "h": 95
+    },
+    "childCount": 2,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "mb-lg flex flex-wrap items-center justify-between gap-x-2xl",
+        "text": null,
+        "rect": {
+          "x": 80,
+          "y": 13616,
+          "pageX": 80,
+          "pageY": 13616,
+          "w": 1280,
+          "h": 24
+        },
+        "childCount": 2,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "div",
+            "classes": "flex flex-wrap items-center gap-lg",
+            "text": null,
+            "rect": {
+              "x": 80,
+              "y": 13618,
+              "pageX": 80,
+              "pageY": 13618,
+              "w": 986,
+              "h": 19
+            },
+            "childCount": 2,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "p",
+                "classes": "text-footnote text-trim",
+                "text": "© Rylo. All rights reserved.",
+                "rect": {
+                  "x": 80,
+                  "y": 13623,
+                  "pageX": 80,
+                  "pageY": 13623,
+                  "w": 214,
+                  "h": 10
+                },
+                "pseudo": {
+                  "::before": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -3.62612px",
+                    "transition": "all"
+                  },
+                  "::after": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -4.18611px",
+                    "transition": "all"
+                  }
+                },
+                "childCount": 1,
+                "style": "s4",
+                "children": [
+                  {
+                    "tag": "span",
+                    "classes": null,
+                    "text": "2026",
+                    "rect": {
+                      "x": 96,
+                      "y": 13619,
+                      "pageX": 96,
+                      "pageY": 13619,
+                      "w": 34,
+                      "h": 18
+                    },
+                    "childCount": 0,
+                    "style": "s5",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "ul",
+                "classes": "group flex flex-wrap items-center gap-lg",
+                "text": null,
+                "rect": {
+                  "x": 318,
+                  "y": 13618,
+                  "pageX": 318,
+                  "pageY": 13618,
+                  "w": 748,
+                  "h": 19
+                },
+                "childCount": 7,
+                "style": "s6",
+                "children": [
+                  {
+                    "tag": "li",
+                    "classes": "flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50",
+                    "text": null,
+                    "rect": {
+                      "x": 318,
+                      "y": 13623,
+                      "pageX": 318,
+                      "pageY": 13623,
+                      "w": 51,
+                      "h": 10
+                    },
+                    "childCount": 1,
+                    "style": "s7",
+                    "children": [
+                      {
+                        "tag": "a",
+                        "classes": "text-footnote rounded-small -my-2 inline-flex items-center gap-xs",
+                        "text": null,
+                        "href": "/legal/privacy",
+                        "rect": {
+                          "x": 318,
+                          "y": 13615,
+                          "pageX": 318,
+                          "pageY": 13615,
+                          "w": 51,
+                          "h": 26
+                        },
+                        "childCount": 1,
+                        "style": "s8",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "li",
+                    "classes": "flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50",
+                    "text": null,
+                    "rect": {
+                      "x": 393,
+                      "y": 13623,
+                      "pageX": 393,
+                      "pageY": 13623,
+                      "w": 42,
+                      "h": 10
+                    },
+                    "childCount": 1,
+                    "style": "s9",
+                    "children": [
+                      {
+                        "tag": "a",
+                        "classes": "text-footnote rounded-small -my-2 inline-flex items-center gap-xs",
+                        "text": null,
+                        "href": "/legal/terms",
+                        "rect": {
+                          "x": 393,
+                          "y": 13615,
+                          "pageX": 393,
+                          "pageY": 13615,
+                          "w": 42,
+                          "h": 26
+                        },
+                        "childCount": 1,
+                        "style": "s10",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "li",
+                    "classes": "flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50",
+                    "text": null,
+                    "rect": {
+                      "x": 459,
+                      "y": 13623,
+                      "pageX": 459,
+                      "pageY": 13623,
+                      "w": 68,
+                      "h": 10
+                    },
+                    "childCount": 1,
+                    "style": "s11",
+                    "children": [
+                      {
+                        "tag": "a",
+                        "classes": "text-footnote rounded-small -my-2 inline-flex items-center gap-xs",
+                        "text": null,
+                        "href": "/legal/terms#annex-1-rylo-e911-services",
+                        "rect": {
+                          "x": 459,
+                          "y": 13615,
+                          "pageX": 459,
+                          "pageY": 13615,
+                          "w": 68,
+                          "h": 26
+                        },
+                        "childCount": 1,
+                        "style": "s12",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "li",
+                    "classes": "flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50",
+                    "text": null,
+                    "rect": {
+                      "x": 551,
+                      "y": 13623,
+                      "pageX": 551,
+                      "pageY": 13623,
+                      "w": 88,
+                      "h": 10
+                    },
+                    "childCount": 1,
+                    "style": "s13",
+                    "children": [
+                      {
+                        "tag": "a",
+                        "classes": "text-footnote rounded-small -my-2 inline-flex items-center gap-xs",
+                        "text": null,
+                        "href": "/legal/accessibility",
+                        "rect": {
+                          "x": 551,
+                          "y": 13615,
+                          "pageX": 551,
+                          "pageY": 13615,
+                          "w": 88,
+                          "h": 26
+                        },
+                        "childCount": 1,
+                        "style": "s14",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "li",
+                    "classes": "flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50",
+                    "text": null,
+                    "rect": {
+                      "x": 663,
+                      "y": 13623,
+                      "pageX": 663,
+                      "pageY": 13623,
+                      "w": 118,
+                      "h": 10
+                    },
+                    "childCount": 1,
+                    "style": "s15",
+                    "children": [
+                      {
+                        "tag": "a",
+                        "classes": "text-footnote rounded-small -my-2 inline-flex items-center gap-xs",
+                        "text": null,
+                        "href": "/legal/google-user-data",
+                        "rect": {
+                          "x": 663,
+                          "y": 13615,
+                          "pageX": 663,
+                          "pageY": 13615,
+                          "w": 118,
+                          "h": 26
+                        },
+                        "childCount": 1,
+                        "style": "s16",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "li",
+                    "classes": "flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50",
+                    "text": null,
+                    "rect": {
+                      "x": 805,
+                      "y": 13623,
+                      "pageX": 805,
+                      "pageY": 13623,
+                      "w": 47,
+                      "h": 10
+                    },
+                    "childCount": 1,
+                    "style": "s17",
+                    "children": [
+                      {
+                        "tag": "a",
+                        "classes": "text-footnote rounded-small -my-2 inline-flex items-center gap-xs",
+                        "text": null,
+                        "href": "https://rylostatus.com/",
+                        "rect": {
+                          "x": 805,
+                          "y": 13615,
+                          "pageX": 805,
+                          "pageY": 13615,
+                          "w": 47,
+                          "h": 26
+                        },
+                        "childCount": 1,
+                        "style": "s18",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "li",
+                    "classes": "flex transition-opacity duration-300 ease-[ease] motion-reduce:transition-none group-has-[:hover]:not-hover:opacity-50",
+                    "text": null,
+                    "rect": {
+                      "x": 876,
+                      "y": 13618,
+                      "pageX": 876,
+                      "pageY": 13618,
+                      "w": 190,
+                      "h": 19
+                    },
+                    "childCount": 1,
+                    "style": "s19",
+                    "children": [
+                      {
+                        "tag": "a",
+                        "classes": "text-footnote rounded-small -my-2 inline-flex items-center gap-xs",
+                        "text": null,
+                        "href": "/legal/privacy#cookies-and-other-information-collected-by-automated-means",
+                        "rect": {
+                          "x": 876,
+                          "y": 13610,
+                          "pageX": 876,
+                          "pageY": 13610,
+                          "w": 190,
+                          "h": 35
+                        },
+                        "childCount": 2,
+                        "style": "s20",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "svg"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ul",
+            "classes": "flex flex-wrap gap-md",
+            "text": null,
+            "rect": {
+              "x": 1176,
+              "y": 13616,
+              "pageX": 1176,
+              "pageY": 13616,
+              "w": 184,
+              "h": 24
+            },
+            "childCount": 5,
+            "style": "s21",
+            "children": [
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 1176,
+                  "y": 13616,
+                  "pageX": 1176,
+                  "pageY": 13616,
+                  "w": 24,
+                  "h": 24
+                },
+                "childCount": 1,
+                "style": "s22",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "-m-2.5 flex items-center justify-center rounded-small p-2.5",
+                    "text": null,
+                    "href": "https://x.com/RyloHQ",
+                    "ariaLabel": "Rylo on X",
+                    "rect": {
+                      "x": 1166,
+                      "y": 13606,
+                      "pageX": 1166,
+                      "pageY": 13606,
+                      "w": 44,
+                      "h": 44
+                    },
+                    "childCount": 1,
+                    "style": "s23",
+                    "children": [
+                      {
+                        "tag": "svg",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "isSvg": true,
+                        "rect": {
+                          "x": 1176,
+                          "y": 13616,
+                          "pageX": 1176,
+                          "pageY": 13616,
+                          "w": 24,
+                          "h": 24
+                        },
+                        "childCount": 1,
+                        "style": "s24",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "path"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 1216,
+                  "y": 13616,
+                  "pageX": 1216,
+                  "pageY": 13616,
+                  "w": 24,
+                  "h": 24
+                },
+                "childCount": 1,
+                "style": "s22",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "-m-2.5 flex items-center justify-center rounded-small p-2.5",
+                    "text": null,
+                    "href": "https://www.linkedin.com/company/rylohq",
+                    "ariaLabel": "Rylo on LinkedIn",
+                    "rect": {
+                      "x": 1206,
+                      "y": 13606,
+                      "pageX": 1206,
+                      "pageY": 13606,
+                      "w": 44,
+                      "h": 44
+                    },
+                    "childCount": 1,
+                    "style": "s23",
+                    "children": [
+                      {
+                        "tag": "svg",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "isSvg": true,
+                        "rect": {
+                          "x": 1216,
+                          "y": 13616,
+                          "pageX": 1216,
+                          "pageY": 13616,
+                          "w": 24,
+                          "h": 24
+                        },
+                        "childCount": 1,
+                        "style": "s24",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "path"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 1256,
+                  "y": 13616,
+                  "pageX": 1256,
+                  "pageY": 13616,
+                  "w": 24,
+                  "h": 24
+                },
+                "childCount": 1,
+                "style": "s22",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "-m-2.5 flex items-center justify-center rounded-small p-2.5",
+                    "text": null,
+                    "href": "https://www.tiktok.com/@rylohq",
+                    "ariaLabel": "Rylo on TikTok",
+                    "rect": {
+                      "x": 1246,
+                      "y": 13606,
+                      "pageX": 1246,
+                      "pageY": 13606,
+                      "w": 44,
+                      "h": 44
+                    },
+                    "childCount": 1,
+                    "style": "s23",
+                    "children": [
+                      {
+                        "tag": "svg",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "isSvg": true,
+                        "rect": {
+                          "x": 1256,
+                          "y": 13616,
+                          "pageX": 1256,
+                          "pageY": 13616,
+                          "w": 24,
+                          "h": 24
+                        },
+                        "childCount": 1,
+                        "style": "s24",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "path"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 1296,
+                  "y": 13616,
+                  "pageX": 1296,
+                  "pageY": 13616,
+                  "w": 24,
+                  "h": 24
+                },
+                "childCount": 1,
+                "style": "s22",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "-m-2.5 flex items-center justify-center rounded-small p-2.5",
+                    "text": null,
+                    "href": "https://www.instagram.com/rylohq/",
+                    "ariaLabel": "Rylo on Instagram",
+                    "rect": {
+                      "x": 1286,
+                      "y": 13606,
+                      "pageX": 1286,
+                      "pageY": 13606,
+                      "w": 44,
+                      "h": 44
+                    },
+                    "childCount": 1,
+                    "style": "s23",
+                    "children": [
+                      {
+                        "tag": "svg",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "isSvg": true,
+                        "rect": {
+                          "x": 1296,
+                          "y": 13616,
+                          "pageX": 1296,
+                          "pageY": 13616,
+                          "w": 24,
+                          "h": 24
+                        },
+                        "childCount": 1,
+                        "style": "s24",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "path"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 1336,
+                  "y": 13616,
+                  "pageX": 1336,
+                  "pageY": 13616,
+                  "w": 24,
+                  "h": 24
+                },
+                "childCount": 1,
+                "style": "s22",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "-m-2.5 flex items-center justify-center rounded-small p-2.5",
+                    "text": null,
+                    "href": "https://www.facebook.com/ryloHQ/",
+                    "ariaLabel": "Rylo on Facebook",
+                    "rect": {
+                      "x": 1326,
+                      "y": 13606,
+                      "pageX": 1326,
+                      "pageY": 13606,
+                      "w": 44,
+                      "h": 44
+                    },
+                    "childCount": 1,
+                    "style": "s23",
+                    "children": [
+                      {
+                        "tag": "svg",
+                        "classes": "[object SVGAnimatedString]",
+                        "text": null,
+                        "isSvg": true,
+                        "rect": {
+                          "x": 1336,
+                          "y": 13616,
+                          "pageX": 1336,
+                          "pageY": 13616,
+                          "w": 24,
+                          "h": 24
+                        },
+                        "childCount": 1,
+                        "style": "s24",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "path"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "p",
+        "classes": "text-footnote text-trim max-w-[150ch] opacity-50",
+        "text": "FEDERAL LAW PROHIBITS ANYONE BUT REGISTERED USERS WITH HEARING LOSS FROM USING INTERNET PROTOCOL (IP) CAPTIONED TELEPHONES WITH THE CAPTIONS TURNED ON. There is a cost for each minute of captions generated, paid from a federally administered fund. There are also eligibility requirements and a cost, paid by a federally administered fund for each minute of IP Relay service. Emergency calling through Rylo works similar to, but not the same as, calling 911 directly through a landline. It is importan",
+        "rect": {
+          "x": 80,
+          "y": 13664,
+          "pageX": 80,
+          "pageY": 13664,
+          "w": 1280,
+          "h": 47
+        },
+        "pseudo": {
+          "::before": {
+            "content": "\"\"",
+            "opacity": "1",
+            "display": "table",
+            "borderColor": "rgb(250, 245, 242)",
+            "borderStyle": "solid",
+            "margin": "0px 0px -3.62612px",
+            "transition": "all"
+          },
+          "::after": {
+            "content": "\"\"",
+            "opacity": "1",
+            "display": "table",
+            "borderColor": "rgb(250, 245, 242)",
+            "borderStyle": "solid",
+            "margin": "0px 0px -4.18611px",
+            "transition": "all"
+          }
+        },
+        "childCount": 0,
+        "style": "s25",
+        "children": []
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "94.7344px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "23.9998px",
+      "width": "1280px",
+      "height": "23.9844px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gap": "23.9998px 39.9995px",
+      "rowGap": "23.9998px",
+      "columnGap": "39.9995px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "backgroundPosition": "0% 0%",
+      "width": "985.891px",
+      "height": "18.6562px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "alignItems": "center",
+      "gap": "23.9998px",
+      "rowGap": "23.9998px",
+      "columnGap": "23.9998px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "width": "214px",
+      "height": "10.3906px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "display": "inline",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "backgroundPosition": "0% 0%",
+      "width": "747.906px",
+      "height": "18.6562px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "alignItems": "center",
+      "gap": "23.9998px",
+      "rowGap": "23.9998px",
+      "columnGap": "23.9998px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "backgroundPosition": "0% 0%",
+      "width": "51px",
+      "height": "10.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "opacity 0.3s",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s8": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "8px",
+      "paddingBottom": "8px",
+      "marginTop": "-8px",
+      "marginBottom": "-8px",
+      "width": "51px",
+      "height": "26.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "backgroundPosition": "0% 0%",
+      "width": "42px",
+      "height": "10.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "opacity 0.3s",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s10": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "8px",
+      "paddingBottom": "8px",
+      "marginTop": "-8px",
+      "marginBottom": "-8px",
+      "width": "42px",
+      "height": "26.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s11": {
+      "backgroundPosition": "0% 0%",
+      "width": "68px",
+      "height": "10.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "opacity 0.3s",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s12": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "8px",
+      "paddingBottom": "8px",
+      "marginTop": "-8px",
+      "marginBottom": "-8px",
+      "width": "68px",
+      "height": "26.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s13": {
+      "backgroundPosition": "0% 0%",
+      "width": "88px",
+      "height": "10.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "opacity 0.3s",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s14": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "8px",
+      "paddingBottom": "8px",
+      "marginTop": "-8px",
+      "marginBottom": "-8px",
+      "width": "88px",
+      "height": "26.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s15": {
+      "backgroundPosition": "0% 0%",
+      "width": "118px",
+      "height": "10.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "opacity 0.3s",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s16": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "8px",
+      "paddingBottom": "8px",
+      "marginTop": "-8px",
+      "marginBottom": "-8px",
+      "width": "118px",
+      "height": "26.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s17": {
+      "backgroundPosition": "0% 0%",
+      "width": "47px",
+      "height": "10.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "opacity 0.3s",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s18": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "8px",
+      "paddingBottom": "8px",
+      "marginTop": "-8px",
+      "marginBottom": "-8px",
+      "width": "47px",
+      "height": "26.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s19": {
+      "backgroundPosition": "0% 0%",
+      "width": "190px",
+      "height": "18.6562px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "opacity 0.3s",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s20": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "8px",
+      "paddingBottom": "8px",
+      "marginTop": "-8px",
+      "marginBottom": "-8px",
+      "width": "190px",
+      "height": "34.6562px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s21": {
+      "backgroundPosition": "0% 0%",
+      "width": "183.922px",
+      "height": "23.9844px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "16px",
+      "rowGap": "16px",
+      "columnGap": "16px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s22": {
+      "backgroundPosition": "0% 0%",
+      "width": "23.9844px",
+      "height": "23.9844px",
+      "display": "list-item",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s23": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "10px",
+      "paddingRight": "10px",
+      "paddingBottom": "10px",
+      "paddingLeft": "10px",
+      "marginTop": "-10px",
+      "marginRight": "-10px",
+      "marginBottom": "-10px",
+      "marginLeft": "-10px",
+      "width": "43.9844px",
+      "height": "43.9844px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "0.5",
+      "transition": "opacity 0.3s",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s24": {
+      "backgroundPosition": "0% 0%",
+      "width": "23.9844px",
+      "height": "23.9844px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s25": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "46.7656px",
+      "maxWidth": "1350px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "0.5",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

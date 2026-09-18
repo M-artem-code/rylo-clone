@@ -1,0 +1,139 @@
+{
+  "url": "https://rylo.com",
+  "generatedAt": "2026-09-18T12:47:01.188Z",
+  "viewport": "pc",
+  "selector": "a.bg-ink-fixed",
+  "html": "<a data-cookie-settings=\"\" href=\"/legal/privacy#cookies-and-other-information-collected-by-automated-means\" aria-label=\"Cookie preferences\" class=\"bg-ink-fixed text-card-fixed focus-visible:ring-ink/40 fixed bottom-[19px] left-5 z-40 inline-flex size-13 items-center justify-center toc-scrub:translate-y-[200%] ease-cubic-default rounded-full transition-[opacity,translate] [transition-duration:200ms,1000ms] hover:opacity-70 focus-visible:ring-2 focus-visible:outline-none motion-reduce:transition-none [.show--consent_&amp;]:hidden [.show--preferences_&amp;]:hidden\"> <!-- 32px box, not 24: the artwork carries ~34% padding inside its 29×28\n       viewBox, so this is what puts the glyph at the launcher icon's 21px. --> <svg viewBox=\"0 0 29 28\" fill=\"none\" class=\"size-8 shrink-0\" aria-hidden=\"true\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" fill=\"currentColor\" d=\"…\"></path>\n</svg> </a>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "a",
+    "classes": "bg-ink-fixed text-card-fixed focus-visible:ring-ink/40 fixed bottom-[19px] left-5",
+    "text": null,
+    "href": "/legal/privacy#cookies-and-other-information-collected-by-automated-means",
+    "ariaLabel": "Cookie preferences",
+    "rect": {
+      "x": 20,
+      "y": 829,
+      "pageX": 20,
+      "pageY": 829,
+      "w": 52,
+      "h": 52
+    },
+    "childCount": 1,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "svg",
+        "classes": "[object SVGAnimatedString]",
+        "text": null,
+        "isSvg": true,
+        "rect": {
+          "x": 30,
+          "y": 839,
+          "pageX": 30,
+          "pageY": 839,
+          "w": 32,
+          "h": 32
+        },
+        "childCount": 1,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "path",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "rect": {
+              "x": 35,
+              "y": 844,
+              "pageX": 35,
+              "pageY": 844,
+              "w": 21,
+              "h": 22
+            },
+            "childCount": 0,
+            "style": "s3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(238, 231, 225)",
+      "textAlign": "start",
+      "backgroundColor": "rgb(25, 20, 18)",
+      "backgroundPosition": "0% 0%",
+      "width": "52px",
+      "height": "52px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderRadius": "3.35544e+07px",
+      "borderColor": "rgb(238, 231, 225)",
+      "borderStyle": "solid",
+      "position": "fixed",
+      "top": "829px",
+      "right": "1368px",
+      "bottom": "19px",
+      "left": "20px",
+      "zIndex": "40",
+      "inset": "829px 1368px 19px 20px",
+      "opacity": "1",
+      "transition": "opacity 0.2s cubic-bezier(0.65, 0, 0, 1), translate 1s cubic-bezier(0.65, 0, 0, 1)",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "width": "32px",
+      "height": "32px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(238, 231, 225)",
+      "borderStyle": "solid",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "0"
+    },
+    "s3": {
+      "backgroundPosition": "0% 0%",
+      "display": "inline",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(238, 231, 225)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

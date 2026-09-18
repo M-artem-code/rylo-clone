@@ -1,0 +1,75 @@
+{
+  "url": "https://rylo.com",
+  "selectors": [
+    "header.pointer-events-none"
+  ],
+  "generatedAt": "2026-09-18T12:51:47.018Z",
+  "results": {
+    "phone": {
+      "header.pointer-events-none": {
+        "_height": "68px",
+        "_width": "390px",
+        "fontSize": "15.0619px",
+        "fontWeight": "400",
+        "lineHeight": "19.5804px",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "0px",
+        "width": "390px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    },
+    "ipad": {
+      "header.pointer-events-none": {
+        "_height": "70px",
+        "_width": "768px",
+        "fontSize": "15.3994px",
+        "fontWeight": "400",
+        "lineHeight": "20.0193px",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "0px",
+        "width": "768px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    },
+    "pc": {
+      "header.pointer-events-none": {
+        "_height": "85px",
+        "_width": "1440px",
+        "fontSize": "15.9995px",
+        "fontWeight": "400",
+        "lineHeight": "20.7994px",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "0px",
+        "width": "1440px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    }
+  }
+}

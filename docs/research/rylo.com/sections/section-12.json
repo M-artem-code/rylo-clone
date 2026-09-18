@@ -1,0 +1,65 @@
+{
+  "url": "https://rylo.com",
+  "generatedAt": "2026-09-18T12:47:01.188Z",
+  "viewport": "pc",
+  "selector": "body > :nth-child(6) > :nth-child(6) > :nth-child(1)",
+  "html": "<img src=\"/_astro/prod-cta-background.CQJ-AY5P_Z2uXlWw.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_astro/prod-cta-background.CQJ-AY5P_ZswKsF.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_astro/prod-cta-background.CQJ-AY5P_1ppbc0.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_astro/prod-cta-background.CQJ-AY5P_1mVNph.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_astro/prod-cta-background.CQJ-AY5P_afMeR.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_astro/prod-cta-background.CQJ-AY5P_Z2vV2Kz.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1280w, /_astro/prod-cta-background.CQJ-AY5P_Z17gijI.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1668w, /_astro/prod-cta-background.CQJ-AY5P_Z2qQ7oN.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2048w\" alt=\"\" aria-hidden=\"true\" loading=\"eager\" fetchpriority=\"low\" decoding=\"async\" sizes=\"100vw\" data-astro-image=\"full-width\" data-astro-image-fit=\"cover\" data-astro-image-pos=\"center\" width=\"2500\" height=\"2516\" class=\"pointer-events-none absolute z-0 w-full object-cover inset-x-0 bottom-0 min-h-full\">",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "img",
+    "classes": "pointer-events-none absolute z-0 w-full object-cover inset-x-0",
+    "text": null,
+    "img": {
+      "src": "https://rylo.com/_astro/prod-cta-background.CQJ-AY5P_Z17gijI.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "alt": "",
+      "w": 1440,
+      "h": 1449
+    },
+    "rect": {
+      "x": 0,
+      "y": 7094,
+      "pageX": 0,
+      "pageY": 7094,
+      "w": 1440,
+      "h": 1725
+    },
+    "childCount": 0,
+    "style": "s1",
+    "children": []
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "1725.36px",
+      "maxWidth": "100%",
+      "minHeight": "100%",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "clip",
+      "overflowX": "clip",
+      "overflowY": "clip",
+      "position": "absolute",
+      "zIndex": "0",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "aspectRatio": "auto 2500 / 2516",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

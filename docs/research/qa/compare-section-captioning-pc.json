@@ -1,0 +1,2782 @@
+{
+  "original": "https://rylo.com",
+  "clone": "http://127.0.0.1:3000/",
+  "selector": "section#captioning",
+  "cloneSelector": "section#captioning",
+  "viewport": "pc",
+  "tolerance": 1,
+  "generatedAt": "2026-09-18T13:04:15.647Z",
+  "diffs": [
+    {
+      "path": "section",
+      "prop": "marginBottom",
+      "before": "-97.1338px",
+      "after": "-72px"
+    },
+    {
+      "path": "section",
+      "prop": "height",
+      "before": "1360.88px",
+      "after": "1123.17px"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "height",
+      "before": "504px",
+      "after": "1123.17px"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "top",
+      "before": "584.703px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "bottom",
+      "before": "272.172px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "inset",
+      "before": "584.703px 0px 272.172px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "paddingTop",
+      "before": "189.728px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "height",
+      "before": "1360.88px",
+      "after": "1123.17px"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "maxWidth",
+      "before": "1440px",
+      "after": "1280px"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "gap",
+      "before": "47.9994px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "rowGap",
+      "before": "47.9994px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "columnGap",
+      "before": "47.9994px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "position",
+      "before": "relative",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "paddingRight",
+      "before": "(unset)",
+      "after": "80px"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "paddingLeft",
+      "before": "(unset)",
+      "after": "80px"
+    },
+    {
+      "path": "section > div[2] > div[0]",
+      "prop": "width",
+      "before": "1280px",
+      "after": "1120px"
+    },
+    {
+      "path": "section > div[2] > div[0]",
+      "prop": "gap",
+      "before": "47.9994px 39.9995px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0]",
+      "prop": "rowGap",
+      "before": "47.9994px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0]",
+      "prop": "columnGap",
+      "before": "39.9995px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0]",
+      "prop": "gridTemplateColumns",
+      "before": "70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px",
+      "after": "93.3281px 93.3281px 93.3281px 93.3281px 93.3281px 93.3281px 93.3281px 93.3281px 93.3281px 93.3281px 93.3281px 93.3281px"
+    },
+    {
+      "path": "section > div[2] > div[0] > h1[0]",
+      "prop": "width",
+      "before": "730px",
+      "after": "653.328px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1]",
+      "prop": "width",
+      "before": "510px",
+      "after": "466.672px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1]",
+      "prop": "height",
+      "before": "140.969px",
+      "after": "72px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1]",
+      "prop": "gap",
+      "before": "23.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1]",
+      "prop": "rowGap",
+      "before": "23.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1]",
+      "prop": "columnGap",
+      "before": "23.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0]",
+      "prop": "width",
+      "before": "447px",
+      "after": "415px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0]",
+      "prop": "height",
+      "before": "20.7969px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0]",
+      "prop": "gap",
+      "before": "12px 16px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0]",
+      "prop": "rowGap",
+      "before": "12px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0]",
+      "prop": "columnGap",
+      "before": "16px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[0]",
+      "prop": "height",
+      "before": "20.7969px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[2]",
+      "prop": "width",
+      "before": "127px",
+      "after": "146px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[2]",
+      "prop": "height",
+      "before": "20px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[2]",
+      "prop": "gap",
+      "before": "8px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[2]",
+      "prop": "rowGap",
+      "before": "8px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[2]",
+      "prop": "columnGap",
+      "before": "8px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[4]",
+      "prop": "width",
+      "before": "107px",
+      "after": "120px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[4]",
+      "prop": "height",
+      "before": "20px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[4]",
+      "prop": "gap",
+      "before": "8px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[4]",
+      "prop": "rowGap",
+      "before": "8px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[4]",
+      "prop": "columnGap",
+      "before": "8px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > p[1]",
+      "prop": "height",
+      "before": "20.7969px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "marginRight",
+      "before": "224px",
+      "after": "144px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "marginLeft",
+      "before": "224px",
+      "after": "144px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "overflow",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "overflowX",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "overflowY",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[3]",
+      "prop": "height",
+      "before": "1360.88px",
+      "after": "504px"
+    },
+    {
+      "path": "section > div[3]",
+      "prop": "top",
+      "before": "(unset)",
+      "after": "394.547px"
+    },
+    {
+      "path": "section > div[3]",
+      "prop": "bottom",
+      "before": "(unset)",
+      "after": "224.625px"
+    },
+    {
+      "path": "section > div[3]",
+      "prop": "inset",
+      "before": "(unset)",
+      "after": "394.547px 0px 224.625px"
+    },
+    {
+      "path": "section",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section",
+      "prop": "lineHeight",
+      "before": "20.7994px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "lineHeight",
+      "before": "20.7994px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "lineHeight",
+      "before": "20.7994px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[0]",
+      "prop": "lineHeight",
+      "before": "20.7994px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > h1[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1]",
+      "prop": "lineHeight",
+      "before": "20.7994px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0]",
+      "prop": "lineHeight",
+      "before": "20.7994px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[0]",
+      "prop": "fontSize",
+      "before": "13.9995px",
+      "after": "16px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[0]",
+      "prop": "lineHeight",
+      "before": "18.1994px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > span[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > span[1]",
+      "prop": "lineHeight",
+      "before": "20.7994px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[2]",
+      "prop": "fontSize",
+      "before": "12px",
+      "after": "16px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[2]",
+      "prop": "fontWeight",
+      "before": "600",
+      "after": "400"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[2]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[2]",
+      "prop": "lineHeight",
+      "before": "15.6px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > span[3]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > span[3]",
+      "prop": "lineHeight",
+      "before": "20.7994px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[4]",
+      "prop": "fontSize",
+      "before": "12px",
+      "after": "16px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[4]",
+      "prop": "fontWeight",
+      "before": "600",
+      "after": "400"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[4]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[4]",
+      "prop": "lineHeight",
+      "before": "15.6px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > p[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > p[1]",
+      "prop": "lineHeight",
+      "before": "20.7994px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "lineHeight",
+      "before": "20.7994px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[3]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[3]",
+      "prop": "lineHeight",
+      "before": "20.7994px",
+      "after": "24px"
+    },
+    {
+      "path": "section",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[2] > div[0]",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[2] > div[0]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[2] > div[0] > h1[0]",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(255, 255, 255)"
+    },
+    {
+      "path": "section > div[2] > div[0] > h1[0]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(255, 255, 255)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1]",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0]",
+      "prop": "color",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0]",
+      "prop": "borderColor",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[0]",
+      "prop": "color",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[0]",
+      "prop": "borderColor",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > span[1]",
+      "prop": "color",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > span[1]",
+      "prop": "backgroundColor",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.49)",
+      "after": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > span[1]",
+      "prop": "borderColor",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[2]",
+      "prop": "color",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[2]",
+      "prop": "borderColor",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > span[3]",
+      "prop": "color",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > span[3]",
+      "prop": "backgroundColor",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.49)",
+      "after": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > span[3]",
+      "prop": "borderColor",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[4]",
+      "prop": "color",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[0] > div[4]",
+      "prop": "borderColor",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > p[1]",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > p[1]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "borderRadius",
+      "before": "(unset)",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[3]",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[3]",
+      "prop": "backgroundColor",
+      "before": "rgb(0, 0, 0)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[3]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[3]",
+      "prop": "opacity",
+      "before": "0",
+      "after": "1"
+    },
+    {
+      "path": "section",
+      "prop": "transform",
+      "before": "matrix(1, 0, 0, 1, 0, 0)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "zIndex",
+      "before": "1",
+      "after": "0"
+    },
+    {
+      "path": "section > div[2] > div[0] > h1[0]",
+      "prop": "animation",
+      "before": "0.0001s cubic-bezier(0.625, 0.05, 0, 1) -0.0001s backwards page-entrance",
+      "after": "0.0001s -0.0001s"
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1]",
+      "prop": "animation",
+      "before": "0.0001s cubic-bezier(0.625, 0.05, 0, 1) -0.0001s backwards page-entrance",
+      "after": "0.0001s -0.0001s"
+    },
+    {
+      "path": "section > div[3]",
+      "prop": "zIndex",
+      "before": "10",
+      "after": "1"
+    }
+  ],
+  "added": [
+    {
+      "path": "section > div[1] > img[0]",
+      "node": {
+        "tag": "img",
+        "classes": "object-cover object-bottom",
+        "text": null,
+        "img": {
+          "src": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Frylo-hero-background.BlPcKf6v_1sUPOK.avif&w=1920&q=75",
+          "alt": "",
+          "w": 1251,
+          "h": 1042
+        },
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "pageX": 0,
+          "pageY": 0,
+          "w": 1440,
+          "h": 1123
+        },
+        "childCount": 0,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "24px",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "1123.17px",
+          "maxWidth": "100%",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderStyle": "solid",
+          "overflow": "clip",
+          "overflowX": "clip",
+          "overflowY": "clip",
+          "position": "absolute",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "cover",
+          "objectPosition": "50% 100%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": []
+      }
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > a[2]",
+      "node": {
+        "tag": "a",
+        "classes": "group relative inline-flex items-center justify-center rounded-small",
+        "text": null,
+        "href": "/download",
+        "ariaLabel": "Download for free",
+        "rect": {
+          "x": 813,
+          "y": 187,
+          "pageX": 813,
+          "pageY": 187,
+          "w": 201,
+          "h": 24
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "24px",
+          "color": "rgb(25, 20, 18)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "paddingRight": "27.408px",
+          "paddingLeft": "27.408px",
+          "width": "200.812px",
+          "height": "24px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "gridAutoFlow": "row",
+          "borderRadius": "12px",
+          "borderColor": "rgb(25, 20, 18)",
+          "borderStyle": "solid",
+          "position": "relative",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "cursor": "pointer",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "span",
+            "classes": "bg-accent group-hover:border-page/30 rounded-small ease-cubic-button absolute inset-0",
+            "text": null,
+            "rect": {
+              "x": 813,
+              "y": 187,
+              "pageX": 813,
+              "pageY": 187,
+              "w": 201,
+              "h": 24
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundColor": "rgb(255, 139, 43)",
+              "backgroundPosition": "0% 0%",
+              "width": "200.812px",
+              "height": "24px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderRadius": "12px",
+              "borderStyle": "solid",
+              "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.15) 0px 8px 24px 0px, rgba(255, 255, 255, 0.4) 0px 0px 8px 0px inset",
+              "position": "absolute",
+              "opacity": "1",
+              "transition": "inset cubic-bezier(0.16, 1, 0.3, 1), background-color cubic-bezier(0.16, 1, 0.3, 1), border-color cubic-bezier(0.16, 1, 0.3, 1), border-width cubic-bezier(0.16, 1, 0.3, 1)",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "span",
+            "classes": "text-ink-fixed relative z-10 flex overflow-hidden text-button",
+            "text": null,
+            "rect": {
+              "x": 841,
+              "y": 187,
+              "pageX": 841,
+              "pageY": 187,
+              "w": 146,
+              "h": 24
+            },
+            "childCount": 17,
+            "styles": {
+              "fontWeight": "600",
+              "backgroundPosition": "0% 0%",
+              "width": "146px",
+              "height": "24px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(25, 20, 18)",
+              "borderStyle": "solid",
+              "overflow": "hidden",
+              "overflowX": "hidden",
+              "overflowY": "hidden",
+              "position": "relative",
+              "zIndex": "10",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": [
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[2] > div[1] > img[0]",
+      "node": {
+        "tag": "img",
+        "classes": "absolute inset-x-0 top-0 h-[120%] w-full object-cover",
+        "text": null,
+        "img": {
+          "src": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Frylo-hero-foreground-2.BG7O6dg4_ZpnWiN.avif&w=1920&q=75",
+          "alt": "Smiling older man with gray hair and beard wearing round glasses and orange sweater looking at a green smartphone.",
+          "w": 624,
+          "h": 624
+        },
+        "rect": {
+          "x": 304,
+          "y": 211,
+          "pageX": 304,
+          "pageY": 211,
+          "w": 832,
+          "h": 832
+        },
+        "childCount": 0,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "24px",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "832px",
+          "height": "832px",
+          "maxWidth": "100%",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderStyle": "solid",
+          "overflow": "clip",
+          "overflowX": "clip",
+          "overflowY": "clip",
+          "position": "absolute",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": []
+      }
+    },
+    {
+      "path": "section > div[3] > svg[0]",
+      "node": {
+        "tag": "svg",
+        "classes": "[object SVGAnimatedString]",
+        "text": null,
+        "isSvg": true,
+        "rect": {
+          "x": 0,
+          "y": 395,
+          "pageX": 0,
+          "pageY": 395,
+          "w": 1440,
+          "h": 504
+        },
+        "childCount": 1,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "24px",
+          "color": "rgb(25, 20, 18)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "504px",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(25, 20, 18)",
+          "borderStyle": "solid",
+          "overflow": "hidden",
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "aspectRatio": "1440 / 504",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "path",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "rect": {
+              "x": -50,
+              "y": 543,
+              "pageX": -50,
+              "pageY": 543,
+              "w": 1550,
+              "h": 304
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "display": "inline",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(25, 20, 18)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[3] > div[1]",
+      "node": {
+        "tag": "div",
+        "classes": "text-ink-fixed border-ink/10 rounded-small md:rounded-regular gap-xs px-sm",
+        "text": null,
+        "rect": {
+          "x": 286,
+          "y": 759,
+          "pageX": 286,
+          "pageY": 759,
+          "w": 149,
+          "h": 28
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "fontFamily": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "24px",
+          "color": "rgb(25, 20, 18)",
+          "textAlign": "start",
+          "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+          "backgroundPosition": "0% 0%",
+          "width": "149px",
+          "height": "28px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "alignItems": "center",
+          "gridAutoFlow": "row",
+          "borderRadius": "12px",
+          "borderTopWidth": "2px",
+          "borderBottomWidth": "2px",
+          "borderLeftWidth": "2px",
+          "borderRightWidth": "2px",
+          "borderColor": "lab(6.81493 2.11458 2.0594 / 0.1)",
+          "borderStyle": "solid",
+          "position": "absolute",
+          "top": "378px",
+          "right": "931px",
+          "bottom": "98px",
+          "left": "360px",
+          "inset": "378px 931px 98px 360px",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "backdropFilter": "blur(20px)",
+          "whiteSpace": "nowrap",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "svg",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "isSvg": true,
+            "rect": {
+              "x": 288,
+              "y": 761,
+              "pageX": 288,
+              "pageY": 761,
+              "w": 32,
+              "h": 23
+            },
+            "childCount": 5,
+            "styles": {
+              "color": "rgb(255, 139, 43)",
+              "backgroundPosition": "0% 0%",
+              "width": "32px",
+              "height": "23.1875px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(255, 139, 43)",
+              "borderStyle": "solid",
+              "overflow": "hidden",
+              "overflowX": "hidden",
+              "overflowY": "hidden",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "aspectRatio": "40 / 29",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "0"
+            },
+            "children": [
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 288,
+                  "y": 768,
+                  "pageX": 288,
+                  "pageY": 768,
+                  "w": 6,
+                  "h": 9
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 294,
+                  "y": 766,
+                  "pageX": 294,
+                  "pageY": 766,
+                  "w": 6,
+                  "h": 13
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 300,
+                  "y": 761,
+                  "pageX": 300,
+                  "pageY": 761,
+                  "w": 6,
+                  "h": 23
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 307,
+                  "y": 765,
+                  "pageX": 307,
+                  "pageY": 765,
+                  "w": 6,
+                  "h": 14
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 313,
+                  "y": 765,
+                  "pageX": 313,
+                  "pageY": 765,
+                  "w": 6,
+                  "h": 15
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "span",
+            "classes": null,
+            "text": "Good morning",
+            "rect": {
+              "x": 320,
+              "y": 761,
+              "pageX": 320,
+              "pageY": 761,
+              "w": 113,
+              "h": 24
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "width": "113px",
+              "height": "24px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(25, 20, 18)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[3] > div[2]",
+      "node": {
+        "tag": "div",
+        "classes": "text-ink-fixed border-ink/10 rounded-small md:rounded-regular gap-xs px-sm",
+        "text": null,
+        "rect": {
+          "x": 963,
+          "y": 582,
+          "pageX": 963,
+          "pageY": 582,
+          "w": 222,
+          "h": 28
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "fontFamily": "ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "24px",
+          "color": "rgb(25, 20, 18)",
+          "textAlign": "start",
+          "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+          "backgroundPosition": "0% 0%",
+          "width": "222px",
+          "height": "28px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "alignItems": "center",
+          "gridAutoFlow": "row",
+          "borderRadius": "12px",
+          "borderTopWidth": "2px",
+          "borderBottomWidth": "2px",
+          "borderLeftWidth": "2px",
+          "borderRightWidth": "2px",
+          "borderColor": "lab(6.81493 2.11458 2.0594 / 0.1)",
+          "borderStyle": "solid",
+          "position": "absolute",
+          "top": "201.594px",
+          "right": "144px",
+          "bottom": "274.406px",
+          "left": "1074px",
+          "inset": "201.594px 144px 274.406px 1074px",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "backdropFilter": "blur(20px)",
+          "whiteSpace": "nowrap",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "svg",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "isSvg": true,
+            "rect": {
+              "x": 965,
+              "y": 585,
+              "pageX": 965,
+              "pageY": 585,
+              "w": 32,
+              "h": 23
+            },
+            "childCount": 5,
+            "styles": {
+              "color": "rgb(255, 139, 43)",
+              "backgroundPosition": "0% 0%",
+              "width": "32px",
+              "height": "23.1875px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(255, 139, 43)",
+              "borderStyle": "solid",
+              "overflow": "hidden",
+              "overflowX": "hidden",
+              "overflowY": "hidden",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "aspectRatio": "40 / 29",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "0"
+            },
+            "children": [
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 965,
+                  "y": 592,
+                  "pageX": 965,
+                  "pageY": 592,
+                  "w": 6,
+                  "h": 9
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 971,
+                  "y": 590,
+                  "pageX": 971,
+                  "pageY": 590,
+                  "w": 6,
+                  "h": 13
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 978,
+                  "y": 585,
+                  "pageX": 978,
+                  "pageY": 585,
+                  "w": 6,
+                  "h": 23
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 984,
+                  "y": 589,
+                  "pageX": 984,
+                  "pageY": 589,
+                  "w": 6,
+                  "h": 14
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 991,
+                  "y": 588,
+                  "pageX": 991,
+                  "pageY": 588,
+                  "w": 6,
+                  "h": 15
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "span",
+            "classes": null,
+            "text": "It’s so wonderful to talk",
+            "rect": {
+              "x": 997,
+              "y": 584,
+              "pageX": 997,
+              "pageY": 584,
+              "w": 186,
+              "h": 24
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "width": "186px",
+              "height": "24px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(25, 20, 18)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          }
+        ]
+      }
+    }
+  ],
+  "removed": [
+    {
+      "path": "section > div[1] > svg[0]",
+      "node": {
+        "tag": "svg",
+        "classes": "[object SVGAnimatedString]",
+        "text": null,
+        "isSvg": true,
+        "rect": {
+          "x": 0,
+          "y": 585,
+          "pageX": 0,
+          "pageY": 585,
+          "w": 1440,
+          "h": 504
+        },
+        "childCount": 1,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "504px",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "overflow": "hidden",
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "aspectRatio": "1440 / 504",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "path",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "rect": {
+              "x": -230,
+              "y": 587,
+              "pageX": -230,
+              "pageY": 587,
+              "w": 1929,
+              "h": 516
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "display": "inline",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[1] > div[1]",
+      "node": {
+        "tag": "div",
+        "classes": "text-ink border-ink/10 rounded-small md:rounded-regular gap-xs px-sm",
+        "text": null,
+        "rect": {
+          "x": 296,
+          "y": 954,
+          "pageX": 296,
+          "pageY": 954,
+          "w": 199,
+          "h": 65
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "13.9995px",
+          "fontWeight": "600",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "18.1994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+          "backgroundPosition": "0% 0%",
+          "paddingTop": "16px",
+          "paddingRight": "23.9998px",
+          "paddingBottom": "16px",
+          "paddingLeft": "23.9998px",
+          "width": "198.953px",
+          "height": "64.9844px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "alignItems": "center",
+          "gap": "8px",
+          "rowGap": "8px",
+          "columnGap": "8px",
+          "gridAutoFlow": "row",
+          "borderRadius": "15.9998px",
+          "borderTopWidth": "2px",
+          "borderBottomWidth": "2px",
+          "borderLeftWidth": "2px",
+          "borderRightWidth": "2px",
+          "borderColor": "oklab(0.973166 0.00403872 0.00540715 / 0.1)",
+          "borderStyle": "solid",
+          "position": "absolute",
+          "top": "419.312px",
+          "right": "1007.78px",
+          "bottom": "19.7031px",
+          "left": "233.266px",
+          "inset": "419.312px 1007.78px 19.7031px 233.266px",
+          "opacity": "1",
+          "transform": "matrix(1, 0.000174533, -0.000174533, 1, 63.1276, -50.1366)",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "backdropFilter": "blur(20px)",
+          "whiteSpace": "nowrap",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "svg",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "isSvg": true,
+            "rect": {
+              "x": 322,
+              "y": 972,
+              "pageX": 322,
+              "pageY": 972,
+              "w": 40,
+              "h": 29
+            },
+            "childCount": 5,
+            "styles": {
+              "color": "rgb(255, 139, 43)",
+              "backgroundPosition": "0% 0%",
+              "width": "39.9844px",
+              "height": "28.9844px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(255, 139, 43)",
+              "borderStyle": "solid",
+              "overflow": "hidden",
+              "overflowX": "hidden",
+              "overflowY": "hidden",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "aspectRatio": "40 / 29",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "0"
+            },
+            "children": [
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 322,
+                  "y": 981,
+                  "pageX": 322,
+                  "pageY": 981,
+                  "w": 7,
+                  "h": 11
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s ease-in-out -0.0001s alternate waveform-pulse",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 330,
+                  "y": 978,
+                  "pageX": 330,
+                  "pageY": 978,
+                  "w": 7,
+                  "h": 16
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s ease-in-out -0.0001s alternate waveform-pulse",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 338,
+                  "y": 972,
+                  "pageX": 338,
+                  "pageY": 972,
+                  "w": 7,
+                  "h": 29
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s ease-in-out -0.0001s alternate waveform-pulse",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 346,
+                  "y": 977,
+                  "pageX": 346,
+                  "pageY": 977,
+                  "w": 7,
+                  "h": 18
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s ease-in-out -0.0001s alternate waveform-pulse",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 354,
+                  "y": 977,
+                  "pageX": 354,
+                  "pageY": 977,
+                  "w": 7,
+                  "h": 19
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s ease-in-out -0.0001s alternate waveform-pulse",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "span",
+            "classes": null,
+            "text": "Good morning",
+            "rect": {
+              "x": 370,
+              "y": 977,
+              "pageX": 370,
+              "pageY": 977,
+              "w": 99,
+              "h": 18
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "width": "99px",
+              "height": "18.1875px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[1] > div[2]",
+      "node": {
+        "tag": "div",
+        "classes": "text-ink border-ink/10 rounded-small md:rounded-regular gap-xs px-sm",
+        "text": null,
+        "rect": {
+          "x": 1363,
+          "y": 557,
+          "pageX": 1363,
+          "pageY": 557,
+          "w": 266,
+          "h": 65
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "13.9995px",
+          "fontWeight": "600",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "18.1994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+          "backgroundPosition": "0% 0%",
+          "paddingTop": "16px",
+          "paddingRight": "23.9998px",
+          "paddingBottom": "16px",
+          "paddingLeft": "23.9998px",
+          "width": "265.953px",
+          "height": "64.9844px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "alignItems": "center",
+          "gap": "8px",
+          "rowGap": "8px",
+          "columnGap": "8px",
+          "gridAutoFlow": "row",
+          "borderRadius": "15.9998px",
+          "borderTopWidth": "2px",
+          "borderBottomWidth": "2px",
+          "borderLeftWidth": "2px",
+          "borderRightWidth": "2px",
+          "borderColor": "oklab(0.973166 0.00403872 0.00540715 / 0.1)",
+          "borderStyle": "solid",
+          "position": "absolute",
+          "top": "231.328px",
+          "right": "-28.3438px",
+          "bottom": "207.688px",
+          "left": "1202.39px",
+          "inset": "231.328px -28.3438px 207.688px 1202.39px",
+          "opacity": "0",
+          "transform": "matrix(1, 0.000174533, -0.000174533, 1, 160.124, -258.599)",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "visibility": "hidden",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "backdropFilter": "blur(20px)",
+          "whiteSpace": "nowrap",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "svg",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "isSvg": true,
+            "rect": {
+              "x": 1388,
+              "y": 575,
+              "pageX": 1388,
+              "pageY": 575,
+              "w": 40,
+              "h": 29
+            },
+            "childCount": 5,
+            "styles": {
+              "color": "rgb(255, 139, 43)",
+              "backgroundPosition": "0% 0%",
+              "width": "39.9844px",
+              "height": "28.9844px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(255, 139, 43)",
+              "borderStyle": "solid",
+              "overflow": "hidden",
+              "overflowX": "hidden",
+              "overflowY": "hidden",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "aspectRatio": "40 / 29",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "0"
+            },
+            "children": [
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 1389,
+                  "y": 584,
+                  "pageX": 1389,
+                  "pageY": 584,
+                  "w": 7,
+                  "h": 11
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s ease-in-out -0.0001s alternate waveform-pulse",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 1396,
+                  "y": 582,
+                  "pageX": 1396,
+                  "pageY": 582,
+                  "w": 7,
+                  "h": 16
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s ease-in-out -0.0001s alternate waveform-pulse",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 1404,
+                  "y": 575,
+                  "pageX": 1404,
+                  "pageY": 575,
+                  "w": 7,
+                  "h": 29
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s ease-in-out -0.0001s alternate waveform-pulse",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 1412,
+                  "y": 581,
+                  "pageX": 1412,
+                  "pageY": 581,
+                  "w": 7,
+                  "h": 18
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s ease-in-out -0.0001s alternate waveform-pulse",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "ellipse",
+                "classes": "[object SVGAnimatedString]",
+                "text": null,
+                "rect": {
+                  "x": 1420,
+                  "y": 580,
+                  "pageX": 1420,
+                  "pageY": 580,
+                  "w": 7,
+                  "h": 19
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(255, 139, 43)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s ease-in-out -0.0001s alternate waveform-pulse",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "span",
+            "classes": null,
+            "text": "It’s so wonderful to talk",
+            "rect": {
+              "x": 1436,
+              "y": 581,
+              "pageX": 1436,
+              "pageY": 581,
+              "w": 166,
+              "h": 18
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "width": "166px",
+              "height": "18.1875px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[2] > div[0] > div[1] > div[2]",
+      "node": {
+        "tag": "div",
+        "classes": "contents",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "pageX": 0,
+          "pageY": 0,
+          "w": 0,
+          "h": 0
+        },
+        "childCount": 1,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "display": "contents",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "a",
+            "classes": "group relative inline-flex items-center justify-center rounded-small",
+            "text": null,
+            "href": "/download",
+            "ariaLabel": "Download for free",
+            "rect": {
+              "x": 850,
+              "y": 349,
+              "pageX": 850,
+              "pageY": 349,
+              "w": 206,
+              "h": 51
+            },
+            "childCount": 2,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "paddingRight": "27.408px",
+              "paddingLeft": "27.408px",
+              "width": "205.812px",
+              "height": "51.4062px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "gridAutoFlow": "row",
+              "borderRadius": "11.9998px",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": [
+              {
+                "truncated": true,
+                "tag": "span"
+              },
+              {
+                "truncated": true,
+                "tag": "span"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[2] > div[1] > picture[0]",
+      "node": {
+        "tag": "picture",
+        "classes": null,
+        "text": null,
+        "rect": {
+          "x": 304,
+          "y": 449,
+          "pageX": 304,
+          "pageY": 449,
+          "w": 0,
+          "h": 0
+        },
+        "childCount": 3,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "display": "inline",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "source",
+            "classes": null,
+            "text": null,
+            "rect": {
+              "x": 304,
+              "y": 449,
+              "pageX": 304,
+              "pageY": 449,
+              "w": 0,
+              "h": 0
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "display": "inline",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "source",
+            "classes": null,
+            "text": null,
+            "rect": {
+              "x": 304,
+              "y": 449,
+              "pageX": 304,
+              "pageY": 449,
+              "w": 0,
+              "h": 0
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "display": "inline",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "img",
+            "classes": "absolute inset-x-0 top-0 h-[120%] w-full object-cover",
+            "text": null,
+            "img": {
+              "src": "https://rylo.com/_astro/rylo-hero-foreground-2.BG7O6dg4_ZpnWiN.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+              "alt": "Smiling older man with gray hair and beard wearing round glasses and orange sweater looking at a green smartphone.",
+              "w": 832,
+              "h": 832
+            },
+            "rect": {
+              "x": 304,
+              "y": 449,
+              "pageX": 304,
+              "pageY": 449,
+              "w": 832,
+              "h": 998
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "width": "832px",
+              "height": "998.391px",
+              "maxWidth": "100%",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "overflow": "clip",
+              "overflowX": "clip",
+              "overflowY": "clip",
+              "position": "absolute",
+              "bottom": "-166.391px",
+              "inset": "0px 0px -166.391px",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "cover",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "aspectRatio": "auto 1440 / 1440",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > img[0]",
+      "node": {
+        "tag": "img",
+        "classes": "pointer-events-none absolute z-0 w-full object-cover inset-x-0",
+        "text": null,
+        "img": {
+          "src": "https://rylo.com/_astro/rylo-hero-background.BlPcKf6v_1sUPOK.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+          "alt": "",
+          "w": 1440,
+          "h": 1200
+        },
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "pageX": 0,
+          "pageY": 0,
+          "w": 1440,
+          "h": 1361
+        },
+        "childCount": 0,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "1360.88px",
+          "maxWidth": "100%",
+          "minHeight": "100%",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "overflow": "clip",
+          "overflowX": "clip",
+          "overflowY": "clip",
+          "position": "absolute",
+          "zIndex": "0",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "cover",
+          "objectPosition": "50% 100%",
+          "textOverflow": "clip",
+          "aspectRatio": "auto 2758 / 2298",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": []
+      }
+    }
+  ]
+}

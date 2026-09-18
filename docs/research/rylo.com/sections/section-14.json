@@ -1,0 +1,63 @@
+{
+  "url": "https://rylo.com",
+  "generatedAt": "2026-09-18T12:47:01.188Z",
+  "viewport": "pc",
+  "selector": "body > :nth-child(6) > :nth-child(6) > :nth-child(3) > :nth-child(2) > :nth-child(1)",
+  "html": "<img src=\"/_astro/prod-cta-foreground.DqiXt8Fm_Z4hWeD.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_astro/prod-cta-foreground.DqiXt8Fm_Zt41gK.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 480w, /_astro/prod-cta-foreground.DqiXt8Fm_2cB2Le.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 768w, /_astro/prod-cta-foreground.DqiXt8Fm_ZwbrK0.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1200w, /_astro/prod-cta-foreground.DqiXt8Fm_Z4hWeD.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1920w\" alt=\"Middle-aged man in orange sweater shows a smartphone to a woman in a cream sweater and jeans as they engage in conversation.\" loading=\"lazy\" decoding=\"async\" sizes=\"(min-width: 1920px) 1920px, 100vw\" data-astro-image=\"constrained\" data-astro-image-fit=\"cover\" data-astro-image-pos=\"center\" width=\"1920\" height=\"1920\" class=\"absolute inset-0 size-full object-cover\">",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "img",
+    "classes": "absolute inset-0 size-full object-cover",
+    "text": null,
+    "img": {
+      "src": "https://rylo.com/_astro/prod-cta-foreground.DqiXt8Fm_Z4hWeD.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "alt": "Middle-aged man in orange sweater shows a smartphone to a woman in a cream sweater and jeans as they engage in conversation.",
+      "w": 1440,
+      "h": 1440
+    },
+    "rect": {
+      "x": 120,
+      "y": 7619,
+      "pageX": 120,
+      "pageY": 7619,
+      "w": 1200,
+      "h": 1200
+    },
+    "childCount": 0,
+    "style": "s1",
+    "children": []
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1200px",
+      "height": "1200px",
+      "maxWidth": "100%",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "clip",
+      "overflowX": "clip",
+      "overflowY": "clip",
+      "position": "absolute",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "aspectRatio": "auto 1920 / 1920",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}
