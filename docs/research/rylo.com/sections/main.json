@@ -1,0 +1,572 @@
+{
+  "url": "https://rylo.com/contact",
+  "generatedAt": "2026-09-18T13:25:17.482Z",
+  "viewport": "pc",
+  "selector": "main#main",
+  "html": "<main id=\"main\">   <div data-surface=\"dark\"> <section data-surface=\"dark\" class=\"relative overflow-clip z-2 rounded-b-huge flex flex-col\">  <div aria-hidden=\"true\" class=\"absolute inset-0\"> <video data-cover-video=\"\" src=\"https://www-media.rylo.cc/site/sky.mp4\" poster=\"/_astro/contact-hero-background.BDADochD_Z13vNYy.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" muted=\"\" loop=\"\" playsinline=\"\" preload=\"none\" class=\"absolute inset-0 h-full w-full object-cover\"></video> <div class=\"bg-scrim absolute inset-0\"></div> </div> <div class=\"container-site pt-page-top pb-section-sm gap-4xl z-2 flex flex-col lg:grid lg:grid-cols-12 lg:gap-gutter\"> <div class=\"lg:col-span-4\"> <h1 class=\"text-h1 text-trim mb-3xl max-w-[20ch] text-balance\">We are here to help</h1> <p class=\"text-main text-trim max-w-[40ch]\">\nWhether you use Rylo today or are just curious, we are always happy to hear from you.\n          Our team of experts is here to help. If you have a question, an idea, or a problem,\n          let us know and we will do our best to respond quickly and clearly.\n</p> </div> <div class=\"flex flex-col gap-1 lg:col-span-7 lg:col-start-6\">  <div data-surface=\"light\" class=\"rounded-large\"> <a href=\"https://help.rylo.com/en/\" target=\"_blank\" rel=\"noreferrer\" class=\"bg-card hover:bg-page rounded-large gap-lg p-xl lg:p-2xl ease-cubic-default focus-visible:ring-ink/40 flex items-center justify-between transition-colors duration-300 motion-reduce:transition-none focus-visible:ring-2 focus-visible:outline-none\">  <div class=\"gap-md flex flex-col items-start sm:flex-row sm:items-center\">  <div class=\"text-accent size-3xl relative shrink-0\"> <svg viewBox=\"0 0 48 48\" fill=\"none\" slot=\"icon\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </div> <div>  <h2 class=\"text-h3 text-trim mb-md max-w-[20ch] text-balance\">Frequently Asked Questions</h2> <p class=\"text-ink/70 text-trim max-w-[60ch]\">Find quick answers to common questions</p> </div> </div> <div class=\"size-xl relative shrink-0\"> <svg viewBox=\"0 0 36 36\" fill=\"none\" slot=\"glyph\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </div> </a> </div>   <div data-surface=\"light\" class=\"rounded-large\"> <a data-intercom-open=\"true\" href=\"https://help.rylo.com/en/\" class=\"bg-card hover:bg-page rounded-large gap-lg p-xl lg:p-2xl ease-cubic-default focus-visible:ring-ink/40 flex items-center justify-between transition-colors duration-300 motion-reduce:transition-none focus-visible:ring-2 focus-visible:outline-none\">  <div class=\"gap-md flex flex-col items-start sm:flex-row sm:items-center\">  <div class=\"text-accent size-3xl relative shrink-0\"> <svg viewBox=\"0 0 48 48\" fill=\"none\" slot=\"icon\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </div> <div>  <h2 class=\"text-h3 text-trim mb-md max-w-[20ch] text-balance\">Start Live Chat</h2> <p class=\"text-ink/70 text-trim max-w-[60ch]\">Chat with our support team</p> </div> </div> <div class=\"size-xl relative shrink-0\"> <svg viewBox=\"0 0 36 36\" fill=\"none\" slot=\"glyph\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </div> </a> </div>  <div data-surface=\"light\" class=\"rounded-large\"> <a href=\"mailto:hello@rylo.com?subject=Contact%20Rylo%20(Source%20rylo.com)\" class=\"bg-card hover:bg-page rounded-large gap-lg p-xl lg:p-2xl ease-cubic-default focus-visible:ring-ink/40 flex items-center justify-between transition-colors duration-300 motion-reduce:transition-none focus-visible:ring-2 focus-visible:outline-none\">  <div class=\"gap-md flex flex-col items-start sm:flex-row sm:items-center\">  <div class=\"text-accent size-3xl relative shrink-0\"> <svg viewBox=\"0 0 48 48\" fill=\"none\" slot=\"icon\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </div> <div>  <h2 class=\"text-h3 text-trim mb-md max-w-[20ch] text-balance\">Email us at hello@rylo.com</h2> <p class=\"text-ink/70 text-trim max-w-[60ch]\">We usually respond within 24 hours</p> </div> </div> <div class=\"size-xl relative shrink-0\"> <svg viewBox=\"0 0 36 36\" fill=\"none\" slot=\"glyph\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg> </div> </a> </div> </div> </div>   </section> </div>  </main>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "main",
+    "classes": null,
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "w": 1440,
+      "h": 687
+    },
+    "childCount": 1,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "div",
+        "classes": null,
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "pageX": 0,
+          "pageY": 0,
+          "w": 1440,
+          "h": 687
+        },
+        "childCount": 1,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "section",
+            "classes": "relative overflow-clip z-2 rounded-b-huge flex flex-col",
+            "text": null,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "pageX": 0,
+              "pageY": 0,
+              "w": 1440,
+              "h": 687
+            },
+            "childCount": 2,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "div",
+                "classes": "absolute inset-0",
+                "text": null,
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "pageX": 0,
+                  "pageY": 0,
+                  "w": 1440,
+                  "h": 687
+                },
+                "childCount": 2,
+                "style": "s4",
+                "children": [
+                  {
+                    "tag": "video",
+                    "classes": "absolute inset-0 h-full w-full object-cover",
+                    "text": null,
+                    "rect": {
+                      "x": 0,
+                      "y": 0,
+                      "pageX": 0,
+                      "pageY": 0,
+                      "w": 1440,
+                      "h": 687
+                    },
+                    "childCount": 0,
+                    "style": "s5",
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "bg-scrim absolute inset-0",
+                    "text": null,
+                    "rect": {
+                      "x": 0,
+                      "y": 0,
+                      "pageX": 0,
+                      "pageY": 0,
+                      "w": 1440,
+                      "h": 687
+                    },
+                    "childCount": 0,
+                    "style": "s6",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "container-site pt-page-top pb-section-sm gap-4xl z-2 flex",
+                "text": null,
+                "rect": {
+                  "x": 80,
+                  "y": 0,
+                  "pageX": 80,
+                  "pageY": 0,
+                  "w": 1280,
+                  "h": 687
+                },
+                "childCount": 2,
+                "style": "s7",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "lg:col-span-4",
+                    "text": null,
+                    "rect": {
+                      "x": 80,
+                      "y": 190,
+                      "pageX": 80,
+                      "pageY": 190,
+                      "w": 415,
+                      "h": 392
+                    },
+                    "childCount": 2,
+                    "style": "s8",
+                    "children": [
+                      {
+                        "tag": "h1",
+                        "classes": "text-h1 text-trim mb-3xl max-w-[20ch] text-balance",
+                        "text": "We are here to help",
+                        "rect": {
+                          "x": 80,
+                          "y": 190,
+                          "pageX": 80,
+                          "pageY": 190,
+                          "w": 415,
+                          "h": 118
+                        },
+                        "pseudo": {
+                          "::before": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -10.2353px",
+                            "transition": "all"
+                          },
+                          "::after": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -12.7953px",
+                            "transition": "all"
+                          }
+                        },
+                        "childCount": 0,
+                        "style": "s9",
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "classes": "text-main text-trim max-w-[40ch]",
+                        "text": "Whether you use Rylo today or are just curious, we are always happy to hear from you.\n          Our team of experts is here to help. If you have a question, an idea, or a problem,\n          let us know and we will do our best to respond quickly and clearly.",
+                        "rect": {
+                          "x": 80,
+                          "y": 355,
+                          "pageX": 80,
+                          "pageY": 355,
+                          "w": 400,
+                          "h": 95
+                        },
+                        "pseudo": {
+                          "::before": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -4.143px",
+                            "transition": "all"
+                          },
+                          "::after": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -4.78298px",
+                            "transition": "all"
+                          }
+                        },
+                        "childCount": 0,
+                        "style": "s10",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "flex flex-col gap-1 lg:col-span-7 lg:col-start-6",
+                    "text": null,
+                    "rect": {
+                      "x": 621,
+                      "y": 190,
+                      "pageX": 621,
+                      "pageY": 190,
+                      "w": 739,
+                      "h": 392
+                    },
+                    "childCount": 3,
+                    "style": "s11",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "rounded-large",
+                        "text": null,
+                        "rect": {
+                          "x": 621,
+                          "y": 190,
+                          "pageX": 621,
+                          "pageY": 190,
+                          "w": 739,
+                          "h": 128
+                        },
+                        "childCount": 1,
+                        "style": "s12",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "rounded-large",
+                        "text": null,
+                        "rect": {
+                          "x": 621,
+                          "y": 322,
+                          "pageX": 621,
+                          "pageY": 322,
+                          "w": 739,
+                          "h": 128
+                        },
+                        "childCount": 1,
+                        "style": "s12",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "rounded-large",
+                        "text": null,
+                        "rect": {
+                          "x": 621,
+                          "y": 454,
+                          "pageX": 621,
+                          "pageY": 454,
+                          "w": 739,
+                          "h": 128
+                        },
+                        "childCount": 1,
+                        "style": "s12",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(25, 20, 18)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "686.703px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "color": "rgb(250, 245, 242)",
+      "backgroundColor": "rgb(25, 20, 18)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "686.703px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "backgroundColor": "rgb(25, 20, 18)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "686.703px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "0px 0px 79.9994px 79.9994px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "clip",
+      "overflowX": "clip",
+      "overflowY": "clip",
+      "position": "relative",
+      "zIndex": "2",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "686.703px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "position": "absolute",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "686.703px",
+      "maxWidth": "100%",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "clip",
+      "overflowX": "clip",
+      "overflowY": "clip",
+      "position": "absolute",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "backgroundColor": "rgba(70, 101, 131, 0.5)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "686.703px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "position": "absolute",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "189.728px",
+      "paddingBottom": "105.135px",
+      "marginRight": "80px",
+      "marginLeft": "80px",
+      "width": "1280px",
+      "height": "686.703px",
+      "maxWidth": "1440px",
+      "display": "grid",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gap": "17.7274px",
+      "rowGap": "17.7274px",
+      "columnGap": "17.7274px",
+      "gridTemplateColumns": "90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px",
+      "gridTemplateRows": "391.859px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "zIndex": "2",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s8": {
+      "backgroundPosition": "0% 0%",
+      "width": "414.844px",
+      "height": "391.859px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "fontSize": "64px",
+      "fontWeight": "600",
+      "lineHeight": "70.4px",
+      "letterSpacing": "-1.92px",
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "47.9994px",
+      "width": "414.844px",
+      "height": "117.766px",
+      "maxWidth": "820px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s10": {
+      "backgroundPosition": "0% 0%",
+      "width": "400px",
+      "height": "95.0625px",
+      "maxWidth": "400px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s11": {
+      "backgroundPosition": "0% 0%",
+      "width": "739.281px",
+      "height": "391.859px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s12": {
+      "color": "rgb(25, 20, 18)",
+      "backgroundColor": "rgb(250, 245, 242)",
+      "backgroundPosition": "0% 0%",
+      "width": "739.281px",
+      "height": "127.953px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "40px",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

@@ -1,0 +1,1113 @@
+{
+  "url": "https://rylo.com/careers",
+  "generatedAt": "2026-09-18T13:28:10.082Z",
+  "viewport": "pc",
+  "selector": "div.grid",
+  "html": "<div class=\"grid grid-cols-1 gap-x-gutter gap-y-4xl md:grid-cols-3\"> <div class=\"flex flex-col\"> <h2 class=\"text-h6 text-trim mb-lg uppercase opacity-50\">Resources</h2> <ul role=\"list\" class=\"flex flex-col items-start\"> <li> <a class=\"text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600 ease-cubic-default motion-reduce:transition-none focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none hover:bg-card hover:px-sm hover:text-accent\" href=\"/blog\"> Blog </a> </li><li> <a class=\"text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600 ease-cubic-default motion-reduce:transition-none focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none hover:bg-card hover:px-sm hover:text-accent\" href=\"https://rylo.com/hearing-test/\" target=\"_blank\" rel=\"noopener noreferrer\"> Free Hearing Test </a> </li><li> <a class=\"text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600 ease-cubic-default motion-reduce:transition-none focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none hover:bg-card hover:px-sm hover:text-accent\" href=\"/audiologist-hub\"> Audiologist Hub </a> </li> </ul> </div><div class=\"flex flex-col\"> <h2 class=\"text-h6 text-trim mb-lg uppercase opacity-50\">Support</h2> <ul role=\"list\" class=\"flex flex-col items-start\"> <li> <a class=\"text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600 ease-cubic-default motion-reduce:transition-none focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none hover:bg-card hover:px-sm hover:text-accent\" href=\"/contact\"> Contact </a> </li><li> <a class=\"text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600 ease-cubic-default motion-reduce:transition-none focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none hover:bg-card hover:px-sm hover:text-accent\" href=\"https://help.rylo.com/en/\" target=\"_blank\" rel=\"noopener noreferrer\"> Help Center </a> </li> </ul> </div><div class=\"flex flex-col\"> <h2 class=\"text-h6 text-trim mb-lg uppercase opacity-50\">Company</h2> <ul role=\"list\" class=\"flex flex-col items-start\"> <li> <a class=\"text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600 ease-cubic-default motion-reduce:transition-none focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none hover:bg-card hover:px-sm hover:text-accent\" href=\"/about\"> About </a> </li><li> <a class=\"text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600 ease-cubic-default motion-reduce:transition-none focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none hover:bg-card hover:px-sm hover:text-accent\" href=\"/careers\"> Careers </a> </li> </ul> </div> </div>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "div",
+    "classes": "grid grid-cols-1 gap-x-gutter gap-y-4xl md:grid-cols-3",
+    "text": null,
+    "rect": {
+      "x": 80,
+      "y": 5949,
+      "pageX": 80,
+      "pageY": 5949,
+      "w": 1280,
+      "h": 161
+    },
+    "childCount": 3,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "flex flex-col",
+        "text": null,
+        "rect": {
+          "x": 80,
+          "y": 5949,
+          "pageX": 80,
+          "pageY": 5949,
+          "w": 415,
+          "h": 161
+        },
+        "childCount": 2,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "h2",
+            "classes": "text-h6 text-trim mb-lg uppercase opacity-50",
+            "text": "Resources",
+            "rect": {
+              "x": 80,
+              "y": 5949,
+              "pageX": 80,
+              "pageY": 5949,
+              "w": 415,
+              "h": 12
+            },
+            "pseudo": {
+              "::before": {
+                "content": "\"\"",
+                "opacity": "1",
+                "display": "table",
+                "borderColor": "rgb(250, 245, 242)",
+                "borderStyle": "solid",
+                "margin": "0px 0px -4.15844px",
+                "transition": "all"
+              },
+              "::after": {
+                "content": "\"\"",
+                "opacity": "1",
+                "display": "table",
+                "borderColor": "rgb(250, 245, 242)",
+                "borderStyle": "solid",
+                "margin": "0px 0px -4.79844px",
+                "transition": "all"
+              }
+            },
+            "childCount": 0,
+            "style": "s3",
+            "children": []
+          },
+          {
+            "tag": "ul",
+            "classes": "flex flex-col items-start",
+            "text": null,
+            "rect": {
+              "x": 80,
+              "y": 5985,
+              "pageX": 80,
+              "pageY": 5985,
+              "w": 415,
+              "h": 125
+            },
+            "childCount": 3,
+            "style": "s4",
+            "children": [
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 80,
+                  "y": 5985,
+                  "pageX": 80,
+                  "pageY": 5985,
+                  "w": 49,
+                  "h": 42
+                },
+                "childCount": 1,
+                "style": "s5",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600",
+                    "text": "Blog",
+                    "href": "/blog",
+                    "rect": {
+                      "x": 80,
+                      "y": 5985,
+                      "pageX": 80,
+                      "pageY": 5985,
+                      "w": 49,
+                      "h": 42
+                    },
+                    "pseudo": {
+                      "::before": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -3.82756px",
+                        "transition": "all"
+                      },
+                      "::after": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -4.78756px",
+                        "transition": "all"
+                      }
+                    },
+                    "childCount": 0,
+                    "style": "s6",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 80,
+                  "y": 6026,
+                  "pageX": 80,
+                  "pageY": 6026,
+                  "w": 189,
+                  "h": 42
+                },
+                "childCount": 1,
+                "style": "s7",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600",
+                    "text": "Free Hearing Test",
+                    "href": "https://rylo.com/hearing-test/",
+                    "rect": {
+                      "x": 80,
+                      "y": 6026,
+                      "pageX": 80,
+                      "pageY": 6026,
+                      "w": 189,
+                      "h": 42
+                    },
+                    "pseudo": {
+                      "::before": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -3.82756px",
+                        "transition": "all"
+                      },
+                      "::after": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -4.78756px",
+                        "transition": "all"
+                      }
+                    },
+                    "childCount": 0,
+                    "style": "s8",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 80,
+                  "y": 6068,
+                  "pageX": 80,
+                  "pageY": 6068,
+                  "w": 170,
+                  "h": 42
+                },
+                "childCount": 1,
+                "style": "s9",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600",
+                    "text": "Audiologist Hub",
+                    "href": "/audiologist-hub",
+                    "rect": {
+                      "x": 80,
+                      "y": 6068,
+                      "pageX": 80,
+                      "pageY": 6068,
+                      "w": 170,
+                      "h": 42
+                    },
+                    "pseudo": {
+                      "::before": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -3.82756px",
+                        "transition": "all"
+                      },
+                      "::after": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -4.78756px",
+                        "transition": "all"
+                      }
+                    },
+                    "childCount": 0,
+                    "style": "s10",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "classes": "flex flex-col",
+        "text": null,
+        "rect": {
+          "x": 513,
+          "y": 5949,
+          "pageX": 513,
+          "pageY": 5949,
+          "w": 415,
+          "h": 161
+        },
+        "childCount": 2,
+        "style": "s11",
+        "children": [
+          {
+            "tag": "h2",
+            "classes": "text-h6 text-trim mb-lg uppercase opacity-50",
+            "text": "Support",
+            "rect": {
+              "x": 513,
+              "y": 5949,
+              "pageX": 513,
+              "pageY": 5949,
+              "w": 415,
+              "h": 12
+            },
+            "pseudo": {
+              "::before": {
+                "content": "\"\"",
+                "opacity": "1",
+                "display": "table",
+                "borderColor": "rgb(250, 245, 242)",
+                "borderStyle": "solid",
+                "margin": "0px 0px -4.15844px",
+                "transition": "all"
+              },
+              "::after": {
+                "content": "\"\"",
+                "opacity": "1",
+                "display": "table",
+                "borderColor": "rgb(250, 245, 242)",
+                "borderStyle": "solid",
+                "margin": "0px 0px -4.79844px",
+                "transition": "all"
+              }
+            },
+            "childCount": 0,
+            "style": "s12",
+            "children": []
+          },
+          {
+            "tag": "ul",
+            "classes": "flex flex-col items-start",
+            "text": null,
+            "rect": {
+              "x": 513,
+              "y": 5985,
+              "pageX": 513,
+              "pageY": 5985,
+              "w": 415,
+              "h": 84
+            },
+            "childCount": 2,
+            "style": "s13",
+            "children": [
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 513,
+                  "y": 5985,
+                  "pageX": 513,
+                  "pageY": 5985,
+                  "w": 90,
+                  "h": 42
+                },
+                "childCount": 1,
+                "style": "s14",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600",
+                    "text": "Contact",
+                    "href": "/contact",
+                    "rect": {
+                      "x": 513,
+                      "y": 5985,
+                      "pageX": 513,
+                      "pageY": 5985,
+                      "w": 90,
+                      "h": 42
+                    },
+                    "pseudo": {
+                      "::before": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -3.82756px",
+                        "transition": "all"
+                      },
+                      "::after": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -4.78756px",
+                        "transition": "all"
+                      }
+                    },
+                    "childCount": 0,
+                    "style": "s15",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 513,
+                  "y": 6026,
+                  "pageX": 513,
+                  "pageY": 6026,
+                  "w": 127,
+                  "h": 42
+                },
+                "childCount": 1,
+                "style": "s16",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600",
+                    "text": "Help Center",
+                    "href": "https://help.rylo.com/en/",
+                    "rect": {
+                      "x": 513,
+                      "y": 6026,
+                      "pageX": 513,
+                      "pageY": 6026,
+                      "w": 127,
+                      "h": 42
+                    },
+                    "pseudo": {
+                      "::before": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -3.82756px",
+                        "transition": "all"
+                      },
+                      "::after": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -4.78756px",
+                        "transition": "all"
+                      }
+                    },
+                    "childCount": 0,
+                    "style": "s17",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "classes": "flex flex-col",
+        "text": null,
+        "rect": {
+          "x": 945,
+          "y": 5949,
+          "pageX": 945,
+          "pageY": 5949,
+          "w": 415,
+          "h": 161
+        },
+        "childCount": 2,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "h2",
+            "classes": "text-h6 text-trim mb-lg uppercase opacity-50",
+            "text": "Company",
+            "rect": {
+              "x": 945,
+              "y": 5949,
+              "pageX": 945,
+              "pageY": 5949,
+              "w": 415,
+              "h": 12
+            },
+            "pseudo": {
+              "::before": {
+                "content": "\"\"",
+                "opacity": "1",
+                "display": "table",
+                "borderColor": "rgb(250, 245, 242)",
+                "borderStyle": "solid",
+                "margin": "0px 0px -4.15844px",
+                "transition": "all"
+              },
+              "::after": {
+                "content": "\"\"",
+                "opacity": "1",
+                "display": "table",
+                "borderColor": "rgb(250, 245, 242)",
+                "borderStyle": "solid",
+                "margin": "0px 0px -4.79844px",
+                "transition": "all"
+              }
+            },
+            "childCount": 0,
+            "style": "s3",
+            "children": []
+          },
+          {
+            "tag": "ul",
+            "classes": "flex flex-col items-start",
+            "text": null,
+            "rect": {
+              "x": 945,
+              "y": 5985,
+              "pageX": 945,
+              "pageY": 5985,
+              "w": 415,
+              "h": 84
+            },
+            "childCount": 2,
+            "style": "s18",
+            "children": [
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 945,
+                  "y": 5985,
+                  "pageX": 945,
+                  "pageY": 5985,
+                  "w": 66,
+                  "h": 42
+                },
+                "childCount": 1,
+                "style": "s19",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600",
+                    "text": "About",
+                    "href": "/about",
+                    "rect": {
+                      "x": 945,
+                      "y": 5985,
+                      "pageX": 945,
+                      "pageY": 5985,
+                      "w": 66,
+                      "h": 42
+                    },
+                    "pseudo": {
+                      "::before": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -3.82756px",
+                        "transition": "all"
+                      },
+                      "::after": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -4.78756px",
+                        "transition": "all"
+                      }
+                    },
+                    "childCount": 0,
+                    "style": "s20",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 945,
+                  "y": 6026,
+                  "pageX": 945,
+                  "pageY": 6026,
+                  "w": 86,
+                  "h": 42
+                },
+                "childCount": 1,
+                "style": "s21",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "text-h3 text-trim rounded-small py-sm transition-[padding,background-color,color] duration-600",
+                    "text": "Careers",
+                    "href": "/careers",
+                    "rect": {
+                      "x": 945,
+                      "y": 6026,
+                      "pageX": 945,
+                      "pageY": 6026,
+                      "w": 86,
+                      "h": 42
+                    },
+                    "pseudo": {
+                      "::before": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -3.82756px",
+                        "transition": "all"
+                      },
+                      "::after": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -4.78756px",
+                        "transition": "all"
+                      }
+                    },
+                    "childCount": 0,
+                    "style": "s22",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "161.219px",
+      "display": "grid",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gap": "64px 17.7274px",
+      "rowGap": "64px",
+      "columnGap": "17.7274px",
+      "gridTemplateColumns": "414.844px 414.859px 414.844px",
+      "gridTemplateRows": "161.219px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "width": "414.844px",
+      "height": "161.219px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "20.8px",
+      "textTransform": "uppercase",
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "23.9998px",
+      "width": "414.844px",
+      "height": "11.8438px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "0.5",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "backgroundPosition": "0% 0%",
+      "width": "414.844px",
+      "height": "125.391px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "alignItems": "flex-start",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "width": "49.125px",
+      "height": "41.7969px",
+      "display": "list-item",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "fontSize": "23.9998px",
+      "fontWeight": "600",
+      "lineHeight": "26.3998px",
+      "letterSpacing": "-0.719995px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingBottom": "12px",
+      "width": "49.125px",
+      "height": "41.7969px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "padding 0.6s cubic-bezier(0.65, 0, 0, 1), background-color 0.6s cubic-bezier(0.65, 0, 0, 1), color 0.6s cubic-bezier(0.65, 0, 0, 1)",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "backgroundPosition": "0% 0%",
+      "width": "188.766px",
+      "height": "41.7969px",
+      "display": "list-item",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s8": {
+      "fontSize": "23.9998px",
+      "fontWeight": "600",
+      "lineHeight": "26.3998px",
+      "letterSpacing": "-0.719995px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingBottom": "12px",
+      "width": "188.766px",
+      "height": "41.7969px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "padding 0.6s cubic-bezier(0.65, 0, 0, 1), background-color 0.6s cubic-bezier(0.65, 0, 0, 1), color 0.6s cubic-bezier(0.65, 0, 0, 1)",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "backgroundPosition": "0% 0%",
+      "width": "170.203px",
+      "height": "41.7969px",
+      "display": "list-item",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s10": {
+      "fontSize": "23.9998px",
+      "fontWeight": "600",
+      "lineHeight": "26.3998px",
+      "letterSpacing": "-0.719995px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingBottom": "12px",
+      "width": "170.203px",
+      "height": "41.7969px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "padding 0.6s cubic-bezier(0.65, 0, 0, 1), background-color 0.6s cubic-bezier(0.65, 0, 0, 1), color 0.6s cubic-bezier(0.65, 0, 0, 1)",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s11": {
+      "backgroundPosition": "0% 0%",
+      "width": "414.859px",
+      "height": "161.219px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s12": {
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "20.8px",
+      "textTransform": "uppercase",
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "23.9998px",
+      "width": "414.859px",
+      "height": "11.8438px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "0.5",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s13": {
+      "backgroundPosition": "0% 0%",
+      "width": "414.859px",
+      "height": "83.5938px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "alignItems": "flex-start",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s14": {
+      "backgroundPosition": "0% 0%",
+      "width": "89.9688px",
+      "height": "41.7969px",
+      "display": "list-item",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s15": {
+      "fontSize": "23.9998px",
+      "fontWeight": "600",
+      "lineHeight": "26.3998px",
+      "letterSpacing": "-0.719995px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingBottom": "12px",
+      "width": "89.9688px",
+      "height": "41.7969px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "padding 0.6s cubic-bezier(0.65, 0, 0, 1), background-color 0.6s cubic-bezier(0.65, 0, 0, 1), color 0.6s cubic-bezier(0.65, 0, 0, 1)",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s16": {
+      "backgroundPosition": "0% 0%",
+      "width": "127.094px",
+      "height": "41.7969px",
+      "display": "list-item",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s17": {
+      "fontSize": "23.9998px",
+      "fontWeight": "600",
+      "lineHeight": "26.3998px",
+      "letterSpacing": "-0.719995px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingBottom": "12px",
+      "width": "127.094px",
+      "height": "41.7969px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "padding 0.6s cubic-bezier(0.65, 0, 0, 1), background-color 0.6s cubic-bezier(0.65, 0, 0, 1), color 0.6s cubic-bezier(0.65, 0, 0, 1)",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s18": {
+      "backgroundPosition": "0% 0%",
+      "width": "414.844px",
+      "height": "83.5938px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "alignItems": "flex-start",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s19": {
+      "backgroundPosition": "0% 0%",
+      "width": "66.4062px",
+      "height": "41.7969px",
+      "display": "list-item",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s20": {
+      "fontSize": "23.9998px",
+      "fontWeight": "600",
+      "lineHeight": "26.3998px",
+      "letterSpacing": "-0.719995px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingBottom": "12px",
+      "width": "66.4062px",
+      "height": "41.7969px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "padding 0.6s cubic-bezier(0.65, 0, 0, 1), background-color 0.6s cubic-bezier(0.65, 0, 0, 1), color 0.6s cubic-bezier(0.65, 0, 0, 1)",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s21": {
+      "backgroundPosition": "0% 0%",
+      "width": "85.9688px",
+      "height": "41.7969px",
+      "display": "list-item",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s22": {
+      "fontSize": "23.9998px",
+      "fontWeight": "600",
+      "lineHeight": "26.3998px",
+      "letterSpacing": "-0.719995px",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingBottom": "12px",
+      "width": "85.9688px",
+      "height": "41.7969px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "padding 0.6s cubic-bezier(0.65, 0, 0, 1), background-color 0.6s cubic-bezier(0.65, 0, 0, 1), color 0.6s cubic-bezier(0.65, 0, 0, 1)",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

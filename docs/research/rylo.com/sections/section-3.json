@@ -1,0 +1,64 @@
+{
+  "url": "https://rylo.com/careers",
+  "generatedAt": "2026-09-18T13:28:10.082Z",
+  "viewport": "pc",
+  "selector": "img.pointer-events-none",
+  "html": "<img src=\"/_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&amp;w=2500&amp;h=1884&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&amp;w=640&amp;h=482&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&amp;w=750&amp;h=565&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&amp;w=828&amp;h=624&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&amp;w=1080&amp;h=814&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&amp;w=1280&amp;h=965&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1280w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&amp;w=1668&amp;h=1257&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1668w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&amp;w=2048&amp;h=1543&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2048w\" alt=\"\" aria-hidden=\"true\" loading=\"eager\" decoding=\"sync\" fetchpriority=\"high\" sizes=\"100vw\" data-astro-image=\"full-width\" data-astro-image-fit=\"cover\" data-astro-image-pos=\"center\" width=\"2500\" height=\"1884\" class=\"pointer-events-none absolute z-0 w-full object-cover inset-0 h-full\">",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "img",
+    "classes": "pointer-events-none absolute z-0 w-full object-cover inset-0",
+    "text": null,
+    "img": {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&w=1668&h=1257&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "alt": "",
+      "w": 1440,
+      "h": 1085
+    },
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "w": 1440,
+      "h": 2436
+    },
+    "childCount": 0,
+    "style": "s1",
+    "children": []
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "2436.27px",
+      "maxWidth": "100%",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "clip",
+      "overflowX": "clip",
+      "overflowY": "clip",
+      "position": "absolute",
+      "zIndex": "0",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "aspectRatio": "auto 2500 / 1884",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

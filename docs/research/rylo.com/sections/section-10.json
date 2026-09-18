@@ -1,0 +1,801 @@
+{
+  "url": "https://rylo.com/careers",
+  "generatedAt": "2026-09-18T13:28:10.082Z",
+  "viewport": "pc",
+  "selector": "body > :nth-child(6) > :nth-child(4)",
+  "html": "<section data-surface=\"dark\" class=\"relative overflow-clip z-2 rounded-huge bg-card py-section-sm\">  <div class=\"container-site gap-section-sm flex flex-col\"> <h2 class=\"text-h1 text-trim max-w-[20ch] text-balance\">Meet the team at Rylo</h2> <div class=\"flex w-full flex-col items-center gap-1\"> <div data-scroll-marquee=\"\" data-scroll-marquee-direction=\"left\" data-scroll-marquee-speed=\"80\" class=\"relative flex overflow-hidden w-screen\"> <div data-scroll-marquee-track=\"\" class=\"flex\" style=\"margin-left: -5%; width: 110%; translate: none; rotate: none; scale: none; transform: translate(5vw, 0px);\">  <ul data-scroll-marquee-list=\"\" aria-label=\"Rylo team photos\" class=\"flex flex-wrap items-stretch\" style=\"flex-wrap: nowrap; flex-shrink: 0; width: max-content; translate: none; rotate: none; scale: none; transform: translate(-1.7177%, 0%) translate3d(0px, 0px, 0px);\"> <li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&amp;w=854&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Group of six people lounging on reclining chairs on a wooden deck overlooking a scenic green landscape and terraced hills.\" loading=\"lazy\" decoding=\"async\" width=\"427\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&amp;w=617&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&amp;w=617&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&amp;w=1234&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Group of nine people standing on a stone terrace overlooking a river and terraced hills under a clear sky.\" loading=\"lazy\" decoding=\"async\" width=\"617\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&amp;w=640&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Person wearing headphones working on a laptop at a table outside overlooking a seaside with umbrellas, chairs, and a rocky hill with white buildings.\" loading=\"lazy\" decoding=\"async\" width=\"320\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&amp;w=386&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&amp;w=386&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&amp;w=772&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Nine team members toasting with spritz cocktails around a wooden dinner table under a tent, a small black dog at their side.\" loading=\"lazy\" decoding=\"async\" width=\"386\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&amp;w=640&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Curly-haired brown and white puppy sitting on a tiled floor indoors near glass doors and white furniture.\" loading=\"lazy\" decoding=\"async\" width=\"320\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li> </ul> <ul data-scroll-marquee-list=\"\" aria-label=\"Rylo team photos\" class=\"flex flex-wrap items-stretch\" style=\"flex-wrap: nowrap; flex-shrink: 0; width: max-content; translate: none; rotate: none; scale: none; transform: translate(-1.7177%, 0%) translate3d(0px, 0px, 0px);\" aria-hidden=\"true\"> <li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&amp;w=854&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Group of six people lounging on reclining chairs on a wooden deck overlooking a scenic green landscape and terraced hills.\" loading=\"lazy\" decoding=\"async\" width=\"427\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&amp;w=617&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&amp;w=617&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&amp;w=1234&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Group of nine people standing on a stone terrace overlooking a river and terraced hills under a clear sky.\" loading=\"lazy\" decoding=\"async\" width=\"617\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&amp;w=640&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Person wearing headphones working on a laptop at a table outside overlooking a seaside with umbrellas, chairs, and a rocky hill with white buildings.\" loading=\"lazy\" decoding=\"async\" width=\"320\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&amp;w=386&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&amp;w=386&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&amp;w=772&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Nine team members toasting with spritz cocktails around a wooden dinner table under a tent, a small black dog at their side.\" loading=\"lazy\" decoding=\"async\" width=\"386\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&amp;w=640&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Curly-haired brown and white puppy sitting on a tiled floor indoors near glass doors and white furniture.\" loading=\"lazy\" decoding=\"async\" width=\"320\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li> </ul><ul data-scroll-marquee-list=\"\" aria-label=\"Rylo team photos\" class=\"flex flex-wrap items-stretch\" style=\"flex-wrap: nowrap; flex-shrink: 0; width: max-content; translate: none; rotate: none; scale: none; transform: translate(-1.7177%, 0%) translate3d(0px, 0px, 0px);\" aria-hidden=\"true\"> <li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&amp;w=854&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Group of six people lounging on reclining chairs on a wooden deck overlooking a scenic green landscape and terraced hills.\" loading=\"lazy\" decoding=\"async\" width=\"427\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&amp;w=617&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&amp;w=617&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&amp;w=1234&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Group of nine people standing on a stone terrace overlooking a river and terraced hills under a clear sky.\" loading=\"lazy\" decoding=\"async\" width=\"617\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&amp;w=640&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Person wearing headphones working on a laptop at a table outside overlooking a seaside with umbrellas, chairs, and a rocky hill with white buildings.\" loading=\"lazy\" decoding=\"async\" width=\"320\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&amp;w=386&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&amp;w=386&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&amp;w=772&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Nine team members toasting with spritz cocktails around a wooden dinner table under a tent, a small black dog at their side.\" loading=\"lazy\" decoding=\"async\" width=\"386\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&amp;w=320&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&amp;w=640&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Curly-haired brown and white puppy sitting on a tiled floor indoors near glass doors and white furniture.\" loading=\"lazy\" decoding=\"async\" width=\"320\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li> </ul></div> </div><div data-scroll-marquee=\"\" data-scroll-marquee-direction=\"right\" data-scroll-marquee-speed=\"80\" class=\"relative flex overflow-hidden w-screen\"> <div data-scroll-marquee-track=\"\" class=\"flex\" style=\"margin-left: -5%; width: 110%; translate: none; rotate: none; scale: none; transform: translate(-5vw, 0px);\">  <ul data-scroll-marquee-list=\"\" aria-label=\"More Rylo team photos\" class=\"flex flex-wrap items-stretch\" style=\"flex-wrap: nowrap; flex-shrink: 0; width: max-content; translate: none; rotate: none; scale: none; transform: translate(-72.4496%, 0%) translate3d(0px, 0px, 0px);\"> <li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&amp;w=832&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&amp;w=832&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&amp;w=1664&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Group of seven young adults relaxing and interacting in a modern living room with white sofas, a black coffee table, and woven baskets.\" loading=\"lazy\" decoding=\"async\" width=\"832\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&amp;w=480&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Two team members in an office striking poses in playful data-themed t-shirts, sunglasses, and hats.\" loading=\"lazy\" decoding=\"async\" width=\"240\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&amp;w=854&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Seven team members smiling for a selfie inside a van.\" loading=\"lazy\" decoding=\"async\" width=\"427\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&amp;w=480&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Three team members embracing on a rooftop terrace with the Empire State Building behind them.\" loading=\"lazy\" decoding=\"async\" width=\"240\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&amp;w=287&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&amp;w=287&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&amp;w=574&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"A man in a navy shirt is using sign language in front of banners for T-Mobile Accessibility and Deaf Bible Society.\" loading=\"lazy\" decoding=\"async\" width=\"287\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li> </ul> <ul data-scroll-marquee-list=\"\" aria-label=\"More Rylo team photos\" class=\"flex flex-wrap items-stretch\" style=\"flex-wrap: nowrap; flex-shrink: 0; width: max-content; translate: none; rotate: none; scale: none; transform: translate(-72.4496%, 0%) translate3d(0px, 0px, 0px);\" aria-hidden=\"true\"> <li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&amp;w=832&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&amp;w=832&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&amp;w=1664&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Group of seven young adults relaxing and interacting in a modern living room with white sofas, a black coffee table, and woven baskets.\" loading=\"lazy\" decoding=\"async\" width=\"832\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&amp;w=480&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Two team members in an office striking poses in playful data-themed t-shirts, sunglasses, and hats.\" loading=\"lazy\" decoding=\"async\" width=\"240\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&amp;w=854&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Seven team members smiling for a selfie inside a van.\" loading=\"lazy\" decoding=\"async\" width=\"427\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&amp;w=480&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Three team members embracing on a rooftop terrace with the Empire State Building behind them.\" loading=\"lazy\" decoding=\"async\" width=\"240\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&amp;w=287&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&amp;w=287&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&amp;w=574&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"A man in a navy shirt is using sign language in front of banners for T-Mobile Accessibility and Deaf Bible Society.\" loading=\"lazy\" decoding=\"async\" width=\"287\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li> </ul><ul data-scroll-marquee-list=\"\" aria-label=\"More Rylo team photos\" class=\"flex flex-wrap items-stretch\" style=\"flex-wrap: nowrap; flex-shrink: 0; width: max-content; translate: none; rotate: none; scale: none; transform: translate(-72.4496%, 0%) translate3d(0px, 0px, 0px);\" aria-hidden=\"true\"> <li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&amp;w=832&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&amp;w=832&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&amp;w=1664&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Group of seven young adults relaxing and interacting in a modern living room with white sofas, a black coffee table, and woven baskets.\" loading=\"lazy\" decoding=\"async\" width=\"832\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&amp;w=480&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Two team members in an office striking poses in playful data-themed t-shirts, sunglasses, and hats.\" loading=\"lazy\" decoding=\"async\" width=\"240\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&amp;w=427&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&amp;w=854&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Seven team members smiling for a selfie inside a van.\" loading=\"lazy\" decoding=\"async\" width=\"427\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&amp;w=240&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&amp;w=480&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"Three team members embracing on a rooftop terrace with the Empire State Building behind them.\" loading=\"lazy\" decoding=\"async\" width=\"240\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li><li class=\"rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80\">  <img src=\"/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&amp;w=287&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&amp;w=287&amp;h=320&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&amp;w=574&amp;h=640&amp;f=webp&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x\" alt=\"A man in a navy shirt is using sign language in front of banners for T-Mobile Accessibility and Deaf Bible Society.\" loading=\"lazy\" decoding=\"async\" width=\"287\" height=\"320\" class=\"h-full w-auto max-w-none object-cover\"> </li> </ul></div> </div> </div> <div class=\"md:grid md:grid-cols-12 md:gap-gutter\"> <div class=\"md:col-span-7 md:col-start-6 lg:col-span-5 lg:col-start-8\"> <h3 class=\"text-h4 text-trim mb-lg max-w-[30ch] text-balance\">\nDiversity and inclusion statement\n</h3> <p class=\"text-trim text-ink/70 max-w-[40ch] text-pretty\">\nWe are committed to building a team that reflects the communities we serve. We welcome\n          candidates of all backgrounds, identities, and disabilities.\n</p> </div> </div> </div>   </section>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "section",
+    "classes": "relative overflow-clip z-2 rounded-huge bg-card py-section-sm",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 4636,
+      "pageX": 0,
+      "pageY": 4636,
+      "w": 1440,
+      "h": 1204
+    },
+    "childCount": 1,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "container-site gap-section-sm flex flex-col",
+        "text": null,
+        "rect": {
+          "x": 80,
+          "y": 4742,
+          "pageX": 80,
+          "pageY": 4742,
+          "w": 1280,
+          "h": 994
+        },
+        "childCount": 3,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "h2",
+            "classes": "text-h1 text-trim max-w-[20ch] text-balance",
+            "text": "Meet the team at Rylo",
+            "rect": {
+              "x": 80,
+              "y": 4742,
+              "pageX": 80,
+              "pageY": 4742,
+              "w": 820,
+              "h": 47
+            },
+            "pseudo": {
+              "::before": {
+                "content": "\"\"",
+                "opacity": "1",
+                "display": "table",
+                "borderColor": "rgb(250, 245, 242)",
+                "borderStyle": "solid",
+                "margin": "0px 0px -10.2353px",
+                "transition": "all"
+              },
+              "::after": {
+                "content": "\"\"",
+                "opacity": "1",
+                "display": "table",
+                "borderColor": "rgb(250, 245, 242)",
+                "borderStyle": "solid",
+                "margin": "0px 0px -12.7953px",
+                "transition": "all"
+              }
+            },
+            "childCount": 0,
+            "style": "s3",
+            "children": []
+          },
+          {
+            "tag": "div",
+            "classes": "flex w-full flex-col items-center gap-1",
+            "text": null,
+            "rect": {
+              "x": 80,
+              "y": 4894,
+              "pageX": 80,
+              "pageY": 4894,
+              "w": 1280,
+              "h": 644
+            },
+            "childCount": 2,
+            "style": "s4",
+            "children": [
+              {
+                "tag": "div",
+                "classes": "relative flex overflow-hidden w-screen",
+                "text": null,
+                "rect": {
+                  "x": 0,
+                  "y": 4894,
+                  "pageX": 0,
+                  "pageY": 4894,
+                  "w": 1440,
+                  "h": 320
+                },
+                "childCount": 1,
+                "style": "s5",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "flex",
+                    "text": null,
+                    "rect": {
+                      "x": 0,
+                      "y": 4894,
+                      "pageX": 0,
+                      "pageY": 4894,
+                      "w": 1584,
+                      "h": 320
+                    },
+                    "childCount": 3,
+                    "style": "s6",
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "classes": "flex flex-wrap items-stretch",
+                        "text": null,
+                        "ariaLabel": "Rylo team photos",
+                        "rect": {
+                          "x": -42,
+                          "y": 4894,
+                          "pageX": -42,
+                          "pageY": 4894,
+                          "w": 2090,
+                          "h": 320
+                        },
+                        "childCount": 5,
+                        "style": "s7",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "ul",
+                        "classes": "flex flex-wrap items-stretch",
+                        "text": null,
+                        "ariaLabel": "Rylo team photos",
+                        "rect": {
+                          "x": 2048,
+                          "y": 4894,
+                          "pageX": 2048,
+                          "pageY": 4894,
+                          "w": 2090,
+                          "h": 320
+                        },
+                        "childCount": 5,
+                        "style": "s7",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "ul",
+                        "classes": "flex flex-wrap items-stretch",
+                        "text": null,
+                        "ariaLabel": "Rylo team photos",
+                        "rect": {
+                          "x": 4138,
+                          "y": 4894,
+                          "pageX": 4138,
+                          "pageY": 4894,
+                          "w": 2090,
+                          "h": 320
+                        },
+                        "childCount": 5,
+                        "style": "s7",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "relative flex overflow-hidden w-screen",
+                "text": null,
+                "rect": {
+                  "x": 0,
+                  "y": 5218,
+                  "pageX": 0,
+                  "pageY": 5218,
+                  "w": 1440,
+                  "h": 320
+                },
+                "childCount": 1,
+                "style": "s5",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "flex",
+                    "text": null,
+                    "rect": {
+                      "x": -144,
+                      "y": 5218,
+                      "pageX": -144,
+                      "pageY": 5218,
+                      "w": 1584,
+                      "h": 320
+                    },
+                    "childCount": 3,
+                    "style": "s8",
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "classes": "flex flex-wrap items-stretch",
+                        "text": null,
+                        "ariaLabel": "More Rylo team photos",
+                        "rect": {
+                          "x": -1620,
+                          "y": 5218,
+                          "pageX": -1620,
+                          "pageY": 5218,
+                          "w": 2046,
+                          "h": 320
+                        },
+                        "childCount": 5,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "ul",
+                        "classes": "flex flex-wrap items-stretch",
+                        "text": null,
+                        "ariaLabel": "More Rylo team photos",
+                        "rect": {
+                          "x": 426,
+                          "y": 5218,
+                          "pageX": 426,
+                          "pageY": 5218,
+                          "w": 2046,
+                          "h": 320
+                        },
+                        "childCount": 5,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "ul",
+                        "classes": "flex flex-wrap items-stretch",
+                        "text": null,
+                        "ariaLabel": "More Rylo team photos",
+                        "rect": {
+                          "x": 2472,
+                          "y": 5218,
+                          "pageX": 2472,
+                          "pageY": 5218,
+                          "w": 2046,
+                          "h": 320
+                        },
+                        "childCount": 5,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "li"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "md:grid md:grid-cols-12 md:gap-gutter",
+            "text": null,
+            "rect": {
+              "x": 80,
+              "y": 5643,
+              "pageX": 80,
+              "pageY": 5643,
+              "w": 1280,
+              "h": 92
+            },
+            "childCount": 1,
+            "style": "s10",
+            "children": [
+              {
+                "tag": "div",
+                "classes": "md:col-span-7 md:col-start-6 lg:col-span-5 lg:col-start-8",
+                "text": null,
+                "rect": {
+                  "x": 837,
+                  "y": 5643,
+                  "pageX": 837,
+                  "pageY": 5643,
+                  "w": 523,
+                  "h": 92
+                },
+                "childCount": 2,
+                "style": "s11",
+                "children": [
+                  {
+                    "tag": "h3",
+                    "classes": "text-h4 text-trim mb-lg max-w-[30ch] text-balance",
+                    "text": "Diversity and inclusion statement",
+                    "rect": {
+                      "x": 837,
+                      "y": 5643,
+                      "pageX": 837,
+                      "pageY": 5643,
+                      "w": 390,
+                      "h": 15
+                    },
+                    "pseudo": {
+                      "::before": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -3.18444px",
+                        "transition": "all"
+                      },
+                      "::after": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "rgb(250, 245, 242)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -3.98443px",
+                        "transition": "all"
+                      }
+                    },
+                    "childCount": 0,
+                    "style": "s12",
+                    "children": []
+                  },
+                  {
+                    "tag": "p",
+                    "classes": "text-trim text-ink/70 max-w-[40ch] text-pretty",
+                    "text": "We are committed to building a team that reflects the communities we serve. We welcome\n          candidates of all backgrounds, identities, and disabilities.",
+                    "rect": {
+                      "x": 837,
+                      "y": 5682,
+                      "pageX": 837,
+                      "pageY": 5682,
+                      "w": 400,
+                      "h": 53
+                    },
+                    "pseudo": {
+                      "::before": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -4.143px",
+                        "transition": "all"
+                      },
+                      "::after": {
+                        "content": "\"\"",
+                        "opacity": "1",
+                        "display": "table",
+                        "borderColor": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+                        "borderStyle": "solid",
+                        "margin": "0px 0px -4.78298px",
+                        "transition": "all"
+                      }
+                    },
+                    "childCount": 0,
+                    "style": "s13",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundColor": "rgb(49, 38, 35)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "105.135px",
+      "paddingBottom": "105.135px",
+      "width": "1440px",
+      "height": "1204.17px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "79.9994px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "clip",
+      "overflowX": "clip",
+      "overflowY": "clip",
+      "position": "relative",
+      "zIndex": "2",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "marginRight": "80px",
+      "marginLeft": "80px",
+      "width": "1280px",
+      "height": "993.922px",
+      "maxWidth": "1440px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gap": "105.135px",
+      "rowGap": "105.135px",
+      "columnGap": "105.135px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "fontSize": "64px",
+      "fontWeight": "600",
+      "lineHeight": "70.4px",
+      "letterSpacing": "-1.92px",
+      "backgroundPosition": "0% 0%",
+      "width": "820px",
+      "height": "47.375px",
+      "maxWidth": "820px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "644px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "320px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "backgroundPosition": "0% 0%",
+      "marginLeft": "-72px",
+      "width": "1584px",
+      "height": "320px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 72, 0)",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "backgroundPosition": "0% 0%",
+      "width": "2090px",
+      "height": "320px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "stretch",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, -41.894, 0)",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "0"
+    },
+    "s8": {
+      "backgroundPosition": "0% 0%",
+      "marginLeft": "-72px",
+      "width": "1584px",
+      "height": "320px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, -72, 0)",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "backgroundPosition": "0% 0%",
+      "width": "2046px",
+      "height": "320px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "stretch",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, -1476.32, 0)",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "0"
+    },
+    "s10": {
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "92.2969px",
+      "display": "grid",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gap": "17.7274px",
+      "rowGap": "17.7274px",
+      "columnGap": "17.7274px",
+      "gridTemplateColumns": "90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px 90.4219px",
+      "gridTemplateRows": "92.2969px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s11": {
+      "backgroundPosition": "0% 0%",
+      "width": "522.984px",
+      "height": "92.2969px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s12": {
+      "fontSize": "19.9998px",
+      "fontWeight": "600",
+      "lineHeight": "21.9998px",
+      "backgroundPosition": "0% 0%",
+      "marginBottom": "23.9998px",
+      "width": "390px",
+      "height": "14.8438px",
+      "maxWidth": "390px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s13": {
+      "color": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "backgroundPosition": "0% 0%",
+      "width": "400px",
+      "height": "53.4688px",
+      "maxWidth": "400px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

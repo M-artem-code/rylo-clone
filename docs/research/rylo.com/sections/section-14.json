@@ -1,0 +1,53 @@
+{
+  "url": "https://rylo.com/careers",
+  "generatedAt": "2026-09-18T13:28:10.082Z",
+  "viewport": "pc",
+  "selector": "div.bg-footer-dim",
+  "html": "<div aria-hidden=\"true\" data-footer-parallax-dark=\"\" class=\"bg-footer-dim pointer-events-none absolute inset-0 opacity-0\" style=\"will-change: opacity; opacity: 0.5;\"></div>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "div",
+    "classes": "bg-footer-dim pointer-events-none absolute inset-0 opacity-0",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 5743,
+      "pageX": 0,
+      "pageY": 5743,
+      "w": 1440,
+      "h": 1599
+    },
+    "childCount": 0,
+    "style": "s1",
+    "children": []
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundColor": "rgb(32, 29, 29)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "1598.75px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "position": "absolute",
+      "opacity": "0.5",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

@@ -1,0 +1,646 @@
+{
+  "url": "https://rylo.com/careers",
+  "generatedAt": "2026-09-18T13:28:10.082Z",
+  "viewport": "pc",
+  "selector": "body > :nth-child(6) > :nth-child(2)",
+  "html": "<section data-surface=\"light\" data-section-parallax=\"\" class=\"relative overflow-clip z-2 rounded-t-huge -mb-band-overlap bg-card pt-section-sm pb-section-lg\" style=\"will-change: transform; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);\">  <div class=\"container-site\"> <div data-gsap-slider-init=\"\" role=\"region\" aria-roledescription=\"carousel\" aria-labelledby=\"why-work-here-heading\" class=\"[--slider-spv:1.15] md:[--slider-spv:2.25] lg:[--slider-spv:3] group/slider gap-4xl relative flex w-full flex-col items-center overflow-visible px-[1em] md:px-0\" data-gsap-slider-status=\"active\"> <div class=\"gap-2xl flex w-full flex-col items-start md:flex-row md:items-end md:justify-between\"> <div> <h2 id=\"why-work-here-heading\" class=\"text-h1 text-trim max-w-[20ch] text-balance\">\nWhy work here\n</h2>  </div> <div data-gsap-slider-controls=\"\" class=\"hidden shrink-0 items-center gap-[0.5em] group-data-[gsap-slider-status=active]/slider:flex\"> <button type=\"button\" data-gsap-slider-control=\"prev\" aria-label=\"Previous slide\" disabled=\"\" class=\"bg-ink/5 text-ink/70 px-lg py-md rounded-small focus-visible:ring-ink/40 transition-[background-color,opacity] duration-300 hover:bg-ink/10 focus-visible:ring-2 focus-visible:outline-none disabled:pointer-events-none disabled:opacity-30 motion-reduce:transition-none\" aria-disabled=\"true\"> <svg viewBox=\"0 0 20 20\" fill=\"none\" aria-hidden=\"true\" class=\"size-4 rotate-180\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </button><button type=\"button\" data-gsap-slider-control=\"next\" aria-label=\"Next slide\" class=\"bg-ink/5 text-ink/70 px-lg py-md rounded-small focus-visible:ring-ink/40 transition-[background-color,opacity] duration-300 hover:bg-ink/10 focus-visible:ring-2 focus-visible:outline-none disabled:pointer-events-none disabled:opacity-30 motion-reduce:transition-none\" aria-disabled=\"false\"> <svg viewBox=\"0 0 20 20\" fill=\"none\" aria-hidden=\"true\" class=\"size-4\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </button> </div> </div> <div data-gsap-slider-collection=\"\" class=\"w-full snap-x snap-mandatory overflow-x-auto [scrollbar-width:none] group-data-[gsap-slider-status=active]/slider:overflow-visible lg:group-data-[gsap-slider-status=active]/slider:overflow-clip [&amp;::-webkit-scrollbar]:hidden\"> <div data-gsap-slider-list=\"\" class=\"flex gap-1 group-data-[gsap-slider-status=active]/slider:cursor-grab group-data-[gsap-slider-status=active]/slider:touch-pan-y group-data-[gsap-slider-status=active]/slider:select-none group-data-[gsap-slider-status=active]/slider:will-change-transform group-data-[gsap-slider-status=active]/slider:active:cursor-grabbing\" style=\"translate: none; rotate: none; scale: none; transform: translate3d(0px, 0px, 0px); touch-action: pan-y; cursor: grab; user-select: none;\">   <div data-gsap-slider-item=\"\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"1 of 4\" class=\"slider-slide\" style=\"touch-action: pan-y;\">  <div class=\"rounded-large h-full p-1 bg-page\" style=\"touch-action: pan-y;\"> <div class=\"aspect-3/2 relative w-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.4286vw,2.25rem)]\" style=\"touch-action: pan-y;\">  <img src=\"/_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&amp;w=1600&amp;h=1285&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&amp;w=640&amp;h=514&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&amp;w=750&amp;h=602&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&amp;w=828&amp;h=665&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&amp;w=1080&amp;h=867&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&amp;w=1280&amp;h=1028&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1280w, /_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&amp;w=1600&amp;h=1285&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1600w\" alt=\"Alon, CTO of Rylo, and Rotem, Rylo's Operations Manager with a Rylo user\" loading=\"lazy\" decoding=\"async\" sizes=\"(min-width: 1600px) 1600px, 100vw\" data-astro-image=\"constrained\" data-astro-image-fit=\"cover\" data-astro-image-pos=\"center\" width=\"1600\" height=\"1285\" class=\"h-full w-full object-cover\" style=\"touch-action: pan-y;\"> </div> <div class=\"p-xl\" style=\"touch-action: pan-y;\"> <h3 class=\"text-h3 text-trim mb-xl max-w-[40ch] text-balance\" style=\"touch-action: pan-y;\">Real impact, every day</h3> <p class=\"text-small text-trim text-ink/70 max-w-[60ch] text-pretty\" style=\"touch-action: pan-y;\"> The features you ship help people fulfill life’s most basic right - the right to communicate. Our users use Rylo daily to talk to doctors, employers, teachers, and loved ones with less stress and more control. </p> </div> </div>  </div><div data-gsap-slider-item=\"\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"2 of 4\" class=\"slider-slide\" style=\"touch-action: pan-y;\">  <div class=\"rounded-large h-full p-1 bg-page\" style=\"touch-action: pan-y;\"> <div class=\"aspect-3/2 relative w-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.4286vw,2.25rem)]\" style=\"touch-action: pan-y;\">  <img src=\"/_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&amp;w=1152&amp;h=955&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&amp;w=640&amp;h=531&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&amp;w=750&amp;h=622&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&amp;w=828&amp;h=686&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&amp;w=1080&amp;h=895&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&amp;w=1152&amp;h=955&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1152w\" alt=\"Ohad, a software engineer testing Rylo on several devices at once\" loading=\"lazy\" decoding=\"async\" sizes=\"(min-width: 1152px) 1152px, 100vw\" data-astro-image=\"constrained\" data-astro-image-fit=\"cover\" data-astro-image-pos=\"center\" width=\"1152\" height=\"955\" class=\"h-full w-full object-cover\" style=\"touch-action: pan-y;\"> </div> <div class=\"p-xl\" style=\"touch-action: pan-y;\"> <h3 class=\"text-h3 text-trim mb-xl max-w-[40ch] text-balance\" style=\"touch-action: pan-y;\">User-led product decisions</h3> <p class=\"text-small text-trim text-ink/70 max-w-[60ch] text-pretty\" style=\"touch-action: pan-y;\"> We work closely with our communities to shape what we build and how we build it. We move extremely fast, and translate ideas into code, and code into experiences within hours, not days. </p> </div> </div>  </div><div data-gsap-slider-item=\"\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"3 of 4\" class=\"slider-slide\" style=\"touch-action: pan-y;\">  <div class=\"rounded-large h-full p-1 bg-page\" style=\"touch-action: pan-y;\"> <div class=\"aspect-3/2 relative w-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.4286vw,2.25rem)]\" style=\"touch-action: pan-y;\">  <img src=\"/_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&amp;w=1280&amp;h=890&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&amp;w=640&amp;h=445&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&amp;w=750&amp;h=521&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&amp;w=828&amp;h=576&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&amp;w=1080&amp;h=751&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&amp;w=1280&amp;h=890&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1280w\" alt=\"The Rylo team\" loading=\"lazy\" decoding=\"async\" sizes=\"(min-width: 1280px) 1280px, 100vw\" data-astro-image=\"constrained\" data-astro-image-fit=\"cover\" data-astro-image-pos=\"center\" width=\"1280\" height=\"890\" class=\"h-full w-full object-cover\" style=\"touch-action: pan-y;\"> </div> <div class=\"p-xl\" style=\"touch-action: pan-y;\"> <h3 class=\"text-h3 text-trim mb-xl max-w-[40ch] text-balance\" style=\"touch-action: pan-y;\">Small team, big ownership</h3> <p class=\"text-small text-trim text-ink/70 max-w-[60ch] text-pretty\" style=\"touch-action: pan-y;\"> You will not be one of a thousand. You will own meaningful aspects of the company’s business and see your work impacting hundreds of thousands of users immediately. </p> </div> </div>  </div><div data-gsap-slider-item=\"\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"4 of 4\" class=\"slider-slide\" style=\"touch-action: pan-y;\">  <div class=\"rounded-large h-full p-1 bg-page\" style=\"touch-action: pan-y;\"> <div class=\"aspect-3/2 relative w-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.4286vw,2.25rem)]\" style=\"touch-action: pan-y;\">  <img src=\"/_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&amp;w=1600&amp;h=1152&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&amp;w=640&amp;h=461&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&amp;w=750&amp;h=540&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&amp;w=828&amp;h=596&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&amp;w=1080&amp;h=778&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&amp;w=1280&amp;h=922&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1280w, /_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&amp;w=1600&amp;h=1152&amp;f=webp&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1600w\" alt=\"The Rylo team celebrating in the Rylo New York office\" loading=\"lazy\" decoding=\"async\" sizes=\"(min-width: 1600px) 1600px, 100vw\" data-astro-image=\"constrained\" data-astro-image-fit=\"cover\" data-astro-image-pos=\"center\" width=\"1600\" height=\"1152\" class=\"h-full w-full object-cover\" style=\"touch-action: pan-y;\"> </div> <div class=\"p-xl\" style=\"touch-action: pan-y;\"> <h3 class=\"text-h3 text-trim mb-xl max-w-[40ch] text-balance\" style=\"touch-action: pan-y;\">Remote-friendly and globally minded with hubs in Tel Aviv and New York</h3> <p class=\"text-small text-trim text-ink/70 max-w-[60ch] text-pretty\" style=\"touch-action: pan-y;\"> We collaborate across time zones and cultures, and we are thoughtful about how we communicate with each other. </p> </div> </div>  </div> </div> </div> </div> </div>  <div aria-hidden=\"true\" data-section-parallax-overlay=\"\" class=\"pointer-events-none absolute inset-0 z-10 bg-black opacity-0\" style=\"will-change: opacity; opacity: 0;\"></div> </section>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "section",
+    "classes": "relative overflow-clip z-2 rounded-t-huge -mb-band-overlap bg-card",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 2339,
+      "pageX": 0,
+      "pageY": 2339,
+      "w": 1440,
+      "h": 988
+    },
+    "childCount": 2,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "container-site",
+        "text": null,
+        "rect": {
+          "x": 80,
+          "y": 2444,
+          "pageX": 80,
+          "pageY": 2444,
+          "w": 1280,
+          "h": 610
+        },
+        "childCount": 1,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "div",
+            "classes": "[--slider-spv:1.15] md:[--slider-spv:2.25] lg:[--slider-spv:3] group/slider gap-4xl relative",
+            "text": null,
+            "rect": {
+              "x": 80,
+              "y": 2444,
+              "pageX": 80,
+              "pageY": 2444,
+              "w": 1280,
+              "h": 610
+            },
+            "childCount": 2,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "div",
+                "classes": "gap-2xl flex w-full flex-col items-start md:flex-row",
+                "text": null,
+                "rect": {
+                  "x": 80,
+                  "y": 2444,
+                  "pageX": 80,
+                  "pageY": 2444,
+                  "w": 1280,
+                  "h": 48
+                },
+                "childCount": 2,
+                "style": "s4",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": null,
+                    "text": null,
+                    "rect": {
+                      "x": 80,
+                      "y": 2445,
+                      "pageX": 80,
+                      "pageY": 2445,
+                      "w": 423,
+                      "h": 47
+                    },
+                    "childCount": 1,
+                    "style": "s5",
+                    "children": [
+                      {
+                        "tag": "h2",
+                        "classes": "text-h1 text-trim max-w-[20ch] text-balance",
+                        "text": "Why work here",
+                        "rect": {
+                          "x": 80,
+                          "y": 2445,
+                          "pageX": 80,
+                          "pageY": 2445,
+                          "w": 423,
+                          "h": 47
+                        },
+                        "pseudo": {
+                          "::before": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(25, 20, 18)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -10.2353px",
+                            "transition": "all"
+                          },
+                          "::after": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(25, 20, 18)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -12.7953px",
+                            "transition": "all"
+                          }
+                        },
+                        "childCount": 0,
+                        "style": "s6",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "hidden shrink-0 items-center gap-[0.5em] group-data-[gsap-slider-status=active]/slider:flex",
+                    "text": null,
+                    "rect": {
+                      "x": 1224,
+                      "y": 2444,
+                      "pageX": 1224,
+                      "pageY": 2444,
+                      "w": 136,
+                      "h": 48
+                    },
+                    "childCount": 2,
+                    "style": "s7",
+                    "children": [
+                      {
+                        "tag": "button",
+                        "classes": "bg-ink/5 text-ink/70 px-lg py-md rounded-small focus-visible:ring-ink/40",
+                        "text": null,
+                        "ariaLabel": "Previous slide",
+                        "rect": {
+                          "x": 1224,
+                          "y": 2444,
+                          "pageX": 1224,
+                          "pageY": 2444,
+                          "w": 64,
+                          "h": 48
+                        },
+                        "childCount": 1,
+                        "style": "s8",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "svg"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "button",
+                        "classes": "bg-ink/5 text-ink/70 px-lg py-md rounded-small focus-visible:ring-ink/40",
+                        "text": null,
+                        "ariaLabel": "Next slide",
+                        "rect": {
+                          "x": 1296,
+                          "y": 2444,
+                          "pageX": 1296,
+                          "pageY": 2444,
+                          "w": 64,
+                          "h": 48
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "svg"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "w-full snap-x snap-mandatory overflow-x-auto [scrollbar-width:none] group-data-[gsap-slider-status=active]/slider:overflow-visible",
+                "text": null,
+                "rect": {
+                  "x": 80,
+                  "y": 2556,
+                  "pageX": 80,
+                  "pageY": 2556,
+                  "w": 1280,
+                  "h": 498
+                },
+                "childCount": 1,
+                "style": "s10",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "flex gap-1 group-data-[gsap-slider-status=active]/slider:cursor-grab group-data-[gsap-slider-status=active]/slider:touch-pan-y group-data-[gsap-slider-status=active]/slider:select-none group-data-[gsap-slider-status=active]/slider:will-change-transform",
+                    "text": null,
+                    "rect": {
+                      "x": 80,
+                      "y": 2556,
+                      "pageX": 80,
+                      "pageY": 2556,
+                      "w": 1280,
+                      "h": 498
+                    },
+                    "childCount": 4,
+                    "style": "s11",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "slider-slide",
+                        "text": null,
+                        "ariaLabel": "1 of 4",
+                        "rect": {
+                          "x": 80,
+                          "y": 2556,
+                          "pageX": 80,
+                          "pageY": 2556,
+                          "w": 424,
+                          "h": 498
+                        },
+                        "childCount": 1,
+                        "style": "s12",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "slider-slide",
+                        "text": null,
+                        "ariaLabel": "2 of 4",
+                        "rect": {
+                          "x": 508,
+                          "y": 2556,
+                          "pageX": 508,
+                          "pageY": 2556,
+                          "w": 424,
+                          "h": 498
+                        },
+                        "childCount": 1,
+                        "style": "s12",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "slider-slide",
+                        "text": null,
+                        "ariaLabel": "3 of 4",
+                        "rect": {
+                          "x": 935,
+                          "y": 2556,
+                          "pageX": 935,
+                          "pageY": 2556,
+                          "w": 424,
+                          "h": 498
+                        },
+                        "childCount": 1,
+                        "style": "s12",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "slider-slide",
+                        "text": null,
+                        "ariaLabel": "4 of 4",
+                        "rect": {
+                          "x": 1363,
+                          "y": 2556,
+                          "pageX": 1363,
+                          "pageY": 2556,
+                          "w": 424,
+                          "h": 498
+                        },
+                        "childCount": 1,
+                        "style": "s12",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "classes": "pointer-events-none absolute inset-0 z-10 bg-black opacity-0",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": 2339,
+          "pageX": 0,
+          "pageY": 2339,
+          "w": 1440,
+          "h": 988
+        },
+        "childCount": 0,
+        "style": "s13",
+        "children": []
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(25, 20, 18)",
+      "textAlign": "start",
+      "backgroundColor": "rgb(238, 231, 225)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "105.135px",
+      "paddingBottom": "272px",
+      "marginBottom": "-97.1338px",
+      "width": "1440px",
+      "height": "987.516px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "79.9994px 79.9994px 0px 0px",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "overflow": "clip",
+      "overflowX": "clip",
+      "overflowY": "clip",
+      "position": "relative",
+      "zIndex": "2",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "marginRight": "80px",
+      "marginLeft": "80px",
+      "width": "1280px",
+      "height": "610.391px",
+      "maxWidth": "1440px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "610.391px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "64px",
+      "rowGap": "64px",
+      "columnGap": "64px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "48px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "flex-end",
+      "gap": "39.9995px",
+      "rowGap": "39.9995px",
+      "columnGap": "39.9995px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "width": "423.047px",
+      "height": "47.375px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "fontSize": "64px",
+      "fontWeight": "600",
+      "lineHeight": "70.4px",
+      "letterSpacing": "-1.92px",
+      "backgroundPosition": "0% 0%",
+      "width": "423.047px",
+      "height": "47.375px",
+      "maxWidth": "820px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "backgroundPosition": "0% 0%",
+      "width": "135.922px",
+      "height": "48px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "7.99976px",
+      "rowGap": "7.99976px",
+      "columnGap": "7.99976px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "0"
+    },
+    "s8": {
+      "color": "oklab(0.196595 0.00668062 0.0062332 / 0.7)",
+      "textAlign": "center",
+      "backgroundColor": "oklab(0.196595 0.00668062 0.0062332 / 0.05)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "16px",
+      "paddingRight": "23.9998px",
+      "paddingBottom": "16px",
+      "paddingLeft": "23.9998px",
+      "width": "63.9688px",
+      "height": "48px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "oklab(0.196595 0.00668062 0.0062332 / 0.7)",
+      "borderStyle": "solid",
+      "opacity": "0.3",
+      "transition": "background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+      "cursor": "default",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "color": "oklab(0.196595 0.00668062 0.0062332 / 0.7)",
+      "textAlign": "center",
+      "backgroundColor": "oklab(0.196595 0.00668062 0.0062332 / 0.05)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "16px",
+      "paddingRight": "23.9998px",
+      "paddingBottom": "16px",
+      "paddingLeft": "23.9998px",
+      "width": "63.9688px",
+      "height": "48px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "11.9998px",
+      "borderColor": "oklab(0.196595 0.00668062 0.0062332 / 0.7)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s10": {
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "498.391px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "overflow": "clip",
+      "overflowX": "clip",
+      "overflowY": "clip",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s11": {
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "498.391px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "transition": "all",
+      "cursor": "grab",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s12": {
+      "backgroundPosition": "0% 0%",
+      "width": "423.656px",
+      "height": "498.391px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "0"
+    },
+    "s13": {
+      "backgroundColor": "rgb(0, 0, 0)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "987.516px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "absolute",
+      "zIndex": "10",
+      "opacity": "0",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

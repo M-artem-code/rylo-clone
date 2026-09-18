@@ -1,0 +1,135 @@
+---
+component: Section6Section
+target: src/components/Section6Section.tsx
+page: /
+screenshot: docs/design-references/rylo.com/section-6-pc.png
+interaction_model: static
+states: default
+assets: icons only (icons.tsx)
+responsive: phone, ipad, pc
+---
+
+# Section6Section Specification
+
+## DOM Structure
+- div.flex.flex-col [1280×1390]
+  - astro-island > div.bg-card.rounded-large [1280×935]
+    - ×2 video.absolute.inset-0
+    - span.bg-scrim.absolute
+    - div.p-lg.sm:p-xl > div.flex.w-full
+      - ×5 button.rounded-medium.p-md
+    - div.relative.z-2 > div.relative.mx-auto
+      - ×5 div.absolute.inset-0 > div
+  - ul.grid.gap-1 [1280×451]
+    - ×7 li.bg-page.rounded-large
+      - span.size-xl.text-accent > svg.[object.SVGAnimatedString] > path.[object.SVGAnimatedString]
+      - div
+        - h3.text-h4.text-trim — "Shape the way your words sound"
+        - p.text-footnote.text-trim — "Adjust the tone and pace of talk-to-text audio …"
+    - li.flex > a.group.rounded-large
+      - span.rounded-large.ease-cubic-button
+      - span.size-xl.relative > svg.[object.SVGAnimatedString] > path
+      - span.text-ink-fixed.relative
+- … truncated — full tree in the section JSON (ground truth)
+
+## Source Markup
+Utility CSS detected — translate this markup first, verify with probe values second.
+```html
+<div class="flex flex-col gap-1"> <astro-island uid="1UBzc3" prefix="r13" component-url="/_astro/feature-tabs.CkExpxkq.js?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR" component-export="FeatureTabs" renderer-url="/_astro/client.Dl6_Hmbr.js?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR" props="{&quot;posterSrc&quot;:[0,&quot;/_astro/features-sky-poster.C3gIlTJ2_1a8P4o.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR&quot;]}" client="visible" opts="{&quot;name&quot;:&quot;FeatureTabs&quot;,&quot;value&quot;:true}" await-children=""><div data-surface="dark" class="bg-card rounded-large relative flex flex-wrap overflow-clip"><video src="https://www-media.rylo.cc/site/sky.mp4" poster="/_astro/features-sky-poster.C3gIlTJ2_1a8P4o.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR" loop="" muted="" playsinline="" preload="none" aria-hidden="true" style="transition-duration:500ms" class="absolute inset-0 size-full object-cover transition-opacity ease-linear motion-reduce:transition-none opacity-100"></video><video src="https://www-media.rylo.cc/site/sky.mp4" poster="/_astro/features-sky-poster.C3gIlTJ2_1a8P4o.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR" loop="" muted="" playsinline="" preload="none" aria-hidden="true" style="transition-duration:500ms" class="absolute inset-0 size-full object-cover transition-opacity ease-linear motion-reduce:transition-none opacity-0"></video><span aria-hidden="true" class="bg-scrim absolute inset-0 z-1"></span><div class="p-lg sm:p-xl lg:p-3xl relative z-2 w-full lg:flex-1"><div role="tablist" aria-orientation="vertical" aria-label="What Rylo does on a call" class="flex w-full flex-col justify-between md:max-w-[34rem]"><button type="button" role="tab" data-feature-tab="true" id="_r13R_0_-tab-0" aria-selected="true" aria-controls="_r13R_0_-panel-0" tabindex="0" class="rounded-medium p-md md:p-lg lg:p-xl focus-visible:ring-ink/40 relative w-full overflow-clip border-4 text-left transition-[border-color,opacity] duration-[250ms] focus-visible:ring-2 focus-visible:outline-none motion-reduce:transition-none border-hairline"><span aria-hidden="true" class="rounded-medium absolute inset-0 transition-[backdrop-filter] duration-200 backdrop-blur-[20px]"><span style="animation-duration:10000ms" class="animate-tab-dwell bg-ink-fixed/10 block size-full origin-left [animation-play-state:paused]"></span></span><span class="gap-sm relative z-1 flex items-center"><span class="size-xl -mt-[0.2em] shrink-0 md:mt-0 text-accent"><span aria-hidden="true" class="block [&amp;&gt;svg]:size-full size-full"><svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="…" fill="currentColor"></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="…" fill="currentColor"></path>
+</svg>
+</span></span><span class="text-h4 text-trim text-balance">Caption calls accurately in real-time</span></span><span data-tab-detail="true" class="relative z-1 grid transition-[grid-template-rows] duration-400 motion-reduce:transition-none grid-rows-[1fr]"><span class="overflow-hidden"><span class="text-main text-trim block pt-5 pb-3">When you make calls through the Rylo app, our highly accurate technology instantly translates what’s said into text you can read and follow along with</span></span></span></button><button type="button" role="tab" data-feature-tab="true" id="_r13R_0_-tab-1" aria-selected="false" aria-controls="_r13R_0_-panel-1" tabindex="-1" class="rounded-medium p-md md:p-lg lg:p-xl focus-visible:ring-ink/40 relative w-full overflow-clip border-4 text-left transition-[border-color,opacity] duration-[250ms] focus-visible:ring-2 focus-visible:outline-none motion-reduce:transition-none border-transparent opacity-50"><span aria-hidden="true" class="rounded-medium absolute inset-0 transition-[backdrop-filter] duration-200"></span><span class="gap-sm relative z-1 flex items-center"><span class="size-xl -mt-[0.2em] shrink-0 md:mt-0"><span aria-hidden="true" class="block [&amp;&gt;svg]:size-full size-full"><svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="…" fill="currentColor"></path>
+</svg>
+</span></span><span class="text-h4 text-trim text-balance">Keep your existing phone number</span></span><span data-tab-detail="true" class="relative z-1 grid transition-[grid-template-rows] duration-400 motion-reduce:transition-none grid-rows-[0fr]"><span class="overflow-hidden"><span class="text-main text-trim block pt-5 pb-3">Rylo lets you choose between getting a fresh phone number or keeping your existing one for calls and texts</span></span></span></button><button type="button" role="tab" data-feature-tab="true" id="_r13R_0_-tab-2" aria-selected="false" aria-controls="_r13R_0_-panel-2" tabindex="-1" class="rounded-medium p-md md:p-lg lg:p-xl focus-visible:ring-ink/40 relative w-full overflow-clip border-4 text-left transition-[border-color,opacity] duration-[250ms] focus-visible:ring-2 focus-visible:outline-none motion-reduce:transition-none border-transparent opacity-50"><span aria-hidden="true" class="rounded-medium absolute inset-0 transition-[backdrop-filter] duration-200"></span><span class="gap-sm relative z-1 flex items-center"><span class="size-xl -mt-[0.2em] shrink-0 md:mt-0"><span aria-hidden="true" class="block [&amp;&gt;svg]:size-full size-full"><svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="…" fill="currentColor"></path>
+</svg>
+</span></span><span class="text-h4 text-trim text-balance">Speak or type to reply</span></span><span data-tab-detail="true" class="relative z-1 grid transition-[grid-template-rows] duration-400 motion-reduce:transition-none grid-rows-[0fr]"><span class="overflow-hidden"><span class="text-main text-trim block pt-5 pb-3">Use your voice or your device's keyboard - the call is yours</span></span></span></button><button type="button" role="tab" data-feature-tab="true" id="_r13R_0_-tab-3" aria-selected="false" aria-controls="_r13R_0_-panel-3" tabindex="-1" class="rounded-medium p-md md:p-lg lg:p-xl focus-visible:ring-ink/40 relative w-full overflow-clip border-4 text-left transition-[border-color,opacity] duration-[250ms] focus-visible:ring-2 focus-visible:outline-none motion-reduce:transition-none border-transparent opacity-50"><span aria-hidden="true" class="rounded-medium absolute inset-0 transition-[backdrop-filter] duration-200"></span><span class="gap-sm relative z-1 flex items-center"><span class="size-xl -mt-[0.2em] shrink-0 md:mt-0"><span aria-hidden="true" class="block [&amp;&gt;svg]:size-full size-full"><svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="…" fill="currentColor"></path>
+</svg>
+</span></span><span class="text-h4 text-trim text-balance">Adjust the features to feel most like you</span></span><span data-tab-detail="true" class="relative z-1 grid transition-[grid-template-rows] duration-400 motion-reduce:transition-none grid-rows-[0fr]"><span class="overflow-hidden"><span class="text-main text-trim block pt-5 pb-3">Rylo is always personalized for your needs - learning and improving for you</span></span></span></button><button type="button" role="tab" data-feature-tab="true" id="_r13R_0_-tab-4" aria-selected="false" aria-controls="_r13R_0_-panel-4" tabindex="-1" class="rounded-medium p-md md:p-lg lg:p-xl focus-visible:ring-ink/40 relative w-full overflow-clip border-4 text-left transition-[border-color,opacity] duration-[250ms] focus-visible:ring-2 focus-visible:outline-none motion-reduce:transition-none border-transparent opacity-50"><span aria-hidden="true" class="rounded-medium absolute inset-0 transition-[backdrop-filter] duration-200"></span><span class="gap-sm relative z-1 flex items-center"><span class="size-xl -mt-[0.2em] shrink-0 md:mt-0"><span aria-hidden="true" class="block [&amp;&gt;svg]:size-full size-full"><svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="…" fill="currentColor"></path>
+  <path d="…" fill="currentColor"></path>
+</svg>
+</span></span><span class="text-h4 text-trim text-balance">Save your secured transcripts for later</span></span><span data-tab-detail="true" class="relative z-1 grid transition-[grid-template-rows] duration-400 motion-reduce:transition-none grid-rows-[0fr]"><span class="overflow-hidden"><span class="text-main text-trim block pt-5 pb-3">All Rylo calls are fully private with transcripts saved locally on your device</span></span></span></button></div></div><div class="relative z-2 mx-auto w-full pb-section-main p-[clamp(4rem,2.3677rem+8.1614vw,9.713rem)] sm:w-4/5 lg:w-1/2 lg:pb-[clamp(4rem,2.3677rem+8.1614vw,9.713rem)]"><div class="relative mx-auto w-full aspect-365/692 max-w-120"><div role="tabpanel" id="_r13R_0_-panel-0" aria-labelledby="_r13R_0_-tab-0" aria-hidden="false" class="absolute inset-0 transition-opacity duration-300 motion-reduce:transition-none rounded-large outline-ink/30 overflow-hidden outline-4 outline-offset-4 opacity-100"><div aria-hidden="true" class="size-full"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 365 691" width="365" height="691" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;"><defs><clipPath id="__lottie_element_2"><rect width="365" height="691" x="0" y="0"></rect></clipPath></defs><g clip-path="url(#__lottie_element_2)"><g style="display: block;"><g><path></path></g></g><g style="display: none;"><g><path></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4"></path></g></g><g style="display: none;"></g><g style="display: none;"><g><path></path></g><g><path></path></g><g><path></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4"></path></g></g><g style="display: none;"></g><g style="display: none;"><g><path></path></g></g><g style="display: none;"></g><g style="display: none;"><g><path></path></g></g><g style="display: none;"><g><path></path></g></g><g style="display: none;"><g><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4"></path></g><g><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4"></path></g></g><g style="display: none;"><g><path></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4"></path></g></g><g style="display: none;"></g><g style="display: none;"><g><path></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4"></path></g></g><g style="display: none;"></g><g style="display: none;"><g><path></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4"></path></g></g><g style="display: none;"></g><g style="display: none;"><g><path></path></g></g><g style="display: none;"><g><path></path></g></g><g style="display: none;"><g><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4"></path></g><g><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4"></path></g></g><g style="display: none;"><g><path></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4"></path></g></g><g style="display: none;"></g><g style="display: block;"></g><g style="display: block;"></g><g style="display: block;"><g><path></path><path style="mix-blend-mode: saturation;"></path><path style="mix-blend-mode: overlay;"></path><path></path></g><g><path></path></g></g><g style="display: block;"></g><g style="display: block;"></g><g style="display: block;"></g><g style="display: block;"><g><path></path></g></g><g style="display: none;"></g><g style="display: none;"><g><path></path></g><g><path></path></g><g><path></path></g><g><path></path></g></g></g></svg></div></div><div role="tabpanel" id="_r13R_0_-panel-1" aria-labelledby="_r13R_0_-tab-1" aria-hidden="true" class="absolute inset-0 transition-opacity duration-300 motion-reduce:transition-none rounded-large outline-ink/30 overflow-hidden outline-4 outline-offset-4 invisible opacity-0"><div aria-hidden="true" class="size-full"></div></div><div role="tabpanel" id="_r13R_0_-panel-2" aria-labelledby="_r13R_0_-tab-2" aria-hidden="true" class="absolute inset-0 transition-opacity duration-300 motion-reduce:transition-none rounded-large outline-ink/30 overflow-hidden outline-4 outline-offset-4 invisible opacity-0"><div aria-hidden="true" class="size-full"></div></div><div role="tabpanel" id="_r13R_0_-panel-3" aria-labelledby="_r13R_0_-tab-3" aria-hidden="true" class="absolute inset-0 transition-opacity duration-300 motion-reduce:transition-none rounded-large outline-ink/30 overflow-hidden outline-4 outline-offset-4 invisible opacity-0"><div aria-hidden="true" class="size-full"></div></div><div role="tabpanel" id="_r13R_0_-panel-4" aria-labelledby="_r13R_0_-tab-4" aria-hidden="true" class="absolute inset-0 transition-opacity duration-300 motion-reduce:transition-none rounded-large outline-ink/30 overflow-hidden outline-4 outline-offset-4 invisible opacity-0"><div aria-hidden="true" class="size-full"></div></div></div></div></div></astro-island> <ul role="list" class="grid gap-1 grid-cols-[repeat(auto-fit,minmax(min(max(20rem,(100%_-_4px)_/_2),100%),1fr))]"> <li class="bg-page rounded-large gap-lg p-xl flex items-center"> <span class="size-xl text-accent flex shrink-0 items-center justify-center"> <svg viewBox="0 0 32 32" fill="none" slot="icon" class="size-full" aria-hidden="true">
+  <path d="…" fill="currentColor"></path>
+</svg> </span> <div> <h3 class="text-h4 text-trim mb-md text-balance">Shape the way your words sound</h3>  <p class="text-footnote text-trim text-ink/70 max-w-[60ch] text-pretty">  Adjust the tone and pace of talk-to-text audio with keyboard shortcuts</p> </div> </li><li class="bg-page rounded-large gap-lg p-xl flex items-center"> <span class="size-xl text-accent flex shrink-0 items-center justify-center"> <svg viewBox="0 0 32 32" fill="none" slot="icon" class="size-full" aria-hidden="true">
+  <path d="…" fill="currentColor"></path>
+</svg> </span> <div> <h3 class="text-h4 text-trim mb-md text-balance">Quick-reply with a few taps</h3>  <p class="text-footnote text-trim text-ink/70 max-w-[60ch] text-pretty">  Keep conversations fluid and fast with AI-powered, quick replies</p> </div> </li><li class="bg-page rounded-large gap-lg p-xl flex items-center"> <span class="size-xl text-accent flex shrink-0 items-center justify-center"> <svg viewBox="0 0 32 32" fill="none" slot="icon" class="size-full" aria-hidden="true">
+  <path d="…" fill="currentColor"></path>
+</svg> </span> <div> <h3 class="text-h4 text-trim mb-md text-balance">Track non-verbal cues</h3>  <p class="text-footnote text-trim text-ink/70 max-w-[60ch] text-pretty">  Understand speaker sentiment and know who is speaking, typing, or pausing</p> </div> </li><li class="bg-page rounded-large gap-lg p-xl flex items-center"> <span class="size-xl text-accent flex shrink-0 items-center justify-center"> <svg viewBox="0 0 32 32" fill="none" slot="icon" class="size-full" aria-hidden="true">
+  <path d="…" fill="currentColor"></path>
+</svg> </span> <div> <h3 class="text-h4 text-trim mb-md text-balance">Use any language, almost</h3>  <p class="text-footnote text-trim text-ink/70 max-w-[60ch] text-pretty">  Rylo supports 50+ languages and auto-detects language changes in real time</p> </div> </li><li class="bg-page rounded-large gap-lg p-xl flex items-center"> <span class="size-xl text-accent flex shrink-0 items-center justify-center"> <svg viewBox="0 0 32 32" fill="none" slot="icon" class="size-full" aria-hidden="true">
+  <path d="…" fill="currentColor"></path>
+</svg> </span> <div> <h3 class="text-h4 text-trim mb-md text-balance">Filter for spam &amp; profanity</h3>  <p class="text-footnote text-trim text-ink/70 max-w-[60ch] text-pretty">  Easily manage out the types of conversations you don’t want</p> </div> </li><li class="bg-page rounded-large gap-lg p-xl flex items-center"> <span class="size-xl text-accent flex shrink-0 items-center justify-center"> <svg viewBox="0 0 32 32" fill="none" slot="icon" class="size-full" aria-hidden="true">
+  <path d="…" fill="currentColor"></path>
+</svg> </span> <div> <h3 class="text-h4 text-trim mb-md text-balance">Works with your other devices</h3>  <p class="text-footnote text-trim text-ink/70 max-w-[60ch] text-pretty">  Pair Rylo with your hearing aids, cochlear implants, and bluetooth headsets</p> </div> </li><li class="bg-page rounded-large gap-lg p-xl flex items-center"> <span class="size-xl text-accent flex shrink-0 items-center justify-center"> <svg viewBox="0 0 32 32" fill="none" slot="icon" class="size-full" aria-hidden="true">
+  <path d="…" fill="currentColor"></path>
+</svg> </span> <div> <h3 class="text-h4 text-trim mb-md text-balance">Adjust the caption styles</h3>  <p class="text-footnote text-trim text-ink/70 max-w-[60ch] text-pretty">  Choose how the text of your conversation looks</p> </div> </li> <li class="flex"> <a href="/download" aria-label="Download the app" data-modal-target="app-download" data-app-download-cta="true" class="group rounded-large gap-lg p-xl focus-visible:ring-ink/40 relative flex w-full items-center focus-visible:ring-2 focus-visible:outline-none" data-appsflyer-url="https://getapp.rylo.com/4XoB/mw6qn6dr?af_js_web=true&amp;af_ss_ver=2_7_3&amp;pid=website&amp;rylo_af_map_version=rylo-af-map-v3-2026-06-30&amp;af_ss_gtm_ui=true"> <span aria-hidden="true" class="rounded-large ease-cubic-button absolute inset-0 bg-white transition-[inset] duration-600 group-hover:inset-0.5 group-focus-visible:inset-0.5 motion-reduce:transition-none"></span> <span class="size-xl relative z-10 flex shrink-0 items-center justify-center rotate-90"> <svg viewBox="0 0 32 32" fill="none" slot="icon" class="size-full" aria-hidden="true">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="…" fill="currentColor"></path>
+</svg> </span> <span aria-hidden="true" data-rolling-label="" class="text-ink-fixed relative z-10 flex overflow-hidden text-h4 leading-[1.3] whitespace-nowrap"><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0s;">D</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.01s;">o</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.02s;">w</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.03s;">n</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.04s;">l</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.05s;">o</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.06s;">a</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.07s;">d</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none whitespace-pre" style="transition-delay: 0.08s;"> </span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.09s;">t</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.1s;">h</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.11s;">e</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none whitespace-pre" style="transition-delay: 0.12s;"> </span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.13s;">a</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.14s;">p</span><span class="ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none" style="transition-delay: 0.15s;">p</span></span> </a> </li> </ul> </div>
+```
+
+## Computed Styles
+- **div.flex.flex-col** [1280×1390]: flex column gap 4px
+- **astro-island > div.bg-card.rounded-large** [1280×935]: bg rgb(49, 38, 35); radius 40px; flex row; relative
+- **div.bg-card.rounded-large > span.bg-scrim.absolute** [1280×935]: bg rgba(70, 101, 131, 0.5); absolute z1
+- **div.p-lg.sm:p-xl > div.flex.w-full** [544×605]: flex column justify space-between; max-w 544px
+- **div.flex.w-full > button.rounded-medium.p-md** [544×189]: radius 23.9995px; border 4px solid color(srgb 0.980392 0.960784 0.94902 / 0.1); pad 31.9998px 31.9998px 31.9998px 31.9998px; relative
+- **div.flex.w-full > button.rounded-medium.p-md** ×4 [544×104]: radius 23.9995px; border 4px solid; pad 31.9998px 31.9998px 31.9998px 31.9998px; relative; opacity 0.5
+- **div.relative.mx-auto > div.absolute.inset-0** [329×624]: radius 40px; absolute
+- **div.relative.mx-auto > div.absolute.inset-0** ×4 [329×624]: radius 40px; absolute; opacity 0
+- … +11 more styled nodes — resolve any node with `node scripts/resolve-walk.mjs` (JSON is ground truth)
+- Key anchors only — the Source Markup above is the primary spec; resolve any node via resolve-walk.mjs.
+
+## States & Behaviors
+<!-- AGENT: fill — per behavior: Trigger / State A / State B / Transition + implementation approach (CSS transition, IntersectionObserver, …). Mechanical capture data below is reference, not a substitute. -->
+- No state captures on disk. Cross-check css.json interactiveStates — a :hover/:focus rule for this section with no capture means extraction is not done.
+
+## Per-State Content
+<!-- AGENT: fill — full content per state for tabbed/stateful sections; write "N/A — static" if the section has one state -->
+
+## Assets
+- inline SVG ×8 — use/extend components in src/components/icons.tsx
+
+## Text Content
+- h3: "Shape the way your words sound"
+- p: "Adjust the tone and pace of talk-to-text audio with keyboard shortcuts"
+- h3: "Quick-reply with a few taps"
+- p: "Keep conversations fluid and fast with AI-powered, quick replies"
+- h3: "Track non-verbal cues"
+- p: "Understand speaker sentiment and know who is speaking, typing, or pausing"
+- h3: "Use any language, almost"
+- p: "Rylo supports 50+ languages and auto-detects language changes in real time"
+- h3: "Filter for spam & profanity"
+- p: "Easily manage out the types of conversations you don’t want"
+- h3: "Works with your other devices"
+- p: "Pair Rylo with your hearing aids, cochlear implants, and bluetooth headsets"
+- h3: "Adjust the caption styles"
+- p: "Choose how the text of your conversation looks"
+- span: "D"
+- span: "o"
+- span: "w"
+- span: "n"
+- span: "l"
+- span: "o"
+- span: "a"
+- span: "d"
+- span: "t"
+- span: "h"
+- span: "e"
+- span: "a"
+- span: "p" ×2
+
+## Responsive Behavior
+- phone 390: section 350×1995px; heading 16.2503px; body 15.0619px; 4 cols (5 items, gap normal); 1 hidden children
+- ipad 768: section 685×1995px; heading 17.6001px; body 15.3994px; 4 cols (5 items, gap normal); 1 hidden children
+- pc 1440: section 1280×1390px; heading 19.9998px; body 15.9995px; 2 cols (8 items, gap 4px); 1 hidden children
+- change: columns: 2 (pc) → 4 (phone)
+- change: heading size: 19.9998px (pc) → 16.2503px (phone)
+- ipad matches phone layout
+- exact per-property values: probe-section-6.json + responsive.json (ground truth)
+
+## Notes
+<!-- AGENT: fill — implementation notes for the builder: component split, data file shape for src/data/, gotchas. Delete this section if nothing to add. -->

@@ -1,0 +1,1612 @@
+{
+  "site": "https://rylo.com",
+  "createdAt": "2026-09-18T13:23:56.592Z",
+  "pages": [
+    {
+      "url": "https://rylo.com",
+      "route": "/",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "footer",
+          "selector": "footer.-mt-band-overlap",
+          "stage": "specd",
+          "spec": "docs/research/components/home/footer.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header",
+          "selector": "header.pointer-events-none",
+          "stage": "specd",
+          "spec": "docs/research/components/home/header.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "captioning",
+          "selector": "section#captioning",
+          "stage": "specd",
+          "spec": "docs/research/components/home/captioning.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "div.container-site.gap-section-sm",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-4.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header-2",
+          "selector": "header.w-full",
+          "stage": "specd",
+          "spec": "docs/research/components/home/header-2.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-6",
+          "selector": "body > :nth-child(6) > :nth-child(3) > :nth-child(1) > :nth-child(2)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-6.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(6) > :nth-child(3) > :nth-child(2)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-7.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "h2.text-display.text-trim.mb-section-sm",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-8.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(6) > :nth-child(5) > :nth-child(1) > :nth-child(2)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-9.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "div.mt-1",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-10.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(6) > :nth-child(5) > :nth-child(2)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-11.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(6) > :nth-child(6) > :nth-child(1)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-12.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(6) > :nth-child(6) > :nth-child(3) > :nth-child(1)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-13.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(6) > :nth-child(6) > :nth-child(3) > :nth-child(2) > :nth-child(1)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-14.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(6) > :nth-child(6) > :nth-child(4)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-15.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(6) > :nth-child(7)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-16.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "body > :nth-child(6) > :nth-child(8) > :nth-child(1)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-17.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "body > :nth-child(6) > :nth-child(8) > :nth-child(2)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-18.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-19",
+          "selector": "body > :nth-child(6) > :nth-child(8) > :nth-child(3) > :nth-child(1)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-19.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-20",
+          "selector": "body > :nth-child(6) > :nth-child(8) > :nth-child(3) > :nth-child(2) > :nth-child(1)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-20.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-21",
+          "selector": "section.relative.overflow-clip.z-1",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-21.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-22",
+          "selector": "ul.grid.w-full",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-22.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-23",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(2)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-23.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-24",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(4)",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-24.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-25",
+          "selector": "div.bg-footer-dim",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-25.spec.md",
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-26",
+          "selector": "a.bg-ink-fixed",
+          "stage": "specd",
+          "spec": "docs/research/components/home/section-26.spec.md",
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://rylo.com/contact",
+      "route": "/contact",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "footer",
+          "selector": "footer.-mt-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header",
+          "selector": "header.pointer-events-none",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "main",
+          "selector": "main#main",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "ul.grid",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-5",
+          "selector": "div.grid",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-6",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "div.bg-footer-dim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "a.bg-ink-fixed",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://rylo.com/audiologist-hub",
+      "route": "/audiologist-hub",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "footer",
+          "selector": "footer.-mt-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header",
+          "selector": "header.pointer-events-none",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-3",
+          "selector": "section.-mb-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-5",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-6",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(6) > :nth-child(3) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(6) > :nth-child(3) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(6) > :nth-child(3) > :nth-child(3) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(6) > :nth-child(3) > :nth-child(3) > :nth-child(2) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "div.container-site.gap-x-gutter",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(6) > :nth-child(4) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "ul.grid.w-full",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "div.bg-footer-dim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "a.bg-ink-fixed",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://rylo.com/download",
+      "route": "/download",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "footer",
+          "selector": "footer.-mt-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header",
+          "selector": "header.pointer-events-none",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "captioning",
+          "selector": "section#captioning",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "div.container-site.gap-section-sm",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header-2",
+          "selector": "header.w-full",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-6",
+          "selector": "body > :nth-child(6) > :nth-child(3) > :nth-child(1) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(6) > :nth-child(3) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "h2.text-display.text-trim.mb-section-sm",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(6) > :nth-child(5) > :nth-child(1) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "div.mt-1",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(6) > :nth-child(5) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(6) > :nth-child(6) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(6) > :nth-child(6) > :nth-child(3) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(6) > :nth-child(6) > :nth-child(3) > :nth-child(2) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(6) > :nth-child(6) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(6) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "body > :nth-child(6) > :nth-child(8) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "body > :nth-child(6) > :nth-child(8) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-19",
+          "selector": "body > :nth-child(6) > :nth-child(8) > :nth-child(3) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-20",
+          "selector": "body > :nth-child(6) > :nth-child(8) > :nth-child(3) > :nth-child(2) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-21",
+          "selector": "section.relative.overflow-clip.z-1",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-22",
+          "selector": "ul.grid.w-full",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-23",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-24",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-25",
+          "selector": "div.bg-footer-dim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-26",
+          "selector": "a.bg-ink-fixed",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://rylo.com/live-transcribe",
+      "route": "/live-transcribe",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "footer",
+          "selector": "footer.-mt-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header",
+          "selector": "header.pointer-events-none",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-3",
+          "selector": "section.-mb-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "section.relative.overflow-clip",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-5",
+          "selector": "body > :nth-child(6) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-6",
+          "selector": "body > :nth-child(6) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(6) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "section.relative.overflow-clip.z-1",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "ul.grid.w-full",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "div.bg-footer-dim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "a.bg-ink-fixed",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://rylo.com/sidekick",
+      "route": "/sidekick",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "footer",
+          "selector": "footer.-mt-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header",
+          "selector": "header.pointer-events-none",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-3",
+          "selector": "section.-mb-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-5",
+          "selector": "div.flex.flex-col.gap-1",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-6",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(6) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(6) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(6) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(6) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(6) > :nth-child(8)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "div.container-site.gap-x-gutter",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(6) > :nth-child(9) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "ul.grid.w-full",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "div.bg-footer-dim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "a.bg-ink-fixed",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://rylo.com/sign",
+      "route": "/sign",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "footer",
+          "selector": "footer.-mt-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header",
+          "selector": "header.pointer-events-none",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-3",
+          "selector": "section.-mb-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "body > :nth-child(6) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-5",
+          "selector": "body > :nth-child(6) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-6",
+          "selector": "h2.text-h1.text-trim.max-w-\\[30ch\\]",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "div.flex.flex-col.gap-2",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(6) > :nth-child(4) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(6) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(6) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(6) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "section.relative.overflow-clip.z-1",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "ul.grid.w-full",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "div.bg-footer-dim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "a.bg-ink-fixed",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://rylo.com/blog",
+      "route": "/blog",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "footer",
+          "selector": "footer.-mt-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header",
+          "selector": "header.pointer-events-none",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-3",
+          "selector": "section.-mb-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "a.group.bg-card",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-5",
+          "selector": "a.group.bg-page",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-6",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(2) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(3) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(4) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(5) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(6) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(7) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(8) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(9) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(10) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(11) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-16",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(12) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-17",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(13) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-18",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(14) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-19",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(15) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-20",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(16) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-21",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(17) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-22",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(18) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-23",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(19) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-24",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(20) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-25",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(21) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-26",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(22) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-27",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(23) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-28",
+          "selector": "body > :nth-child(6) > :nth-child(2) > :nth-child(1) > :nth-child(2) > :nth-child(3) > :nth-child(24) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-29",
+          "selector": "a.bg-ink-fixed",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://rylo.com/hearing-test",
+      "route": "/hearing-test",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "header",
+          "selector": "header.sticky",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header-2",
+          "selector": "header.flex.flex-col",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-3",
+          "selector": "body > :nth-child(1) > :nth-child(3) > :nth-child(1) > :nth-child(1) > :nth-child(2) > :nth-child(1) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "section.border-line-soft",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-5",
+          "selector": "body > :nth-child(1) > :nth-child(3) > :nth-child(1) > :nth-child(1) > :nth-child(2) > :nth-child(1) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-6",
+          "selector": "body > :nth-child(1) > :nth-child(3) > :nth-child(1) > :nth-child(1) > :nth-child(2) > :nth-child(1) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(1) > :nth-child(3) > :nth-child(1) > :nth-child(1) > :nth-child(2) > :nth-child(1) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(1) > :nth-child(3) > :nth-child(1) > :nth-child(1) > :nth-child(2) > :nth-child(1) > :nth-child(7)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "footer",
+          "selector": "footer.border-line-soft\\/60",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://rylo.com/about",
+      "route": "/about",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "footer",
+          "selector": "footer.-mt-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header",
+          "selector": "header.pointer-events-none",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-3",
+          "selector": "section.-mb-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "body > :nth-child(6) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-5",
+          "selector": "body > :nth-child(6) > :nth-child(3)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-6",
+          "selector": "body > :nth-child(6) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(6) > :nth-child(5)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(6) > :nth-child(6)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "ul.grid",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "div.grid.grid-cols-1",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "div.bg-footer-dim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "a.bg-ink-fixed",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "url": "https://rylo.com/careers",
+      "route": "/careers",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "footer",
+          "selector": "footer.-mt-band-overlap",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "header",
+          "selector": "header.pointer-events-none",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-3",
+          "selector": "img.pointer-events-none",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-4",
+          "selector": "body > :nth-child(6) > :nth-child(1) > :nth-child(2) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-5",
+          "selector": "div.flex.max-w-\\[40ch\\]",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-6",
+          "selector": "div.rounded-huge",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-7",
+          "selector": "body > :nth-child(6) > :nth-child(2)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-8",
+          "selector": "body > :nth-child(6) > :nth-child(3) > :nth-child(1)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-9",
+          "selector": "div.relative.mx-auto.hidden",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-10",
+          "selector": "body > :nth-child(6) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-11",
+          "selector": "ul.grid.w-full",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-12",
+          "selector": "div.grid",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-13",
+          "selector": "body > :nth-child(7) > :nth-child(1) > :nth-child(4)",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-14",
+          "selector": "div.bg-footer-dim",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        },
+        {
+          "name": "section-15",
+          "selector": "a.bg-ink-fixed",
+          "stage": "extracted",
+          "spec": null,
+          "component": null,
+          "scores": {}
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-09-18T13:28:10.110Z"
+}

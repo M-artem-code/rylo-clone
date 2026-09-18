@@ -1,0 +1,166 @@
+{
+  "url": "https://rylo.com/careers",
+  "generatedAt": "2026-09-18T13:28:10.082Z",
+  "viewport": "pc",
+  "selector": "div.flex.max-w-\\[40ch\\]",
+  "html": "<div class=\"flex max-w-[40ch] flex-col gap-lg md:col-span-6 md:col-start-6 lg:col-span-4 lg:col-start-9\"> <p class=\"text-trim\">\nPhone calls and in-person conversations are still built around people who hear\n          well. We are changing that. Rylo is the communication engine that breaks\n          unnecessary barriers.\n</p> <p class=\"text-trim\">\nIf you care about impact, craft, and quality, we would love to meet you.\n</p> </div>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "div",
+    "classes": "flex max-w-[40ch] flex-col gap-lg md:col-span-6 md:col-start-6",
+    "text": null,
+    "rect": {
+      "x": 945,
+      "y": 661,
+      "pageX": 945,
+      "pageY": 661,
+      "w": 400,
+      "h": 131
+    },
+    "childCount": 2,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "p",
+        "classes": "text-trim",
+        "text": "Phone calls and in-person conversations are still built around people who hear\n          well. We are changing that. Rylo is the communication engine that breaks\n          unnecessary barriers.",
+        "rect": {
+          "x": 945,
+          "y": 661,
+          "pageX": 945,
+          "pageY": 661,
+          "w": 400,
+          "h": 74
+        },
+        "pseudo": {
+          "::before": {
+            "content": "\"\"",
+            "opacity": "1",
+            "display": "table",
+            "borderColor": "rgb(250, 245, 242)",
+            "borderStyle": "solid",
+            "margin": "0px 0px -4.143px",
+            "transition": "all"
+          },
+          "::after": {
+            "content": "\"\"",
+            "opacity": "1",
+            "display": "table",
+            "borderColor": "rgb(250, 245, 242)",
+            "borderStyle": "solid",
+            "margin": "0px 0px -4.78298px",
+            "transition": "all"
+          }
+        },
+        "childCount": 0,
+        "style": "s2",
+        "children": []
+      },
+      {
+        "tag": "p",
+        "classes": "text-trim",
+        "text": "If you care about impact, craft, and quality, we would love to meet you.",
+        "rect": {
+          "x": 945,
+          "y": 760,
+          "pageX": 945,
+          "pageY": 760,
+          "w": 400,
+          "h": 33
+        },
+        "pseudo": {
+          "::before": {
+            "content": "\"\"",
+            "opacity": "1",
+            "display": "table",
+            "borderColor": "rgb(250, 245, 242)",
+            "borderStyle": "solid",
+            "margin": "0px 0px -4.143px",
+            "transition": "all"
+          },
+          "::after": {
+            "content": "\"\"",
+            "opacity": "1",
+            "display": "table",
+            "borderColor": "rgb(250, 245, 242)",
+            "borderStyle": "solid",
+            "margin": "0px 0px -4.78298px",
+            "transition": "all"
+          }
+        },
+        "childCount": 0,
+        "style": "s3",
+        "children": []
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "400px",
+      "height": "130.922px",
+      "maxWidth": "400px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gap": "23.9998px",
+      "rowGap": "23.9998px",
+      "columnGap": "23.9998px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "width": "400px",
+      "height": "74.2656px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "backgroundPosition": "0% 0%",
+      "width": "400px",
+      "height": "32.6719px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

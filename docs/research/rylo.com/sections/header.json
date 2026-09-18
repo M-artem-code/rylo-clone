@@ -1,0 +1,665 @@
+{
+  "url": "https://rylo.com/careers",
+  "generatedAt": "2026-09-18T13:28:10.082Z",
+  "viewport": "pc",
+  "selector": "header.pointer-events-none",
+  "html": "<header data-theme-nav=\"dark\" class=\"pointer-events-none fixed inset-x-0 top-0 z-50 ease-cubic-default transition-[transform,translate,visibility] duration-1000 motion-reduce:transition-none nav-hidden:-translate-y-full nav-hidden:invisible toc-scrub:-translate-y-full toc-scrub:invisible\"><div class=\"px-margin pt-md relative\"><div class=\"max-w-site rounded-regular p-xs pl-md border-hairline ease-cubic-default pointer-events-auto relative mx-auto flex w-full items-center border transition-[color,border-color] duration-400 motion-reduce:transition-none\"><span aria-hidden=\"true\" class=\"bg-ink/5 rounded-regular ease-cubic-default pointer-events-none absolute inset-0 z-10 backdrop-blur-lg transition-[background-color] duration-400 motion-reduce:transition-none\"></span><div class=\"relative z-30 hidden w-full items-center justify-between gap-4 lg:flex\"><a href=\"/\" aria-label=\"Home Page\" class=\"text-ink focus-visible:ring-ink/40 w-nav-logo flex shrink-0 items-center focus-visible:ring-2 focus-visible:outline-none\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:h-auto [&amp;&gt;svg]:w-full w-full\"><svg viewBox=\"0 0 100 33\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" fill=\"var(--marketing-accent)\"></path>\n  <path d=\"…\" fill=\"var(--marketing-accent)\"></path>\n  <path d=\"…\" fill=\"currentColor\"></path>\n  <path d=\"…\" fill=\"currentColor\"></path>\n  <path d=\"…\" fill=\"currentColor\"></path>\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg>\n</span></a><div class=\"flex items-center gap-4\"><nav data-slot=\"navigation-menu\" aria-label=\"Main\" class=\"group/navigation-menu relative flex max-w-max flex-1 items-center justify-center\"><ul data-slot=\"navigation-menu-list\" class=\"group flex flex-1 list-none items-center justify-center gap-0\"><li data-slot=\"navigation-menu-item\" class=\"relative\"><button type=\"button\" aria-disabled=\"false\" tabindex=\"0\" aria-expanded=\"false\" data-base-ui-navigation-menu-trigger=\"\" data-slot=\"navigation-menu-trigger\" class=\"group/navigation-menu-trigger inline-flex h-button-main w-max items-center justify-center gap-1 rounded-regular px-md text-nav text-ink transition-all outline-none hover:bg-ink/10 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none disabled:pointer-events-none disabled:opacity-50 data-[popup-open]:bg-ink/10 data-[open]:bg-ink/10 group\">Products<span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full size-3\"><svg viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></button></li><li data-slot=\"navigation-menu-item\" class=\"relative\"><button type=\"button\" aria-disabled=\"false\" tabindex=\"0\" aria-expanded=\"false\" data-base-ui-navigation-menu-trigger=\"\" data-slot=\"navigation-menu-trigger\" class=\"group/navigation-menu-trigger inline-flex h-button-main w-max items-center justify-center gap-1 rounded-regular px-md text-nav text-ink transition-all outline-none hover:bg-ink/10 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none disabled:pointer-events-none disabled:opacity-50 data-[popup-open]:bg-ink/10 data-[open]:bg-ink/10 group\">Resources<span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full size-3\"><svg viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></button></li><li data-slot=\"navigation-menu-item\" class=\"relative\"><button type=\"button\" aria-disabled=\"false\" tabindex=\"0\" aria-expanded=\"false\" data-base-ui-navigation-menu-trigger=\"\" data-slot=\"navigation-menu-trigger\" class=\"group/navigation-menu-trigger inline-flex h-button-main w-max items-center justify-center gap-1 rounded-regular px-md text-nav text-ink transition-all outline-none hover:bg-ink/10 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none disabled:pointer-events-none disabled:opacity-50 data-[popup-open]:bg-ink/10 data-[open]:bg-ink/10 group\">Company<span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full size-3\"><svg viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></button></li><li data-slot=\"navigation-menu-item\" class=\"relative\"><a data-slot=\"navigation-menu-link\" href=\"/contact\" class=\"rounded-xl px-4 py-3 data-[active]:bg-card [&amp;_svg:not([class*='size-'])]:size-4 group/navigation-menu-trigger inline-flex h-button-main w-max items-center justify-center gap-1 rounded-regular px-md text-nav text-ink transition-all outline-none hover:bg-ink/10 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none disabled:pointer-events-none disabled:opacity-50 data-[popup-open]:bg-ink/10 data-[open]:bg-ink/10\">Support</a></li><li data-slot=\"navigation-menu-item\" class=\"relative\"><a data-slot=\"navigation-menu-link\" href=\"/audiologist-hub\" class=\"rounded-xl px-4 py-3 data-[active]:bg-card [&amp;_svg:not([class*='size-'])]:size-4 group/navigation-menu-trigger inline-flex h-button-main w-max items-center justify-center gap-1 rounded-regular px-md text-nav text-ink transition-all outline-none hover:bg-ink/10 focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none disabled:pointer-events-none disabled:opacity-50 data-[popup-open]:bg-ink/10 data-[open]:bg-ink/10\">For Audiologists</a></li></ul></nav><span data-modal-target=\"app-download\" data-app-download-cta=\"true\" class=\"contents\" data-appsflyer-url=\"https://getapp.rylo.com/4XoB/mw6qn6dr?af_js_web=true&amp;af_ss_ver=2_7_3&amp;pid=website&amp;rylo_af_map_version=rylo-af-map-v3-2026-06-30&amp;af_ss_gtm_ui=true\"><a href=\"/download\" aria-label=\"Download\" class=\"group relative inline-flex items-center justify-center rounded-small focus-visible:ring-2 focus-visible:ring-ink/40 focus-visible:outline-none h-button-main px-[clamp(1rem,0.7963rem_+_1.0186vw,1.713rem)]\"><span aria-hidden=\"true\" class=\"bg-accent group-hover:border-page/30 rounded-small ease-cubic-button absolute inset-0 border-0 border-transparent shadow-[0_8px_24px_#00000026,inset_0_0_0.5rem_#ffffff66] transition-[inset,background-color,border-color,border-width] duration-600 group-hover:inset-0.5 group-hover:border-2 group-hover:bg-[color-mix(in_srgb,var(--color-accent),white_20%)] motion-reduce:transition-none\"></span><span aria-hidden=\"true\" data-rolling-label=\"\" class=\"text-ink-fixed relative z-10 flex overflow-hidden text-button\"><span class=\"ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none\" style=\"transition-delay: 0s;\">D</span><span class=\"ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none\" style=\"transition-delay: 0.01s;\">o</span><span class=\"ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none\" style=\"transition-delay: 0.02s;\">w</span><span class=\"ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none\" style=\"transition-delay: 0.03s;\">n</span><span class=\"ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none\" style=\"transition-delay: 0.04s;\">l</span><span class=\"ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none\" style=\"transition-delay: 0.05s;\">o</span><span class=\"ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none\" style=\"transition-delay: 0.06s;\">a</span><span class=\"ease-cubic-button inline-block transition-transform duration-600 [text-shadow:0_1.3em_currentColor] group-hover:-translate-y-full group-focus-visible:-translate-y-full motion-reduce:transition-none\" style=\"transition-delay: 0.07s;\">d</span></span></a></span></div></div><div class=\"relative z-30 flex w-full items-center justify-between lg:hidden\"><a href=\"/\" aria-label=\"Home Page\" class=\"text-ink focus-visible:ring-ink/40 w-nav-logo flex shrink-0 items-center focus-visible:ring-2 focus-visible:outline-none\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:h-auto [&amp;&gt;svg]:w-full w-full\"><svg viewBox=\"0 0 100 33\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" fill=\"var(--marketing-accent)\"></path>\n  <path d=\"…\" fill=\"var(--marketing-accent)\"></path>\n  <path d=\"…\" fill=\"currentColor\"></path>\n  <path d=\"…\" fill=\"currentColor\"></path>\n  <path d=\"…\" fill=\"currentColor\"></path>\n  <path d=\"…\" fill=\"currentColor\"></path>\n</svg>\n</span></a><button type=\"button\" aria-label=\"Menu\" aria-expanded=\"false\" aria-controls=\"mobile-nav-menu\" class=\"text-ink focus-visible:ring-ink/40 mr-sm flex h-10 w-10 flex-col items-center justify-center gap-[6.5px] rounded-xl focus-visible:ring-2 focus-visible:outline-none\"><span class=\"bg-ink h-[1.5px] w-6 origin-center rounded transition-[transform,opacity] duration-400 ease-cubic-default motion-reduce:transition-none\"></span><span class=\"bg-ink h-[1.5px] w-6 origin-center rounded transition-[transform,opacity] duration-400 ease-cubic-default motion-reduce:transition-none\"></span><span class=\"bg-ink h-[1.5px] w-6 origin-center rounded transition-[transform,opacity] duration-400 ease-cubic-default motion-reduce:transition-none\"></span></button></div></div></div></header>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "header",
+    "classes": "pointer-events-none fixed inset-x-0 top-0 z-50 ease-cubic-default",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "w": 1440,
+      "h": 85
+    },
+    "childCount": 1,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "px-margin pt-md relative",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "pageX": 0,
+          "pageY": 0,
+          "w": 1440,
+          "h": 85
+        },
+        "childCount": 1,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "div",
+            "classes": "max-w-site rounded-regular p-xs pl-md border-hairline ease-cubic-default",
+            "text": null,
+            "rect": {
+              "x": 80,
+              "y": 16,
+              "pageX": 80,
+              "pageY": 16,
+              "w": 1280,
+              "h": 69
+            },
+            "childCount": 3,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "span",
+                "classes": "bg-ink/5 rounded-regular ease-cubic-default pointer-events-none absolute inset-0",
+                "text": null,
+                "rect": {
+                  "x": 81,
+                  "y": 17,
+                  "pageX": 81,
+                  "pageY": 17,
+                  "w": 1278,
+                  "h": 67
+                },
+                "childCount": 0,
+                "style": "s4",
+                "children": []
+              },
+              {
+                "tag": "div",
+                "classes": "relative z-30 hidden w-full items-center justify-between",
+                "text": null,
+                "rect": {
+                  "x": 97,
+                  "y": 25,
+                  "pageX": 97,
+                  "pageY": 25,
+                  "w": 1254,
+                  "h": 51
+                },
+                "childCount": 2,
+                "style": "s5",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "text-ink focus-visible:ring-ink/40 w-nav-logo flex shrink-0 items-center",
+                    "text": null,
+                    "href": "/",
+                    "ariaLabel": "Home Page",
+                    "rect": {
+                      "x": 97,
+                      "y": 33,
+                      "pageX": 97,
+                      "pageY": 33,
+                      "w": 109,
+                      "h": 36
+                    },
+                    "childCount": 1,
+                    "style": "s6",
+                    "children": [
+                      {
+                        "tag": "span",
+                        "classes": "block [&>svg]:h-auto [&>svg]:w-full w-full",
+                        "text": null,
+                        "rect": {
+                          "x": 97,
+                          "y": 33,
+                          "pageX": 97,
+                          "pageY": 33,
+                          "w": 109,
+                          "h": 36
+                        },
+                        "childCount": 1,
+                        "style": "s7",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "svg"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "flex items-center gap-4",
+                    "text": null,
+                    "rect": {
+                      "x": 606,
+                      "y": 25,
+                      "pageX": 606,
+                      "pageY": 25,
+                      "w": 745,
+                      "h": 51
+                    },
+                    "childCount": 2,
+                    "style": "s8",
+                    "children": [
+                      {
+                        "tag": "nav",
+                        "classes": "group/navigation-menu relative flex max-w-max flex-1 items-center",
+                        "text": null,
+                        "ariaLabel": "Main",
+                        "rect": {
+                          "x": 606,
+                          "y": 25,
+                          "pageX": 606,
+                          "pageY": 25,
+                          "w": 592,
+                          "h": 51
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "ul"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "span",
+                        "classes": "contents",
+                        "text": null,
+                        "rect": {
+                          "x": 0,
+                          "y": 0,
+                          "pageX": 0,
+                          "pageY": 0,
+                          "w": 0,
+                          "h": 0
+                        },
+                        "childCount": 1,
+                        "style": "s10",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "a"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "relative z-30 flex w-full items-center justify-between",
+                "text": null,
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "pageX": 0,
+                  "pageY": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "childCount": 2,
+                "style": "s11",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "text-ink focus-visible:ring-ink/40 w-nav-logo flex shrink-0 items-center",
+                    "text": null,
+                    "href": "/",
+                    "ariaLabel": "Home Page",
+                    "rect": {
+                      "x": 0,
+                      "y": 0,
+                      "pageX": 0,
+                      "pageY": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "childCount": 1,
+                    "style": "s12",
+                    "children": [
+                      {
+                        "tag": "span",
+                        "classes": "block [&>svg]:h-auto [&>svg]:w-full w-full",
+                        "text": null,
+                        "rect": {
+                          "x": 0,
+                          "y": 0,
+                          "pageX": 0,
+                          "pageY": 0,
+                          "w": 0,
+                          "h": 0
+                        },
+                        "childCount": 1,
+                        "style": "s13",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "svg"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "button",
+                    "classes": "text-ink focus-visible:ring-ink/40 mr-sm flex h-10 w-10",
+                    "text": null,
+                    "ariaLabel": "Menu",
+                    "rect": {
+                      "x": 0,
+                      "y": 0,
+                      "pageX": 0,
+                      "pageY": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "childCount": 3,
+                    "style": "s14",
+                    "children": [
+                      {
+                        "tag": "span",
+                        "classes": "bg-ink h-[1.5px] w-6 origin-center rounded transition-[transform,opacity]",
+                        "text": null,
+                        "rect": {
+                          "x": 0,
+                          "y": 0,
+                          "pageX": 0,
+                          "pageY": 0,
+                          "w": 0,
+                          "h": 0
+                        },
+                        "childCount": 0,
+                        "style": "s15",
+                        "children": []
+                      },
+                      {
+                        "tag": "span",
+                        "classes": "bg-ink h-[1.5px] w-6 origin-center rounded transition-[transform,opacity]",
+                        "text": null,
+                        "rect": {
+                          "x": 0,
+                          "y": 0,
+                          "pageX": 0,
+                          "pageY": 0,
+                          "w": 0,
+                          "h": 0
+                        },
+                        "childCount": 0,
+                        "style": "s15",
+                        "children": []
+                      },
+                      {
+                        "tag": "span",
+                        "classes": "bg-ink h-[1.5px] w-6 origin-center rounded transition-[transform,opacity]",
+                        "text": null,
+                        "rect": {
+                          "x": 0,
+                          "y": 0,
+                          "pageX": 0,
+                          "pageY": 0,
+                          "w": 0,
+                          "h": 0
+                        },
+                        "childCount": 0,
+                        "style": "s15",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(25, 20, 18)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "85.4062px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "fixed",
+      "bottom": "814.594px",
+      "zIndex": "50",
+      "inset": "0px 0px 814.594px",
+      "opacity": "1",
+      "transition": "transform 1s cubic-bezier(0.65, 0, 0, 1), translate 1s cubic-bezier(0.65, 0, 0, 1), visibility 1s cubic-bezier(0.65, 0, 0, 1)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "16px",
+      "paddingRight": "79.9995px",
+      "paddingLeft": "79.9995px",
+      "width": "1440px",
+      "height": "85.4062px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "8px",
+      "paddingRight": "8px",
+      "paddingBottom": "8px",
+      "paddingLeft": "16px",
+      "width": "1280.03px",
+      "height": "69.4062px",
+      "maxWidth": "1440px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderRadius": "15.9998px",
+      "borderTopWidth": "1px",
+      "borderBottomWidth": "1px",
+      "borderLeftWidth": "1px",
+      "borderRightWidth": "1px",
+      "borderColor": "color(srgb 0.980392 0.960784 0.94902 / 0.1)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "color 0.4s cubic-bezier(0.65, 0, 0, 1), border-color 0.4s cubic-bezier(0.65, 0, 0, 1)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "backgroundColor": "oklab(0.973166 0.00403872 0.00540715 / 0.05)",
+      "backgroundPosition": "0% 0%",
+      "width": "1278.03px",
+      "height": "67.4062px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "15.9998px",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "absolute",
+      "zIndex": "10",
+      "opacity": "1",
+      "transition": "background-color 0.4s cubic-bezier(0.65, 0, 0, 1)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "backdropFilter": "blur(16px)",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "backgroundPosition": "0% 0%",
+      "width": "1254.03px",
+      "height": "51.4062px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gap": "16px",
+      "rowGap": "16px",
+      "columnGap": "16px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "zIndex": "30",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "color": "rgb(250, 245, 242)",
+      "backgroundPosition": "0% 0%",
+      "width": "108.578px",
+      "height": "35.8281px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "0"
+    },
+    "s7": {
+      "backgroundPosition": "0% 0%",
+      "width": "108.578px",
+      "height": "35.8281px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s8": {
+      "backgroundPosition": "0% 0%",
+      "width": "744.812px",
+      "height": "51.4062px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gap": "16px",
+      "rowGap": "16px",
+      "columnGap": "16px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "backgroundPosition": "0% 0%",
+      "width": "592px",
+      "height": "51.4062px",
+      "maxWidth": "max-content",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "1",
+      "flexShrink": "1",
+      "flexBasis": "0%"
+    },
+    "s10": {
+      "backgroundPosition": "0% 0%",
+      "display": "contents",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s11": {
+      "backgroundPosition": "0% 0%",
+      "width": "100%",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "zIndex": "30",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s12": {
+      "color": "rgb(250, 245, 242)",
+      "backgroundPosition": "0% 0%",
+      "width": "108.592px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "0"
+    },
+    "s13": {
+      "backgroundPosition": "0% 0%",
+      "width": "100%",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s14": {
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "center",
+      "backgroundPosition": "0% 0%",
+      "marginRight": "12px",
+      "width": "40px",
+      "height": "40px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "gap": "6.5px",
+      "rowGap": "6.5px",
+      "columnGap": "6.5px",
+      "gridAutoFlow": "row",
+      "borderRadius": "12px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s15": {
+      "backgroundColor": "rgb(250, 245, 242)",
+      "backgroundPosition": "0% 0%",
+      "width": "24px",
+      "height": "1.5px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "4px",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "transform 0.4s cubic-bezier(0.65, 0, 0, 1), opacity 0.4s cubic-bezier(0.65, 0, 0, 1)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

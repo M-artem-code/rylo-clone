@@ -1,0 +1,64 @@
+{
+  "url": "https://rylo.com/careers",
+  "generatedAt": "2026-09-18T13:28:10.082Z",
+  "viewport": "pc",
+  "selector": "body > :nth-child(6) > :nth-child(3) > :nth-child(1)",
+  "html": "<img src=\"/_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&amp;w=2500&amp;h=1866&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&amp;w=640&amp;h=478&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&amp;w=750&amp;h=560&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&amp;w=828&amp;h=618&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&amp;w=1080&amp;h=806&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&amp;w=1280&amp;h=955&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1280w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&amp;w=1668&amp;h=1245&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1668w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&amp;w=2048&amp;h=1529&amp;f=avif&amp;fit=cover&amp;position=center&amp;dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2048w\" alt=\"\" aria-hidden=\"true\" loading=\"eager\" fetchpriority=\"low\" decoding=\"async\" sizes=\"100vw\" data-astro-image=\"full-width\" data-astro-image-fit=\"cover\" data-astro-image-pos=\"center\" width=\"2500\" height=\"1866\" class=\"pointer-events-none absolute z-0 w-full object-cover inset-0 h-full\">",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "img",
+    "classes": "pointer-events-none absolute z-0 w-full object-cover inset-0",
+    "text": null,
+    "img": {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&w=1668&h=1245&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "alt": "",
+      "w": 1440,
+      "h": 1074
+    },
+    "rect": {
+      "x": 0,
+      "y": 3230,
+      "pageX": 0,
+      "pageY": 3230,
+      "w": 1440,
+      "h": 1504
+    },
+    "childCount": 0,
+    "style": "s1",
+    "children": []
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "1504px",
+      "maxWidth": "100%",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "clip",
+      "overflowX": "clip",
+      "overflowY": "clip",
+      "position": "absolute",
+      "zIndex": "0",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "aspectRatio": "auto 2500 / 1866",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "url": "https://rylo.com/hearing-test",
+  "generatedAt": "2026-09-18T13:27:38.751Z",
+  "viewport": "pc",
+  "selector": "header.flex.flex-col",
+  "html": "<header class=\"flex flex-col items-center\"><h1 tabindex=\"-1\" class=\"text-4xl leading-tight font-semibold text-balance focus:outline-none md:text-5xl lg:text-[3.25rem]\">Take our free online hearing test to see if you have hearing loss</h1></header>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "header",
+    "classes": "flex flex-col items-center",
+    "text": null,
+    "rect": {
+      "x": 393,
+      "y": 119,
+      "pageX": 393,
+      "pageY": 119,
+      "w": 640,
+      "h": 195
+    },
+    "childCount": 1,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "h1",
+        "classes": "text-4xl leading-tight font-semibold text-balance focus:outline-none md:text-5xl",
+        "text": "Take our free online hearing test to see if you have hearing loss",
+        "rect": {
+          "x": 393,
+          "y": 119,
+          "pageX": 393,
+          "pageY": 119,
+          "w": 640,
+          "h": 195
+        },
+        "childCount": 0,
+        "style": "s2",
+        "children": []
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+      "lineHeight": "24px",
+      "color": "oklch(0.2197 0.0037 48.55)",
+      "textAlign": "center",
+      "backgroundPosition": "0% 0%",
+      "width": "640px",
+      "height": "195px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderColor": "oklch(0.2197 0.0037 48.55)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "fontSize": "52px",
+      "fontWeight": "600",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "65px",
+      "letterSpacing": "-0.78px",
+      "backgroundPosition": "0% 0%",
+      "width": "640px",
+      "height": "195px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "6px",
+      "borderColor": "oklch(0.2197 0.0037 48.55)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

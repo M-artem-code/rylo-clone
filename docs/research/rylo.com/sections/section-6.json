@@ -1,0 +1,2291 @@
+{
+  "url": "https://rylo.com/careers",
+  "generatedAt": "2026-09-18T13:28:10.082Z",
+  "viewport": "pc",
+  "selector": "div.rounded-huge",
+  "html": "<div class=\"rounded-huge border-hairline px-md pt-2xl pb-md md:p-2xl bg-ink/5 border-2 backdrop-blur-[15px]\"> <astro-island uid=\"Z1py94K\" prefix=\"r4\" component-url=\"/_astro/open-positions-list.D7JnDQfb.js?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" component-export=\"OpenPositionsList\" renderer-url=\"/_astro/client.Dl6_Hmbr.js?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" props=\"{&quot;positions&quot;:[1,[[0,{&quot;slug&quot;:[0,&quot;growth-engineer-cto-office&quot;],&quot;name&quot;:[0,&quot;Growth Engineer, CTO Office&quot;],&quot;department&quot;:[0,&quot;Engineering&quot;],&quot;location&quot;:[0,&quot;New York&quot;],&quot;employmentType&quot;:[0,&quot;Full-time&quot;],&quot;workplaceType&quot;:[0,&quot;Hybrid&quot;]}],[0,{&quot;slug&quot;:[0,&quot;head-of-brand-marketing&quot;],&quot;name&quot;:[0,&quot;Head of Brand Marketing&quot;],&quot;department&quot;:[0,&quot;Growth&quot;],&quot;location&quot;:[0,&quot;New York&quot;],&quot;employmentType&quot;:[0,&quot;Full-time&quot;],&quot;workplaceType&quot;:[0,&quot;Hybrid&quot;]}],[0,{&quot;slug&quot;:[0,&quot;head-of-finance&quot;],&quot;name&quot;:[0,&quot;Head of Finance&quot;],&quot;department&quot;:[0,&quot;Finance&quot;],&quot;location&quot;:[0,&quot;New York&quot;],&quot;employmentType&quot;:[0,&quot;Full-time&quot;],&quot;workplaceType&quot;:[0,&quot;Hybrid&quot;]}],[0,{&quot;slug&quot;:[0,&quot;lifecycle-marketing-lead&quot;],&quot;name&quot;:[0,&quot;Lifecycle Marketing Lead&quot;],&quot;department&quot;:[0,&quot;Growth&quot;],&quot;location&quot;:[0,&quot;New York&quot;],&quot;employmentType&quot;:[0,&quot;Full-time&quot;],&quot;workplaceType&quot;:[0,&quot;Hybrid&quot;]}],[0,{&quot;slug&quot;:[0,&quot;senior-frontend-engineer-product-team&quot;],&quot;name&quot;:[0,&quot;Senior Frontend Engineer, Product Team&quot;],&quot;department&quot;:[0,&quot;Engineering&quot;],&quot;location&quot;:[0,&quot;Tel Aviv&quot;],&quot;employmentType&quot;:[0,&quot;Full-time&quot;],&quot;workplaceType&quot;:[0,&quot;Hybrid&quot;]}],[0,{&quot;slug&quot;:[0,&quot;senior-software-engineer-backend-team&quot;],&quot;name&quot;:[0,&quot;Senior Software Engineer, Backend Team&quot;],&quot;department&quot;:[0,&quot;Engineering&quot;],&quot;location&quot;:[0,&quot;Tel Aviv&quot;],&quot;employmentType&quot;:[0,&quot;Full-time&quot;],&quot;workplaceType&quot;:[0,&quot;Hybrid&quot;]}],[0,{&quot;slug&quot;:[0,&quot;senior-support-specialist&quot;],&quot;name&quot;:[0,&quot;Senior Support Specialist&quot;],&quot;department&quot;:[0,&quot;Support&quot;],&quot;location&quot;:[0,&quot;Remote (US)&quot;],&quot;employmentType&quot;:[0,&quot;Full-time&quot;],&quot;workplaceType&quot;:[0,&quot;Hybrid&quot;]}],[0,{&quot;slug&quot;:[0,&quot;social-media-lead&quot;],&quot;name&quot;:[0,&quot;Social Media Lead&quot;],&quot;department&quot;:[0,&quot;Growth&quot;],&quot;location&quot;:[0,&quot;New York&quot;],&quot;employmentType&quot;:[0,&quot;Full-time&quot;],&quot;workplaceType&quot;:[0,&quot;Hybrid&quot;]}],[0,{&quot;slug&quot;:[0,&quot;talent-acquisition-specialist-gtm&quot;],&quot;name&quot;:[0,&quot;Talent Acquisition Specialist (GTM)&quot;],&quot;department&quot;:[0,&quot;People &amp; Operations&quot;],&quot;location&quot;:[0,&quot;New York&quot;],&quot;employmentType&quot;:[0,&quot;Full-time&quot;],&quot;workplaceType&quot;:[0,&quot;Hybrid&quot;]}]]]}\" client=\"visible\" opts=\"{&quot;name&quot;:&quot;OpenPositionsList&quot;,&quot;value&quot;:true}\" await-children=\"\"><div class=\"mb-2xl px-md lg:px-xl gap-lg flex flex-col md:flex-row md:items-center md:justify-between md:gap-0\"><h2 class=\"text-h2 text-trim max-w-[20ch] text-balance\">Open positions</h2><fieldset data-careers-filter=\"true\" class=\"flex flex-wrap gap-1\"><legend class=\"sr-only\">Filter positions by department</legend><label class=\"border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border p-sm has-[:checked]:border-transparent has-[:focus-visible]:ring-2\"><input type=\"radio\" class=\"sr-only\" name=\"department\" checked=\"\" value=\"all\"><span class=\"text-small text-trim block\">All</span></label><label class=\"border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border p-sm has-[:checked]:border-transparent has-[:focus-visible]:ring-2\"><input type=\"radio\" class=\"sr-only\" name=\"department\" value=\"Engineering\"><span class=\"text-small text-trim block\">Engineering</span></label><label class=\"border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border p-sm has-[:checked]:border-transparent has-[:focus-visible]:ring-2\"><input type=\"radio\" class=\"sr-only\" name=\"department\" value=\"Finance\"><span class=\"text-small text-trim block\">Finance</span></label><label class=\"border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border p-sm has-[:checked]:border-transparent has-[:focus-visible]:ring-2\"><input type=\"radio\" class=\"sr-only\" name=\"department\" value=\"Growth\"><span class=\"text-small text-trim block\">Growth</span></label><label class=\"border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border p-sm has-[:checked]:border-transparent has-[:focus-visible]:ring-2\"><input type=\"radio\" class=\"sr-only\" name=\"department\" value=\"People &amp; Operations\"><span class=\"text-small text-trim block\">People &amp; Operations</span></label><label class=\"border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border p-sm has-[:checked]:border-transparent has-[:focus-visible]:ring-2\"><input type=\"radio\" class=\"sr-only\" name=\"department\" value=\"Support\"><span class=\"text-small text-trim block\">Support</span></label></fieldset></div><ul data-careers-list=\"true\" role=\"list\" class=\"grid grid-cols-1 gap-1 md:grid-cols-2\"><li><a href=\"/careers/growth-engineer-cto-office\" data-careers-card=\"true\" data-surface=\"light\" class=\"group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40 flex h-full flex-col justify-between focus-visible:ring-2 focus-visible:outline-none\"><div><div class=\"mb-xl flex gap-1\"><span class=\"bg-accent-secondary border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">Engineering</span><span class=\"bg-card border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">New York</span></div><h3 class=\"text-h3 text-trim\">Growth Engineer, CTO Office</h3></div><div class=\"gap-2xl flex w-full items-center justify-between\"><span class=\"text-small text-trim text-ink/70\">Hybrid<span aria-hidden=\"true\" class=\"mx-1 opacity-50\">•</span>Full-time</span><span class=\"gap-xs flex items-center\"><span class=\"text-small\">View</span><span aria-hidden=\"true\" class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex aspect-square w-7 items-center justify-center rounded-full transition-colors duration-300\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full w-[60%]\"><svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></span></span></div></a></li><li><a href=\"/careers/head-of-brand-marketing\" data-careers-card=\"true\" data-surface=\"light\" class=\"group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40 flex h-full flex-col justify-between focus-visible:ring-2 focus-visible:outline-none\"><div><div class=\"mb-xl flex gap-1\"><span class=\"bg-accent-secondary border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">Growth</span><span class=\"bg-card border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">New York</span></div><h3 class=\"text-h3 text-trim\">Head of Brand Marketing</h3></div><div class=\"gap-2xl flex w-full items-center justify-between\"><span class=\"text-small text-trim text-ink/70\">Hybrid<span aria-hidden=\"true\" class=\"mx-1 opacity-50\">•</span>Full-time</span><span class=\"gap-xs flex items-center\"><span class=\"text-small\">View</span><span aria-hidden=\"true\" class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex aspect-square w-7 items-center justify-center rounded-full transition-colors duration-300\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full w-[60%]\"><svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></span></span></div></a></li><li><a href=\"/careers/head-of-finance\" data-careers-card=\"true\" data-surface=\"light\" class=\"group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40 flex h-full flex-col justify-between focus-visible:ring-2 focus-visible:outline-none\"><div><div class=\"mb-xl flex gap-1\"><span class=\"bg-accent-secondary border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">Finance</span><span class=\"bg-card border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">New York</span></div><h3 class=\"text-h3 text-trim\">Head of Finance</h3></div><div class=\"gap-2xl flex w-full items-center justify-between\"><span class=\"text-small text-trim text-ink/70\">Hybrid<span aria-hidden=\"true\" class=\"mx-1 opacity-50\">•</span>Full-time</span><span class=\"gap-xs flex items-center\"><span class=\"text-small\">View</span><span aria-hidden=\"true\" class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex aspect-square w-7 items-center justify-center rounded-full transition-colors duration-300\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full w-[60%]\"><svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></span></span></div></a></li><li><a href=\"/careers/lifecycle-marketing-lead\" data-careers-card=\"true\" data-surface=\"light\" class=\"group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40 flex h-full flex-col justify-between focus-visible:ring-2 focus-visible:outline-none\"><div><div class=\"mb-xl flex gap-1\"><span class=\"bg-accent-secondary border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">Growth</span><span class=\"bg-card border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">New York</span></div><h3 class=\"text-h3 text-trim\">Lifecycle Marketing Lead</h3></div><div class=\"gap-2xl flex w-full items-center justify-between\"><span class=\"text-small text-trim text-ink/70\">Hybrid<span aria-hidden=\"true\" class=\"mx-1 opacity-50\">•</span>Full-time</span><span class=\"gap-xs flex items-center\"><span class=\"text-small\">View</span><span aria-hidden=\"true\" class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex aspect-square w-7 items-center justify-center rounded-full transition-colors duration-300\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full w-[60%]\"><svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></span></span></div></a></li><li><a href=\"/careers/senior-frontend-engineer-product-team\" data-careers-card=\"true\" data-surface=\"light\" class=\"group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40 flex h-full flex-col justify-between focus-visible:ring-2 focus-visible:outline-none\"><div><div class=\"mb-xl flex gap-1\"><span class=\"bg-accent-secondary border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">Engineering</span><span class=\"bg-card border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">Tel Aviv</span></div><h3 class=\"text-h3 text-trim\">Senior Frontend Engineer, Product Team</h3></div><div class=\"gap-2xl flex w-full items-center justify-between\"><span class=\"text-small text-trim text-ink/70\">Hybrid<span aria-hidden=\"true\" class=\"mx-1 opacity-50\">•</span>Full-time</span><span class=\"gap-xs flex items-center\"><span class=\"text-small\">View</span><span aria-hidden=\"true\" class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex aspect-square w-7 items-center justify-center rounded-full transition-colors duration-300\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full w-[60%]\"><svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></span></span></div></a></li><li><a href=\"/careers/senior-software-engineer-backend-team\" data-careers-card=\"true\" data-surface=\"light\" class=\"group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40 flex h-full flex-col justify-between focus-visible:ring-2 focus-visible:outline-none\"><div><div class=\"mb-xl flex gap-1\"><span class=\"bg-accent-secondary border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">Engineering</span><span class=\"bg-card border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">Tel Aviv</span></div><h3 class=\"text-h3 text-trim\">Senior Software Engineer, Backend Team</h3></div><div class=\"gap-2xl flex w-full items-center justify-between\"><span class=\"text-small text-trim text-ink/70\">Hybrid<span aria-hidden=\"true\" class=\"mx-1 opacity-50\">•</span>Full-time</span><span class=\"gap-xs flex items-center\"><span class=\"text-small\">View</span><span aria-hidden=\"true\" class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex aspect-square w-7 items-center justify-center rounded-full transition-colors duration-300\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full w-[60%]\"><svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></span></span></div></a></li><li><a href=\"/careers/senior-support-specialist\" data-careers-card=\"true\" data-surface=\"light\" class=\"group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40 flex h-full flex-col justify-between focus-visible:ring-2 focus-visible:outline-none\"><div><div class=\"mb-xl flex gap-1\"><span class=\"bg-accent-secondary border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">Support</span><span class=\"bg-card border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">Remote (US)</span></div><h3 class=\"text-h3 text-trim\">Senior Support Specialist</h3></div><div class=\"gap-2xl flex w-full items-center justify-between\"><span class=\"text-small text-trim text-ink/70\">Hybrid<span aria-hidden=\"true\" class=\"mx-1 opacity-50\">•</span>Full-time</span><span class=\"gap-xs flex items-center\"><span class=\"text-small\">View</span><span aria-hidden=\"true\" class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex aspect-square w-7 items-center justify-center rounded-full transition-colors duration-300\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full w-[60%]\"><svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></span></span></div></a></li><li><a href=\"/careers/social-media-lead\" data-careers-card=\"true\" data-surface=\"light\" class=\"group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40 flex h-full flex-col justify-between focus-visible:ring-2 focus-visible:outline-none\"><div><div class=\"mb-xl flex gap-1\"><span class=\"bg-accent-secondary border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">Growth</span><span class=\"bg-card border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">New York</span></div><h3 class=\"text-h3 text-trim\">Social Media Lead</h3></div><div class=\"gap-2xl flex w-full items-center justify-between\"><span class=\"text-small text-trim text-ink/70\">Hybrid<span aria-hidden=\"true\" class=\"mx-1 opacity-50\">•</span>Full-time</span><span class=\"gap-xs flex items-center\"><span class=\"text-small\">View</span><span aria-hidden=\"true\" class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex aspect-square w-7 items-center justify-center rounded-full transition-colors duration-300\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full w-[60%]\"><svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></span></span></div></a></li><li><a href=\"/careers/talent-acquisition-specialist-gtm\" data-careers-card=\"true\" data-surface=\"light\" class=\"group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40 flex h-full flex-col justify-between focus-visible:ring-2 focus-visible:outline-none\"><div><div class=\"mb-xl flex gap-1\"><span class=\"bg-accent-secondary border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">People &amp; Operations</span><span class=\"bg-card border-page/30 text-ink-fixed p-sm text-small text-trim rounded-full border\">New York</span></div><h3 class=\"text-h3 text-trim\">Talent Acquisition Specialist (GTM)</h3></div><div class=\"gap-2xl flex w-full items-center justify-between\"><span class=\"text-small text-trim text-ink/70\">Hybrid<span aria-hidden=\"true\" class=\"mx-1 opacity-50\">•</span>Full-time</span><span class=\"gap-xs flex items-center\"><span class=\"text-small\">View</span><span aria-hidden=\"true\" class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex aspect-square w-7 items-center justify-center rounded-full transition-colors duration-300\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full w-[60%]\"><svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></span></span></div></a></li><li><a href=\"mailto:rylo.submitresume@comeetapply.com?subject=Sharing%20my%20resume%20for%20future%20roles\" class=\"rounded-large border-hairline p-lg md:p-xl gap-lg focus-visible:ring-ink/40 group flex h-full flex-col justify-between border-2 focus-visible:ring-2 focus-visible:outline-none\"><div><h3 class=\"text-h3 text-trim mb-lg max-w-[40ch] text-balance\">Don’t see your dream position?</h3><p class=\"text-small text-trim max-w-[60ch] text-pretty\">We are always looking for talented people who share our passion for crafting the future of accessible communication. That person might be you.</p></div><div class=\"gap-xs flex items-center justify-end\"><span class=\"text-small\">Submit your resume</span><span aria-hidden=\"true\" class=\"bg-ink text-page group-hover:bg-accent flex aspect-square w-7 items-center justify-center rounded-full transition-colors duration-300\"><span aria-hidden=\"true\" class=\"block [&amp;&gt;svg]:size-full w-[60%]\"><svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n</span></span></div></a></li></ul></astro-island> </div>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "div",
+    "classes": "rounded-huge border-hairline px-md pt-2xl pb-md md:p-2xl",
+    "text": null,
+    "rect": {
+      "x": 80,
+      "y": 897,
+      "pageX": 80,
+      "pageY": 897,
+      "w": 1280,
+      "h": 1267
+    },
+    "childCount": 2,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "script",
+        "classes": null,
+        "text": "(()=>{var a=(s,i,o)=>{let r=async()=>{await(await s())()},t=typeof i.value==\"object\"?i.value:void 0,c={rootMargin:t==null?void 0:t.rootMargin},n=new IntersectionObserver(e=>{for(let l of e)if(l.isIntersecting){n.disconnect(),r();break}},c);for(let e of o.children)n.observe(e)};(self.Astro||(self.Astro={})).visible=a;window.dispatchEvent(new Event(\"astro:visible\"));})();",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "pageX": 0,
+          "pageY": 0,
+          "w": 0,
+          "h": 0
+        },
+        "childCount": 0,
+        "style": "s2",
+        "children": []
+      },
+      {
+        "tag": "astro-island",
+        "classes": null,
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "pageX": 0,
+          "pageY": 0,
+          "w": 0,
+          "h": 0
+        },
+        "childCount": 2,
+        "style": "s3",
+        "children": [
+          {
+            "tag": "div",
+            "classes": "mb-2xl px-md lg:px-xl gap-lg flex flex-col",
+            "text": null,
+            "rect": {
+              "x": 122,
+              "y": 939,
+              "pageX": 122,
+              "pageY": 939,
+              "w": 1196,
+              "h": 36
+            },
+            "childCount": 2,
+            "style": "s4",
+            "children": [
+              {
+                "tag": "h2",
+                "classes": "text-h2 text-trim max-w-[20ch] text-balance",
+                "text": "Open positions",
+                "rect": {
+                  "x": 154,
+                  "y": 940,
+                  "pageX": 154,
+                  "pageY": 940,
+                  "w": 322,
+                  "h": 36
+                },
+                "pseudo": {
+                  "::before": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -7.67844px",
+                    "transition": "all"
+                  },
+                  "::after": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -9.59844px",
+                    "transition": "all"
+                  }
+                },
+                "childCount": 0,
+                "style": "s5",
+                "children": []
+              },
+              {
+                "tag": "fieldset",
+                "classes": "flex flex-wrap gap-1",
+                "text": null,
+                "rect": {
+                  "x": 717,
+                  "y": 939,
+                  "pageX": 717,
+                  "pageY": 939,
+                  "w": 569,
+                  "h": 36
+                },
+                "childCount": 7,
+                "style": "s6",
+                "children": [
+                  {
+                    "tag": "legend",
+                    "classes": "sr-only",
+                    "text": "Filter positions by department",
+                    "rect": {
+                      "x": 716,
+                      "y": 938,
+                      "pageX": 716,
+                      "pageY": 938,
+                      "w": 1,
+                      "h": 1
+                    },
+                    "childCount": 0,
+                    "style": "s7",
+                    "children": []
+                  },
+                  {
+                    "tag": "label",
+                    "classes": "border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border",
+                    "text": null,
+                    "rect": {
+                      "x": 717,
+                      "y": 939,
+                      "pageX": 717,
+                      "pageY": 939,
+                      "w": 41,
+                      "h": 36
+                    },
+                    "childCount": 2,
+                    "style": "s8",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "classes": "sr-only",
+                        "text": null,
+                        "rect": {
+                          "x": 729,
+                          "y": 951,
+                          "pageX": 729,
+                          "pageY": 951,
+                          "w": 1,
+                          "h": 1
+                        },
+                        "childCount": 0,
+                        "style": "s9",
+                        "children": []
+                      },
+                      {
+                        "tag": "span",
+                        "classes": "text-small text-trim block",
+                        "text": "All",
+                        "rect": {
+                          "x": 730,
+                          "y": 952,
+                          "pageX": 730,
+                          "pageY": 952,
+                          "w": 15,
+                          "h": 15
+                        },
+                        "pseudo": {
+                          "::before": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -3.62612px",
+                            "transition": "all"
+                          },
+                          "::after": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -4.18611px",
+                            "transition": "all"
+                          }
+                        },
+                        "childCount": 0,
+                        "style": "s10",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "label",
+                    "classes": "border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border",
+                    "text": null,
+                    "rect": {
+                      "x": 762,
+                      "y": 939,
+                      "pageX": 762,
+                      "pageY": 939,
+                      "w": 105,
+                      "h": 36
+                    },
+                    "childCount": 2,
+                    "style": "s11",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "classes": "sr-only",
+                        "text": null,
+                        "rect": {
+                          "x": 774,
+                          "y": 951,
+                          "pageX": 774,
+                          "pageY": 951,
+                          "w": 1,
+                          "h": 1
+                        },
+                        "childCount": 0,
+                        "style": "s12",
+                        "children": []
+                      },
+                      {
+                        "tag": "span",
+                        "classes": "text-small text-trim block",
+                        "text": "Engineering",
+                        "rect": {
+                          "x": 775,
+                          "y": 952,
+                          "pageX": 775,
+                          "pageY": 952,
+                          "w": 79,
+                          "h": 15
+                        },
+                        "pseudo": {
+                          "::before": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -3.62612px",
+                            "transition": "all"
+                          },
+                          "::after": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -4.18611px",
+                            "transition": "all"
+                          }
+                        },
+                        "childCount": 0,
+                        "style": "s13",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "label",
+                    "classes": "border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border",
+                    "text": null,
+                    "rect": {
+                      "x": 871,
+                      "y": 939,
+                      "pageX": 871,
+                      "pageY": 939,
+                      "w": 78,
+                      "h": 36
+                    },
+                    "childCount": 2,
+                    "style": "s14",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "classes": "sr-only",
+                        "text": null,
+                        "rect": {
+                          "x": 883,
+                          "y": 951,
+                          "pageX": 883,
+                          "pageY": 951,
+                          "w": 1,
+                          "h": 1
+                        },
+                        "childCount": 0,
+                        "style": "s15",
+                        "children": []
+                      },
+                      {
+                        "tag": "span",
+                        "classes": "text-small text-trim block",
+                        "text": "Finance",
+                        "rect": {
+                          "x": 884,
+                          "y": 952,
+                          "pageX": 884,
+                          "pageY": 952,
+                          "w": 52,
+                          "h": 15
+                        },
+                        "pseudo": {
+                          "::before": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -3.62612px",
+                            "transition": "all"
+                          },
+                          "::after": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -4.18611px",
+                            "transition": "all"
+                          }
+                        },
+                        "childCount": 0,
+                        "style": "s16",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "label",
+                    "classes": "border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border",
+                    "text": null,
+                    "rect": {
+                      "x": 953,
+                      "y": 939,
+                      "pageX": 953,
+                      "pageY": 939,
+                      "w": 77,
+                      "h": 36
+                    },
+                    "childCount": 2,
+                    "style": "s17",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "classes": "sr-only",
+                        "text": null,
+                        "rect": {
+                          "x": 965,
+                          "y": 951,
+                          "pageX": 965,
+                          "pageY": 951,
+                          "w": 1,
+                          "h": 1
+                        },
+                        "childCount": 0,
+                        "style": "s18",
+                        "children": []
+                      },
+                      {
+                        "tag": "span",
+                        "classes": "text-small text-trim block",
+                        "text": "Growth",
+                        "rect": {
+                          "x": 966,
+                          "y": 952,
+                          "pageX": 966,
+                          "pageY": 952,
+                          "w": 51,
+                          "h": 15
+                        },
+                        "pseudo": {
+                          "::before": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -3.62612px",
+                            "transition": "all"
+                          },
+                          "::after": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -4.18611px",
+                            "transition": "all"
+                          }
+                        },
+                        "childCount": 0,
+                        "style": "s19",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "label",
+                    "classes": "border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border",
+                    "text": null,
+                    "rect": {
+                      "x": 1034,
+                      "y": 939,
+                      "pageX": 1034,
+                      "pageY": 939,
+                      "w": 166,
+                      "h": 36
+                    },
+                    "childCount": 2,
+                    "style": "s20",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "classes": "sr-only",
+                        "text": null,
+                        "rect": {
+                          "x": 1046,
+                          "y": 951,
+                          "pageX": 1046,
+                          "pageY": 951,
+                          "w": 1,
+                          "h": 1
+                        },
+                        "childCount": 0,
+                        "style": "s21",
+                        "children": []
+                      },
+                      {
+                        "tag": "span",
+                        "classes": "text-small text-trim block",
+                        "text": "People & Operations",
+                        "rect": {
+                          "x": 1047,
+                          "y": 952,
+                          "pageX": 1047,
+                          "pageY": 952,
+                          "w": 140,
+                          "h": 15
+                        },
+                        "pseudo": {
+                          "::before": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -3.62612px",
+                            "transition": "all"
+                          },
+                          "::after": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -4.18611px",
+                            "transition": "all"
+                          }
+                        },
+                        "childCount": 0,
+                        "style": "s22",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "label",
+                    "classes": "border-ink-fixed/10 has-[:checked]:bg-ink-fixed/10 has-[:focus-visible]:ring-ink/40 relative rounded-full border",
+                    "text": null,
+                    "rect": {
+                      "x": 1204,
+                      "y": 939,
+                      "pageX": 1204,
+                      "pageY": 939,
+                      "w": 82,
+                      "h": 36
+                    },
+                    "childCount": 2,
+                    "style": "s23",
+                    "children": [
+                      {
+                        "tag": "input",
+                        "classes": "sr-only",
+                        "text": null,
+                        "rect": {
+                          "x": 1216,
+                          "y": 951,
+                          "pageX": 1216,
+                          "pageY": 951,
+                          "w": 1,
+                          "h": 1
+                        },
+                        "childCount": 0,
+                        "style": "s24",
+                        "children": []
+                      },
+                      {
+                        "tag": "span",
+                        "classes": "text-small text-trim block",
+                        "text": "Support",
+                        "rect": {
+                          "x": 1217,
+                          "y": 952,
+                          "pageX": 1217,
+                          "pageY": 952,
+                          "w": 56,
+                          "h": 15
+                        },
+                        "pseudo": {
+                          "::before": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -3.62612px",
+                            "transition": "all"
+                          },
+                          "::after": {
+                            "content": "\"\"",
+                            "opacity": "1",
+                            "display": "table",
+                            "borderColor": "rgb(250, 245, 242)",
+                            "borderStyle": "solid",
+                            "margin": "0px 0px -4.18611px",
+                            "transition": "all"
+                          }
+                        },
+                        "childCount": 0,
+                        "style": "s25",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ul",
+            "classes": "grid grid-cols-1 gap-1 md:grid-cols-2",
+            "text": null,
+            "rect": {
+              "x": 122,
+              "y": 1016,
+              "pageX": 122,
+              "pageY": 1016,
+              "w": 1196,
+              "h": 1107
+            },
+            "childCount": 10,
+            "style": "s26",
+            "children": [
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 122,
+                  "y": 1016,
+                  "pageX": 122,
+                  "pageY": 1016,
+                  "w": 596,
+                  "h": 218
+                },
+                "childCount": 1,
+                "style": "s27",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40",
+                    "text": null,
+                    "href": "/careers/growth-engineer-cto-office",
+                    "rect": {
+                      "x": 122,
+                      "y": 1016,
+                      "pageX": 122,
+                      "pageY": 1016,
+                      "w": 596,
+                      "h": 218
+                    },
+                    "childCount": 2,
+                    "style": "s28",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 154,
+                          "y": 1048,
+                          "pageX": 154,
+                          "pageY": 1048,
+                          "w": 532,
+                          "h": 86
+                        },
+                        "childCount": 2,
+                        "style": "s29",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "h3"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 154,
+                          "y": 1174,
+                          "pageX": 154,
+                          "pageY": 1174,
+                          "w": 532,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s30",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 722,
+                  "y": 1016,
+                  "pageX": 722,
+                  "pageY": 1016,
+                  "w": 596,
+                  "h": 218
+                },
+                "childCount": 1,
+                "style": "s27",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40",
+                    "text": null,
+                    "href": "/careers/head-of-brand-marketing",
+                    "rect": {
+                      "x": 722,
+                      "y": 1016,
+                      "pageX": 722,
+                      "pageY": 1016,
+                      "w": 596,
+                      "h": 218
+                    },
+                    "childCount": 2,
+                    "style": "s28",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 754,
+                          "y": 1048,
+                          "pageX": 754,
+                          "pageY": 1048,
+                          "w": 532,
+                          "h": 86
+                        },
+                        "childCount": 2,
+                        "style": "s29",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "h3"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 754,
+                          "y": 1174,
+                          "pageX": 754,
+                          "pageY": 1174,
+                          "w": 532,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s30",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 122,
+                  "y": 1238,
+                  "pageX": 122,
+                  "pageY": 1238,
+                  "w": 596,
+                  "h": 218
+                },
+                "childCount": 1,
+                "style": "s27",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40",
+                    "text": null,
+                    "href": "/careers/head-of-finance",
+                    "rect": {
+                      "x": 122,
+                      "y": 1238,
+                      "pageX": 122,
+                      "pageY": 1238,
+                      "w": 596,
+                      "h": 218
+                    },
+                    "childCount": 2,
+                    "style": "s28",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 154,
+                          "y": 1270,
+                          "pageX": 154,
+                          "pageY": 1270,
+                          "w": 532,
+                          "h": 86
+                        },
+                        "childCount": 2,
+                        "style": "s29",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "h3"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 154,
+                          "y": 1396,
+                          "pageX": 154,
+                          "pageY": 1396,
+                          "w": 532,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s30",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 722,
+                  "y": 1238,
+                  "pageX": 722,
+                  "pageY": 1238,
+                  "w": 596,
+                  "h": 218
+                },
+                "childCount": 1,
+                "style": "s27",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40",
+                    "text": null,
+                    "href": "/careers/lifecycle-marketing-lead",
+                    "rect": {
+                      "x": 722,
+                      "y": 1238,
+                      "pageX": 722,
+                      "pageY": 1238,
+                      "w": 596,
+                      "h": 218
+                    },
+                    "childCount": 2,
+                    "style": "s28",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 754,
+                          "y": 1270,
+                          "pageX": 754,
+                          "pageY": 1270,
+                          "w": 532,
+                          "h": 86
+                        },
+                        "childCount": 2,
+                        "style": "s29",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "h3"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 754,
+                          "y": 1396,
+                          "pageX": 754,
+                          "pageY": 1396,
+                          "w": 532,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s30",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 122,
+                  "y": 1460,
+                  "pageX": 122,
+                  "pageY": 1460,
+                  "w": 596,
+                  "h": 218
+                },
+                "childCount": 1,
+                "style": "s27",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40",
+                    "text": null,
+                    "href": "/careers/senior-frontend-engineer-product-team",
+                    "rect": {
+                      "x": 122,
+                      "y": 1460,
+                      "pageX": 122,
+                      "pageY": 1460,
+                      "w": 596,
+                      "h": 218
+                    },
+                    "childCount": 2,
+                    "style": "s28",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 154,
+                          "y": 1492,
+                          "pageX": 154,
+                          "pageY": 1492,
+                          "w": 532,
+                          "h": 86
+                        },
+                        "childCount": 2,
+                        "style": "s29",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "h3"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 154,
+                          "y": 1618,
+                          "pageX": 154,
+                          "pageY": 1618,
+                          "w": 532,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s30",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 722,
+                  "y": 1460,
+                  "pageX": 722,
+                  "pageY": 1460,
+                  "w": 596,
+                  "h": 218
+                },
+                "childCount": 1,
+                "style": "s27",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40",
+                    "text": null,
+                    "href": "/careers/senior-software-engineer-backend-team",
+                    "rect": {
+                      "x": 722,
+                      "y": 1460,
+                      "pageX": 722,
+                      "pageY": 1460,
+                      "w": 596,
+                      "h": 218
+                    },
+                    "childCount": 2,
+                    "style": "s28",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 754,
+                          "y": 1492,
+                          "pageX": 754,
+                          "pageY": 1492,
+                          "w": 532,
+                          "h": 86
+                        },
+                        "childCount": 2,
+                        "style": "s29",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "h3"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 754,
+                          "y": 1618,
+                          "pageX": 754,
+                          "pageY": 1618,
+                          "w": 532,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s30",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 122,
+                  "y": 1682,
+                  "pageX": 122,
+                  "pageY": 1682,
+                  "w": 596,
+                  "h": 218
+                },
+                "childCount": 1,
+                "style": "s27",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40",
+                    "text": null,
+                    "href": "/careers/senior-support-specialist",
+                    "rect": {
+                      "x": 122,
+                      "y": 1682,
+                      "pageX": 122,
+                      "pageY": 1682,
+                      "w": 596,
+                      "h": 218
+                    },
+                    "childCount": 2,
+                    "style": "s28",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 154,
+                          "y": 1714,
+                          "pageX": 154,
+                          "pageY": 1714,
+                          "w": 532,
+                          "h": 86
+                        },
+                        "childCount": 2,
+                        "style": "s29",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "h3"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 154,
+                          "y": 1840,
+                          "pageX": 154,
+                          "pageY": 1840,
+                          "w": 532,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s30",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 722,
+                  "y": 1682,
+                  "pageX": 722,
+                  "pageY": 1682,
+                  "w": 596,
+                  "h": 218
+                },
+                "childCount": 1,
+                "style": "s27",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40",
+                    "text": null,
+                    "href": "/careers/social-media-lead",
+                    "rect": {
+                      "x": 722,
+                      "y": 1682,
+                      "pageX": 722,
+                      "pageY": 1682,
+                      "w": 596,
+                      "h": 218
+                    },
+                    "childCount": 2,
+                    "style": "s28",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 754,
+                          "y": 1714,
+                          "pageX": 754,
+                          "pageY": 1714,
+                          "w": 532,
+                          "h": 86
+                        },
+                        "childCount": 2,
+                        "style": "s29",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "h3"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 754,
+                          "y": 1840,
+                          "pageX": 754,
+                          "pageY": 1840,
+                          "w": 532,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s30",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 122,
+                  "y": 1904,
+                  "pageX": 122,
+                  "pageY": 1904,
+                  "w": 596,
+                  "h": 218
+                },
+                "childCount": 1,
+                "style": "s27",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "group rounded-large p-lg md:p-xl gap-2xl focus-visible:ring-ink/40",
+                    "text": null,
+                    "href": "/careers/talent-acquisition-specialist-gtm",
+                    "rect": {
+                      "x": 122,
+                      "y": 1904,
+                      "pageX": 122,
+                      "pageY": 1904,
+                      "w": 596,
+                      "h": 218
+                    },
+                    "childCount": 2,
+                    "style": "s28",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 154,
+                          "y": 1936,
+                          "pageX": 154,
+                          "pageY": 1936,
+                          "w": 532,
+                          "h": 86
+                        },
+                        "childCount": 2,
+                        "style": "s29",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "h3"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 154,
+                          "y": 2062,
+                          "pageX": 154,
+                          "pageY": 2062,
+                          "w": 532,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s30",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "classes": null,
+                "text": null,
+                "rect": {
+                  "x": 722,
+                  "y": 1904,
+                  "pageX": 722,
+                  "pageY": 1904,
+                  "w": 596,
+                  "h": 218
+                },
+                "childCount": 1,
+                "style": "s27",
+                "children": [
+                  {
+                    "tag": "a",
+                    "classes": "rounded-large border-hairline p-lg md:p-xl gap-lg focus-visible:ring-ink/40",
+                    "text": null,
+                    "href": "mailto:rylo.submitresume@comeetapply.com?subject=Sharing%20my%20resume%20for%20future%20roles",
+                    "rect": {
+                      "x": 722,
+                      "y": 1904,
+                      "pageX": 722,
+                      "pageY": 1904,
+                      "w": 596,
+                      "h": 218
+                    },
+                    "childCount": 2,
+                    "style": "s31",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 756,
+                          "y": 1938,
+                          "pageX": 756,
+                          "pageY": 1938,
+                          "w": 528,
+                          "h": 70
+                        },
+                        "childCount": 2,
+                        "style": "s32",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "h3"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "p"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-xs flex items-center justify-end",
+                        "text": null,
+                        "rect": {
+                          "x": 756,
+                          "y": 2060,
+                          "pageX": 756,
+                          "pageY": 2060,
+                          "w": 528,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s33",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(250, 245, 242)",
+      "textAlign": "start",
+      "backgroundColor": "oklab(0.973166 0.00403872 0.00540715 / 0.05)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "39.9995px",
+      "paddingRight": "39.9995px",
+      "paddingBottom": "39.9995px",
+      "paddingLeft": "39.9995px",
+      "width": "1280px",
+      "height": "1266.97px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "79.9994px",
+      "borderTopWidth": "2px",
+      "borderBottomWidth": "2px",
+      "borderLeftWidth": "2px",
+      "borderRightWidth": "2px",
+      "borderColor": "color(srgb 0.980392 0.960784 0.94902 / 0.1)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "backdropFilter": "blur(15px)",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "backgroundPosition": "0% 0%",
+      "display": "contents",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "backgroundPosition": "0% 0%",
+      "paddingRight": "31.9998px",
+      "paddingLeft": "31.9998px",
+      "marginBottom": "39.9995px",
+      "width": "1196.03px",
+      "height": "36.3906px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "fontSize": "48px",
+      "fontWeight": "600",
+      "lineHeight": "52.8px",
+      "letterSpacing": "-1.44px",
+      "backgroundPosition": "0% 0%",
+      "width": "321.844px",
+      "height": "35.5312px",
+      "maxWidth": "620px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "backgroundPosition": "0% 0%",
+      "width": "569px",
+      "height": "36.3906px",
+      "minWidth": "min-content",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "backgroundPosition": "0% 0%",
+      "marginTop": "-1px",
+      "marginRight": "-1px",
+      "marginBottom": "-1px",
+      "marginLeft": "-1px",
+      "width": "1px",
+      "height": "1px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "position": "absolute",
+      "top": "39.9844px",
+      "right": "641.969px",
+      "bottom": "1223.98px",
+      "left": "635.031px",
+      "inset": "39.9844px 641.969px 1223.98px 635.031px",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "whiteSpace": "nowrap",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s8": {
+      "backgroundColor": "oklab(0.196595 0.00668062 0.0062332 / 0.1)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingRight": "12px",
+      "paddingBottom": "12px",
+      "paddingLeft": "12px",
+      "width": "41px",
+      "height": "36.3906px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "3.35544e+07px",
+      "borderTopWidth": "1px",
+      "borderBottomWidth": "1px",
+      "borderLeftWidth": "1px",
+      "borderRightWidth": "1px",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "default",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "backgroundPosition": "0% 0%",
+      "marginTop": "-1px",
+      "marginRight": "-1px",
+      "marginBottom": "-1px",
+      "marginLeft": "-1px",
+      "width": "1px",
+      "height": "1px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "position": "absolute",
+      "top": "12px",
+      "right": "28px",
+      "bottom": "23.3906px",
+      "left": "12px",
+      "inset": "12px 28px 23.3906px 12px",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "whiteSpace": "nowrap",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s10": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "width": "15px",
+      "height": "14.5625px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s11": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingRight": "12px",
+      "paddingBottom": "12px",
+      "paddingLeft": "12px",
+      "width": "105px",
+      "height": "36.3906px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "3.35544e+07px",
+      "borderTopWidth": "1px",
+      "borderBottomWidth": "1px",
+      "borderLeftWidth": "1px",
+      "borderRightWidth": "1px",
+      "borderColor": "oklab(0.196595 0.00668062 0.0062332 / 0.1)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "default",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s12": {
+      "backgroundPosition": "0% 0%",
+      "marginTop": "-1px",
+      "marginRight": "-1px",
+      "marginBottom": "-1px",
+      "marginLeft": "-1px",
+      "width": "1px",
+      "height": "1px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "position": "absolute",
+      "top": "12px",
+      "right": "92px",
+      "bottom": "23.3906px",
+      "left": "12px",
+      "inset": "12px 92px 23.3906px 12px",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "whiteSpace": "nowrap",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s13": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "width": "79px",
+      "height": "14.5625px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s14": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingRight": "12px",
+      "paddingBottom": "12px",
+      "paddingLeft": "12px",
+      "width": "78px",
+      "height": "36.3906px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "3.35544e+07px",
+      "borderTopWidth": "1px",
+      "borderBottomWidth": "1px",
+      "borderLeftWidth": "1px",
+      "borderRightWidth": "1px",
+      "borderColor": "oklab(0.196595 0.00668062 0.0062332 / 0.1)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "default",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s15": {
+      "backgroundPosition": "0% 0%",
+      "marginTop": "-1px",
+      "marginRight": "-1px",
+      "marginBottom": "-1px",
+      "marginLeft": "-1px",
+      "width": "1px",
+      "height": "1px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "position": "absolute",
+      "top": "12px",
+      "right": "65px",
+      "bottom": "23.3906px",
+      "left": "12px",
+      "inset": "12px 65px 23.3906px 12px",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "whiteSpace": "nowrap",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s16": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "width": "52px",
+      "height": "14.5625px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s17": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingRight": "12px",
+      "paddingBottom": "12px",
+      "paddingLeft": "12px",
+      "width": "77px",
+      "height": "36.3906px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "3.35544e+07px",
+      "borderTopWidth": "1px",
+      "borderBottomWidth": "1px",
+      "borderLeftWidth": "1px",
+      "borderRightWidth": "1px",
+      "borderColor": "oklab(0.196595 0.00668062 0.0062332 / 0.1)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "default",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s18": {
+      "backgroundPosition": "0% 0%",
+      "marginTop": "-1px",
+      "marginRight": "-1px",
+      "marginBottom": "-1px",
+      "marginLeft": "-1px",
+      "width": "1px",
+      "height": "1px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "position": "absolute",
+      "top": "12px",
+      "right": "64px",
+      "bottom": "23.3906px",
+      "left": "12px",
+      "inset": "12px 64px 23.3906px 12px",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "whiteSpace": "nowrap",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s19": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "width": "51px",
+      "height": "14.5625px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s20": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingRight": "12px",
+      "paddingBottom": "12px",
+      "paddingLeft": "12px",
+      "width": "166px",
+      "height": "36.3906px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "3.35544e+07px",
+      "borderTopWidth": "1px",
+      "borderBottomWidth": "1px",
+      "borderLeftWidth": "1px",
+      "borderRightWidth": "1px",
+      "borderColor": "oklab(0.196595 0.00668062 0.0062332 / 0.1)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "default",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s21": {
+      "backgroundPosition": "0% 0%",
+      "marginTop": "-1px",
+      "marginRight": "-1px",
+      "marginBottom": "-1px",
+      "marginLeft": "-1px",
+      "width": "1px",
+      "height": "1px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "position": "absolute",
+      "top": "12px",
+      "right": "153px",
+      "bottom": "23.3906px",
+      "left": "12px",
+      "inset": "12px 153px 23.3906px 12px",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "whiteSpace": "nowrap",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s22": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "width": "140px",
+      "height": "14.5625px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s23": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "12px",
+      "paddingRight": "12px",
+      "paddingBottom": "12px",
+      "paddingLeft": "12px",
+      "width": "82px",
+      "height": "36.3906px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "3.35544e+07px",
+      "borderTopWidth": "1px",
+      "borderBottomWidth": "1px",
+      "borderLeftWidth": "1px",
+      "borderRightWidth": "1px",
+      "borderColor": "oklab(0.196595 0.00668062 0.0062332 / 0.1)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "default",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s24": {
+      "backgroundPosition": "0% 0%",
+      "marginTop": "-1px",
+      "marginRight": "-1px",
+      "marginBottom": "-1px",
+      "marginLeft": "-1px",
+      "width": "1px",
+      "height": "1px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "position": "absolute",
+      "top": "12px",
+      "right": "69px",
+      "bottom": "23.3906px",
+      "left": "12px",
+      "inset": "12px 69px 23.3906px 12px",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "whiteSpace": "nowrap",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s25": {
+      "fontSize": "13.9995px",
+      "lineHeight": "18.1994px",
+      "backgroundPosition": "0% 0%",
+      "width": "56px",
+      "height": "14.5625px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s26": {
+      "backgroundPosition": "0% 0%",
+      "width": "1196.03px",
+      "height": "1106.62px",
+      "display": "grid",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px",
+      "gridTemplateColumns": "596.016px 596.016px",
+      "gridTemplateRows": "218.125px 218.125px 218.125px 218.125px 218.125px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s27": {
+      "backgroundPosition": "0% 0%",
+      "width": "596.016px",
+      "height": "218.125px",
+      "display": "list-item",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s28": {
+      "color": "rgb(25, 20, 18)",
+      "backgroundColor": "rgb(250, 245, 242)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "31.9998px",
+      "paddingRight": "31.9998px",
+      "paddingBottom": "31.9998px",
+      "paddingLeft": "31.9998px",
+      "width": "596.016px",
+      "height": "218.125px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "gap": "39.9995px",
+      "rowGap": "39.9995px",
+      "columnGap": "39.9995px",
+      "gridAutoFlow": "row",
+      "borderRadius": "40px",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s29": {
+      "backgroundPosition": "0% 0%",
+      "width": "532.047px",
+      "height": "86.1719px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s30": {
+      "backgroundPosition": "0% 0%",
+      "width": "532.047px",
+      "height": "28px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gap": "39.9995px",
+      "rowGap": "39.9995px",
+      "columnGap": "39.9995px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s31": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "31.9998px",
+      "paddingRight": "31.9998px",
+      "paddingBottom": "31.9998px",
+      "paddingLeft": "31.9998px",
+      "width": "596.016px",
+      "height": "218.125px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "gap": "23.9998px",
+      "rowGap": "23.9998px",
+      "columnGap": "23.9998px",
+      "gridAutoFlow": "row",
+      "borderRadius": "40px",
+      "borderTopWidth": "2px",
+      "borderBottomWidth": "2px",
+      "borderLeftWidth": "2px",
+      "borderRightWidth": "2px",
+      "borderColor": "color(srgb 0.980392 0.960784 0.94902 / 0.1)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s32": {
+      "backgroundPosition": "0% 0%",
+      "width": "528.047px",
+      "height": "70.3594px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s33": {
+      "backgroundPosition": "0% 0%",
+      "width": "528.047px",
+      "height": "28px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "flex-end",
+      "alignItems": "center",
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(250, 245, 242)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

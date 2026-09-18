@@ -1,0 +1,767 @@
+{
+  "url": "https://rylo.com/careers",
+  "generatedAt": "2026-09-18T13:28:10.082Z",
+  "images": [
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&w=1668&h=1257&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&w=640&h=482&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&w=750&h=565&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&w=828&h=624&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&w=1080&h=814&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&w=1280&h=965&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1280w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&w=1668&h=1257&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1668w, /_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&w=2048&h=1543&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2048w",
+      "alt": "",
+      "naturalWidth": 1440,
+      "naturalHeight": 1085,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "0",
+      "parentClasses": "-mb-band-overlap relative z-2 overflow-clip",
+      "local": "public/images/_image.bin"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&w=1600&h=1285&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&w=640&h=514&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&w=750&h=602&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&w=828&h=665&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&w=1080&h=867&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&w=1280&h=1028&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1280w, /_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&w=1600&h=1285&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1600w",
+      "alt": "Alon, CTO of Rylo, and Rotem, Rylo's Operations Manager with a Rylo user",
+      "naturalWidth": 1440,
+      "naturalHeight": 1156,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "aspect-3/2 relative w-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.",
+      "local": "public/images/_image-7f4561.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&w=1152&h=955&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&w=640&h=531&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&w=750&h=622&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&w=828&h=686&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&w=1080&h=895&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&w=1152&h=955&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1152w",
+      "alt": "Ohad, a software engineer testing Rylo on several devices at once",
+      "naturalWidth": 1152,
+      "naturalHeight": 955,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "aspect-3/2 relative w-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.",
+      "local": "public/images/_image-a6f956.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&w=1280&h=890&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&w=640&h=445&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&w=750&h=521&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&w=828&h=576&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&w=1080&h=751&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&w=1280&h=890&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1280w",
+      "alt": "The Rylo team",
+      "naturalWidth": 1280,
+      "naturalHeight": 890,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "aspect-3/2 relative w-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.",
+      "local": "public/images/_image-671a3c.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&w=1600&h=1152&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&w=640&h=461&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&w=750&h=540&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&w=828&h=596&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&w=1080&h=778&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&w=1280&h=922&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1280w, /_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&w=1600&h=1152&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1600w",
+      "alt": "The Rylo team celebrating in the Rylo New York office",
+      "naturalWidth": 1440,
+      "naturalHeight": 1036,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "aspect-3/2 relative w-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.",
+      "local": "public/images/_image-14c485.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&w=1668&h=1245&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&w=640&h=478&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&w=750&h=560&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 750w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&w=828&h=618&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 828w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&w=1080&h=806&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1080w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&w=1280&h=955&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1280w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&w=1668&h=1245&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1668w, /_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&w=2048&h=1529&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2048w",
+      "alt": "",
+      "naturalWidth": 1440,
+      "naturalHeight": 1074,
+      "siblingImgs": 1,
+      "position": "absolute",
+      "zIndex": "0",
+      "parentClasses": "relative overflow-clip z-2 rounded-t-huge -mb-band-overlap py-section-lg",
+      "local": "public/images/_image-74e78d.bin"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&w=854&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Group of six people lounging on reclining chairs on a wooden deck overlooking a scenic green landscape and terraced hills.",
+      "naturalWidth": 427,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-757447.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&w=617&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&w=617&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&w=1234&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Group of nine people standing on a stone terrace overlooking a river and terraced hills under a clear sky.",
+      "naturalWidth": 617,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-52c831.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&w=640&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Person wearing headphones working on a laptop at a table outside overlooking a seaside with umbrellas, chairs, and a rocky hill with white buildings.",
+      "naturalWidth": 320,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-df6666.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&w=386&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&w=386&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&w=772&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Nine team members toasting with spritz cocktails around a wooden dinner table under a tent, a small black dog at their side.",
+      "naturalWidth": 386,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-9a6a31.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&w=640&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Curly-haired brown and white puppy sitting on a tiled floor indoors near glass doors and white furniture.",
+      "naturalWidth": 320,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-8b812e.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&w=854&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Group of six people lounging on reclining chairs on a wooden deck overlooking a scenic green landscape and terraced hills.",
+      "naturalWidth": 427,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-757447.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&w=617&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&w=617&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&w=1234&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Group of nine people standing on a stone terrace overlooking a river and terraced hills under a clear sky.",
+      "naturalWidth": 617,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-52c831.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&w=640&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Person wearing headphones working on a laptop at a table outside overlooking a seaside with umbrellas, chairs, and a rocky hill with white buildings.",
+      "naturalWidth": 320,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-df6666.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&w=386&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&w=386&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&w=772&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Nine team members toasting with spritz cocktails around a wooden dinner table under a tent, a small black dog at their side.",
+      "naturalWidth": 386,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-9a6a31.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&w=640&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Curly-haired brown and white puppy sitting on a tiled floor indoors near glass doors and white furniture.",
+      "naturalWidth": 320,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-8b812e.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&w=854&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Group of six people lounging on reclining chairs on a wooden deck overlooking a scenic green landscape and terraced hills.",
+      "naturalWidth": 427,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-757447.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&w=617&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&w=617&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&w=1234&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Group of nine people standing on a stone terrace overlooking a river and terraced hills under a clear sky.",
+      "naturalWidth": 617,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-52c831.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&w=640&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Person wearing headphones working on a laptop at a table outside overlooking a seaside with umbrellas, chairs, and a rocky hill with white buildings.",
+      "naturalWidth": 320,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-df6666.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&w=386&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&w=386&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&w=772&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Nine team members toasting with spritz cocktails around a wooden dinner table under a tent, a small black dog at their side.",
+      "naturalWidth": 386,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-9a6a31.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&w=640&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Curly-haired brown and white puppy sitting on a tiled floor indoors near glass doors and white furniture.",
+      "naturalWidth": 320,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-8b812e.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&w=832&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&w=832&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&w=1664&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Group of seven young adults relaxing and interacting in a modern living room with white sofas, a black coffee table, and woven baskets.",
+      "naturalWidth": 832,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-2ea11d.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&w=480&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Two team members in an office striking poses in playful data-themed t-shirts, sunglasses, and hats.",
+      "naturalWidth": 240,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-5d5de2.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&w=854&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Seven team members smiling for a selfie inside a van.",
+      "naturalWidth": 427,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-3173f8.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&w=480&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Three team members embracing on a rooftop terrace with the Empire State Building behind them.",
+      "naturalWidth": 240,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-761cd9.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&w=287&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&w=287&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&w=574&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "A man in a navy shirt is using sign language in front of banners for T-Mobile Accessibility and Deaf Bible Society.",
+      "naturalWidth": 287,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-f595e8.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&w=832&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&w=832&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&w=1664&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Group of seven young adults relaxing and interacting in a modern living room with white sofas, a black coffee table, and woven baskets.",
+      "naturalWidth": 832,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-2ea11d.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&w=480&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Two team members in an office striking poses in playful data-themed t-shirts, sunglasses, and hats.",
+      "naturalWidth": 240,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-5d5de2.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&w=854&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Seven team members smiling for a selfie inside a van.",
+      "naturalWidth": 427,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-3173f8.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&w=480&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Three team members embracing on a rooftop terrace with the Empire State Building behind them.",
+      "naturalWidth": 240,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-761cd9.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&w=287&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&w=287&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&w=574&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "A man in a navy shirt is using sign language in front of banners for T-Mobile Accessibility and Deaf Bible Society.",
+      "naturalWidth": 287,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-f595e8.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&w=832&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&w=832&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&w=1664&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Group of seven young adults relaxing and interacting in a modern living room with white sofas, a black coffee table, and woven baskets.",
+      "naturalWidth": 832,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-2ea11d.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&w=480&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Two team members in an office striking poses in playful data-themed t-shirts, sunglasses, and hats.",
+      "naturalWidth": 240,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-5d5de2.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&w=854&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Seven team members smiling for a selfie inside a van.",
+      "naturalWidth": 427,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-3173f8.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&w=480&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "Three team members embracing on a rooftop terrace with the Empire State Building behind them.",
+      "naturalWidth": 240,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-761cd9.webp"
+    },
+    {
+      "src": "https://rylo.com/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&w=287&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "srcset": "/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&w=287&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 1x, /_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&w=574&h=640&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 2x",
+      "alt": "A man in a navy shirt is using sign language in front of banners for T-Mobile Accessibility and Deaf Bible Society.",
+      "naturalWidth": 287,
+      "naturalHeight": 320,
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto",
+      "parentClasses": "rounded-large mx-0.5 h-44 shrink-0 overflow-hidden md:h-56 lg:h-80",
+      "local": "public/images/_image-f595e8.webp"
+    }
+  ],
+  "videos": [],
+  "backgroundImages": [],
+  "inlineSvgs": [
+    {
+      "outerHTML": "<svg viewBox=\"0 0 100 33\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M13.385 3.92576V25.869C13.385 26.5503 12.7168 27.0298 12.0722 26.8084C9.04169 25.7668 1.81987 22.8516 1.81987 18.7088C1.81987 14.8384 8.10097 13.4103 8.10097 9.97758C8.09966 6.26185 0 3.47898 0 0.96864V0.948987C0.0039306 0.385601 0.466431 -0.0402142 1.02982 0.0030224C4.94994 0.309609 8.39708 1.35122 12.2989 2.48061C12.9422 2.66666 13.3863 3.25625 13.3863 3.92576H13.385Z\" fill=\"var(--marketing-accent)\"></path>\n  <path d=\"M15.2023 26.6499V4.70532C15.2023 4.02402 15.8705 3.54449 16.5151 3.76591C19.5456 4.80752 26.7674 7.72271 26.7674 11.8656C26.7674 15.7359 20.4863 17.164 20.4863 20.5967C20.4863 24.3151 28.586 27.0966 28.586 29.607V29.6266C28.582 30.19 28.1195 30.6172 27.5561 30.5726C23.636 30.266 20.1889 29.2244 16.2871 28.095C15.6438 27.909 15.1996 27.3194 15.1996 26.6499H15.2023Z\" fill=\"var(--marketing-accent)\"></path>\n  <path d=\"M41.6042 25.8453V4.72461H52.4738C56.4064 4.72461 58.8218 7.14008 58.8218 10.7486V11.0431C58.8218 13.8268 57.3784 15.7415 54.7715 16.3307C56.0823 16.7136 56.8629 17.7593 57.349 19.7182L57.9528 22.2515C58.4094 24.0779 58.9249 25.1972 59.5877 25.698V25.8453H55.4932C55.0955 25.0205 54.8451 24.0337 54.5064 22.443L54.1087 20.4988C53.6669 18.3779 52.6506 17.4795 50.7211 17.4795H45.0507V25.8453H41.6042ZM51.6049 14.9904C53.9467 14.9904 55.3754 13.5617 55.3754 11.2788V10.9842C55.3754 8.73076 53.9467 7.3021 51.6049 7.3021H45.0507V14.9904H51.6049Z\" fill=\"currentColor\"></path>\n  <path d=\"M63.3653 32.0755C62.5258 32.0755 61.7304 31.9871 61.4506 31.9429V29.2623C61.7746 29.3065 62.5552 29.3654 63.0413 29.3654C64.7498 29.3654 65.5893 28.6879 66.1637 27.2887L66.7234 25.9042L60.611 10.7633H64.087L68.4614 22.4577L72.7915 10.7633H76.2085L69.1241 28.2608C68.1079 30.7941 66.6203 32.0755 63.3653 32.0755Z\" fill=\"currentColor\"></path>\n  <path d=\"M78.3218 25.8453V4.72461H81.5473V25.8453H78.3218Z\" fill=\"currentColor\"></path>\n  <path d=\"M92.2178 26.3461C87.2691 26.3461 84.4559 23.5182 84.4559 18.54V18.0686C84.4559 13.0757 87.2691 10.2625 92.2178 10.2625C97.1814 10.2625 99.9945 13.0757 99.9945 18.0686V18.54C99.9945 23.5182 97.1814 26.3461 92.2178 26.3461ZM92.2326 23.96C94.9279 23.96 96.6953 22.1926 96.6953 18.6872V17.9214C96.6953 14.416 94.9279 12.6485 92.2326 12.6485C89.5225 12.6485 87.7551 14.416 87.7551 17.9214V18.6872C87.7551 22.1926 89.5225 23.96 92.2326 23.96Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 108.578125,
+      "height": 35.828125,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 4.5L6 7.5L9 4.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
+      "width": 12,
+      "height": 12,
+      "context": "Products"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M11.6667 4.79199L16.875 10.0003L11.6667 15.2087M16.25 10.0003H3.125\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
+      "width": 16.796875,
+      "height": 16.796875,
+      "context": "EngineeringNew YorkGrowth Engineer, CTO OfficeHybrid•Full-ti"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 20 20\" fill=\"none\" aria-hidden=\"true\" class=\"size-4 rotate-180\">\n  <path d=\"M11.6667 4.79199L16.875 10.0003L11.6667 15.2087M16.25 10.0003H3.125\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
+      "width": 16,
+      "height": 16,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 20 20\" fill=\"none\" aria-hidden=\"true\" class=\"size-4\">\n  <path d=\"M11.6667 4.79199L16.875 10.0003L11.6667 15.2087M16.25 10.0003H3.125\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
+      "width": 16,
+      "height": 16,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 792 744\" fill=\"none\" class=\"w-full\">\n  <path d=\"M393.682 16.128C414.205 18.1838 434.916 17.304 455.19 13.5152L500.954 4.96283C596.694 -12.9289 688.19 52.1256 702.735 148.431C706.93 176.206 717.86 202.532 734.571 225.111L753.821 251.121C804.389 319.445 801.317 413.578 746.402 478.46L727.862 500.366C706.371 525.757 696.572 559.027 700.868 592.013C711.31 672.194 639.984 738.962 560.666 723.256L509.033 713.031C483.181 707.912 456.455 709.424 431.346 717.426L390.329 730.497C279.255 765.894 159.078 714.05 108.608 608.963L102.345 595.921C92.3091 575.025 77.9985 556.468 60.3388 541.451C-2.79125 487.767 -16.5287 395.688 28.1828 325.915L85.4918 236.484C99.7379 214.253 108.912 189.156 112.361 162.978C125.046 66.7119 211.885 -2.08313 308.5 7.59505L393.682 16.128Z\" stroke=\"currentColor\" stroke-width=\"4\" vector-effect=\"non-scaling-stroke\"></path>\n</svg>",
+      "width": 1003.3839111328125,
+      "height": 948.14208984375,
+      "context": "text-hairline pointer-events-none absolute inset-0"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 760 783\" fill=\"none\" class=\"w-full\">\n  <path d=\"M281.445 33.7578C364.656 -16.2424 470.793 -8.33511 546.122 52.8995C565.225 68.4289 586.862 80.8229 609.94 89.3989L614.944 91.2586C718.929 129.902 777.737 240.055 751.99 347.959C745.451 375.362 744.298 404.092 748.497 431.95C762.589 525.423 717.567 619.06 635.141 665.338L622.194 672.608C602.918 683.43 585.518 697.296 570.665 713.67C511.224 779.202 416.472 799.256 335.578 763.424L212.59 708.948L132.425 685.344C35.6895 656.86 -19.8041 555.519 8.30236 458.673C14.7685 436.393 16.9415 413.087 14.7055 389.995L8.0656 321.423C-2.0228 217.237 64.5936 120.996 165.658 93.7484C184.853 88.5733 203.234 80.7537 220.275 70.5143L281.445 33.7578Z\" stroke=\"currentColor\" stroke-width=\"2\" vector-effect=\"non-scaling-stroke\"></path>\n</svg>",
+      "width": 1007.6939697265625,
+      "height": 1035.27001953125,
+      "context": "text-accent pointer-events-none absolute inset-0"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 770 770\" fill=\"none\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"M385,0.5 A384.5,384.5,0,1,1,385,769.5 A384.5,384.5,0,1,1,385,0.5Z\" stroke=\"transparent\"></path>\n</svg>",
+      "width": 960,
+      "height": 960,
+      "context": "absolute inset-0"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" fill=\"none\" class=\"w-full\">\n  <path d=\"M12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2ZM15.4746 8.91992C15.154 8.65764 14.6822 8.70482 14.4199 9.02539L10.4443 13.8838L9.03027 12.4697C8.73739 12.1768 8.26261 12.1768 7.96973 12.4697C7.67684 12.7626 7.67684 13.2374 7.96973 13.5303L9.96973 15.5303C10.1195 15.6801 10.3255 15.7594 10.5371 15.749C10.7487 15.7384 10.9459 15.6386 11.0801 15.4746L15.5801 9.97461C15.8424 9.65403 15.7952 9.18222 15.4746 8.91992Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 24,
+      "height": 24,
+      "context": "text-accent aspect-square w-6 shrink-0"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 96 96\" fill=\"none\" slot=\"icon\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"M42.1672 53.776C46.1895 57.79 51.4236 62.0969 55.2663 61.6799C61.1944 61.0356 58.8363 55.1335 63.922 55.4367C69.4254 55.7641 77.1523 58.8788 76.9969 64.4363C76.7587 72.957 68.8281 78.8522 58.201 76.2922C45.4472 73.2189 34.3644 61.5628 34.3644 61.5628C34.3644 61.5628 22.6843 50.5028 19.6046 37.7786C17.0393 27.17 22.9467 19.2592 31.4849 19.018C37.0539 18.8629 40.1751 26.5739 40.5031 32.066C40.8069 37.1412 34.8926 34.7845 34.247 40.7039C33.8292 44.5387 38.1415 49.7586 42.1672 53.776Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 47.984375,
+      "height": 47.984375,
+      "context": "Phone Call Captioning"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"-75.5 -36 257 257\" fill=\"none\" slot=\"icon\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"M78.6744 79.9888C74.8313 79.9888 71.7146 76.8533 71.7146 72.9869C71.7146 69.1205 74.8313 65.985 78.6744 65.985H95.0099C99.0096 65.985 102.267 62.7307 102.273 58.7067C102.273 58.6318 102.273 58.5569 102.273 58.4846C102.273 58.4587 102.273 58.4329 102.273 58.4071C102.273 54.3831 99.0122 51.1262 95.0124 51.1262H78.677C74.8338 51.1262 71.7172 47.9907 71.7172 44.1243C71.7172 40.2579 74.8338 37.1224 78.677 37.1224H91.829C96.6529 37.1224 100.142 32.4759 98.812 27.8114C91.5928 2.50788 73.8609 0 52.984 0C32.1071 0 14.3751 2.50788 7.15853 27.8114C5.8287 32.4759 9.31759 37.1224 14.1415 37.1224H24.8007C28.6439 37.1224 31.7605 40.2579 31.7605 44.1243C31.7605 47.9907 28.6439 51.1262 24.8007 51.1262H10.9555C6.95572 51.1262 3.69531 54.3831 3.69531 58.4071C3.69531 58.4329 3.69531 58.4587 3.69531 58.4846C3.69531 58.5595 3.69531 58.6344 3.69531 58.7067C3.70045 62.7307 6.95572 65.985 10.9581 65.985H24.8007C28.6439 65.985 31.7605 69.1205 31.7605 72.9869C31.7605 76.8533 28.6439 79.9888 24.8007 79.9888H14.1825C9.35353 79.9888 5.85951 84.6482 7.20218 89.3127C14.4495 114.469 32.1482 116.967 52.984 116.967C73.8198 116.967 91.5184 114.469 98.7658 89.3127C100.108 84.6482 96.6144 79.9888 91.7854 79.9888H78.677H78.6744Z\" fill=\"currentColor\"></path>\n  <path d=\"M65.4975 150.881C81.9562 147.487 96.0375 137.536 104.925 123.86C108.558 118.268 101.97 111.687 96.4098 115.345C84.2847 123.318 69.2586 128.036 52.9822 128.036C36.7058 128.036 21.6797 123.318 9.55457 115.345C3.99647 111.69 -2.59366 118.268 1.039 123.86C9.92682 137.539 24.0082 147.49 40.4668 150.881C42.1972 151.238 43.45 152.754 43.45 154.531V159.815C43.45 162.723 41.1061 165.081 38.2154 165.081H30.9346C25.6718 165.081 21.4024 169.374 21.4024 174.671C21.4024 179.966 25.6692 184.261 30.9346 184.261H75.0272C80.29 184.261 84.5594 179.969 84.5594 174.671C84.5594 169.377 80.2926 165.081 75.0272 165.081H67.7464C64.8557 165.081 62.5118 162.723 62.5118 159.815V154.531C62.5118 152.754 63.7646 151.24 65.495 150.881H65.4975Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 47.984375,
+      "height": 47.984375,
+      "context": "Live Transcribe"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 48 48\" fill=\"none\" slot=\"icon\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"M6.52446 20.8128C6.08884 20.6093 6.03937 20.0133 6.42393 19.7245C10.8902 16.3688 11.9242 5.84375 15.256 5.84375C18.9109 5.84375 19.163 22.663 24.3569 22.663C28.7474 22.663 30.6527 12.9517 33.5265 12.9517C36.4003 12.9517 36.6955 23.6236 41.5248 26.5365C41.8966 26.7607 41.9381 27.2777 41.6134 27.5665C38.0263 30.757 36.5973 42.1517 33.6318 42.1517C29.9769 42.1517 30.6391 25.6261 24.3928 25.6261C19.1758 25.6261 17.3902 35.99 14.5164 35.99C11.8317 35.99 11.3434 23.0611 6.52446 20.8128Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 47.984375,
+      "height": 47.984375,
+      "context": "Sidekick for Mac"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 48 48\" fill=\"none\" slot=\"icon\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"M40.583 36.4931C41.9532 35.0879 41.5057 33.9848 39.1484 34.8467C34.723 36.4654 26.338 36.261 22.7542 32.6772C17.4927 27.4157 20.5664 15.5391 14.5701 15.5391C8.57374 15.5391 1.31405 33.5686 12.4632 40.5391C23.0139 47.134 38.5382 38.9856 40.5849 36.4949L40.583 36.4931Z\" fill=\"currentColor\"></path>\n  <path d=\"M7.4182 11.5067C6.04803 12.9119 6.49555 14.015 8.85283 13.1531C13.2782 11.5343 21.6632 11.7388 25.247 15.3226C30.5085 20.5841 27.4348 32.4607 33.4311 32.4607C39.4275 32.4607 46.6872 14.4312 35.538 7.46067C24.9873 0.867653 9.61561 9.25313 7.4182 11.5067Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 47.984375,
+      "height": 47.984375,
+      "context": "Sign"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 100 33\" fill=\"none\" class=\"w-full\" aria-hidden=\"true\">\n  <path d=\"M13.385 3.92576V25.869C13.385 26.5503 12.7168 27.0298 12.0722 26.8084C9.04169 25.7668 1.81987 22.8516 1.81987 18.7088C1.81987 14.8384 8.10097 13.4103 8.10097 9.97758C8.09966 6.26185 0 3.47898 0 0.96864V0.948987C0.0039306 0.385601 0.466431 -0.0402142 1.02982 0.0030224C4.94994 0.309609 8.39708 1.35122 12.2989 2.48061C12.9422 2.66666 13.3863 3.25625 13.3863 3.92576H13.385Z\" fill=\"var(--marketing-accent)\"></path>\n  <path d=\"M15.2023 26.6499V4.70532C15.2023 4.02402 15.8705 3.54449 16.5151 3.76591C19.5456 4.80752 26.7674 7.72271 26.7674 11.8656C26.7674 15.7359 20.4863 17.164 20.4863 20.5967C20.4863 24.3151 28.586 27.0966 28.586 29.607V29.6266C28.582 30.19 28.1195 30.6172 27.5561 30.5726C23.636 30.266 20.1889 29.2244 16.2871 28.095C15.6438 27.909 15.1996 27.3194 15.1996 26.6499H15.2023Z\" fill=\"var(--marketing-accent)\"></path>\n  <path d=\"M41.6042 25.8453V4.72461H52.4738C56.4064 4.72461 58.8218 7.14008 58.8218 10.7486V11.0431C58.8218 13.8268 57.3784 15.7415 54.7715 16.3307C56.0823 16.7136 56.8629 17.7593 57.349 19.7182L57.9528 22.2515C58.4094 24.0779 58.9249 25.1972 59.5877 25.698V25.8453H55.4932C55.0955 25.0205 54.8451 24.0337 54.5064 22.443L54.1087 20.4988C53.6669 18.3779 52.6506 17.4795 50.7211 17.4795H45.0507V25.8453H41.6042ZM51.6049 14.9904C53.9467 14.9904 55.3754 13.5617 55.3754 11.2788V10.9842C55.3754 8.73076 53.9467 7.3021 51.6049 7.3021H45.0507V14.9904H51.6049Z\" fill=\"currentColor\"></path>\n  <path d=\"M63.3653 32.0755C62.5258 32.0755 61.7304 31.9871 61.4506 31.9429V29.2623C61.7746 29.3065 62.5552 29.3654 63.0413 29.3654C64.7498 29.3654 65.5893 28.6879 66.1637 27.2887L66.7234 25.9042L60.611 10.7633H64.087L68.4614 22.4577L72.7915 10.7633H76.2085L69.1241 28.2608C68.1079 30.7941 66.6203 32.0755 63.3653 32.0755Z\" fill=\"currentColor\"></path>\n  <path d=\"M78.3218 25.8453V4.72461H81.5473V25.8453H78.3218Z\" fill=\"currentColor\"></path>\n  <path d=\"M92.2178 26.3461C87.2691 26.3461 84.4559 23.5182 84.4559 18.54V18.0686C84.4559 13.0757 87.2691 10.2625 92.2178 10.2625C97.1814 10.2625 99.9945 13.0757 99.9945 18.0686V18.54C99.9945 23.5182 97.1814 26.3461 92.2178 26.3461ZM92.2326 23.96C94.9279 23.96 96.6953 22.1926 96.6953 18.6872V17.9214C96.6953 14.416 94.9279 12.6485 92.2326 12.6485C89.5225 12.6485 87.7551 14.416 87.7551 17.9214V18.6872C87.7551 22.1926 89.5225 23.96 92.2326 23.96Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 1280,
+      "height": 422.390625,
+      "context": "max-w-full"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 30 14\" class=\"h-auto w-10\" aria-hidden=\"true\">\n  <path fill=\"#fff\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.4,12.8h6.8l3.1-11.6H7.4C4.2,1.2,1.6,3.8,1.6,7S4.2,12.8,7.4,12.8z\"></path>\n  <path fill=\"#06f\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M22.6,0H7.4c-3.9,0-7,3.1-7,7s3.1,7,7,7h15.2c3.9,0,7-3.1,7-7S26.4,0,22.6,0z M1.6,7c0-3.2,2.6-5.8,5.8-5.8h9.9l-3.1,11.6H7.4C4.2,12.8,1.6,10.2,1.6,7z\"></path>\n  <path fill=\"#fff\" d=\"M24.6,4c0.2,0.2,0.2,0.6,0,0.8l0,0L22.5,7l2.2,2.2c0.2,0.2,0.2,0.6,0,0.8c-0.2,0.2-0.6,0.2-0.8,0l0,0l-2.2-2.2L19.5,10c-0.2,0.2-0.6,0.2-0.8,0c-0.2-0.2-0.2-0.6,0-0.8l0,0L20.8,7l-2.2-2.2c-0.2-0.2-0.2-0.6,0-0.8c0.2-0.2,0.6-0.2,0.8,0l0,0l2.2,2.2L23.8,4C24,3.8,24.4,3.8,24.6,4z\"></path>\n  <path fill=\"#06f\" d=\"M12.7,4.1c0.2,0.2,0.3,0.6,0.1,0.8l0,0L8.6,9.8C8.5,9.9,8.4,10,8.3,10c-0.2,0.1-0.5,0.1-0.7-0.1l0,0L5.4,7.7c-0.2-0.2-0.2-0.6,0-0.8c0.2-0.2,0.6-0.2,0.8,0l0,0L8,8.6l3.8-4.5C12,3.9,12.4,3.9,12.7,4.1z\"></path>\n</svg>",
+      "width": 40,
+      "height": 18.65625,
+      "context": "Your Privacy Choices"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" fill=\"none\" class=\"size-lg\" aria-hidden=\"true\">\n  <path d=\"M17.5652 3.25H20.5319L14.0505 10.6628L21.6753 20.75H15.7052L11.0291 14.6322L5.67867 20.75H2.71018L9.64264 12.8212L2.32812 3.25H8.44986L12.6766 8.84192L17.5652 3.25ZM16.524 18.9731H18.1679L7.55663 4.93359H5.79257L16.524 18.9731Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 23.984375,
+      "height": 23.984375,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" fill=\"none\" class=\"size-lg\" aria-hidden=\"true\">\n  <path d=\"M19.65 3H4.35C3.99196 3 3.64858 3.14223 3.39541 3.39541C3.14223 3.64858 3 3.99196 3 4.35V19.65C3 20.008 3.14223 20.3514 3.39541 20.6046C3.64858 20.8578 3.99196 21 4.35 21H19.65C20.008 21 20.3514 20.8578 20.6046 20.6046C20.8578 20.3514 21 20.008 21 19.65V4.35C21 3.99196 20.8578 3.64858 20.6046 3.39541C20.3514 3.14223 20.008 3 19.65 3ZM8.4 18.3H5.7V10.2H8.4V18.3ZM7.05 8.625C6.74056 8.61616 6.4406 8.51632 6.18758 8.33797C5.93456 8.15962 5.7397 7.91066 5.62737 7.6222C5.51503 7.33374 5.49019 7.01857 5.55595 6.71607C5.6217 6.41358 5.77515 6.13716 5.9971 5.92138C6.21906 5.70559 6.49968 5.55999 6.80391 5.50278C7.10814 5.44556 7.42248 5.47927 7.70766 5.59969C7.99284 5.7201 8.23622 5.92189 8.40737 6.17983C8.57853 6.43778 8.66987 6.74044 8.67 7.05C8.66289 7.47331 8.4885 7.8766 8.18495 8.17173C7.88139 8.46685 7.47335 8.62982 7.05 8.625ZM18.3 18.3H15.6V14.034C15.6 12.756 15.06 12.297 14.358 12.297C14.1522 12.3107 13.9511 12.3649 13.7663 12.4566C13.5815 12.5482 13.4166 12.6755 13.2811 12.831C13.1457 12.9866 13.0422 13.1674 12.9768 13.363C12.9114 13.5586 12.8853 13.7652 12.9 13.971C12.8955 14.0129 12.8955 14.0551 12.9 14.097V18.3H10.2V10.2H12.81V11.37C13.0733 10.9695 13.435 10.6433 13.8605 10.4227C14.286 10.2021 14.761 10.0944 15.24 10.11C16.635 10.11 18.264 10.884 18.264 13.404L18.3 18.3Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 23.984375,
+      "height": 23.984375,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" fill=\"none\" class=\"size-lg\" aria-hidden=\"true\">\n  <path d=\"M20.7153 10.2134C18.9357 10.2134 17.288 9.64796 15.9425 8.68698V15.6726C15.9425 19.1671 13.1082 22 9.61201 22C8.30752 22 7.09504 21.6058 6.08784 20.9298C4.39549 19.7941 3.28125 17.863 3.28125 15.6726C3.28125 12.1783 6.11561 9.34543 9.61211 9.3455C9.90268 9.34536 10.1929 9.36509 10.4807 9.40441V10.18L10.4806 12.904C10.2035 12.8161 9.90816 12.7684 9.60172 12.7684C8.00229 12.7684 6.70594 14.0643 6.70594 15.6627C6.70594 16.7928 7.35394 17.7714 8.29887 18.2481C8.69067 18.4456 9.13316 18.5569 9.60174 18.5569C11.1979 18.5569 12.492 17.2663 12.4975 15.6726V2H15.9425V2.44029C15.9546 2.57192 15.9721 2.70305 15.995 2.83332C16.234 4.19637 17.0495 5.36094 18.1813 6.06685C18.9413 6.54103 19.8196 6.79171 20.7154 6.79035L20.7153 10.2134Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 23.984375,
+      "height": 23.984375,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" fill=\"none\" class=\"size-lg\" aria-hidden=\"true\">\n  <path d=\"M12 4.21173C14.5365 4.21173 14.837 4.22123 15.8389 4.267C16.4411 4.27427 17.0377 4.38499 17.6024 4.59432C18.0151 4.74662 18.3884 4.9895 18.6949 5.30509C19.0105 5.61156 19.2534 5.98488 19.4057 6.39759C19.615 6.96235 19.7257 7.55888 19.733 8.16114C19.7788 9.16295 19.7883 9.4635 19.7883 12C19.7883 14.5365 19.7788 14.837 19.733 15.8389C19.7257 16.4411 19.615 17.0377 19.4057 17.6024C19.2476 18.0122 19.0055 18.3844 18.6949 18.6949C18.3844 19.0055 18.0122 19.2476 17.6024 19.4057C17.0377 19.615 16.4411 19.7257 15.8389 19.733C14.837 19.7788 14.5365 19.7883 12 19.7883C9.4635 19.7883 9.16295 19.7788 8.16114 19.733C7.55859 19.7258 6.96176 19.6151 6.39673 19.4057C5.98433 19.2533 5.61132 19.0104 5.30509 18.6949C4.9895 18.3884 4.74662 18.0151 4.59432 17.6024C4.38499 17.0377 4.27427 16.4411 4.267 15.8389C4.22123 14.837 4.21173 14.5365 4.21173 12C4.21173 9.4635 4.22123 9.16295 4.267 8.16114C4.27427 7.55888 4.38499 6.96235 4.59432 6.39759C4.74662 5.98488 4.9895 5.61156 5.30509 5.30509C5.61156 4.9895 5.98488 4.74662 6.39759 4.59432C6.96235 4.38499 7.55888 4.27427 8.16114 4.267C9.16295 4.22123 9.4635 4.21173 12 4.21173ZM12 2.5C9.42032 2.5 9.09645 2.51123 8.08341 2.557C7.29535 2.57272 6.51567 2.72194 5.7775 2.99832C5.1433 3.2371 4.56886 3.61141 4.09427 4.09514C3.61096 4.56956 3.23695 5.14369 2.99832 5.7775C2.72224 6.51572 2.57331 7.2954 2.55786 8.08341C2.51036 9.09645 2.5 9.42032 2.5 12C2.5 14.5797 2.51123 14.9035 2.557 15.9166C2.57272 16.7046 2.72194 17.4843 2.99832 18.2225C3.2371 18.8567 3.61141 19.4311 4.09514 19.9057C4.56956 20.389 5.14369 20.763 5.7775 21.0017C6.51572 21.2778 7.2954 21.4267 8.08341 21.4421C9.09645 21.4896 9.42032 21.5 12 21.5C14.5797 21.5 14.9035 21.4888 15.9166 21.443C16.7046 21.4273 17.4843 21.2781 18.2225 21.0017C18.8538 20.7576 19.4271 20.3843 19.9057 19.9057C20.3843 19.4271 20.7576 18.8538 21.0017 18.2225C21.2778 17.4843 21.4267 16.7046 21.4421 15.9166C21.4896 14.9035 21.5 14.5797 21.5 12C21.5 9.42032 21.4888 9.09645 21.443 8.08341C21.4273 7.29535 21.2781 6.51567 21.0017 5.7775C20.7629 5.1433 20.3886 4.56886 19.9049 4.09427C19.4304 3.61096 18.8563 3.23695 18.2225 2.99832C17.4843 2.72224 16.7046 2.57331 15.9166 2.55786C14.9035 2.51036 14.5797 2.5 12 2.5ZM12 7.12132C11.0351 7.12132 10.0918 7.40745 9.28955 7.94352C8.48725 8.4796 7.86194 9.24155 7.49269 10.133C7.12343 11.0245 7.02682 12.0054 7.21506 12.9518C7.40331 13.8982 7.86796 14.7675 8.55025 15.4497C9.23255 16.132 10.1018 16.5967 11.0482 16.7849C11.9946 16.9732 12.9755 16.8766 13.867 16.5073C14.7585 16.1381 15.5204 15.5127 16.0565 14.7105C16.5926 13.9082 16.8787 12.9649 16.8787 12C16.8787 10.7061 16.3647 9.46518 15.4497 8.55025C14.5348 7.63532 13.2939 7.12132 12 7.12132ZM12 15.167C11.3736 15.167 10.7613 14.9812 10.2405 14.6332C9.71973 14.2852 9.31382 13.7906 9.07412 13.2119C8.83442 12.6333 8.7717 11.9965 8.8939 11.3822C9.0161 10.7678 9.31772 10.2035 9.76063 9.76063C10.2035 9.31772 10.7678 9.0161 11.3822 8.8939C11.9965 8.7717 12.6333 8.83442 13.2119 9.07412C13.7906 9.31382 14.2852 9.71973 14.6332 10.2405C14.9812 10.7613 15.167 11.3736 15.167 12C15.167 12.8399 14.8333 13.6455 14.2394 14.2394C13.6455 14.8333 12.8399 15.167 12 15.167ZM17.0713 5.78873C16.8458 5.78873 16.6254 5.85559 16.4379 5.98085C16.2505 6.10612 16.1043 6.28416 16.0181 6.49247C15.9318 6.70078 15.9092 6.92999 15.9532 7.15113C15.9972 7.37227 16.1057 7.5754 16.2652 7.73483C16.4246 7.89426 16.6277 8.00284 16.8489 8.04682C17.07 8.09081 17.2992 8.06823 17.5075 7.98195C17.7158 7.89567 17.8939 7.74955 18.0191 7.56208C18.1444 7.37461 18.2113 7.1542 18.2113 6.92873C18.2113 6.62638 18.0912 6.33642 17.8774 6.12263C17.6636 5.90883 17.3736 5.78873 17.0713 5.78873Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 23.984375,
+      "height": 23.984375,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" fill=\"none\" class=\"size-lg\" aria-hidden=\"true\">\n  <path d=\"M9.58404 21.706V15.0561H7.52015V12H9.58404V10.6833C9.58404 7.27944 11.124 5.70333 14.464 5.70333C15.0963 5.70333 16.1879 5.82722 16.6363 5.95111V8.71944C16.4001 8.69556 15.9879 8.68333 15.4801 8.68333C13.8401 8.68333 13.2079 9.30333 13.2079 10.9194V12H16.4763L15.9163 15.0556H13.2124V21.9277C18.1637 21.3279 22 17.112 22 12C22 6.47722 17.5228 2 12 2C6.47722 2 2 6.47722 2 12C2 16.6899 5.22813 20.6253 9.58404 21.706Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 23.984375,
+      "height": 23.984375,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 29 28\" fill=\"none\" class=\"size-8 shrink-0\" aria-hidden=\"true\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" fill=\"currentColor\" d=\"M20.377 4.2453C20.9009 4.2453 21.3264 4.67081 21.3264 5.19476C21.3264 5.7187 20.9009 6.14421 20.377 6.14421C19.853 6.14421 19.4275 5.7187 19.4275 5.19476C19.4291 4.67081 19.853 4.2453 20.377 4.2453ZM20.631 12.5141C21.4503 13.7367 22.4871 14.1114 23.8335 13.2842C23.8779 13.7446 23.889 14.2146 23.8652 14.6909C23.6001 19.9558 19.1179 24.0092 13.853 23.7441C8.58975 23.4774 4.53631 18.9952 4.80146 13.7319C5.06502 8.46705 9.70275 4.36914 14.966 4.63429C14.4992 6.09499 14.8946 7.39216 16.0822 7.83355C15.0057 11.2916 17.4095 13.5541 20.631 12.5141ZM9.55668 11.833C10.3458 11.833 10.984 12.4729 10.984 13.2604C10.984 14.0479 10.3442 14.6877 9.55668 14.6877C8.76758 14.6877 8.12932 14.0479 8.12932 13.2604C8.12932 12.4729 8.76917 11.833 9.55668 11.833ZM14.0531 13.6525C14.5072 13.6525 14.8755 14.0209 14.8755 14.475C14.8755 14.9291 14.5072 15.2974 14.0531 15.2974C13.599 15.2974 13.2307 14.9291 13.2307 14.475C13.2291 14.0209 13.5974 13.6525 14.0531 13.6525ZM10.4839 17.0407C11.038 17.0407 11.4873 17.4901 11.4873 18.0442C11.4873 18.5983 11.038 19.0476 10.4839 19.0476C9.92979 19.0476 9.48047 18.5983 9.48047 18.0442C9.48047 17.4885 9.92979 17.0407 10.4839 17.0407ZM12.6464 9.36252C13.0814 9.36252 13.4323 9.715 13.4323 10.1484C13.4323 10.5835 13.0798 10.9344 12.6464 10.9344C12.2113 10.9344 11.8605 10.5819 11.8605 10.1484C11.8605 9.715 12.2129 9.36252 12.6464 9.36252ZM16.9173 17.3916C17.6461 17.3916 18.2352 17.9823 18.2352 18.7094C18.2352 19.4382 17.6445 20.0272 16.9173 20.0272C16.1886 20.0272 15.5995 19.4366 15.5995 18.7094C15.5995 17.9823 16.1902 17.3916 16.9173 17.3916ZM19.6927 7.91293C20.1817 7.91293 20.5786 8.30986 20.5786 8.79888C20.5786 9.2879 20.1817 9.68483 19.6927 9.68483C19.2037 9.68483 18.8067 9.2879 18.8067 8.79888C18.8067 8.30986 19.2037 7.91293 19.6927 7.91293Z\"></path>\n</svg>",
+      "width": 32,
+      "height": 32,
+      "context": ""
+    },
+    {
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 96 96\" fill=\"none\"><path d=\"M42.1672 53.776C46.1895 57.79 51.4236 62.0969 55.2663 61.6799C61.1944 61.0356 58.8363 55.1335 63.922 55.4367C69.4254 55.7641 77.1523 58.8788 76.9969 64.4363C76.7587 72.957 68.8281 78.8522 58.201 76.2922C45.4472 73.2189 34.3644 61.5628 34.3644 61.5628C34.3644 61.5628 22.6843 50.5028 19.6046 37.7786C17.0393 27.17 22.9467 19.2592 31.4849 19.018C37.0539 18.8629 40.1751 26.5739 40.5031 32.066C40.8069 37.1412 34.8926 34.7845 34.247 40.7039C33.8292 44.5387 38.1415 49.7586 42.1672 53.776Z\" fill=\"currentColor\"></path></svg>",
+      "width": 0,
+      "height": 0,
+      "context": "block [&>svg]:size-full w-full"
+    },
+    {
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 56 39\" fill=\"none\"><g clip-path=\"url(#clip0_7318_1074)\"><path d=\"M3.03 0H52.16C53.83 0 55.19 1.36 55.19 3.03V35.36C55.19 37.03 53.83 38.39 52.16 38.39H3.03C1.36 38.4 0 37.04 0 35.37V3.03C0 1.36 1.36 0 3.03 0Z\" fill=\"#B22234\"></path><path d=\"M0.02 2.72998H55.19C55.2 2.82998 55.21 2.92998 55.21 3.03998V5.97998H0V3.02998C0 2.92998 0.01 2.82998 0.02 2.72998ZM55.2 8.66998V11.91H0V8.66998H55.2ZM55.2 14.61V17.85H0V14.61H55.2ZM55.2 20.55V23.79H0V20.55H55.2ZM55.2 26.49V29.73H0V26.49H55.2ZM55.2 32.43V35.36C55.2 35.46 55.19 35.57 55.18 35.67H0.02C0.01 35.58 0 35.47 0 35.37V32.44H55.2V32.43Z\" fill=\"white\"></path><path d=\"M20.8 0V20.68H0V3.03C0 1.36 1.36 0 3.03 0H20.8Z\" fill=\"#3C3B6E\"></path><path d=\"M1.2301 2.85999L1.9201 5.00999L0.100098 3.67999H2.3601L0.530098 5.00999L1.2301 2.85999Z\" fill=\"white\"></path><path d=\"M1.2301 7.02002L1.9201 9.17002L0.100098 7.84002H2.3601L0.530098 9.17002L1.2301 7.02002Z\" fill=\"white\"></path><path d=\"M1.2301 11.1801L1.9201 13.3301L0.100098 12.0001H2.3601L0.530098 13.3301L1.2301 11.1801Z\" fill=\"white\"></path><path d=\"M1.2301 15.34L1.9201 17.49L0.100098 16.16H2.3601L0.530098 17.49L1.2301 15.34Z\" fill=\"white\"></path><path d=\"M3.67004 0.780029L4.37004 2.93003L2.54004 1.60003H4.81004L2.97004 2.93003L3.67004 0.780029Z\" fill=\"white\"></path><path d=\"M3.67004 4.93994L4.37004 7.08994L2.54004 5.75994H4.81004L2.97004 7.08994L3.67004 4.93994Z\" fill=\"white\"></path><path d=\"M3.67004 9.09998L4.37004 11.25L2.54004 9.91998H4.81004L2.97004 11.25L3.67004 9.09998Z\" fill=\"white\"></path><path d=\"M3.67004 13.26L4.37004 15.41L2.54004 14.08H4.81004L2.97004 15.41L3.67004 13.26Z\" fill=\"white\"></path><path d=\"M3.67004 17.42L4.37004 19.57L2.54004 18.24H4.81004L2.97004 19.57L3.67004 17.42Z\" fill=\"white\"></path><path d=\"M6.11999 2.85999L6.81999 5.00999L4.98999 3.67999H7.24999L5.41999 5.00999L6.11999 2.85999Z\" fill=\"white\"></path><path d=\"M6.11999 7.02002L6.81999 9.17002L4.98999 7.84002H7.24999L5.41999 9.17002L6.11999 7.02002Z\" fill=\"white\"></path><path d=\"M6.11999 11.1801L6.81999 13.3301L4.98999 12.0001H7.24999L5.41999 13.3301L6.11999 11.1801Z\" fill=\"white\"></path><path d=\"M6.11999 15.34L6.81999 17.49L4.98999 16.16H7.24999L5.41999 17.49L6.11999 15.34Z\" fill=\"white\"></path><path d=\"M8.56994 0.780029L9.25994 2.93003L7.43994 1.60003H9.69994L7.86994 2.93003L8.56994 0.780029Z\" fill=\"white\"></path><path d=\"M8.56994 4.93994L9.25994 7.08994L7.43994 5.75994H9.69994L7.86994 7.08994L8.56994 4.93994Z\" fill=\"white\"></path><path d=\"M8.56994 9.09998L9.25994 11.25L7.43994 9.91998H9.69994L7.86994 11.25L8.56994 9.09998Z\" fill=\"white\"></path><path d=\"M8.56994 13.26L9.25994 15.41L7.43994 14.08H9.69994L7.86994 15.41L8.56994 13.26Z\" fill=\"white\"></path><path d=\"M8.56994 17.42L9.25994 19.57L7.43994 18.24H9.69994L7.86994 19.57L8.56994 17.42Z\" fill=\"white\"></path><path d=\"M11.0099 2.85999L11.7099 5.00999L9.87988 3.67999H12.1399L10.3099 5.00999L11.0099 2.85999Z\" fill=\"white\"></path><path d=\"M11.0099 7.02002L11.7099 9.17002L9.87988 7.84002H12.1399L10.3099 9.17002L11.0099 7.02002Z\" fill=\"white\"></path><path d=\"M11.0099 11.1801L11.7099 13.3301L9.87988 12.0001H12.1399L10.3099 13.3301L11.0099 11.1801Z\" fill=\"white\"></path><path d=\"M11.0099 15.34L11.7099 17.49L9.87988 16.16H12.1399L10.3099 17.49L11.0099 15.34Z\" fill=\"white\"></path><path d=\"M13.4601 0.780029L14.1601 2.93003L12.3301 1.60003H14.5901L12.7601 2.93003L13.4601 0.780029Z\" fill=\"white\"></path><path d=\"M13.4601 4.93994L14.1601 7.08994L12.3301 5.75994H14.5901L12.7601 7.08994L13.4601 4.93994Z\" fill=\"white\"></path><path d=\"M13.4601 9.09998L14.1601 11.25L12.3301 9.91998H14.5901L12.7601 11.25L13.4601 9.09998Z\" fill=\"white\"></path><path d=\"M13.4601 13.26L14.1601 15.41L12.3301 14.08H14.5901L12.7601 15.41L13.4601 13.26Z\" fill=\"white\"></path><path d=\"M13.4601 17.42L14.1601 19.57L12.3301 18.24H14.5901L12.7601 19.57L13.4601 17.42Z\" fill=\"white\"></path><path d=\"M15.9 2.85999L16.6 5.00999L14.77 3.67999H17.03L15.21 5.00999L15.9 2.85999Z\" fill=\"white\"></path><path d=\"M15.9 7.0",
+      "width": 0,
+      "height": 0,
+      "context": "block [&>svg]:size-full aspect-[56/39] h-6"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M4.75 4.75L19.25 19.25M19.25 4.75L4.75 19.25\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\"></path>\n</svg>",
+      "width": 0,
+      "height": 0,
+      "context": "Close"
+    },
+    {
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2ZM15.4746 8.91992C15.154 8.65764 14.6822 8.70482 14.4199 9.02539L10.4443 13.8838L9.03027 12.4697C8.73739 12.1768 8.26261 12.1768 7.96973 12.4697C7.67684 12.7626 7.67684 13.2374 7.96973 13.5303L9.96973 15.5303C10.1195 15.6801 10.3255 15.7594 10.5371 15.749C10.7487 15.7384 10.9459 15.6386 11.0801 15.4746L15.5801 9.97461C15.8424 9.65403 15.7952 9.18222 15.4746 8.91992Z\" fill=\"currentColor\"></path>\n</svg>",
+      "width": 0,
+      "height": 0,
+      "context": "block [&>svg]:size-full text-accent w-12"
+    }
+  ],
+  "svgImages": [],
+  "seo": {
+    "favicons": [
+      {
+        "href": "https://rylo.com/favicon.png",
+        "sizes": "32x32"
+      },
+      {
+        "href": "https://rylo.com/favicon-dark.png",
+        "sizes": "32x32"
+      },
+      {
+        "href": "https://rylo.com/favicon-48.png",
+        "sizes": "48x48"
+      },
+      {
+        "href": "https://rylo.com/webclip.jpg",
+        "sizes": ""
+      }
+    ],
+    "ogImage": "https://rylo.com/_image?href=%2F_astro%2Fog-careers.CEcsjDNL.jpg&w=1200&h=630&f=jpeg&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+    "manifest": null,
+    "title": "Careers at Rylo | Join Our Team",
+    "description": "Rylo is building AI powered tools that empower people to communicate. If you care about impact, craft, and quality, we would love to meet you."
+  },
+  "fonts": [
+    "https://rylo.com/_astro/PPMori-Regular.BYupG7R3.woff2",
+    "https://rylo.com/_astro/PPMori-Semibold.BFB1vWtZ.woff2"
+  ],
+  "downloads": [
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fhero-sky-background.qaFu5Zgx.avif&w=1668&h=1257&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image.bin",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fteam-deck.DHHIX5nY.avif&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-757447.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Forbit-radial-background.BAvHwflI.avif&w=1668&h=1245&f=avif&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-74e78d.bin",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fcareers-remote.Co7HhQPu.jpg&w=1600&h=1152&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-14c485.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fcareers-ownership.CuEgn0As.jpeg&w=1280&h=890&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-671a3c.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fteam-terrace.CZxdQpVG.avif&w=617&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-52c831.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fcareers-impact.PxrEQHSn.jpeg&w=1600&h=1285&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-7f4561.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fcareers-user-led.BLQymJ1t.avif&w=1152&h=955&f=webp&fit=cover&position=center&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-a6f956.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fteam-culture.DIm2jjF0.avif&w=386&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-9a6a31.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/favicon.png",
+      "local": "public/seo/favicon.png",
+      "kind": "seo",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://rylo.com/favicon-dark.png",
+      "local": "public/seo/favicon-dark.png",
+      "kind": "seo",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://rylo.com/favicon-48.png",
+      "local": "public/seo/favicon-48.png",
+      "kind": "seo",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://rylo.com/webclip.jpg",
+      "local": "public/seo/webclip.jpg",
+      "kind": "seo",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fteam-living-room.P9Ue2RAZ.avif&w=832&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-2ea11d.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_astro/PPMori-Regular.BYupG7R3.woff2",
+      "local": "public/fonts/PPMori-Regular.BYupG7R3.woff2",
+      "kind": "font",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://rylo.com/_astro/PPMori-Semibold.BFB1vWtZ.woff2",
+      "local": "public/fonts/PPMori-Semibold.BFB1vWtZ.woff2",
+      "kind": "font",
+      "ok": true,
+      "cached": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fteam-gathering.i2PI46-M.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-761cd9.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fteam-puppy.Bp7A-ZZU.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-8b812e.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fteam-signing._K3hJ3fn.avif&w=287&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-f595e8.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fteam-dinner.ozWh7f0O.jpg&w=240&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-5d5de2.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fteam-workshop.DA1qpbqt.jpg&w=427&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-3173f8.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fteam-seaside.k658BBoN.avif&w=320&h=320&f=webp&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/images/_image-df6666.webp",
+      "kind": "image",
+      "ok": true
+    },
+    {
+      "remote": "https://rylo.com/_image?href=%2F_astro%2Fog-careers.CEcsjDNL.jpg&w=1200&h=630&f=jpeg&dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+      "local": "public/seo/_image.jpg",
+      "kind": "seo",
+      "ok": true
+    }
+  ]
+}
