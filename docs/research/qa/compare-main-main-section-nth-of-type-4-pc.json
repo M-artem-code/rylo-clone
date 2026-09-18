@@ -1,0 +1,2815 @@
+{
+  "original": "https://rylo.com",
+  "clone": "http://127.0.0.1:3000",
+  "selector": "main#main > section:nth-of-type(4)",
+  "cloneSelector": "main#main > section:nth-of-type(4)",
+  "viewport": "pc",
+  "tolerance": 1,
+  "generatedAt": "2026-09-18T13:24:03.222Z",
+  "diffs": [
+    {
+      "path": "section",
+      "prop": "height",
+      "before": "2350.45px",
+      "after": "1784.33px"
+    },
+    {
+      "path": "section > div[0]",
+      "prop": "height",
+      "before": "1884.19px",
+      "after": "1318.06px"
+    },
+    {
+      "path": "section > div[0]",
+      "prop": "gap",
+      "before": "(unset)",
+      "after": "48px"
+    },
+    {
+      "path": "section > div[0]",
+      "prop": "rowGap",
+      "before": "(unset)",
+      "after": "48px"
+    },
+    {
+      "path": "section > div[0]",
+      "prop": "columnGap",
+      "before": "(unset)",
+      "after": "48px"
+    },
+    {
+      "path": "section > div[0] > h2[0]",
+      "prop": "marginBottom",
+      "before": "105.135px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]",
+      "prop": "width",
+      "before": "1220px",
+      "after": "896px"
+    },
+    {
+      "path": "section > div[0] > h2[0]",
+      "prop": "height",
+      "before": "253.438px",
+      "after": "273.562px"
+    },
+    {
+      "path": "section > div[0] > h2[0]",
+      "prop": "maxWidth",
+      "before": "1220px",
+      "after": "896px"
+    },
+    {
+      "path": "section > div[0] > h2[0]",
+      "prop": "display",
+      "before": "flow-root",
+      "after": "block"
+    },
+    {
+      "path": "section > div[0] > h2[0]::before",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::after",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "height",
+      "before": "1024px",
+      "after": "418px"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "paddingTop",
+      "before": "(unset)",
+      "after": "48px"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "paddingRight",
+      "before": "(unset)",
+      "after": "48px"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "paddingBottom",
+      "before": "(unset)",
+      "after": "48px"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "paddingLeft",
+      "before": "(unset)",
+      "after": "48px"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "borderTopWidth",
+      "before": "(unset)",
+      "after": "1px"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "borderBottomWidth",
+      "before": "(unset)",
+      "after": "1px"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "borderLeftWidth",
+      "before": "(unset)",
+      "after": "1px"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "borderRightWidth",
+      "before": "(unset)",
+      "after": "1px"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "overflow",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "overflowX",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "overflowY",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "width",
+      "before": "1280px",
+      "after": "1182px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "height",
+      "before": "206.719px",
+      "after": "320px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "display",
+      "before": "flex",
+      "after": "grid"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "justifyContent",
+      "before": "center",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "position",
+      "before": "absolute",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "top",
+      "before": "714.891px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "bottom",
+      "before": "102.391px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "inset",
+      "before": "714.891px 0px 102.391px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "alignItems",
+      "before": "(unset)",
+      "after": "center"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "gap",
+      "before": "(unset)",
+      "after": "32px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "rowGap",
+      "before": "(unset)",
+      "after": "32px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "columnGap",
+      "before": "(unset)",
+      "after": "32px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "gridTemplateColumns",
+      "before": "(unset)",
+      "after": "69.1562px 69.1562px 69.1562px 69.1562px 69.1562px 69.1562px 69.1562px 69.1562px 69.1562px 69.1562px 69.1562px 69.1562px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "gridTemplateRows",
+      "before": "(unset)",
+      "after": "320px"
+    },
+    {
+      "path": "section > div[0] > div[2]",
+      "prop": "marginTop",
+      "before": "4px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[2]",
+      "prop": "height",
+      "before": "497.625px",
+      "after": "530.5px"
+    },
+    {
+      "path": "section > div[0] > div[2]",
+      "prop": "alignItems",
+      "before": "center",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[2]",
+      "prop": "gap",
+      "before": "4px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[0] > div[2]",
+      "prop": "rowGap",
+      "before": "4px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[0] > div[2]",
+      "prop": "columnGap",
+      "before": "4px",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[0] > div[2]",
+      "prop": "overflow",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[0] > div[2]",
+      "prop": "overflowX",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[0] > div[2]",
+      "prop": "overflowY",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "width",
+      "before": "1440px",
+      "after": "1280px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "height",
+      "before": "246.812px",
+      "after": "530.5px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "display",
+      "before": "flex",
+      "after": "grid"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "overflow",
+      "before": "hidden",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "overflowX",
+      "before": "hidden",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "overflowY",
+      "before": "hidden",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "position",
+      "before": "relative",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "gap",
+      "before": "(unset)",
+      "after": "16px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "rowGap",
+      "before": "(unset)",
+      "after": "16px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "columnGap",
+      "before": "(unset)",
+      "after": "16px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "gridTemplateColumns",
+      "before": "(unset)",
+      "after": "416px 416px 416px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "gridTemplateRows",
+      "before": "(unset)",
+      "after": "273.5px 241px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "marginLeft",
+      "before": "-72px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "width",
+      "before": "1584px",
+      "after": "416px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "height",
+      "before": "246.812px",
+      "after": "273.5px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "flexDirection",
+      "before": "row",
+      "after": "column"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "paddingTop",
+      "before": "(unset)",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "paddingRight",
+      "before": "(unset)",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "paddingBottom",
+      "before": "(unset)",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "paddingLeft",
+      "before": "(unset)",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "justifyContent",
+      "before": "(unset)",
+      "after": "space-between"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "borderTopWidth",
+      "before": "(unset)",
+      "after": "1px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "borderBottomWidth",
+      "before": "(unset)",
+      "after": "1px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "borderLeftWidth",
+      "before": "(unset)",
+      "after": "1px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "borderRightWidth",
+      "before": "(unset)",
+      "after": "1px"
+    },
+    {
+      "path": "section",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > h2[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[2]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section",
+      "prop": "backgroundColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "rgb(250, 245, 242)"
+    },
+    {
+      "path": "section > div[0] > h2[0]",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(255, 255, 255)"
+    },
+    {
+      "path": "section > div[0] > h2[0]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(255, 255, 255)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::before",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::before",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::before",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::after",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::after",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::after",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "backgroundColor",
+      "before": "(unset)",
+      "after": "rgb(49, 38, 35)"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "borderRadius",
+      "before": "(unset)",
+      "after": "40px"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "boxShadow",
+      "before": "(unset)",
+      "after": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 25px 50px -12px"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "backgroundColor",
+      "before": "(unset)",
+      "after": "rgb(49, 38, 35)"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "borderRadius",
+      "before": "(unset)",
+      "after": "40px"
+    },
+    {
+      "path": "section",
+      "prop": "transform",
+      "before": "matrix(1, 0, 0, 1, 0, 0)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::before",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::before",
+      "prop": "margin",
+      "before": "0px 0px -8.15375px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::before",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::after",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::after",
+      "prop": "margin",
+      "before": "0px 0px -11.9937px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > h2[0]::after",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "zIndex",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "transform",
+      "before": "matrix(1, 0, 0, 1, 72, 0)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0]",
+      "prop": "transition",
+      "before": "all",
+      "after": "color cubic-bezier(0.4, 0, 0.2, 1), background-color cubic-bezier(0.4, 0, 0.2, 1), border-color cubic-bezier(0.4, 0, 0.2, 1), outline-color cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color cubic-bezier(0.4, 0, 0.2, 1), fill cubic-bezier(0.4, 0, 0.2, 1), stroke cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to cubic-bezier(0.4, 0, 0.2, 1)"
+    }
+  ],
+  "added": [
+    {
+      "path": "section > div[0] > div[1] > div[0] > div[0]",
+      "node": {
+        "tag": "div",
+        "classes": "lg:col-span-7 space-y-6",
+        "text": null,
+        "rect": {
+          "x": 129,
+          "y": 189,
+          "pageX": 129,
+          "pageY": 5957,
+          "w": 676,
+          "h": 186
+        },
+        "childCount": 3,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "676.156px",
+          "height": "186px",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "span",
+            "classes": "inline-block rounded-full bg-accent/20 px-4 py-1 text-xs",
+            "text": "Professional Recommendation",
+            "rect": {
+              "x": 129,
+              "y": 189,
+              "pageX": 129,
+              "pageY": 5957,
+              "w": 261,
+              "h": 24
+            },
+            "childCount": 0,
+            "styles": {
+              "fontSize": "12px",
+              "fontWeight": "600",
+              "lineHeight": "16px",
+              "letterSpacing": "0.6px",
+              "color": "rgb(255, 139, 43)",
+              "textTransform": "uppercase",
+              "backgroundColor": "lab(70.1091 40.7034 66.7661 / 0.2)",
+              "backgroundPosition": "0% 0%",
+              "paddingTop": "4px",
+              "paddingRight": "16px",
+              "paddingBottom": "4px",
+              "paddingLeft": "16px",
+              "marginBottom": "24px",
+              "width": "261.203px",
+              "height": "24px",
+              "display": "inline-block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderRadius": "3.35544e+07px",
+              "borderColor": "rgb(255, 139, 43)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "p",
+            "classes": "text-h3 text-trim font-medium text-white/90 leading-snug",
+            "text": "“I’ve seen countless patients grow more confident with themselves and in their relationships since using the Rylo app.”",
+            "rect": {
+              "x": 129,
+              "y": 237,
+              "pageX": 129,
+              "pageY": 6005,
+              "w": 676,
+              "h": 66
+            },
+            "childCount": 0,
+            "styles": {
+              "fontSize": "23.9998px",
+              "fontWeight": "500",
+              "lineHeight": "32.9998px",
+              "letterSpacing": "-0.719995px",
+              "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "backgroundPosition": "0% 0%",
+              "marginBottom": "24px",
+              "width": "676.156px",
+              "height": "66px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "div",
+            "classes": null,
+            "text": null,
+            "rect": {
+              "x": 129,
+              "y": 327,
+              "pageX": 129,
+              "pageY": 6095,
+              "w": 676,
+              "h": 48
+            },
+            "childCount": 2,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "width": "676.156px",
+              "height": "48px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": [
+              {
+                "truncated": true,
+                "tag": "p"
+              },
+              {
+                "truncated": true,
+                "tag": "p"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > div[1]",
+      "node": {
+        "tag": "div",
+        "classes": "relative mx-auto aspect-square w-full max-w-xs lg:col-span-5",
+        "text": null,
+        "rect": {
+          "x": 914,
+          "y": 122,
+          "pageX": 914,
+          "pageY": 5890,
+          "w": 320,
+          "h": 320
+        },
+        "childCount": 1,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "320px",
+          "height": "320px",
+          "maxWidth": "320px",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderRadius": "16px",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "overflow": "hidden",
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "position": "relative",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "aspectRatio": "1 / 1",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "img",
+            "classes": "object-cover",
+            "text": null,
+            "img": {
+              "src": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Freview-foreground.dkrTfeEF_Z8BHYM.avif&w=1920&q=75",
+              "alt": "Smiling middle-aged man with short gray hair",
+              "w": 1440,
+              "h": 1440
+            },
+            "rect": {
+              "x": 914,
+              "y": 122,
+              "pageX": 914,
+              "pageY": 5890,
+              "w": 320,
+              "h": 320
+            },
+            "childCount": 0,
+            "styles": {
+              "color": "rgba(0, 0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "width": "320px",
+              "height": "320px",
+              "maxWidth": "100%",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderStyle": "solid",
+              "overflow": "clip",
+              "overflowX": "clip",
+              "overflowY": "clip",
+              "position": "absolute",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "cover",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0] > p[0]",
+      "node": {
+        "tag": "p",
+        "classes": "text-h4 text-trim font-normal text-white/90 mb-6 text-sm",
+        "text": "“ Best captioned calling app I have ever used and it simply couldn't be easier to set up and use! ”",
+        "rect": {
+          "x": 105,
+          "y": 564,
+          "pageX": 105,
+          "pageY": 6332,
+          "w": 366,
+          "h": 98
+        },
+        "childCount": 0,
+        "styles": {
+          "fontSize": "19.9998px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "32.4997px",
+          "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "marginBottom": "24px",
+          "width": "366px",
+          "height": "97.5px",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": []
+      }
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0] > div[1]",
+      "node": {
+        "tag": "div",
+        "classes": "flex items-center justify-between border-t border-white/10 pt-4",
+        "text": null,
+        "rect": {
+          "x": 105,
+          "y": 751,
+          "pageX": 105,
+          "pageY": 6519,
+          "w": 366,
+          "h": 37
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "paddingTop": "16px",
+          "width": "366px",
+          "height": "37px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "gridAutoFlow": "row",
+          "borderTopWidth": "1px",
+          "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "truncated": true,
+            "tag": "p"
+          },
+          {
+            "truncated": true,
+            "tag": "div"
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[1]",
+      "node": {
+        "tag": "div",
+        "classes": "flex flex-col justify-between rounded-large bg-card p-6",
+        "text": null,
+        "rect": {
+          "x": 512,
+          "y": 539,
+          "pageX": 512,
+          "pageY": 6307,
+          "w": 416,
+          "h": 274
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundColor": "rgb(49, 38, 35)",
+          "backgroundPosition": "0% 0%",
+          "paddingTop": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "24px",
+          "paddingLeft": "24px",
+          "width": "416px",
+          "height": "273.5px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "justifyContent": "space-between",
+          "gridAutoFlow": "row",
+          "borderRadius": "40px",
+          "borderTopWidth": "1px",
+          "borderBottomWidth": "1px",
+          "borderLeftWidth": "1px",
+          "borderRightWidth": "1px",
+          "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "color cubic-bezier(0.4, 0, 0.2, 1), background-color cubic-bezier(0.4, 0, 0.2, 1), border-color cubic-bezier(0.4, 0, 0.2, 1), outline-color cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color cubic-bezier(0.4, 0, 0.2, 1), fill cubic-bezier(0.4, 0, 0.2, 1), stroke cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to cubic-bezier(0.4, 0, 0.2, 1)",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "p",
+            "classes": "text-h4 text-trim font-normal text-white/90 mb-6 text-sm",
+            "text": "“ This app is excellent for those of us with hearing issues or difficulty hearing. It allows your cell phone to easily transcribe the incoming conversation. ”",
+            "rect": {
+              "x": 537,
+              "y": 564,
+              "pageX": 537,
+              "pageY": 6332,
+              "w": 366,
+              "h": 163
+            },
+            "childCount": 0,
+            "styles": {
+              "fontSize": "19.9998px",
+              "lineHeight": "32.4997px",
+              "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "backgroundPosition": "0% 0%",
+              "marginBottom": "24px",
+              "width": "366px",
+              "height": "162.5px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "div",
+            "classes": "flex items-center justify-between border-t border-white/10 pt-4",
+            "text": null,
+            "rect": {
+              "x": 537,
+              "y": 751,
+              "pageX": 537,
+              "pageY": 6519,
+              "w": 366,
+              "h": 37
+            },
+            "childCount": 2,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "paddingTop": "16px",
+              "width": "366px",
+              "height": "37px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "justifyContent": "space-between",
+              "alignItems": "center",
+              "gridAutoFlow": "row",
+              "borderTopWidth": "1px",
+              "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": [
+              {
+                "truncated": true,
+                "tag": "p"
+              },
+              {
+                "truncated": true,
+                "tag": "div"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[2]",
+      "node": {
+        "tag": "div",
+        "classes": "flex flex-col justify-between rounded-large bg-card p-6",
+        "text": null,
+        "rect": {
+          "x": 944,
+          "y": 539,
+          "pageX": 944,
+          "pageY": 6307,
+          "w": 416,
+          "h": 274
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundColor": "rgb(49, 38, 35)",
+          "backgroundPosition": "0% 0%",
+          "paddingTop": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "24px",
+          "paddingLeft": "24px",
+          "width": "416px",
+          "height": "273.5px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "justifyContent": "space-between",
+          "gridAutoFlow": "row",
+          "borderRadius": "40px",
+          "borderTopWidth": "1px",
+          "borderBottomWidth": "1px",
+          "borderLeftWidth": "1px",
+          "borderRightWidth": "1px",
+          "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "color cubic-bezier(0.4, 0, 0.2, 1), background-color cubic-bezier(0.4, 0, 0.2, 1), border-color cubic-bezier(0.4, 0, 0.2, 1), outline-color cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color cubic-bezier(0.4, 0, 0.2, 1), fill cubic-bezier(0.4, 0, 0.2, 1), stroke cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to cubic-bezier(0.4, 0, 0.2, 1)",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "p",
+            "classes": "text-h4 text-trim font-normal text-white/90 mb-6 text-sm",
+            "text": "“ I love Rylo!!! I feel so independent. I am deaf, and it’s so easy to use. Thank you!!! ”",
+            "rect": {
+              "x": 969,
+              "y": 564,
+              "pageX": 969,
+              "pageY": 6332,
+              "w": 366,
+              "h": 98
+            },
+            "childCount": 0,
+            "styles": {
+              "fontSize": "19.9998px",
+              "lineHeight": "32.4997px",
+              "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "backgroundPosition": "0% 0%",
+              "marginBottom": "24px",
+              "width": "366px",
+              "height": "97.5px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "div",
+            "classes": "flex items-center justify-between border-t border-white/10 pt-4",
+            "text": null,
+            "rect": {
+              "x": 969,
+              "y": 751,
+              "pageX": 969,
+              "pageY": 6519,
+              "w": 366,
+              "h": 37
+            },
+            "childCount": 2,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "paddingTop": "16px",
+              "width": "366px",
+              "height": "37px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "justifyContent": "space-between",
+              "alignItems": "center",
+              "gridAutoFlow": "row",
+              "borderTopWidth": "1px",
+              "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": [
+              {
+                "truncated": true,
+                "tag": "p"
+              },
+              {
+                "truncated": true,
+                "tag": "div"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[3]",
+      "node": {
+        "tag": "div",
+        "classes": "flex flex-col justify-between rounded-large bg-card p-6",
+        "text": null,
+        "rect": {
+          "x": 80,
+          "y": 829,
+          "pageX": 80,
+          "pageY": 6597,
+          "w": 416,
+          "h": 241
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundColor": "rgb(49, 38, 35)",
+          "backgroundPosition": "0% 0%",
+          "paddingTop": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "24px",
+          "paddingLeft": "24px",
+          "width": "416px",
+          "height": "241px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "justifyContent": "space-between",
+          "gridAutoFlow": "row",
+          "borderRadius": "40px",
+          "borderTopWidth": "1px",
+          "borderBottomWidth": "1px",
+          "borderLeftWidth": "1px",
+          "borderRightWidth": "1px",
+          "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "color cubic-bezier(0.4, 0, 0.2, 1), background-color cubic-bezier(0.4, 0, 0.2, 1), border-color cubic-bezier(0.4, 0, 0.2, 1), outline-color cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color cubic-bezier(0.4, 0, 0.2, 1), fill cubic-bezier(0.4, 0, 0.2, 1), stroke cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to cubic-bezier(0.4, 0, 0.2, 1)",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "p",
+            "classes": "text-h4 text-trim font-normal text-white/90 mb-6 text-sm",
+            "text": "“ Outstanding app. I've been wearing hearing aids the past 40 years. THIS IS THE BEST EVER. The transcribe function is amazingly accurate. ”",
+            "rect": {
+              "x": 105,
+              "y": 854,
+              "pageX": 105,
+              "pageY": 6622,
+              "w": 366,
+              "h": 130
+            },
+            "childCount": 0,
+            "styles": {
+              "fontSize": "19.9998px",
+              "lineHeight": "32.4997px",
+              "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "backgroundPosition": "0% 0%",
+              "marginBottom": "24px",
+              "width": "366px",
+              "height": "130px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "div",
+            "classes": "flex items-center justify-between border-t border-white/10 pt-4",
+            "text": null,
+            "rect": {
+              "x": 105,
+              "y": 1008,
+              "pageX": 105,
+              "pageY": 6776,
+              "w": 366,
+              "h": 37
+            },
+            "childCount": 2,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "paddingTop": "16px",
+              "width": "366px",
+              "height": "37px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "justifyContent": "space-between",
+              "alignItems": "center",
+              "gridAutoFlow": "row",
+              "borderTopWidth": "1px",
+              "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": [
+              {
+                "truncated": true,
+                "tag": "p"
+              },
+              {
+                "truncated": true,
+                "tag": "div"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[4]",
+      "node": {
+        "tag": "div",
+        "classes": "flex flex-col justify-between rounded-large bg-card p-6",
+        "text": null,
+        "rect": {
+          "x": 512,
+          "y": 829,
+          "pageX": 512,
+          "pageY": 6597,
+          "w": 416,
+          "h": 241
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundColor": "rgb(49, 38, 35)",
+          "backgroundPosition": "0% 0%",
+          "paddingTop": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "24px",
+          "paddingLeft": "24px",
+          "width": "416px",
+          "height": "241px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "justifyContent": "space-between",
+          "gridAutoFlow": "row",
+          "borderRadius": "40px",
+          "borderTopWidth": "1px",
+          "borderBottomWidth": "1px",
+          "borderLeftWidth": "1px",
+          "borderRightWidth": "1px",
+          "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "color cubic-bezier(0.4, 0, 0.2, 1), background-color cubic-bezier(0.4, 0, 0.2, 1), border-color cubic-bezier(0.4, 0, 0.2, 1), outline-color cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color cubic-bezier(0.4, 0, 0.2, 1), fill cubic-bezier(0.4, 0, 0.2, 1), stroke cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to cubic-bezier(0.4, 0, 0.2, 1)",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "p",
+            "classes": "text-h4 text-trim font-normal text-white/90 mb-6 text-sm",
+            "text": "“ Outstanding app if you are hard of hearing. I highly recommend it - you won't be disappointed. ”",
+            "rect": {
+              "x": 537,
+              "y": 854,
+              "pageX": 537,
+              "pageY": 6622,
+              "w": 366,
+              "h": 98
+            },
+            "childCount": 0,
+            "styles": {
+              "fontSize": "19.9998px",
+              "lineHeight": "32.4997px",
+              "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "backgroundPosition": "0% 0%",
+              "marginBottom": "24px",
+              "width": "366px",
+              "height": "97.5px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "div",
+            "classes": "flex items-center justify-between border-t border-white/10 pt-4",
+            "text": null,
+            "rect": {
+              "x": 537,
+              "y": 1008,
+              "pageX": 537,
+              "pageY": 6776,
+              "w": 366,
+              "h": 37
+            },
+            "childCount": 2,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "paddingTop": "16px",
+              "width": "366px",
+              "height": "37px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "justifyContent": "space-between",
+              "alignItems": "center",
+              "gridAutoFlow": "row",
+              "borderTopWidth": "1px",
+              "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": [
+              {
+                "truncated": true,
+                "tag": "p"
+              },
+              {
+                "truncated": true,
+                "tag": "div"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[5]",
+      "node": {
+        "tag": "div",
+        "classes": "flex flex-col justify-between rounded-large bg-card p-6",
+        "text": null,
+        "rect": {
+          "x": 944,
+          "y": 829,
+          "pageX": 944,
+          "pageY": 6597,
+          "w": 416,
+          "h": 241
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundColor": "rgb(49, 38, 35)",
+          "backgroundPosition": "0% 0%",
+          "paddingTop": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "24px",
+          "paddingLeft": "24px",
+          "width": "416px",
+          "height": "241px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "justifyContent": "space-between",
+          "gridAutoFlow": "row",
+          "borderRadius": "40px",
+          "borderTopWidth": "1px",
+          "borderBottomWidth": "1px",
+          "borderLeftWidth": "1px",
+          "borderRightWidth": "1px",
+          "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.05)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "color cubic-bezier(0.4, 0, 0.2, 1), background-color cubic-bezier(0.4, 0, 0.2, 1), border-color cubic-bezier(0.4, 0, 0.2, 1), outline-color cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color cubic-bezier(0.4, 0, 0.2, 1), fill cubic-bezier(0.4, 0, 0.2, 1), stroke cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to cubic-bezier(0.4, 0, 0.2, 1)",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "p",
+            "classes": "text-h4 text-trim font-normal text-white/90 mb-6 text-sm",
+            "text": "“ Absolutely an amazing app to have for my father who was very hard of hearing. Thank you for designing this app. ”",
+            "rect": {
+              "x": 969,
+              "y": 854,
+              "pageX": 969,
+              "pageY": 6622,
+              "w": 366,
+              "h": 130
+            },
+            "childCount": 0,
+            "styles": {
+              "fontSize": "19.9998px",
+              "lineHeight": "32.4997px",
+              "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "backgroundPosition": "0% 0%",
+              "marginBottom": "24px",
+              "width": "366px",
+              "height": "130px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "div",
+            "classes": "flex items-center justify-between border-t border-white/10 pt-4",
+            "text": null,
+            "rect": {
+              "x": 969,
+              "y": 1008,
+              "pageX": 969,
+              "pageY": 6776,
+              "w": 366,
+              "h": 37
+            },
+            "childCount": 2,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "paddingTop": "16px",
+              "width": "366px",
+              "height": "37px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "justifyContent": "space-between",
+              "alignItems": "center",
+              "gridAutoFlow": "row",
+              "borderTopWidth": "1px",
+              "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": [
+              {
+                "truncated": true,
+                "tag": "p"
+              },
+              {
+                "truncated": true,
+                "tag": "div"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "removed": [
+    {
+      "path": "section > div[0] > div[1] > div[0] > svg[0]",
+      "node": {
+        "tag": "svg",
+        "classes": "[object SVGAnimatedString]",
+        "text": null,
+        "isSvg": true,
+        "rect": {
+          "x": 80,
+          "y": 542,
+          "pageX": 80,
+          "pageY": 6108,
+          "w": 1280,
+          "h": 207
+        },
+        "childCount": 1,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1280px",
+          "height": "206.719px",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "overflow": "hidden",
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "aspectRatio": "1616 / 261",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "path",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "rect": {
+              "x": 81,
+              "y": 544,
+              "pageX": 81,
+              "pageY": 6110,
+              "w": 1276,
+              "h": 204
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "display": "inline",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1]",
+      "node": {
+        "tag": "div",
+        "classes": "rounded-large relative flex flex-col justify-end overflow-clip",
+        "text": null,
+        "rect": {
+          "x": 80,
+          "y": -173,
+          "pageX": 80,
+          "pageY": 5393,
+          "w": 1280,
+          "h": 1024
+        },
+        "childCount": 3,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1280px",
+          "height": "1024px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "justifyContent": "flex-end",
+          "gridAutoFlow": "row",
+          "borderRadius": "40px",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "overflow": "clip",
+          "overflowX": "clip",
+          "overflowY": "clip",
+          "position": "relative",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "img",
+            "classes": "pointer-events-none absolute z-0 w-full object-cover inset-x-0",
+            "text": null,
+            "img": {
+              "src": "https://rylo.com/_astro/review-card-background.BtV5Zgng_19sRub.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+              "alt": "",
+              "w": 1440,
+              "h": 1295
+            },
+            "rect": {
+              "x": 80,
+              "y": -300,
+              "pageX": 80,
+              "pageY": 5266,
+              "w": 1280,
+              "h": 1152
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "width": "1280px",
+              "height": "1151.84px",
+              "maxWidth": "100%",
+              "minHeight": "100%",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "overflow": "clip",
+              "overflowX": "clip",
+              "overflowY": "clip",
+              "position": "absolute",
+              "top": "-127.844px",
+              "zIndex": "0",
+              "inset": "-127.844px 0px 0px",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "cover",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "aspectRatio": "auto 2500 / 2250",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "div",
+            "classes": "pt-xl px-xl z-2 sm:pt-3xl sm:px-3xl lg:absolute",
+            "text": null,
+            "rect": {
+              "x": 128,
+              "y": -125,
+              "pageX": 128,
+              "pageY": 5441,
+              "w": 375,
+              "h": 177
+            },
+            "childCount": 2,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "width": "375px",
+              "height": "176.938px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "position": "absolute",
+              "top": "47.9994px",
+              "right": "857.016px",
+              "bottom": "799.078px",
+              "left": "47.9994px",
+              "zIndex": "2",
+              "inset": "47.9994px 857.016px 799.078px 47.9994px",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": [
+              {
+                "tag": "p",
+                "classes": "text-h3 text-trim mb-xl max-w-[25ch] text-balance",
+                "text": "“I’ve seen countless patients grow more confident with themselves and in their relationships since using the Rylo app.”",
+                "rect": {
+                  "x": 128,
+                  "y": -125,
+                  "pageX": 128,
+                  "pageY": 5441,
+                  "w": 375,
+                  "h": 97
+                },
+                "pseudo": {
+                  "::before": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -3.82756px",
+                    "transition": "all"
+                  },
+                  "::after": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(250, 245, 242)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -4.78756px",
+                    "transition": "all"
+                  }
+                },
+                "childCount": 0,
+                "styles": {
+                  "fontSize": "23.9998px",
+                  "fontWeight": "600",
+                  "lineHeight": "26.3998px",
+                  "letterSpacing": "-0.719995px",
+                  "backgroundPosition": "0% 0%",
+                  "marginBottom": "31.9998px",
+                  "width": "375px",
+                  "height": "96.9688px",
+                  "maxWidth": "375px",
+                  "display": "flow-root",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(250, 245, 242)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              },
+              {
+                "tag": "div",
+                "classes": "gap-md flex items-center",
+                "text": null,
+                "rect": {
+                  "x": 128,
+                  "y": 4,
+                  "pageX": 128,
+                  "pageY": 5570,
+                  "w": 375,
+                  "h": 48
+                },
+                "childCount": 2,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "width": "375px",
+                  "height": "47.9844px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "rowGap": "16px",
+                  "columnGap": "16px",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(250, 245, 242)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": [
+                  {
+                    "truncated": true,
+                    "tag": "span"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "div"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "relative z-1 mx-auto aspect-square w-full max-w-256",
+            "text": null,
+            "rect": {
+              "x": 208,
+              "y": -173,
+              "pageX": 208,
+              "pageY": 5393,
+              "w": 1024,
+              "h": 1024
+            },
+            "childCount": 1,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "width": "1024px",
+              "height": "1024px",
+              "maxWidth": "1024px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "position": "relative",
+              "zIndex": "1",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "aspectRatio": "1 / 1",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": [
+              {
+                "tag": "img",
+                "classes": "absolute inset-0 size-full object-cover",
+                "text": null,
+                "img": {
+                  "src": "https://rylo.com/_astro/review-foreground.dkrTfeEF_Z8BHYM.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+                  "alt": "Smiling middle-aged man with short gray hair wearing round glasses and a light blue shirt.",
+                  "w": 1440,
+                  "h": 1440
+                },
+                "rect": {
+                  "x": 208,
+                  "y": -173,
+                  "pageX": 208,
+                  "pageY": 5393,
+                  "w": 1024,
+                  "h": 1024
+                },
+                "childCount": 0,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "width": "1024px",
+                  "height": "1024px",
+                  "maxWidth": "100%",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(250, 245, 242)",
+                  "borderStyle": "solid",
+                  "overflow": "clip",
+                  "overflowX": "clip",
+                  "overflowY": "clip",
+                  "position": "absolute",
+                  "opacity": "1",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "cover",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "aspectRatio": "auto 2445 / 2445",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "1"
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0] > ul[0]",
+      "node": {
+        "tag": "ul",
+        "classes": "flex flex-wrap items-stretch",
+        "text": null,
+        "ariaLabel": "App Store reviews",
+        "rect": {
+          "x": -1297,
+          "y": 855,
+          "pageX": -1297,
+          "pageY": 6421,
+          "w": 4444,
+          "h": 247
+        },
+        "childCount": 11,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "4444px",
+          "height": "246.812px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "alignItems": "stretch",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -1296.74, 0)",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "0"
+        },
+        "children": [
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0] > ul[1]",
+      "node": {
+        "tag": "ul",
+        "classes": "flex flex-wrap items-stretch",
+        "text": null,
+        "ariaLabel": "App Store reviews",
+        "rect": {
+          "x": 3147,
+          "y": 855,
+          "pageX": 3147,
+          "pageY": 6421,
+          "w": 4444,
+          "h": 247
+        },
+        "childCount": 11,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "4444px",
+          "height": "246.812px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "alignItems": "stretch",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -1296.74, 0)",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "0"
+        },
+        "children": [
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[2] > div[0] > div[0] > ul[2]",
+      "node": {
+        "tag": "ul",
+        "classes": "flex flex-wrap items-stretch",
+        "text": null,
+        "ariaLabel": "App Store reviews",
+        "rect": {
+          "x": 7591,
+          "y": 855,
+          "pageX": 7591,
+          "pageY": 6421,
+          "w": 4444,
+          "h": 247
+        },
+        "childCount": 11,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "4444px",
+          "height": "246.812px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "alignItems": "stretch",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, -1296.74, 0)",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "0"
+        },
+        "children": [
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[2] > div[1]",
+      "node": {
+        "tag": "div",
+        "classes": "relative flex overflow-hidden w-screen",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": 1106,
+          "pageX": 0,
+          "pageY": 6672,
+          "w": 1440,
+          "h": 247
+        },
+        "childCount": 1,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "246.812px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "overflow": "hidden",
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "position": "relative",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "classes": "flex",
+            "text": null,
+            "rect": {
+              "x": -144,
+              "y": 1106,
+              "pageX": -144,
+              "pageY": 6672,
+              "w": 1584,
+              "h": 247
+            },
+            "childCount": 3,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "marginLeft": "-72px",
+              "width": "1584px",
+              "height": "246.812px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transform": "matrix(1, 0, 0, 1, -72, 0)",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": [
+              {
+                "tag": "ul",
+                "classes": "flex flex-wrap items-stretch",
+                "text": null,
+                "ariaLabel": "More App Store reviews",
+                "rect": {
+                  "x": -1249,
+                  "y": 1106,
+                  "pageX": -1249,
+                  "pageY": 6672,
+                  "w": 4040,
+                  "h": 247
+                },
+                "childCount": 10,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "width": "4040px",
+                  "height": "246.812px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "alignItems": "stretch",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(250, 245, 242)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transform": "matrix(1, 0, 0, 1, -1105.42, 0)",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "0"
+                },
+                "children": [
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  }
+                ]
+              },
+              {
+                "tag": "ul",
+                "classes": "flex flex-wrap items-stretch",
+                "text": null,
+                "ariaLabel": "More App Store reviews",
+                "rect": {
+                  "x": 2791,
+                  "y": 1106,
+                  "pageX": 2791,
+                  "pageY": 6672,
+                  "w": 4040,
+                  "h": 247
+                },
+                "childCount": 10,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "width": "4040px",
+                  "height": "246.812px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "alignItems": "stretch",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(250, 245, 242)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transform": "matrix(1, 0, 0, 1, -1105.42, 0)",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "0"
+                },
+                "children": [
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  }
+                ]
+              },
+              {
+                "tag": "ul",
+                "classes": "flex flex-wrap items-stretch",
+                "text": null,
+                "ariaLabel": "More App Store reviews",
+                "rect": {
+                  "x": 6831,
+                  "y": 1106,
+                  "pageX": 6831,
+                  "pageY": 6672,
+                  "w": 4040,
+                  "h": 247
+                },
+                "childCount": 10,
+                "styles": {
+                  "backgroundPosition": "0% 0%",
+                  "width": "4040px",
+                  "height": "246.812px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "alignItems": "stretch",
+                  "gridAutoFlow": "row",
+                  "borderColor": "rgb(250, 245, 242)",
+                  "borderStyle": "solid",
+                  "opacity": "1",
+                  "transform": "matrix(1, 0, 0, 1, -1105.42, 0)",
+                  "transition": "all",
+                  "animation": "0.0001s -0.0001s",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip",
+                  "order": "0",
+                  "flexGrow": "0",
+                  "flexShrink": "0"
+                },
+                "children": [
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  },
+                  {
+                    "truncated": true,
+                    "tag": "li"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[1]",
+      "node": {
+        "tag": "div",
+        "classes": "pointer-events-none absolute inset-0 z-10 bg-black opacity-0",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": -725,
+          "pageX": 0,
+          "pageY": 4841,
+          "w": 1440,
+          "h": 2350
+        },
+        "childCount": 0,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "2350.45px",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "position": "absolute",
+          "zIndex": "10",
+          "opacity": "0",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": []
+      }
+    }
+  ]
+}

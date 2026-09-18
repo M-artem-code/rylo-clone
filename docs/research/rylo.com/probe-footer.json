@@ -1,0 +1,75 @@
+{
+  "url": "https://rylo.com",
+  "selectors": [
+    "footer.-mt-band-overlap"
+  ],
+  "generatedAt": "2026-09-18T12:51:47.019Z",
+  "results": {
+    "phone": {
+      "footer.-mt-band-overlap": {
+        "_height": "1620px",
+        "_width": "390px",
+        "fontSize": "15.0619px",
+        "fontWeight": "400",
+        "lineHeight": "19.5804px",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "-43.5691px",
+        "marginBottom": "0px",
+        "width": "390px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    },
+    "ipad": {
+      "footer.-mt-band-overlap": {
+        "_height": "1279px",
+        "_width": "768px",
+        "fontSize": "15.3994px",
+        "fontWeight": "400",
+        "lineHeight": "20.0193px",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "-62.8524px",
+        "marginBottom": "0px",
+        "width": "768px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    },
+    "pc": {
+      "footer.-mt-band-overlap": {
+        "_height": "1599px",
+        "_width": "1440px",
+        "fontSize": "15.9995px",
+        "fontWeight": "400",
+        "lineHeight": "20.7994px",
+        "letterSpacing": "normal",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "marginTop": "-97.1338px",
+        "marginBottom": "0px",
+        "width": "1440px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    }
+  }
+}

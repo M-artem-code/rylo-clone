@@ -1,0 +1,922 @@
+{
+  "original": "https://rylo.com",
+  "clone": "http://127.0.0.1:3000",
+  "selector": "main#main > section:nth-of-type(5)",
+  "cloneSelector": "main#main > section:nth-of-type(5)",
+  "viewport": "pc",
+  "tolerance": 1,
+  "generatedAt": "2026-09-18T13:24:38.441Z",
+  "diffs": [
+    {
+      "path": "section",
+      "prop": "height",
+      "before": "1725.36px",
+      "after": "1314.86px"
+    },
+    {
+      "path": "section",
+      "prop": "paddingBottom",
+      "before": "(unset)",
+      "after": "272px"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "height",
+      "before": "179px",
+      "after": "1314.86px"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "display",
+      "before": "flex",
+      "after": "block"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "justifyContent",
+      "before": "center",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "top",
+      "before": "994.25px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "bottom",
+      "before": "552.109px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "inset",
+      "before": "994.25px 0px 552.109px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "height",
+      "before": "1531.09px",
+      "after": "848.594px"
+    },
+    {
+      "path": "section > div[2] > header[0]",
+      "prop": "height",
+      "before": "267.094px",
+      "after": "208.594px"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0]",
+      "prop": "height",
+      "before": "86.3906px",
+      "after": "91.1875px"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0]",
+      "prop": "paddingTop",
+      "before": "(unset)",
+      "after": "8px"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0]",
+      "prop": "paddingRight",
+      "before": "(unset)",
+      "after": "8px"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0]",
+      "prop": "paddingBottom",
+      "before": "(unset)",
+      "after": "8px"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0]",
+      "prop": "paddingLeft",
+      "before": "(unset)",
+      "after": "8px"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0] > svg[0]",
+      "prop": "width",
+      "before": "86.3906px",
+      "after": "70.3906px"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0] > svg[0]",
+      "prop": "height",
+      "before": "86.3906px",
+      "after": "70.3906px"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]",
+      "prop": "height",
+      "before": "71.0625px",
+      "after": "91.1875px"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]",
+      "prop": "display",
+      "before": "flow-root",
+      "after": "block"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::before",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::after",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]",
+      "prop": "marginTop",
+      "before": "47.9994px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]",
+      "prop": "height",
+      "before": "49.3281px",
+      "after": "66px"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]",
+      "prop": "display",
+      "before": "flow-root",
+      "after": "block"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::before",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::after",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]",
+      "prop": "(text)",
+      "before": "Use Rylo Live Transcribe to caption the world around you. In-person interactions just got a\n        whole lot better.",
+      "after": "Use Rylo Live Transcribe to caption the world around you. In-person interactions just got a whole lot better."
+    },
+    {
+      "path": "section > div[2] > header[0] > div[2]",
+      "prop": "marginTop",
+      "before": "31.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "width",
+      "before": "1200px",
+      "after": "576px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "height",
+      "before": "1200px",
+      "after": "576px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "maxWidth",
+      "before": "1200px",
+      "after": "576px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "borderTopWidth",
+      "before": "(unset)",
+      "after": "4px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "borderBottomWidth",
+      "before": "(unset)",
+      "after": "4px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "borderLeftWidth",
+      "before": "(unset)",
+      "after": "4px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "borderRightWidth",
+      "before": "(unset)",
+      "after": "4px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "overflow",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "overflowX",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "overflowY",
+      "before": "(unset)",
+      "after": "hidden"
+    },
+    {
+      "path": "section > div[2] > div[1] > img[0]",
+      "prop": "width",
+      "before": "1200px",
+      "after": "568px"
+    },
+    {
+      "path": "section > div[2] > div[1] > img[0]",
+      "prop": "height",
+      "before": "1200px",
+      "after": "568px"
+    },
+    {
+      "path": "section > div[2] > div[1] > img[0]",
+      "prop": "aspectRatio",
+      "before": "auto 1920 / 1920",
+      "after": "(unset)"
+    },
+    {
+      "path": "section",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > header[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0] > svg[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[2]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[2] > a[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[2] > a[0] > span[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[2] > a[0] > span[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[2] > a[0] > span[2]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[2] > div[1] > img[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section",
+      "prop": "backgroundColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "rgb(250, 245, 242)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0]",
+      "prop": "color",
+      "before": "rgb(25, 20, 18)",
+      "after": "rgb(250, 245, 242)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0]",
+      "prop": "borderColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "rgb(250, 245, 242)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0]",
+      "prop": "boxShadow",
+      "before": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.15) 0px 8px 24px 0px, rgba(255, 255, 255, 0.4) 0px 0px 8px 0px inset",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0] > svg[0]",
+      "prop": "color",
+      "before": "rgb(25, 20, 18)",
+      "after": "rgb(255, 255, 255)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > span[0] > svg[0]",
+      "prop": "borderColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "rgb(255, 255, 255)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(255, 255, 255)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgb(255, 255, 255)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::before",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::before",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::before",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::after",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::after",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::after",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]",
+      "prop": "color",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.8)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]",
+      "prop": "borderColor",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "oklab(0.999994 0.0000455677 0.0000200868 / 0.8)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::before",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::before",
+      "prop": "borderColor",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::before",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::after",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::after",
+      "prop": "borderColor",
+      "before": "oklab(0.973166 0.00403872 0.00540715 / 0.7)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::after",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "borderRadius",
+      "before": "(unset)",
+      "after": "24px"
+    },
+    {
+      "path": "section > div[2] > div[1]",
+      "prop": "boxShadow",
+      "before": "(unset)",
+      "after": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 25px 50px -12px"
+    },
+    {
+      "path": "section > div[2] > div[1] > img[0]",
+      "prop": "color",
+      "before": "rgb(250, 245, 242)",
+      "after": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "path": "section > div[2] > div[1] > img[0]",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section",
+      "prop": "transform",
+      "before": "matrix(1, 0, 0, 1, 0, 0)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[1]",
+      "prop": "zIndex",
+      "before": "1",
+      "after": "0"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::before",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::before",
+      "prop": "margin",
+      "before": "0px 0px -8.15375px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::before",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::after",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::after",
+      "prop": "margin",
+      "before": "0px 0px -11.9937px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > div[0] > h2[1]::after",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::before",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::before",
+      "prop": "margin",
+      "before": "0px 0px -7.90444px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::before",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::after",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::after",
+      "prop": "margin",
+      "before": "0px 0px -8.78443px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[2] > header[0] > p[1]::after",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    }
+  ],
+  "added": [
+    {
+      "path": "section > div[1] > img[0]",
+      "node": {
+        "tag": "img",
+        "classes": "object-cover",
+        "text": null,
+        "img": {
+          "src": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fprod-cta-background.CQJ-AY5P_Z17gijI.avif&w=1920&q=75",
+          "alt": "",
+          "w": 1251,
+          "h": 1259
+        },
+        "rect": {
+          "x": 0,
+          "y": -207,
+          "pageX": 0,
+          "pageY": 7013,
+          "w": 1440,
+          "h": 1315
+        },
+        "childCount": 0,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "20.7994px",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "1314.86px",
+          "maxWidth": "100%",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderStyle": "solid",
+          "overflow": "clip",
+          "overflowX": "clip",
+          "overflowY": "clip",
+          "position": "absolute",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": []
+      }
+    },
+    {
+      "path": "section > div[1] > div[1]",
+      "node": {
+        "tag": "div",
+        "classes": "absolute inset-0 bg-ink/75",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": -207,
+          "pageX": 0,
+          "pageY": 7013,
+          "w": 1440,
+          "h": 1315
+        },
+        "childCount": 0,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "1314.86px",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "position": "absolute",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": []
+      }
+    }
+  ],
+  "removed": [
+    {
+      "path": "section > div[1] > svg[0]",
+      "node": {
+        "tag": "svg",
+        "classes": "[object SVGAnimatedString]",
+        "text": null,
+        "isSvg": true,
+        "rect": {
+          "x": 0,
+          "y": 581,
+          "pageX": 0,
+          "pageY": 8088,
+          "w": 1440,
+          "h": 179
+        },
+        "childCount": 2,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "179px",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "overflow": "hidden",
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "aspectRatio": "1440 / 179",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": [
+          {
+            "tag": "path",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "rect": {
+              "x": -40,
+              "y": 583,
+              "pageX": -40,
+              "pageY": 8090,
+              "w": 1533,
+              "h": 175
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "display": "inline",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          },
+          {
+            "tag": "path",
+            "classes": "[object SVGAnimatedString]",
+            "text": null,
+            "rect": {
+              "x": -40,
+              "y": 654,
+              "pageX": -40,
+              "pageY": 8161,
+              "w": 1533,
+              "h": 33
+            },
+            "childCount": 0,
+            "styles": {
+              "backgroundPosition": "0% 0%",
+              "display": "inline",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "gridAutoFlow": "row",
+              "borderColor": "rgb(250, 245, 242)",
+              "borderStyle": "solid",
+              "opacity": "1",
+              "transition": "all",
+              "animation": "0.0001s -0.0001s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip",
+              "order": "0",
+              "flexGrow": "0",
+              "flexShrink": "1"
+            },
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > img[0]",
+      "node": {
+        "tag": "img",
+        "classes": "pointer-events-none absolute z-0 w-full object-cover inset-x-0",
+        "text": null,
+        "img": {
+          "src": "https://rylo.com/_astro/prod-cta-background.CQJ-AY5P_Z17gijI.avif?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR",
+          "alt": "",
+          "w": 1440,
+          "h": 1449
+        },
+        "rect": {
+          "x": 0,
+          "y": -413,
+          "pageX": 0,
+          "pageY": 7094,
+          "w": 1440,
+          "h": 1725
+        },
+        "childCount": 0,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "1725.36px",
+          "maxWidth": "100%",
+          "minHeight": "100%",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "overflow": "clip",
+          "overflowX": "clip",
+          "overflowY": "clip",
+          "position": "absolute",
+          "zIndex": "0",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "cover",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "aspectRatio": "auto 2500 / 2516",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": []
+      }
+    },
+    {
+      "path": "section > div[3]",
+      "node": {
+        "tag": "div",
+        "classes": "pointer-events-none absolute inset-0 z-10 bg-black opacity-0",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": -413,
+          "pageX": 0,
+          "pageY": 7094,
+          "w": 1440,
+          "h": 1725
+        },
+        "childCount": 0,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(250, 245, 242)",
+          "textAlign": "start",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "1725.36px",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(250, 245, 242)",
+          "borderStyle": "solid",
+          "position": "absolute",
+          "zIndex": "10",
+          "opacity": "0",
+          "transition": "all",
+          "animation": "0.0001s -0.0001s",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "1"
+        },
+        "children": []
+      }
+    }
+  ]
+}

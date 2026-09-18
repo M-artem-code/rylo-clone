@@ -1,0 +1,745 @@
+{
+  "url": "https://rylo.com",
+  "generatedAt": "2026-09-18T12:48:46.357Z",
+  "viewports": {
+    "phone": 390,
+    "ipad": 768,
+    "pc": 1440
+  },
+  "sections": [
+    {
+      "selector": "header.pointer-events-none",
+      "name": "header",
+      "phone": {
+        "width": 390,
+        "height": 68,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 1,
+          "itemCount": 6,
+          "gap": "4px"
+        },
+        "childCount": 1,
+        "visibleChildCount": 1,
+        "hiddenChildren": 0,
+        "headingFontSize": null,
+        "paddingX": "0px / 0px",
+        "fontSize": "15.0619px"
+      },
+      "ipad": {
+        "width": 768,
+        "height": 70,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 1,
+          "itemCount": 6,
+          "gap": "4px"
+        },
+        "childCount": 1,
+        "visibleChildCount": 1,
+        "hiddenChildren": 0,
+        "headingFontSize": null,
+        "paddingX": "0px / 0px",
+        "fontSize": "15.3994px"
+      },
+      "pc": {
+        "width": 1440,
+        "height": 85,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 5,
+          "itemCount": 5,
+          "gap": "0px"
+        },
+        "childCount": 1,
+        "visibleChildCount": 1,
+        "hiddenChildren": 0,
+        "headingFontSize": null,
+        "paddingX": "0px / 0px",
+        "fontSize": "15.9995px"
+      },
+      "summary": {
+        "changes": [
+          "columns: 5 (pc) → 1 (phone)",
+          "flex direction: row (pc) → column (phone)"
+        ],
+        "ipadBehavior": "ipad matches phone layout"
+      }
+    },
+    {
+      "selector": "section#captioning",
+      "name": "hero",
+      "phone": {
+        "width": 390,
+        "height": 929,
+        "display": "flex",
+        "flexDirection": "column",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 3,
+          "itemCount": 4,
+          "gap": "normal"
+        },
+        "childCount": 4,
+        "visibleChildCount": 4,
+        "hiddenChildren": 0,
+        "headingFontSize": "37.75px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.0619px"
+      },
+      "ipad": {
+        "width": 768,
+        "height": 1227,
+        "display": "flex",
+        "flexDirection": "column",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 3,
+          "itemCount": 4,
+          "gap": "normal"
+        },
+        "childCount": 4,
+        "visibleChildCount": 4,
+        "hiddenChildren": 0,
+        "headingFontSize": "47.2px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.3994px"
+      },
+      "pc": {
+        "width": 1440,
+        "height": 1361,
+        "display": "flex",
+        "flexDirection": "column",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 3,
+          "itemCount": 4,
+          "gap": "normal"
+        },
+        "childCount": 4,
+        "visibleChildCount": 4,
+        "hiddenChildren": 0,
+        "headingFontSize": "64px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.9995px"
+      },
+      "summary": {
+        "changes": [
+          "heading size: 64px (pc) → 37.75px (phone)"
+        ],
+        "ipadBehavior": "ipad matches pc layout"
+      }
+    },
+    {
+      "selector": "main#main > section:nth-of-type(2)",
+      "name": "seen-on",
+      "phone": {
+        "width": 390,
+        "height": 1268,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 5,
+          "itemCount": 5,
+          "gap": "normal"
+        },
+        "childCount": 1,
+        "visibleChildCount": 1,
+        "hiddenChildren": 0,
+        "headingFontSize": "43.5px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.0619px"
+      },
+      "ipad": {
+        "width": 768,
+        "height": 1316,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 5,
+          "itemCount": 5,
+          "gap": "normal"
+        },
+        "childCount": 1,
+        "visibleChildCount": 1,
+        "hiddenChildren": 0,
+        "headingFontSize": "62.4px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.3994px"
+      },
+      "pc": {
+        "width": 1440,
+        "height": 1543,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 5,
+          "itemCount": 5,
+          "gap": "normal"
+        },
+        "childCount": 1,
+        "visibleChildCount": 1,
+        "hiddenChildren": 0,
+        "headingFontSize": "96px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.9995px"
+      },
+      "summary": {
+        "changes": [
+          "heading size: 96px (pc) → 43.5px (phone)"
+        ],
+        "ipadBehavior": "ipad matches pc layout"
+      }
+    },
+    {
+      "selector": "main#main > section:nth-of-type(3)",
+      "name": "call-with-clarity",
+      "phone": {
+        "width": 390,
+        "height": 2527,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "wrap",
+          "gridColumns": null,
+          "realColumns": 4,
+          "itemCount": 5,
+          "gap": "normal"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "43.5px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.0619px"
+      },
+      "ipad": {
+        "width": 768,
+        "height": 2582,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "wrap",
+          "gridColumns": null,
+          "realColumns": 4,
+          "itemCount": 5,
+          "gap": "normal"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "62.4px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.3994px"
+      },
+      "pc": {
+        "width": 1440,
+        "height": 2228,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "grid",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": 2,
+          "realColumns": 2,
+          "itemCount": 8,
+          "gap": "4px"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "96px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.9995px"
+      },
+      "summary": {
+        "changes": [
+          "columns: 2 (pc) → 4 (phone)",
+          "heading size: 96px (pc) → 43.5px (phone)"
+        ],
+        "ipadBehavior": "ipad matches phone layout"
+      }
+    },
+    {
+      "selector": "main#main > section:nth-of-type(4)",
+      "name": "testimonials",
+      "phone": {
+        "width": 390,
+        "height": 1380,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 11,
+          "itemCount": 11,
+          "gap": "normal"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "43.5px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.0619px"
+      },
+      "ipad": {
+        "width": 768,
+        "height": 1898,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 11,
+          "itemCount": 11,
+          "gap": "normal"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "62.4px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.3994px"
+      },
+      "pc": {
+        "width": 1440,
+        "height": 2350,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 11,
+          "itemCount": 11,
+          "gap": "normal"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "96px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.9995px"
+      },
+      "summary": {
+        "changes": [
+          "heading size: 96px (pc) → 43.5px (phone)"
+        ],
+        "ipadBehavior": "ipad matches pc layout"
+      }
+    },
+    {
+      "selector": "main#main > section:nth-of-type(5)",
+      "name": "live-transcribe",
+      "phone": {
+        "width": 390,
+        "height": 750,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 2,
+          "itemCount": 4,
+          "gap": "normal"
+        },
+        "childCount": 4,
+        "visibleChildCount": 4,
+        "hiddenChildren": 0,
+        "headingFontSize": "43.5px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.0619px"
+      },
+      "ipad": {
+        "width": 768,
+        "height": 1075,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 2,
+          "itemCount": 4,
+          "gap": "normal"
+        },
+        "childCount": 4,
+        "visibleChildCount": 4,
+        "hiddenChildren": 0,
+        "headingFontSize": "62.4px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.3994px"
+      },
+      "pc": {
+        "width": 1440,
+        "height": 1725,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 2,
+          "itemCount": 4,
+          "gap": "normal"
+        },
+        "childCount": 4,
+        "visibleChildCount": 4,
+        "hiddenChildren": 0,
+        "headingFontSize": "96px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.9995px"
+      },
+      "summary": {
+        "changes": [
+          "heading size: 96px (pc) → 43.5px (phone)"
+        ],
+        "ipadBehavior": "ipad matches pc layout"
+      }
+    },
+    {
+      "selector": "main#main > section:nth-of-type(6)",
+      "name": "conversations",
+      "phone": {
+        "width": 390,
+        "height": 1745,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "grid",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": 1,
+          "realColumns": 1,
+          "itemCount": 3,
+          "gap": "4px"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "43.5px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.0619px"
+      },
+      "ipad": {
+        "width": 768,
+        "height": 919,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "grid",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": 3,
+          "realColumns": 3,
+          "itemCount": 3,
+          "gap": "4px"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "62.4px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.3994px"
+      },
+      "pc": {
+        "width": 1440,
+        "height": 1224,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "grid",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": 3,
+          "realColumns": 3,
+          "itemCount": 3,
+          "gap": "4px"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "96px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.9995px"
+      },
+      "summary": {
+        "changes": [
+          "columns: 3 (pc) → 1 (phone)",
+          "grid-template columns: 3 (pc) → 1 (phone)",
+          "heading size: 96px (pc) → 43.5px (phone)"
+        ],
+        "ipadBehavior": "ipad matches pc layout"
+      }
+    },
+    {
+      "selector": "main#main > section:nth-of-type(7)",
+      "name": "start-captioning",
+      "phone": {
+        "width": 390,
+        "height": 726,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 1,
+          "itemCount": 3,
+          "gap": "normal"
+        },
+        "childCount": 3,
+        "visibleChildCount": 3,
+        "hiddenChildren": 0,
+        "headingFontSize": "43.5px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.0619px"
+      },
+      "ipad": {
+        "width": 768,
+        "height": 1085,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 1,
+          "itemCount": 3,
+          "gap": "normal"
+        },
+        "childCount": 3,
+        "visibleChildCount": 3,
+        "hiddenChildren": 0,
+        "headingFontSize": "62.4px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.3994px"
+      },
+      "pc": {
+        "width": 1440,
+        "height": 1683,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 1,
+          "itemCount": 3,
+          "gap": "normal"
+        },
+        "childCount": 3,
+        "visibleChildCount": 3,
+        "hiddenChildren": 0,
+        "headingFontSize": "96px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.9995px"
+      },
+      "summary": {
+        "changes": [
+          "heading size: 96px (pc) → 43.5px (phone)"
+        ],
+        "ipadBehavior": "ipad matches pc layout"
+      }
+    },
+    {
+      "selector": "main#main > section:nth-of-type(8)",
+      "name": "faqs",
+      "phone": {
+        "width": 390,
+        "height": 1006,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 1,
+          "itemCount": 8,
+          "gap": "4px"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "37.75px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.0619px"
+      },
+      "ipad": {
+        "width": 768,
+        "height": 1043,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 1,
+          "itemCount": 8,
+          "gap": "4px"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "47.2px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.3994px"
+      },
+      "pc": {
+        "width": 1440,
+        "height": 1262,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 1,
+          "itemCount": 8,
+          "gap": "4px"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "64px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.9995px"
+      },
+      "summary": {
+        "changes": [
+          "heading size: 64px (pc) → 37.75px (phone)"
+        ],
+        "ipadBehavior": "ipad matches pc layout"
+      }
+    },
+    {
+      "selector": "footer.-mt-band-overlap",
+      "name": "footer",
+      "phone": {
+        "width": 390,
+        "height": 1620,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 1,
+          "itemCount": 5,
+          "gap": "normal"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "16px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.0619px"
+      },
+      "ipad": {
+        "width": 768,
+        "height": 1279,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 1,
+          "itemCount": 5,
+          "gap": "normal"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "16px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.3994px"
+      },
+      "pc": {
+        "width": 1440,
+        "height": 1599,
+        "display": "block",
+        "flexDirection": "row",
+        "innerLayout": {
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "gridColumns": null,
+          "realColumns": 1,
+          "itemCount": 6,
+          "gap": "normal"
+        },
+        "childCount": 2,
+        "visibleChildCount": 2,
+        "hiddenChildren": 0,
+        "headingFontSize": "16px",
+        "paddingX": "0px / 0px",
+        "fontSize": "15.9995px"
+      },
+      "summary": {
+        "changes": [
+          "no layout change across viewports"
+        ],
+        "ipadBehavior": "ipad matches phone layout"
+      }
+    }
+  ]
+}

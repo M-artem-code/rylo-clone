@@ -1,0 +1,1250 @@
+{
+  "original": "https://rylo.com",
+  "clone": "http://127.0.0.1:3000",
+  "selector": "main#main > section:nth-of-type(2)",
+  "cloneSelector": "main#main > section:nth-of-type(2)",
+  "viewport": "pc",
+  "tolerance": 1,
+  "generatedAt": "2026-09-18T13:25:57.624Z",
+  "diffs": [
+    {
+      "path": "section",
+      "prop": "height",
+      "before": "1542.7px",
+      "after": "2305.55px"
+    },
+    {
+      "path": "section > div[0]",
+      "prop": "height",
+      "before": "1165.58px",
+      "after": "1928.42px"
+    },
+    {
+      "path": "section > div[0] > div[0]",
+      "prop": "height",
+      "before": "231.75px",
+      "after": "957.797px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0]",
+      "prop": "height",
+      "before": "111px",
+      "after": "143px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0]",
+      "prop": "paddingTop",
+      "before": "39.9995px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0]",
+      "prop": "paddingRight",
+      "before": "39.9995px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0]",
+      "prop": "paddingBottom",
+      "before": "39.9995px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0]",
+      "prop": "paddingLeft",
+      "before": "39.9995px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0]",
+      "prop": "width",
+      "before": "166.938px",
+      "after": "86.9688px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0]",
+      "prop": "height",
+      "before": "107px",
+      "after": "139px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]",
+      "prop": "height",
+      "before": "17.7969px",
+      "after": "26.3906px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]",
+      "prop": "display",
+      "before": "flow-root",
+      "after": "block"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::before",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::after",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1]",
+      "prop": "width",
+      "before": "1109.06px",
+      "after": "1189.03px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1]",
+      "prop": "height",
+      "before": "107px",
+      "after": "139px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1] > ul[0]",
+      "prop": "width",
+      "before": "1120px",
+      "after": "1189.03px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1] > ul[0]",
+      "prop": "height",
+      "before": "107px",
+      "after": "139px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1] > ul[0]",
+      "prop": "justifyContent",
+      "before": "center",
+      "after": "space-around"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1] > ul[0]",
+      "prop": "flexShrink",
+      "before": "0",
+      "after": "1"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1] > ul[0]",
+      "prop": "paddingTop",
+      "before": "(unset)",
+      "after": "16px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1] > ul[0]",
+      "prop": "paddingBottom",
+      "before": "(unset)",
+      "after": "16px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1]",
+      "prop": "paddingTop",
+      "before": "31.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1]",
+      "prop": "paddingRight",
+      "before": "23.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1]",
+      "prop": "paddingBottom",
+      "before": "31.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1]",
+      "prop": "paddingLeft",
+      "before": "23.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1]",
+      "prop": "height",
+      "before": "116.75px",
+      "after": "810.797px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > span[0]",
+      "prop": "width",
+      "before": "47.9844px",
+      "after": "768px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > span[0]",
+      "prop": "height",
+      "before": "52.7812px",
+      "after": "772.797px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > span[0] > svg[0]",
+      "prop": "width",
+      "before": "47.9844px",
+      "after": "768px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > span[0] > svg[0]",
+      "prop": "height",
+      "before": "47.9844px",
+      "after": "768px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]",
+      "prop": "height",
+      "before": "14.8438px",
+      "after": "22px"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]",
+      "prop": "display",
+      "before": "flow-root",
+      "after": "block"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::before",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::after",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "height",
+      "before": "828.703px",
+      "after": "865.5px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "height",
+      "before": "275.578px",
+      "after": "312.375px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]",
+      "prop": "height",
+      "before": "162.25px",
+      "after": "182.375px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]",
+      "prop": "display",
+      "before": "flow-root",
+      "after": "block"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::before",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::after",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]",
+      "prop": "height",
+      "before": "49.3281px",
+      "after": "66px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]",
+      "prop": "display",
+      "before": "flow-root",
+      "after": "block"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::before",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::after",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]",
+      "prop": "(text)",
+      "before": "That means no gaps, dropped words, or thoughts lost in translation. Rylo exists so the Deaf\n      and hard of hearing community can connect more fully with family, friends, and the world.",
+      "after": "That means no gaps, dropped words, or thoughts lost in translation. Rylo exists so the Deaf and hard of hearing community can connect more fully with family, friends, and the world."
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0]",
+      "prop": "paddingTop",
+      "before": "39.9995px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0]",
+      "prop": "paddingRight",
+      "before": "23.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0]",
+      "prop": "paddingBottom",
+      "before": "39.9995px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0]",
+      "prop": "paddingLeft",
+      "before": "23.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]",
+      "prop": "height",
+      "before": "14.8438px",
+      "after": "22px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]",
+      "prop": "display",
+      "before": "flow-root",
+      "after": "block"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::before",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::after",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > div[1]",
+      "prop": "width",
+      "before": "592.031px",
+      "after": "640px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > div[1]",
+      "prop": "height",
+      "before": "353.188px",
+      "after": "426px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > div[1]",
+      "prop": "justifyContent",
+      "before": "flex-start",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1]",
+      "prop": "paddingTop",
+      "before": "39.9995px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1]",
+      "prop": "paddingRight",
+      "before": "23.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1]",
+      "prop": "paddingBottom",
+      "before": "39.9995px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1]",
+      "prop": "paddingLeft",
+      "before": "23.9998px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]",
+      "prop": "height",
+      "before": "14.8438px",
+      "after": "22px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]",
+      "prop": "display",
+      "before": "flow-root",
+      "after": "block"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::before",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::after",
+      "prop": "display",
+      "before": "table",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > div[1]",
+      "prop": "width",
+      "before": "592.031px",
+      "after": "640px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > div[1]",
+      "prop": "height",
+      "before": "353.188px",
+      "after": "426px"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > div[1]",
+      "prop": "justifyContent",
+      "before": "flex-start",
+      "after": "(unset)"
+    },
+    {
+      "path": "section",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1] > ul[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > span[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > span[0] > svg[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > div[2]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > div[1]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > div[2]",
+      "prop": "fontFamily",
+      "before": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "after": "ppMori, \"ppMori Fallback\", \"PP Mori\", -apple-system, BlinkMacSystemFont, sans-serif, ppMori, \"ppMori Fallback\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::before",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::before",
+      "prop": "borderColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::before",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::after",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::after",
+      "prop": "borderColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::after",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1]",
+      "prop": "backgroundColor",
+      "before": "rgb(255, 255, 255)",
+      "after": "rgb(250, 245, 242)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::before",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::before",
+      "prop": "borderColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::before",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::after",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::after",
+      "prop": "borderColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::after",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::before",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::before",
+      "prop": "borderColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::before",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::after",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::after",
+      "prop": "borderColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::after",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]",
+      "prop": "color",
+      "before": "oklab(0.196595 0.00668062 0.0062332 / 0.7)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]",
+      "prop": "borderColor",
+      "before": "oklab(0.196595 0.00668062 0.0062332 / 0.7)",
+      "after": "rgb(25, 20, 18)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::before",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::before",
+      "prop": "borderColor",
+      "before": "oklab(0.196595 0.00668062 0.0062332 / 0.7)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::before",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::after",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::after",
+      "prop": "borderColor",
+      "before": "oklab(0.196595 0.00668062 0.0062332 / 0.7)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::after",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::before",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::before",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::before",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::after",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::after",
+      "prop": "borderColor",
+      "before": "rgb(250, 245, 242)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::after",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::before",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::before",
+      "prop": "borderColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::before",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::after",
+      "prop": "opacity",
+      "before": "1",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::after",
+      "prop": "borderColor",
+      "before": "rgb(25, 20, 18)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::after",
+      "prop": "borderStyle",
+      "before": "solid",
+      "after": "(unset)"
+    },
+    {
+      "path": "section",
+      "prop": "transform",
+      "before": "matrix(1, 0, 0, 1, 0, 0)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::before",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::before",
+      "prop": "margin",
+      "before": "0px 0px -3.82756px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::before",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::after",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::after",
+      "prop": "margin",
+      "before": "0px 0px -4.78756px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[0] > p[0]::after",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1] > ul[0]",
+      "prop": "animation",
+      "before": "0.0001s linear -0.0001s paused marquee-translate-x",
+      "after": "0.0001s -0.0001s"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::before",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::before",
+      "prop": "margin",
+      "before": "0px 0px -3.18444px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::before",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::after",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::after",
+      "prop": "margin",
+      "before": "0px 0px -3.98443px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[0] > div[1] > p[1]::after",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::before",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::before",
+      "prop": "margin",
+      "before": "0px 0px -8.15375px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::before",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::after",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::after",
+      "prop": "margin",
+      "before": "0px 0px -11.9937px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > h2[0]::after",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::before",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::before",
+      "prop": "margin",
+      "before": "0px 0px -7.90444px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::before",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::after",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::after",
+      "prop": "margin",
+      "before": "0px 0px -8.78443px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[0] > p[1]::after",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0]",
+      "prop": "transform",
+      "before": "matrix(1, 0, 0, 1, -320, 0)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::before",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::before",
+      "prop": "margin",
+      "before": "0px 0px -3.18444px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::before",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::after",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::after",
+      "prop": "margin",
+      "before": "0px 0px -3.98443px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[0] > h3[0]::after",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1]",
+      "prop": "transform",
+      "before": "matrix(1, 0, 0, 1, 320, 0)",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::before",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::before",
+      "prop": "margin",
+      "before": "0px 0px -3.18444px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::before",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::after",
+      "prop": "content",
+      "before": "\"\"",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::after",
+      "prop": "margin",
+      "before": "0px 0px -3.98443px",
+      "after": "(unset)"
+    },
+    {
+      "path": "section > div[0] > div[1] > div[1] > div[1] > h3[0]::after",
+      "prop": "transition",
+      "before": "all",
+      "after": "(unset)"
+    }
+  ],
+  "added": [],
+  "removed": [
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1] > ul[1]",
+      "node": {
+        "tag": "ul",
+        "classes": "flex items-center justify-center",
+        "text": null,
+        "ariaLabel": "Seen on",
+        "rect": {
+          "x": 1369,
+          "y": -214,
+          "pageX": 1369,
+          "pageY": 1371,
+          "w": 1120,
+          "h": 107
+        },
+        "childCount": 5,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(25, 20, 18)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1120px",
+          "height": "107px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(25, 20, 18)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s linear -0.0001s paused marquee-translate-x",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "0"
+        },
+        "children": [
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1] > ul[2]",
+      "node": {
+        "tag": "ul",
+        "classes": "flex items-center justify-center",
+        "text": null,
+        "ariaLabel": "Seen on",
+        "rect": {
+          "x": 2489,
+          "y": -214,
+          "pageX": 2489,
+          "pageY": 1371,
+          "w": 1120,
+          "h": 107
+        },
+        "childCount": 5,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(25, 20, 18)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1120px",
+          "height": "107px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(25, 20, 18)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s linear -0.0001s paused marquee-translate-x",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "0"
+        },
+        "children": [
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          }
+        ]
+      }
+    },
+    {
+      "path": "section > div[0] > div[0] > div[0] > div[1] > ul[3]",
+      "node": {
+        "tag": "ul",
+        "classes": "flex items-center justify-center",
+        "text": null,
+        "ariaLabel": "Seen on",
+        "rect": {
+          "x": 3609,
+          "y": -214,
+          "pageX": 3609,
+          "pageY": 1371,
+          "w": 1120,
+          "h": 107
+        },
+        "childCount": 5,
+        "styles": {
+          "fontSize": "15.9995px",
+          "fontWeight": "400",
+          "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+          "lineHeight": "20.7994px",
+          "color": "rgb(25, 20, 18)",
+          "textAlign": "start",
+          "backgroundPosition": "0% 0%",
+          "width": "1120px",
+          "height": "107px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "gridAutoFlow": "row",
+          "borderColor": "rgb(25, 20, 18)",
+          "borderStyle": "solid",
+          "opacity": "1",
+          "transition": "all",
+          "animation": "0.0001s linear -0.0001s paused marquee-translate-x",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip",
+          "order": "0",
+          "flexGrow": "0",
+          "flexShrink": "0"
+        },
+        "children": [
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          },
+          {
+            "truncated": true,
+            "tag": "li"
+          }
+        ]
+      }
+    }
+  ]
+}

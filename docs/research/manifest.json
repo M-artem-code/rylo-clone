@@ -1,0 +1,134 @@
+{
+  "site": "https://rylo.com",
+  "createdAt": "2026-09-18T12:46:30.146Z",
+  "pages": [
+    {
+      "url": "https://rylo.com",
+      "route": "/",
+      "status": "in_progress",
+      "sections": [
+        {
+          "name": "header",
+          "selector": "header.pointer-events-none",
+          "stage": "merged",
+          "spec": "docs/research/components/home/header.spec.md",
+          "component": null,
+          "scores": {
+            "pc": 91.88,
+            "ipad": 94.45,
+            "phone": 87.81
+          }
+        },
+        {
+          "name": "hero",
+          "selector": "section#captioning",
+          "stage": "merged",
+          "spec": "docs/research/components/home/hero.spec.md",
+          "component": null,
+          "scores": {
+            "pc": 98.83,
+            "ipad": 72.48,
+            "phone": 89.71
+          }
+        },
+        {
+          "name": "seen-on",
+          "selector": "main#main > section:nth-of-type(2)",
+          "stage": "merged",
+          "spec": "docs/research/components/home/seen-on.spec.md",
+          "component": null,
+          "scores": {
+            "pc": 75.66,
+            "ipad": 70.1,
+            "phone": 66.92
+          }
+        },
+        {
+          "name": "call-with-clarity",
+          "selector": "main#main > section:nth-of-type(3)",
+          "stage": "merged",
+          "spec": "docs/research/components/home/call-with-clarity.spec.md",
+          "component": null,
+          "scores": {
+            "pc": 57.24,
+            "ipad": 46.35,
+            "phone": 58.37
+          }
+        },
+        {
+          "name": "testimonials",
+          "selector": "main#main > section:nth-of-type(4)",
+          "stage": "merged",
+          "spec": "docs/research/components/home/testimonials.spec.md",
+          "component": null,
+          "scores": {
+            "pc": 10.5,
+            "ipad": 30.88,
+            "phone": 34.9
+          }
+        },
+        {
+          "name": "live-transcribe",
+          "selector": "main#main > section:nth-of-type(5)",
+          "stage": "merged",
+          "spec": "docs/research/components/home/live-transcribe.spec.md",
+          "component": null,
+          "scores": {
+            "pc": 53.64,
+            "ipad": 77.96,
+            "phone": 65.28
+          }
+        },
+        {
+          "name": "conversations",
+          "selector": "main#main > section:nth-of-type(6)",
+          "stage": "merged",
+          "spec": "docs/research/components/home/conversations.spec.md",
+          "component": null,
+          "scores": {
+            "pc": 81.06,
+            "ipad": 80.69,
+            "phone": 77.02
+          }
+        },
+        {
+          "name": "start-captioning",
+          "selector": "main#main > section:nth-of-type(7)",
+          "stage": "merged",
+          "spec": "docs/research/components/home/start-captioning.spec.md",
+          "component": null,
+          "scores": {
+            "pc": 80.01,
+            "ipad": 67.16,
+            "phone": 68.85
+          }
+        },
+        {
+          "name": "faqs",
+          "selector": "main#main > section:nth-of-type(8)",
+          "stage": "merged",
+          "spec": "docs/research/components/home/faqs.spec.md",
+          "component": null,
+          "scores": {
+            "pc": 87.5,
+            "ipad": 82.81,
+            "phone": 79.95
+          }
+        },
+        {
+          "name": "footer",
+          "selector": "footer.-mt-band-overlap",
+          "stage": "merged",
+          "spec": "docs/research/components/home/footer.spec.md",
+          "component": null,
+          "scores": {
+            "pc": 12.97,
+            "ipad": 14.32,
+            "phone": 18.2
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-09-18T13:21:39.694Z"
+}

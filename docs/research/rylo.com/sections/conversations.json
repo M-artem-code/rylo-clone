@@ -1,0 +1,986 @@
+{
+  "url": "https://rylo.com",
+  "generatedAt": "2026-09-18T12:48:46.357Z",
+  "viewport": "pc",
+  "selector": "main#main > section:nth-of-type(6)",
+  "html": "<section data-surface=\"light\" data-section-parallax=\"\" class=\"relative overflow-clip z-2 rounded-t-huge -mb-band-overlap bg-card pt-section-sm pb-section-lg\" style=\"will-change: transform; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);\">  <div class=\"container-site gap-section-sm flex flex-col\"> <header> <h2 class=\"text-display text-trim max-w-[20ch] text-balance\">Conversations</h2> <p class=\"text-large text-trim mt-4xl max-w-[60ch]\">Read the latest from our community</p> </header> <div class=\"grid grid-cols-1 gap-1 md:grid-cols-3\"> <a href=\"/post/how-to-call-a-deaf-person-on-the-phone\" aria-labelledby=\"blog-card-how-to-call-a-deaf-person-on-the-phone\" class=\"group bg-page rounded-large focus-visible:ring-ink/40 relative flex h-full w-full flex-col p-1 focus-visible:ring-2 focus-visible:outline-none\"> <div class=\"relative aspect-3/2 w-full transition-[padding] duration-600 group-hover:p-1 motion-reduce:transition-none\"> <div class=\"absolute top-3 left-3 z-1 lg:top-5 lg:left-5\"> <span class=\"bg-accent-secondary text-ink-fixed text-main text-trim border-page/30 rounded-full border p-sm\"> Deaf Culture </span> </div> <div class=\"relative size-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.4286vw,2.25rem)]\">  <img src=\"/_astro/blog-how-to-call-a-deaf-person-on-the-phone.BL0W2BRJ_Z2ncxxf.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_astro/blog-how-to-call-a-deaf-person-on-the-phone.BL0W2BRJ_1yjRg2.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 400w, /_astro/blog-how-to-call-a-deaf-person-on-the-phone.BL0W2BRJ_2aFsaC.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_astro/blog-how-to-call-a-deaf-person-on-the-phone.BL0W2BRJ_IgyYE.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 900w\" alt=\"A person holding a smartphone to their ear during a captioned call.\" loading=\"lazy\" decoding=\"async\" sizes=\"(min-width: 1999px) 1999px, 100vw\" data-astro-image=\"constrained\" data-astro-image-fit=\"cover\" data-astro-image-pos=\"center\" width=\"1999\" height=\"1141\" class=\"size-full object-cover transition-[scale] duration-600 group-hover:scale-110 motion-reduce:transition-none\"> </div> </div> <div class=\"gap-3xl py-xl px-lg flex flex-1 flex-col justify-between lg:py-2xl lg:px-xl\"> <div> <p id=\"blog-card-how-to-call-a-deaf-person-on-the-phone\" class=\"text-h3 text-trim mb-md text-balance\">How to Call a Deaf Person on the Phone: The Complete 2026 Guide</p> <p class=\"text-main text-ink/70 line-clamp-3\">Need to call a deaf person on the phone? Learn how 711 relay services, VRS, captioned phones, and apps like Nagish make communication simple in 2026.</p> </div> <div class=\"gap-2xl flex w-full items-center justify-between\"> <p class=\"text-footnote text-trim text-ink/70\">June 12, 2026</p> <div aria-hidden=\"true\" class=\"gap-xs flex items-center\"> <span class=\"text-main leading-[0.95]\">Read</span> <span class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex size-7 items-center justify-center rounded-full transition-colors duration-300 motion-reduce:transition-none\"> <svg viewBox=\"0 0 20 20\" fill=\"none\" class=\"w-[60%]\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </span> </div> </div> </div> </a><a href=\"/post/how-to-sign-deaf-in-asl\" aria-labelledby=\"blog-card-how-to-sign-deaf-in-asl\" class=\"group bg-page rounded-large focus-visible:ring-ink/40 relative flex h-full w-full flex-col p-1 focus-visible:ring-2 focus-visible:outline-none\"> <div class=\"relative aspect-3/2 w-full transition-[padding] duration-600 group-hover:p-1 motion-reduce:transition-none\"> <div class=\"absolute top-3 left-3 z-1 lg:top-5 lg:left-5\"> <span class=\"bg-accent-secondary text-ink-fixed text-main text-trim border-page/30 rounded-full border p-sm\"> Deaf Culture </span> </div> <div class=\"relative size-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.4286vw,2.25rem)]\">  <img src=\"/_astro/blog-how-to-sign-deaf-in-asl.BaKUCYa7_2uPPQx.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_astro/blog-how-to-sign-deaf-in-asl.BaKUCYa7_ZDSnrT.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 400w, /_astro/blog-how-to-sign-deaf-in-asl.BaKUCYa7_2lGdK7.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_astro/blog-how-to-sign-deaf-in-asl.BaKUCYa7_Z1p1F5X.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 900w\" alt=\"A classroom demonstration of the American Sign Language sign for “deaf”.\" loading=\"lazy\" decoding=\"async\" sizes=\"(min-width: 2000px) 2000px, 100vw\" data-astro-image=\"constrained\" data-astro-image-fit=\"cover\" data-astro-image-pos=\"center\" width=\"2000\" height=\"1200\" class=\"size-full object-cover transition-[scale] duration-600 group-hover:scale-110 motion-reduce:transition-none\"> </div> </div> <div class=\"gap-3xl py-xl px-lg flex flex-1 flex-col justify-between lg:py-2xl lg:px-xl\"> <div> <p id=\"blog-card-how-to-sign-deaf-in-asl\" class=\"text-h3 text-trim mb-md text-balance\">How to Sign \"Deaf\" in ASL</p> <p class=\"text-main text-ink/70 line-clamp-3\">Want to learn how to sign \"deaf\" in ASL? Follow step-by-step instructions, see accepted variations, avoid common mistakes, and understand Deaf culture.</p> </div> <div class=\"gap-2xl flex w-full items-center justify-between\"> <p class=\"text-footnote text-trim text-ink/70\">June 11, 2026</p> <div aria-hidden=\"true\" class=\"gap-xs flex items-center\"> <span class=\"text-main leading-[0.95]\">Read</span> <span class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex size-7 items-center justify-center rounded-full transition-colors duration-300 motion-reduce:transition-none\"> <svg viewBox=\"0 0 20 20\" fill=\"none\" class=\"w-[60%]\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </span> </div> </div> </div> </a><a href=\"/post/how-to-know-if-youre-going-deaf-in-one-ear\" aria-labelledby=\"blog-card-how-to-know-if-youre-going-deaf-in-one-ear\" class=\"group bg-page rounded-large focus-visible:ring-ink/40 relative flex h-full w-full flex-col p-1 focus-visible:ring-2 focus-visible:outline-none\"> <div class=\"relative aspect-3/2 w-full transition-[padding] duration-600 group-hover:p-1 motion-reduce:transition-none\"> <div class=\"absolute top-3 left-3 z-1 lg:top-5 lg:left-5\"> <span class=\"bg-accent-secondary text-ink-fixed text-main text-trim border-page/30 rounded-full border p-sm\"> Hearing Loss </span> </div> <div class=\"relative size-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.4286vw,2.25rem)]\">  <img src=\"/_astro/blog-how-to-know-if-youre-going-deaf-in-one-ear.BXSX73zv_ZLJuTH.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR\" srcset=\"/_astro/blog-how-to-know-if-youre-going-deaf-in-one-ear.BXSX73zv_GeV7k.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 400w, /_astro/blog-how-to-know-if-youre-going-deaf-in-one-ear.BXSX73zv_Z1LlrdJ.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 640w, /_astro/blog-how-to-know-if-youre-going-deaf-in-one-ear.BXSX73zv_lpmBq.webp?dpl=dpl_7oLfk1SKag5mwN8gXXB3UQDZL8JR 900w\" alt=\"A person leaning in to listen, a hand cupped behind one ear.\" loading=\"lazy\" decoding=\"async\" sizes=\"(min-width: 1999px) 1999px, 100vw\" data-astro-image=\"constrained\" data-astro-image-fit=\"cover\" data-astro-image-pos=\"center\" width=\"1999\" height=\"1311\" class=\"size-full object-cover transition-[scale] duration-600 group-hover:scale-110 motion-reduce:transition-none\"> </div> </div> <div class=\"gap-3xl py-xl px-lg flex flex-1 flex-col justify-between lg:py-2xl lg:px-xl\"> <div> <p id=\"blog-card-how-to-know-if-youre-going-deaf-in-one-ear\" class=\"text-h3 text-trim mb-md text-balance\">How to Know If You're Going Deaf in One Ear: Common Signs, Causes, and What to Do Next</p> <p class=\"text-main text-ink/70 line-clamp-3\">Wondering if you're going deaf in one ear? Learn the early signs of single-sided hearing loss, common causes, when it's an emergency, and what to do next.</p> </div> <div class=\"gap-2xl flex w-full items-center justify-between\"> <p class=\"text-footnote text-trim text-ink/70\">June 11, 2026</p> <div aria-hidden=\"true\" class=\"gap-xs flex items-center\"> <span class=\"text-main leading-[0.95]\">Read</span> <span class=\"bg-ink text-page group-hover:bg-accent group-hover:text-ink-fixed flex size-7 items-center justify-center rounded-full transition-colors duration-300 motion-reduce:transition-none\"> <svg viewBox=\"0 0 20 20\" fill=\"none\" class=\"w-[60%]\">\n  <path d=\"…\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg> </span> </div> </div> </div> </a> </div> </div>  <div aria-hidden=\"true\" data-section-parallax-overlay=\"\" class=\"pointer-events-none absolute inset-0 z-10 bg-black opacity-0\" style=\"will-change: opacity; opacity: 0;\"></div> </section>",
+  "format": "compact-v1",
+  "tree": {
+    "tag": "section",
+    "classes": "relative overflow-clip z-2 rounded-t-huge -mb-band-overlap bg-card",
+    "text": null,
+    "rect": {
+      "x": 0,
+      "y": 8722,
+      "pageX": 0,
+      "pageY": 8722,
+      "w": 1440,
+      "h": 1224
+    },
+    "childCount": 2,
+    "style": "s1",
+    "children": [
+      {
+        "tag": "div",
+        "classes": "container-site gap-section-sm flex flex-col",
+        "text": null,
+        "rect": {
+          "x": 80,
+          "y": 8827,
+          "pageX": 80,
+          "pageY": 8827,
+          "w": 1280,
+          "h": 847
+        },
+        "childCount": 2,
+        "style": "s2",
+        "children": [
+          {
+            "tag": "header",
+            "classes": null,
+            "text": null,
+            "rect": {
+              "x": 80,
+              "y": 8827,
+              "pageX": 80,
+              "pageY": 8827,
+              "w": 1280,
+              "h": 151
+            },
+            "childCount": 2,
+            "style": "s3",
+            "children": [
+              {
+                "tag": "h2",
+                "classes": "text-display text-trim max-w-[20ch] text-balance",
+                "text": "Conversations",
+                "rect": {
+                  "x": 80,
+                  "y": 8827,
+                  "pageX": 80,
+                  "pageY": 8827,
+                  "w": 1220,
+                  "h": 71
+                },
+                "pseudo": {
+                  "::before": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(25, 20, 18)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -8.15375px",
+                    "transition": "all"
+                  },
+                  "::after": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(25, 20, 18)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -11.9937px",
+                    "transition": "all"
+                  }
+                },
+                "childCount": 0,
+                "style": "s4",
+                "children": []
+              },
+              {
+                "tag": "p",
+                "classes": "text-large text-trim mt-4xl max-w-[60ch]",
+                "text": "Read the latest from our community",
+                "rect": {
+                  "x": 80,
+                  "y": 8962,
+                  "pageX": 80,
+                  "pageY": 8962,
+                  "w": 840,
+                  "h": 16
+                },
+                "pseudo": {
+                  "::before": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(25, 20, 18)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -7.90444px",
+                    "transition": "all"
+                  },
+                  "::after": {
+                    "content": "\"\"",
+                    "opacity": "1",
+                    "display": "table",
+                    "borderColor": "rgb(25, 20, 18)",
+                    "borderStyle": "solid",
+                    "margin": "0px 0px -8.78443px",
+                    "transition": "all"
+                  }
+                },
+                "childCount": 0,
+                "style": "s5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "grid grid-cols-1 gap-1 md:grid-cols-3",
+            "text": null,
+            "rect": {
+              "x": 80,
+              "y": 9084,
+              "pageX": 80,
+              "pageY": 9084,
+              "w": 1280,
+              "h": 590
+            },
+            "childCount": 3,
+            "style": "s6",
+            "children": [
+              {
+                "tag": "a",
+                "classes": "group bg-page rounded-large focus-visible:ring-ink/40 relative flex",
+                "text": null,
+                "href": "/post/how-to-call-a-deaf-person-on-the-phone",
+                "rect": {
+                  "x": 80,
+                  "y": 9084,
+                  "pageX": 80,
+                  "pageY": 9084,
+                  "w": 424,
+                  "h": 590
+                },
+                "childCount": 2,
+                "style": "s7",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "relative aspect-3/2 w-full transition-[padding] duration-600 group-hover:p-1",
+                    "text": null,
+                    "rect": {
+                      "x": 84,
+                      "y": 9088,
+                      "pageX": 84,
+                      "pageY": 9088,
+                      "w": 416,
+                      "h": 277
+                    },
+                    "childCount": 2,
+                    "style": "s8",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "absolute top-3 left-3 z-1 lg:top-5 lg:left-5",
+                        "text": null,
+                        "rect": {
+                          "x": 104,
+                          "y": 9108,
+                          "pageX": 104,
+                          "pageY": 9108,
+                          "w": 122,
+                          "h": 38
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "relative size-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.4286vw,2.25rem)]",
+                        "text": null,
+                        "rect": {
+                          "x": 84,
+                          "y": 9088,
+                          "pageX": 84,
+                          "pageY": 9088,
+                          "w": 416,
+                          "h": 277
+                        },
+                        "childCount": 1,
+                        "style": "s10",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "img"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "gap-3xl py-xl px-lg flex flex-1 flex-col",
+                    "text": null,
+                    "rect": {
+                      "x": 84,
+                      "y": 9365,
+                      "pageX": 84,
+                      "pageY": 9365,
+                      "w": 416,
+                      "h": 305
+                    },
+                    "childCount": 2,
+                    "style": "s11",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 116,
+                          "y": 9405,
+                          "pageX": 116,
+                          "pageY": 9405,
+                          "w": 352,
+                          "h": 149
+                        },
+                        "childCount": 2,
+                        "style": "s12",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "p"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "p"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 116,
+                          "y": 9602,
+                          "pageX": 116,
+                          "pageY": 9602,
+                          "w": 352,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s13",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "p"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "a",
+                "classes": "group bg-page rounded-large focus-visible:ring-ink/40 relative flex",
+                "text": null,
+                "href": "/post/how-to-sign-deaf-in-asl",
+                "rect": {
+                  "x": 508,
+                  "y": 9084,
+                  "pageX": 508,
+                  "pageY": 9084,
+                  "w": 424,
+                  "h": 590
+                },
+                "childCount": 2,
+                "style": "s7",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "relative aspect-3/2 w-full transition-[padding] duration-600 group-hover:p-1",
+                    "text": null,
+                    "rect": {
+                      "x": 512,
+                      "y": 9088,
+                      "pageX": 512,
+                      "pageY": 9088,
+                      "w": 416,
+                      "h": 277
+                    },
+                    "childCount": 2,
+                    "style": "s8",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "absolute top-3 left-3 z-1 lg:top-5 lg:left-5",
+                        "text": null,
+                        "rect": {
+                          "x": 532,
+                          "y": 9108,
+                          "pageX": 532,
+                          "pageY": 9108,
+                          "w": 122,
+                          "h": 38
+                        },
+                        "childCount": 1,
+                        "style": "s9",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "relative size-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.4286vw,2.25rem)]",
+                        "text": null,
+                        "rect": {
+                          "x": 512,
+                          "y": 9088,
+                          "pageX": 512,
+                          "pageY": 9088,
+                          "w": 416,
+                          "h": 277
+                        },
+                        "childCount": 1,
+                        "style": "s10",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "img"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "gap-3xl py-xl px-lg flex flex-1 flex-col",
+                    "text": null,
+                    "rect": {
+                      "x": 512,
+                      "y": 9365,
+                      "pageX": 512,
+                      "pageY": 9365,
+                      "w": 416,
+                      "h": 305
+                    },
+                    "childCount": 2,
+                    "style": "s11",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 544,
+                          "y": 9405,
+                          "pageX": 544,
+                          "pageY": 9405,
+                          "w": 352,
+                          "h": 96
+                        },
+                        "childCount": 2,
+                        "style": "s14",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "p"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "p"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 544,
+                          "y": 9602,
+                          "pageX": 544,
+                          "pageY": 9602,
+                          "w": 352,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s13",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "p"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "a",
+                "classes": "group bg-page rounded-large focus-visible:ring-ink/40 relative flex",
+                "text": null,
+                "href": "/post/how-to-know-if-youre-going-deaf-in-one-ear",
+                "rect": {
+                  "x": 936,
+                  "y": 9084,
+                  "pageX": 936,
+                  "pageY": 9084,
+                  "w": 424,
+                  "h": 590
+                },
+                "childCount": 2,
+                "style": "s7",
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "relative aspect-3/2 w-full transition-[padding] duration-600 group-hover:p-1",
+                    "text": null,
+                    "rect": {
+                      "x": 940,
+                      "y": 9088,
+                      "pageX": 940,
+                      "pageY": 9088,
+                      "w": 416,
+                      "h": 277
+                    },
+                    "childCount": 2,
+                    "style": "s8",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "absolute top-3 left-3 z-1 lg:top-5 lg:left-5",
+                        "text": null,
+                        "rect": {
+                          "x": 960,
+                          "y": 9108,
+                          "pageX": 960,
+                          "pageY": 9108,
+                          "w": 124,
+                          "h": 38
+                        },
+                        "childCount": 1,
+                        "style": "s15",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "span"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "relative size-full overflow-hidden rounded-[clamp(1.25rem,0.9643rem_+_1.4286vw,2.25rem)]",
+                        "text": null,
+                        "rect": {
+                          "x": 940,
+                          "y": 9088,
+                          "pageX": 940,
+                          "pageY": 9088,
+                          "w": 416,
+                          "h": 277
+                        },
+                        "childCount": 1,
+                        "style": "s10",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "img"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "gap-3xl py-xl px-lg flex flex-1 flex-col",
+                    "text": null,
+                    "rect": {
+                      "x": 940,
+                      "y": 9365,
+                      "pageX": 940,
+                      "pageY": 9365,
+                      "w": 416,
+                      "h": 305
+                    },
+                    "childCount": 2,
+                    "style": "s11",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": null,
+                        "text": null,
+                        "rect": {
+                          "x": 972,
+                          "y": 9405,
+                          "pageX": 972,
+                          "pageY": 9405,
+                          "w": 352,
+                          "h": 149
+                        },
+                        "childCount": 2,
+                        "style": "s12",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "p"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "p"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "div",
+                        "classes": "gap-2xl flex w-full items-center justify-between",
+                        "text": null,
+                        "rect": {
+                          "x": 972,
+                          "y": 9602,
+                          "pageX": 972,
+                          "pageY": 9602,
+                          "w": 352,
+                          "h": 28
+                        },
+                        "childCount": 2,
+                        "style": "s13",
+                        "children": [
+                          {
+                            "truncated": true,
+                            "tag": "p"
+                          },
+                          {
+                            "truncated": true,
+                            "tag": "div"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "classes": "pointer-events-none absolute inset-0 z-10 bg-black opacity-0",
+        "text": null,
+        "rect": {
+          "x": 0,
+          "y": 8722,
+          "pageX": 0,
+          "pageY": 8722,
+          "w": 1440,
+          "h": 1224
+        },
+        "childCount": 0,
+        "style": "s16",
+        "children": []
+      }
+    ]
+  },
+  "styleTable": {
+    "s1": {
+      "fontSize": "15.9995px",
+      "fontWeight": "400",
+      "fontFamily": "\"PP Mori\", \"PP Mori Fallback\", sans-serif",
+      "lineHeight": "20.7994px",
+      "color": "rgb(25, 20, 18)",
+      "textAlign": "start",
+      "backgroundColor": "rgb(238, 231, 225)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "105.135px",
+      "paddingBottom": "272px",
+      "marginBottom": "-97.1338px",
+      "width": "1440px",
+      "height": "1223.89px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "79.9994px 79.9994px 0px 0px",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "overflow": "clip",
+      "overflowX": "clip",
+      "overflowY": "clip",
+      "position": "relative",
+      "zIndex": "2",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s2": {
+      "backgroundPosition": "0% 0%",
+      "marginRight": "80px",
+      "marginLeft": "80px",
+      "width": "1280px",
+      "height": "846.766px",
+      "maxWidth": "1440px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gap": "105.135px",
+      "rowGap": "105.135px",
+      "columnGap": "105.135px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s3": {
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "151.391px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s4": {
+      "fontSize": "96px",
+      "fontWeight": "600",
+      "lineHeight": "91.2px",
+      "letterSpacing": "-3.84px",
+      "backgroundPosition": "0% 0%",
+      "width": "1220px",
+      "height": "71.0625px",
+      "maxWidth": "1220px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s5": {
+      "fontSize": "21.9998px",
+      "lineHeight": "32.9998px",
+      "backgroundPosition": "0% 0%",
+      "marginTop": "64px",
+      "width": "840px",
+      "height": "16.3281px",
+      "maxWidth": "840px",
+      "display": "flow-root",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s6": {
+      "backgroundPosition": "0% 0%",
+      "width": "1280px",
+      "height": "590.25px",
+      "display": "grid",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px",
+      "gridTemplateColumns": "424px 424px 424px",
+      "gridTemplateRows": "590.25px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s7": {
+      "backgroundColor": "rgb(250, 245, 242)",
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "4px",
+      "paddingRight": "4px",
+      "paddingBottom": "4px",
+      "paddingLeft": "4px",
+      "width": "424px",
+      "height": "590.25px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "40px",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "cursor": "pointer",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s8": {
+      "backgroundPosition": "0% 0%",
+      "width": "416px",
+      "height": "277.328px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "padding 0.6s cubic-bezier(0.4, 0, 0.2, 1)",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "aspectRatio": "3 / 2",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s9": {
+      "backgroundPosition": "0% 0%",
+      "width": "122px",
+      "height": "37.875px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "absolute",
+      "top": "20px",
+      "right": "274px",
+      "bottom": "219.453px",
+      "left": "20px",
+      "zIndex": "1",
+      "inset": "20px 274px 219.453px 20px",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s10": {
+      "backgroundPosition": "0% 0%",
+      "width": "416px",
+      "height": "277.328px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderRadius": "36px",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "overflowY": "hidden",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s11": {
+      "backgroundPosition": "0% 0%",
+      "paddingTop": "39.9995px",
+      "paddingRight": "31.9998px",
+      "paddingBottom": "39.9995px",
+      "paddingLeft": "31.9998px",
+      "width": "416px",
+      "height": "304.922px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "gap": "47.9994px",
+      "rowGap": "47.9994px",
+      "columnGap": "47.9994px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "1",
+      "flexShrink": "1",
+      "flexBasis": "0%"
+    },
+    "s12": {
+      "backgroundPosition": "0% 0%",
+      "width": "352.031px",
+      "height": "148.969px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s13": {
+      "backgroundPosition": "0% 0%",
+      "width": "352.031px",
+      "height": "28px",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "gap": "39.9995px",
+      "rowGap": "39.9995px",
+      "columnGap": "39.9995px",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s14": {
+      "backgroundPosition": "0% 0%",
+      "width": "352.031px",
+      "height": "96.1875px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s15": {
+      "backgroundPosition": "0% 0%",
+      "width": "124px",
+      "height": "37.875px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "absolute",
+      "top": "20px",
+      "right": "272px",
+      "bottom": "219.453px",
+      "left": "20px",
+      "zIndex": "1",
+      "inset": "20px 272px 219.453px 20px",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    },
+    "s16": {
+      "backgroundColor": "rgb(0, 0, 0)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "1223.89px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "gridAutoFlow": "row",
+      "borderColor": "rgb(25, 20, 18)",
+      "borderStyle": "solid",
+      "position": "absolute",
+      "zIndex": "10",
+      "opacity": "0",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip",
+      "order": "0",
+      "flexGrow": "0",
+      "flexShrink": "1"
+    }
+  }
+}

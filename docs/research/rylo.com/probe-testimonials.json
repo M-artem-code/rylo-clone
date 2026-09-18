@@ -1,0 +1,75 @@
+{
+  "url": "https://rylo.com",
+  "selectors": [
+    "main#main > section:nth-of-type(4)"
+  ],
+  "generatedAt": "2026-09-18T12:51:47.019Z",
+  "results": {
+    "phone": {
+      "main#main > section:nth-of-type(4)": {
+        "_height": "1380px",
+        "_width": "390px",
+        "fontSize": "15.0619px",
+        "fontWeight": "400",
+        "lineHeight": "19.5804px",
+        "letterSpacing": "normal",
+        "paddingTop": "87.1417px",
+        "paddingRight": "0px",
+        "paddingBottom": "122.001px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "-43.5691px",
+        "width": "390px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    },
+    "ipad": {
+      "main#main > section:nth-of-type(4)": {
+        "_height": "1898px",
+        "_width": "768px",
+        "fontSize": "15.3994px",
+        "fontWeight": "400",
+        "lineHeight": "20.0193px",
+        "letterSpacing": "normal",
+        "paddingTop": "125.709px",
+        "paddingRight": "0px",
+        "paddingBottom": "176.001px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "-62.8524px",
+        "width": "768px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    },
+    "pc": {
+      "main#main > section:nth-of-type(4)": {
+        "_height": "2350px",
+        "_width": "1440px",
+        "fontSize": "15.9995px",
+        "fontWeight": "400",
+        "lineHeight": "20.7994px",
+        "letterSpacing": "normal",
+        "paddingTop": "194.272px",
+        "paddingRight": "0px",
+        "paddingBottom": "272px",
+        "paddingLeft": "0px",
+        "marginTop": "0px",
+        "marginBottom": "-97.1338px",
+        "width": "1440px",
+        "maxWidth": "none",
+        "display": "block",
+        "flexDirection": "row",
+        "gap": "normal",
+        "gridTemplateColumns": "none"
+      }
+    }
+  }
+}
