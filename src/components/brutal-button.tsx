@@ -1,5 +1,5 @@
 import Link from "next/link";
-import type { ReactNode } from "react";
+import type { MouseEvent, ReactNode } from "react";
 
 import { cn } from "@/lib/utils";
 
@@ -11,7 +11,7 @@ type BrutalButtonProps = {
   type?: "button" | "submit";
   className?: string;
   disabled?: boolean;
-  onClick?: () => void;
+  onClick?: (event: MouseEvent<HTMLAnchorElement | HTMLButtonElement>) => void;
 };
 
 export function BrutalButton({
@@ -36,6 +36,13 @@ export function BrutalButton({
   );
 
   if (href) {
+    if (href.includes("#")) {
+      return (
+        <a href={href} className={classes} onClick={onClick}>
+          {children}
+        </a>
+      );
+    }
     return (
       <Link href={href} className={classes} onClick={onClick}>
         {children}

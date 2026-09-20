@@ -22,6 +22,7 @@ export function Material() {
             alt={material.corner.alt}
             fill
             className="object-cover"
+            loading="eager"
             sizes="(min-width: 768px) 33vw, 100vw"
           />
         </div>
@@ -31,6 +32,7 @@ export function Material() {
             alt={material.board.alt}
             fill
             className="object-cover"
+            loading="eager"
             sizes="(min-width: 768px) 66vw, 100vw"
           />
         </div>

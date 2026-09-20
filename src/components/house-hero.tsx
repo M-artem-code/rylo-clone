@@ -31,7 +31,13 @@ export function HouseHero({ name, kicker, oneLiner, image, alt }: HouseHeroProps
             {name}
           </h1>
           <p className="mt-5 text-[18px] text-bone">{oneLiner}</p>
-          <BrutalButton href="#request" className="mt-5">
+          <BrutalButton
+            href="#request"
+            className="mt-5"
+            onClick={() =>
+              document.getElementById("request")?.scrollIntoView({ behavior: "auto", block: "start" })
+            }
+          >
             ОСТАВИТЬ ЗАЯВКУ
           </BrutalButton>
         </div>

@@ -25,6 +25,7 @@ export function Lineup() {
                 src={row.image}
                 alt={row.imageAlt}
                 fill
+                loading="eager"
                 className="object-cover"
                 sizes="100vw"
               />

@@ -103,6 +103,12 @@
   }
 }
 
+#request,
+#lineup,
+#path {
+  scroll-margin-top: 72px;
+}
+
 .page-shell {
   width: 100%;
   max-width: 1440px;

@@ -28,7 +28,13 @@ export function HomeHero() {
             {hero.title[1]}
           </h1>
           <p className="mt-6 max-w-[720px] text-[17px] text-bone">{hero.deck}</p>
-          <BrutalButton href={hero.ctaHref} className="mt-5">
+          <BrutalButton
+            href={hero.ctaHref}
+            className="mt-5"
+            onClick={() =>
+              document.getElementById("request")?.scrollIntoView({ behavior: "auto", block: "start" })
+            }
+          >
             {hero.cta}
           </BrutalButton>
         </div>

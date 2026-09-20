@@ -24,6 +24,7 @@ export function Thesis() {
           alt={thesis.imageAlt}
           fill
           className="object-cover"
+          loading="eager"
           sizes="100vw"
         />
       </div>

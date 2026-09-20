@@ -23,6 +23,7 @@ export function SiteLogic({ copy, landscape, mass }: SiteLogicProps) {
               alt={image.alt}
               fill
               className="object-cover"
+              loading="eager"
               sizes="(min-width: 768px) 50vw, 100vw"
             />
           </div>

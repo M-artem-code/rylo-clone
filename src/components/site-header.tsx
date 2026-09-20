@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 import { BrutalButton } from "@/components/brutal-button";
 import { site } from "@/data/site";
@@ -18,6 +18,21 @@ export function SiteHeader({ active }: SiteHeaderProps) {
   const requestHref = `${pathname === "/" ? "" : pathname}#request`;
   const lineupActive = active === "lineup" || pathname !== "/";
 
+  useEffect(() => {
+    const id = window.location.hash.replace("#", "");
+    if (!id) return;
+    window.setTimeout(() => {
+      document.getElementById(id)?.scrollIntoView({ behavior: "auto", block: "start" });
+    }, 80);
+  }, [pathname]);
+
+  function goToSection(id: string) {
+    setOpen(false);
+    window.setTimeout(() => {
+      document.getElementById(id)?.scrollIntoView({ behavior: "auto", block: "start" });
+    }, 150);
+  }
+
   return (
     <header className="sticky top-0 z-50 border-b border-rule-dark bg-charcoal">
       <div className="page-shell flex h-[72px] items-center justify-between page-gutter">
@@ -29,7 +44,7 @@ export function SiteHeader({ active }: SiteHeaderProps) {
         </Link>
         <nav className="hidden items-center gap-9 lg:flex">
           {site.nav.map((item) => (
-            <Link
+            <a
               key={item.id}
               href={item.href}
               className={cn(
@@ -37,11 +52,12 @@ export function SiteHeader({ active }: SiteHeaderProps) {
                 (item.id === "lineup" ? lineupActive && active !== "request" : active === item.id) &&
                   "after:absolute after:top-[22px] after:right-0 after:left-0 after:h-0.5 after:bg-iron",
               )}
+              onClick={() => setOpen(false)}
             >
               {item.label}
-            </Link>
+            </a>
           ))}
-          <BrutalButton href={requestHref} compact>
+          <BrutalButton href={requestHref} compact onClick={() => goToSection("request")}>
             {site.requestLabel}
           </BrutalButton>
         </nav>
@@ -60,16 +76,21 @@ export function SiteHeader({ active }: SiteHeaderProps) {
         <div className="border-b border-rule-dark bg-charcoal page-gutter py-6 lg:hidden">
           <div className="flex flex-col gap-5">
             {site.nav.map((item) => (
-              <Link
+              <a
                 key={item.id}
                 href={item.href}
                 className="font-mono text-[12px] tracking-[0.24em] text-bone"
                 onClick={() => setOpen(false)}
               >
                 {item.label}
-              </Link>
+              </a>
             ))}
-            <BrutalButton href={requestHref} compact onClick={() => setOpen(false)}>
+            <BrutalButton
+              href={requestHref}
+              compact
+              className="self-start"
+              onClick={() => goToSection("request")}
+            >
               {site.requestLabel}
             </BrutalButton>
           </div>
