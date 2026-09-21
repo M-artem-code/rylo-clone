@@ -32,10 +32,12 @@ export function ShopCatalog() {
           onSelect={(value) => {
             setStrict(true);
             setDiameter(value);
+            setMaterial("all");
           }}
           onSelectAll={() => {
             setStrict(true);
             setDiameter("all");
+            setMaterial("all");
           }}
         />
         <div className="chips">
@@ -47,6 +49,7 @@ export function ShopCatalog() {
               active={material === item.id}
               onClick={() => {
                 setStrict(true);
+                setDiameter("all");
                 setMaterial((current) => (current === item.id ? "all" : item.id));
               }}
             />

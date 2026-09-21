@@ -18,9 +18,11 @@ export function SiteHeader() {
   const pathname = usePathname();
   const active = navId(pathname);
   const [open, setOpen] = useState(false);
+  const [openedPath, setOpenedPath] = useState(pathname);
+  const menuOpen = open && openedPath === pathname;
 
   return (
-    <header className="site-header" data-open={open ? "true" : "false"}>
+    <header className="site-header" data-open={menuOpen ? "true" : "false"}>
       <Link className="brand" href="/" onClick={() => setOpen(false)}>
         <OpenRingMark />
         <span className="wordmark">{wordmark}</span>
@@ -45,9 +47,16 @@ export function SiteHeader() {
       <button
         type="button"
         className="menu-toggle"
-        aria-expanded={open}
+        aria-expanded={menuOpen}
         aria-label="Open menu"
-        onClick={() => setOpen((value) => !value)}
+        onClick={() => {
+          if (menuOpen) {
+            setOpen(false);
+            return;
+          }
+          setOpenedPath(pathname);
+          setOpen(true);
+        }}
       >
         <span />
       </button>

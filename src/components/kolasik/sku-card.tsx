@@ -12,7 +12,7 @@ export function SkuCard({
   compact?: boolean;
 }) {
   return (
-    <article className={`sku${product.featured ? " featured" : ""}`}>
+    <article className={`sku${product.featured && !compact ? " featured" : ""}`}>
       <Link href={product.href} className="sku-link">
         <WheelWindow
           src={product.image}
