@@ -1,18 +1,23 @@
 "use client";
 
+import { AnimatePresence, motion, useReducedMotion } from "motion/react";
 import Image from "next/image";
 import { useSearchParams } from "next/navigation";
 import { FormEvent, useMemo, useState } from "react";
 
-import { Eyebrow } from "@/components/site/Eyebrow";
+import { DisplayLines } from "@/components/motion/DisplayLines";
+import { HeroEyebrow } from "@/components/motion/HeroEyebrow";
+import { Reveal } from "@/components/motion/Reveal";
 import { OrbitalButton } from "@/components/site/OrbitalButton";
 import { contacts } from "@/data/contacts";
 import { getMission } from "@/data/missions";
+import { duration, easeOutLux } from "@/lib/motion";
 
 export function ContactsView() {
   const params = useSearchParams();
   const presetMission = getMission(params.get("mission") ?? "");
   const [sent, setSent] = useState(false);
+  const reduce = useReducedMotion();
 
   const defaults = useMemo(
     () => ({
@@ -35,12 +40,13 @@ export function ContactsView() {
     <main className="bg-white pb-16">
       <section className="px-page grid gap-10 pt-12 lg:grid-cols-[1fr_minmax(0,720px)]">
         <div>
-          <Eyebrow>{contacts.eyebrow}</Eyebrow>
-          <h1 className="mt-3 font-display text-[40px] leading-[0.95] font-extrabold text-navy md:text-[44px]">
-            {contacts.lines[0]}
-            <br />
-            <span className="text-cobalt">{contacts.lines[1]}</span>
-          </h1>
+          <HeroEyebrow>{contacts.eyebrow}</HeroEyebrow>
+          <DisplayLines
+            className="mt-3 font-display text-[40px] leading-[0.95] font-extrabold text-navy md:text-[44px]"
+            lines={contacts.lines}
+            accentIndex={1}
+            delay={0.14}
+          />
           <form id="request" method="post" onSubmit={onSubmit} className="mt-10 grid gap-x-6 gap-y-6 sm:grid-cols-2">
             {contacts.fields.map((field) => (
               <label key={field.name} className="block">
@@ -51,39 +57,59 @@ export function ContactsView() {
                   required={field.name !== "comment"}
                   defaultValue={defaults[field.name as keyof typeof defaults]}
                   placeholder={field.placeholder}
-                  className="mt-2 h-[52px] w-full rounded-[14px] border border-line bg-ice px-4 font-ui text-[15px] text-navy outline-none placeholder:text-mute/70 focus:border-violet"
+                  className="orbital-field mt-2 h-[52px] w-full rounded-[14px] border border-line bg-ice px-4 font-ui text-[15px] text-navy outline-none placeholder:text-mute/70"
                 />
               </label>
             ))}
             <div className="sm:col-span-2">
-              {sent ? (
-                <p className="rounded-[16px] bg-ice px-5 py-4 font-ui text-[15px] text-navy">{contacts.success}</p>
-              ) : (
-                <OrbitalButton type="submit">{contacts.submit}</OrbitalButton>
-              )}
+              <AnimatePresence mode="wait" initial={false}>
+                {sent ? (
+                  <motion.p
+                    key="success"
+                    initial={reduce ? false : { opacity: 0, y: 8 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    className="rounded-[16px] bg-ice px-5 py-4 font-ui text-[15px] text-navy"
+                  >
+                    {contacts.success}
+                  </motion.p>
+                ) : (
+                  <motion.div
+                    key="submit"
+                    exit={reduce ? undefined : { opacity: 0, y: -8 }}
+                    transition={{ duration: duration.micro, ease: easeOutLux }}
+                  >
+                    <OrbitalButton type="submit">{contacts.submit}</OrbitalButton>
+                  </motion.div>
+                )}
+              </AnimatePresence>
             </div>
           </form>
         </div>
-        <div className="relative min-h-[420px] overflow-hidden rounded-[24px]">
+        <motion.div
+          className="relative min-h-[420px] overflow-hidden rounded-[24px]"
+          initial={reduce ? false : { clipPath: "inset(0 16% 0 0)" }}
+          animate={{ clipPath: "inset(0 0 0 0)" }}
+          transition={{ duration: 1.05, ease: easeOutLux }}
+        >
           <Image src={contacts.image} alt="" fill className="object-cover object-[70%_45%]" sizes="720px" />
           <div className="absolute top-8 left-8 max-w-[420px] rounded-[16px] bg-white/90 p-5 backdrop-blur-md">
             <p className="font-mono text-[11px] text-violet">{contacts.spaceportLabel}</p>
             <p className="mt-2 font-ui text-[15px] font-semibold text-navy">{contacts.spaceportMeta}</p>
             <p className="mt-3 font-body text-[14px] text-mute">{contacts.spaceportContacts}</p>
           </div>
-        </div>
+        </motion.div>
       </section>
 
       <section className="px-page mt-12">
         <div className="rounded-[24px] bg-royal px-8 py-10 text-white md:px-10">
           <p className="font-mono text-[12px] text-violet-soft">{contacts.nextEyebrow}</p>
           <div className="mt-8 grid gap-8 md:grid-cols-2 xl:grid-cols-4">
-            {contacts.next.map((step) => (
-              <div key={step.num}>
+            {contacts.next.map((step, index) => (
+              <Reveal key={step.num} delay={index * 0.06} y={12}>
                 <p className="font-mono text-[12px] text-violet-soft">{step.num}</p>
                 <h2 className="mt-3 font-display text-[18px] font-bold">{step.title}</h2>
                 <p className="mt-3 font-body text-[14px] text-white/70">{step.desc}</p>
-              </div>
+              </Reveal>
             ))}
           </div>
         </div>

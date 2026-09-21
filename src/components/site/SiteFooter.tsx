@@ -1,7 +1,7 @@
-import { Logo } from "@/components/site/Logo";
-import { nav } from "@/data/site";
-import { site } from "@/data/site";
 import Link from "next/link";
+
+import { Logo } from "@/components/site/Logo";
+import { nav, site } from "@/data/site";
 
 export function SiteFooter() {
   return (
@@ -10,7 +10,7 @@ export function SiteFooter() {
         <Logo />
         <nav className="flex flex-wrap gap-x-6 gap-y-2">
           {nav.map((item) => (
-            <Link key={item.href} href={item.href} className="font-ui text-[13px] text-mute hover:text-navy">
+            <Link key={item.href} href={item.href} className="orbital-link font-ui text-[13px] text-mute hover:text-navy">
               {item.label}
             </Link>
           ))}
