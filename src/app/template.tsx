@@ -1,9 +1,9 @@
 "use client";
 
 import { motion } from "motion/react";
+import type { ReactNode } from "react";
 
 import { duration, easeDecel } from "@/lib/motion";
-import type { ReactNode } from "react";
 
 export default function Template({ children }: { children: ReactNode }) {
   return (
@@ -15,13 +15,7 @@ export default function Template({ children }: { children: ReactNode }) {
         animate={{ scaleX: 1, opacity: 0 }}
         transition={{ duration: duration.pageLine, ease: easeDecel }}
       />
-      <motion.div
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 0.28, ease: "easeOut" }}
-      >
-        {children}
-      </motion.div>
+      {children}
     </>
   );
 }

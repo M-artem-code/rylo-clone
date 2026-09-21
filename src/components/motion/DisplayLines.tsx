@@ -26,13 +26,20 @@ export function DisplayLines({
   return (
     <Tag className={className}>
       {lines.map((line, index) => (
-        <span key={index} className="block overflow-hidden">
+        <motion.span
+          key={index}
+          className="block overflow-hidden"
+          initial="hidden"
+          animate={inView ? undefined : "show"}
+          whileInView={inView ? "show" : undefined}
+          viewport={inView ? viewportOnce : undefined}
+        >
           <motion.span
             className={cn("orbital-clip-line block", accentIndex === index && "text-cobalt")}
-            initial={{ y: "112%" }}
-            animate={inView ? undefined : { y: "0%" }}
-            whileInView={inView ? { y: "0%" } : undefined}
-            viewport={inView ? viewportOnce : undefined}
+            variants={{
+              hidden: { y: "112%" },
+              show: { y: "0%" },
+            }}
             transition={{
               duration: duration.headline,
               delay: delay + index * 0.1,
@@ -41,7 +48,7 @@ export function DisplayLines({
           >
             {line}
           </motion.span>
-        </span>
+        </motion.span>
       ))}
     </Tag>
   );
