@@ -1,20 +1,37 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { IBM_Plex_Mono, Sofia_Sans, Sofia_Sans_Extra_Condensed } from "next/font/google";
+
+import { Header } from "@/components/site/header";
+import { MobileNav } from "@/components/site/mobile-nav";
+import { actions, brand, nav } from "@/data/tuka";
+
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
+const sofia = Sofia_Sans({
+  subsets: ["latin", "cyrillic"],
+  weight: ["400", "500", "600"],
+  variable: "--font-sofia",
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+const display = Sofia_Sans_Extra_Condensed({
+  subsets: ["latin", "cyrillic"],
+  weight: ["500", "600", "700"],
+  variable: "--font-sofia-display",
+});
+
+const plex = IBM_Plex_Mono({
+  subsets: ["latin", "cyrillic"],
+  weight: ["400", "500"],
+  variable: "--font-plex",
 });
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: {
+    default: "Tuka — дом какао",
+    template: "%s — Tuka",
+  },
+  description:
+    "Закрытый стол на компанию. Ход от мягкого какао к горькому. Плитки уезжают с гостями.",
 };
 
 export default function RootLayout({
@@ -24,10 +41,20 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      lang="ru"
+      className={`${sofia.variable} ${display.variable} ${plex.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full bg-ink text-paper">
+        <Header
+          brand={brand.name}
+          eyebrow={brand.eyebrow}
+          links={nav}
+          bookHref="/zapis"
+          bookLabel={actions.bookShort}
+        />
+        <div className="pb-20 md:pb-0">{children}</div>
+        <MobileNav links={nav} />
+      </body>
     </html>
   );
 }
