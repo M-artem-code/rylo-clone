@@ -1,5 +1,11 @@
-import Link from "next/link";
+"use client";
 
+import { motion, useMotionValue, useSpring } from "motion/react";
+import Link from "next/link";
+import type { ReactNode } from "react";
+
+import { useFinePointer } from "@/hooks/useFinePointer";
+import { springMagnetic, springUi } from "@/lib/motion";
 import { cn } from "@/lib/utils";
 
 type Variant = "primary" | "ghost" | "inverse" | "royal";
@@ -13,12 +19,26 @@ const variants: Record<Variant, string> = {
 
 type OrbitalButtonProps = {
   href?: string;
-  children: React.ReactNode;
+  children: ReactNode;
   variant?: Variant;
   className?: string;
   type?: "button" | "submit";
   onClick?: () => void;
 };
+
+function withArrow(children: ReactNode) {
+  if (typeof children !== "string" || !children.includes("→")) {
+    return children;
+  }
+  const [lead, ...rest] = children.split("→");
+  return (
+    <>
+      {lead}
+      <span className="orbital-arrow">→</span>
+      {rest.join("→")}
+    </>
+  );
+}
 
 export function OrbitalButton({
   href,
@@ -28,23 +48,49 @@ export function OrbitalButton({
   type = "button",
   onClick,
 }: OrbitalButtonProps) {
-  const classes = cn(
-    "inline-flex h-11 items-center justify-center rounded-full px-[22px] font-ui text-[15px] font-semibold whitespace-nowrap transition-colors",
-    variants[variant],
-    className,
-  );
+  const fine = useFinePointer();
+  const x = useMotionValue(0);
+  const y = useMotionValue(0);
+  const springX = useSpring(x, springMagnetic);
+  const springY = useSpring(y, springMagnetic);
 
-  if (href) {
-    return (
-      <Link href={href} className={classes}>
-        {children}
-      </Link>
-    );
+  function onMove(event: React.MouseEvent<HTMLDivElement>) {
+    if (!fine) return;
+    const rect = event.currentTarget.getBoundingClientRect();
+    x.set((event.clientX - rect.left - rect.width / 2) * 0.28);
+    y.set((event.clientY - rect.top - rect.height / 2) * 0.28);
   }
 
+  function onLeave() {
+    x.set(0);
+    y.set(0);
+  }
+
+  const classes = cn(
+    "orbital-btn inline-flex h-11 w-full items-center justify-center rounded-full px-[22px] font-ui text-[15px] font-semibold whitespace-nowrap transition-colors",
+    variants[variant],
+  );
+  const label = withArrow(children);
+
   return (
-    <button type={type} onClick={onClick} className={classes}>
-      {children}
-    </button>
+    <motion.div
+      className={cn("inline-flex", className)}
+      style={{ x: springX, y: springY }}
+      whileHover={{ scale: 1.015 }}
+      whileTap={{ scale: 0.98 }}
+      transition={springUi}
+      onMouseMove={onMove}
+      onMouseLeave={onLeave}
+    >
+      {href ? (
+        <Link href={href} className={classes}>
+          {label}
+        </Link>
+      ) : (
+        <button type={type} onClick={onClick} className={classes}>
+          {label}
+        </button>
+      )}
+    </motion.div>
   );
 }
