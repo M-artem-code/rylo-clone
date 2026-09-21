@@ -1,20 +1,73 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import localFont from "next/font/local";
+
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
+const gloock = localFont({
+  src: "../fonts/Gloock-Regular.ttf",
+  variable: "--font-gloock",
+  display: "swap",
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+const bodoni = localFont({
+  src: "../fonts/BodoniModa.ttf",
+  variable: "--font-bodoni",
+  display: "swap",
+});
+
+const instrumentSerif = localFont({
+  src: [
+    { path: "../fonts/InstrumentSerif-Regular.ttf", weight: "400", style: "normal" },
+    { path: "../fonts/InstrumentSerif-Italic.ttf", weight: "400", style: "italic" },
+  ],
+  variable: "--font-instrument-serif",
+  display: "swap",
+});
+
+const instrumentSans = localFont({
+  src: "../fonts/InstrumentSans.ttf",
+  variable: "--font-instrument-sans",
+  display: "swap",
+  weight: "400 700",
+});
+
+const italiana = localFont({
+  src: "../fonts/Italiana-Regular.ttf",
+  variable: "--font-italiana",
+  display: "swap",
+});
+
+const newsreader = localFont({
+  src: "../fonts/Newsreader.ttf",
+  variable: "--font-newsreader",
+  display: "swap",
+  weight: "200 800",
+});
+
+const fraunces = localFont({
+  src: "../fonts/Fraunces.ttf",
+  variable: "--font-fraunces",
+  display: "swap",
+  weight: "100 900",
+});
+
+const plex = localFont({
+  src: [
+    { path: "../fonts/IBMPlexMono-Light.ttf", weight: "300", style: "normal" },
+    { path: "../fonts/IBMPlexMono-Regular.ttf", weight: "400", style: "normal" },
+    { path: "../fonts/IBMPlexMono-Medium.ttf", weight: "500", style: "normal" },
+  ],
+  variable: "--font-plex",
+  display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: {
+    default: "VANTA — Architectural lighting",
+    template: "%s — VANTA",
+  },
+  description:
+    "VANTA designs complete lighting atmospheres for architecture.",
 };
 
 export default function RootLayout({
@@ -25,9 +78,19 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={[
+        gloock.variable,
+        bodoni.variable,
+        instrumentSerif.variable,
+        instrumentSans.variable,
+        italiana.variable,
+        newsreader.variable,
+        fraunces.variable,
+        plex.variable,
+        "h-full",
+      ].join(" ")}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full bg-void text-milk">{children}</body>
     </html>
   );
 }
