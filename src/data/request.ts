@@ -1,0 +1,15 @@
+export const requestCopy = {
+  kicker: "Request",
+  title: "A spec slip for the diameter.",
+  help: "Use email, phone, or Telegram — we reply on one of these.",
+  formTitle: "Send request",
+  submit: "Send request",
+  successTitle: "Request received.",
+  successBody: "We will write or call back on one of the channels you gave.",
+  diameters: ["12\"", "15\"", "18\"", "21\"", "Not sure"],
+  materialOptions: ["Beech", "Steel", "Walnut", "Composite", "Not sure"],
+  modelOptions: ["Ring 12", "Ring 15", "Ring 18", "Ring 21", "Not sure"],
+  defaultDiameter: "15\"",
+  defaultMaterial: "Beech",
+  defaultModel: "Ring 15",
+};

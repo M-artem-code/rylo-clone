@@ -1,7 +1,23 @@
-// Extracted SVG icons from the cloned site live here.
-// The /clone-website pipeline populates this file during Foundation phase:
-// every inline <svg> found on the target site is deduplicated and saved as
-// a named React component (e.g. LogoIcon, ArrowRightIcon, SearchIcon).
-//
-// Until then this file is intentionally empty.
-export {};
+export function OpenRingMark({ size = 18 }: { size?: number }) {
+  return (
+    <svg
+      className="brand-mark"
+      width={size}
+      height={size}
+      viewBox="0 0 18 18"
+      aria-hidden="true"
+    >
+      <circle
+        cx="9"
+        cy="9"
+        r="6.6"
+        fill="none"
+        stroke="#5E6A71"
+        strokeWidth="1.15"
+        strokeLinecap="round"
+        strokeDasharray="36 5.5"
+        strokeDashoffset="2"
+      />
+    </svg>
+  );
+}
