@@ -56,14 +56,14 @@ export default function AtelierPage() {
 
       <div className="mx-5 border-t border-nl-line md:mx-[72px]" />
 
-      <section className="grid gap-10 px-5 py-12 md:grid-cols-[480fr_1fr] md:px-[72px]">
-        <div>
+      <section className="flex flex-col gap-10 px-5 py-12 md:flex-row md:items-start md:justify-between md:px-[72px]">
+        <div className="max-w-[480px] shrink-0">
           <h2 className="font-display text-[26px] font-medium">{solutionPage.variants.title}</h2>
-          <p className="mt-6 max-w-[480px] text-[15px] leading-[1.45] text-nl-muted">
+          <p className="mt-6 text-[15px] leading-[1.45] text-nl-muted">
             {solutionPage.variants.text}
           </p>
         </div>
-        <div className="flex flex-wrap gap-5">
+        <div className="flex flex-wrap gap-x-5 gap-y-6">
           {solutionPage.variants.chips.map((chip) => (
             <figure key={chip.title} className="w-[120px]">
               <div className="relative h-[120px] w-[120px] overflow-hidden rounded-full">
@@ -97,10 +97,10 @@ export default function AtelierPage() {
               {solutionPage.design.specs.map((spec) => (
                 <div
                   key={spec.label}
-                  className="grid grid-cols-2 gap-4 border-b border-nl-line py-3.5 text-[14px]"
+                  className="flex justify-between gap-8 border-b border-nl-line py-3.5 text-[14px]"
                 >
                   <dt className="text-nl-muted">{spec.label}</dt>
-                  <dd>{spec.value}</dd>
+                  <dd className="text-right">{spec.value}</dd>
                 </div>
               ))}
             </dl>

@@ -15,7 +15,7 @@ const variants = {
 type Variant = keyof typeof variants;
 
 const base =
-  "inline-flex items-center justify-center border px-[22px] py-[12px] text-[13px] font-medium tracking-[0.02em] transition-colors";
+  "inline-flex items-center justify-center rounded-none border px-[22px] py-[12px] text-[13px] font-medium tracking-[0.02em] transition-colors";
 
 type Common = {
   children: ReactNode;

@@ -22,7 +22,7 @@ export default function HomePage() {
           className="object-cover object-[center_60%]"
           sizes="100vw"
         />
-        <div className="absolute inset-0 bg-linear-to-r from-nl-ink/55 via-nl-ink/20 to-transparent" />
+        <div className="absolute inset-0 bg-linear-to-r from-nl-ink/40 via-nl-ink/10 to-transparent" />
         <div className="relative z-10 flex h-full flex-col justify-center px-5 md:px-[72px]">
           <p className="text-[13px] tracking-[0.12em] text-nl-cream">{home.hero.eyebrow}</p>
           <h1 className="mt-4 max-w-[620px] font-display text-[40px] leading-[1.12] font-medium text-white md:text-[58px]">
