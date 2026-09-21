@@ -1,6 +1,12 @@
-import Image from "next/image";
+"use client";
 
+import Image from "next/image";
+import { useRef } from "react";
+
+import type { CoverMotion } from "@/lib/motion";
 import { cn } from "@/lib/utils";
+
+import { useEnterView } from "./use-enter-view";
 
 type CoverImageProps = {
   src: string;
@@ -8,6 +14,7 @@ type CoverImageProps = {
   className?: string;
   position?: string;
   priority?: boolean;
+  motion?: CoverMotion;
 };
 
 export function CoverImage({
@@ -16,9 +23,18 @@ export function CoverImage({
   className,
   position = "center",
   priority = false,
+  motion = "none",
 }: CoverImageProps) {
+  const ref = useRef<HTMLDivElement>(null);
+  const needsView = motion === "expose" || motion === "aperture" || motion === "rise";
+  useEnterView(ref, needsView);
+
   return (
-    <div className={cn("relative overflow-hidden bg-void", className)}>
+    <div
+      ref={ref}
+      data-motion={motion}
+      className={cn("vanta-cover relative overflow-hidden bg-void", className)}
+    >
       <Image
         src={src}
         alt={alt}
@@ -26,7 +42,7 @@ export function CoverImage({
         sizes="100vw"
         priority={priority}
         loading={priority ? undefined : "eager"}
-        className="object-cover"
+        className="vanta-cover-img object-cover"
         style={{ objectPosition: position }}
       />
     </div>

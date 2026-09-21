@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 
+import { MotionRoot } from "@/components/vanta/motion-root";
+
 import "./globals.css";
 
 const gloock = localFont({
@@ -90,7 +92,9 @@ export default function RootLayout({
         "h-full",
       ].join(" ")}
     >
-      <body className="min-h-full bg-void text-milk">{children}</body>
+      <body className="min-h-full bg-void text-milk">
+        <MotionRoot>{children}</MotionRoot>
+      </body>
     </html>
   );
 }

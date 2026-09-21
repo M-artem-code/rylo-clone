@@ -6,6 +6,7 @@ import { contactPage } from "@/data/journal";
 import { images, routes, site } from "@/data/site";
 
 import { CoverImage } from "./cover-image";
+import { HeadlineLines } from "./headline-lines";
 import { SiteHeader } from "./site-header";
 import { SiteLabel } from "./site-label";
 import { VantaButton } from "./vanta-button";
@@ -45,6 +46,8 @@ export function ContactView() {
         src={images.livingNight}
         alt="Dark studio volume"
         className="absolute inset-0"
+        motion="contact"
+        priority
       />
       <div className="absolute inset-x-0 top-0 h-36 bg-linear-to-b from-void/80 to-transparent" />
       <div className="relative z-10">
@@ -54,15 +57,11 @@ export function ContactView() {
         />
         <div className="grid min-h-[calc(100vh-76px)] items-center gap-12 px-6 py-12 lg:grid-cols-[1fr_560px] lg:px-12">
           <div>
-            <SiteLabel>{contactPage.kicker}</SiteLabel>
-            <h1 className="mt-4 font-display text-[48px] leading-[0.95] text-milk md:text-[78px]">
-              {contactPage.headline.map((line) => (
-                <span key={line} className="block">
-                  {line}
-                </span>
-              ))}
+            <SiteLabel className="vanta-hero-kicker">{contactPage.kicker}</SiteLabel>
+            <h1 className="vanta-hero mt-4 font-display text-[48px] leading-[0.95] text-milk md:text-[78px]">
+              <HeadlineLines lines={contactPage.headline} />
             </h1>
-            <dl className="mt-12 space-y-7">
+            <dl className="vanta-hero-support mt-12 space-y-7">
               {info.map((item) => (
                 <div key={item.label}>
                   <dt className="font-mono text-[11px] tracking-[0.16em] text-muted-vanta">
@@ -76,7 +75,7 @@ export function ContactView() {
           <form
             onSubmit={onSubmit}
             noValidate
-            className="border border-graph-2/80 bg-ink/80 px-8 py-10 backdrop-blur-sm"
+            className="vanta-hero-cta border border-graph-2/80 bg-ink/80 px-8 py-10 backdrop-blur-sm"
           >
             {contactPage.fields.map((field) => (
               <label key={field} className="mb-2 block">
@@ -87,22 +86,22 @@ export function ContactView() {
                   <textarea
                     name={field}
                     rows={3}
-                    className="mt-3 mb-4 w-full resize-none border-0 border-b border-graph-2 bg-transparent py-2 text-milk outline-none"
+                    className="vanta-field mt-3 mb-4 w-full resize-none border-0 border-b border-graph-2 bg-transparent py-2 text-milk outline-none"
                   />
                 ) : (
                   <input
                     name={field}
                     type={field === "Email" ? "email" : "text"}
-                    className="mt-3 mb-4 w-full border-0 border-b border-graph-2 bg-transparent py-2 text-milk outline-none"
+                    className="vanta-field mt-3 mb-4 w-full border-0 border-b border-graph-2 bg-transparent py-2 text-milk outline-none"
                   />
                 )}
               </label>
             ))}
             {error ? (
-              <p className="mb-4 font-mono text-[11px] text-amber">{error}</p>
+              <p className="vanta-form-note mb-4 font-mono text-[11px] text-amber">{error}</p>
             ) : null}
             {sent ? (
-              <p className="mb-4 font-news text-[18px] text-milk">{contactPage.success}</p>
+              <p className="vanta-form-note mb-4 font-news text-[18px] text-milk">{contactPage.success}</p>
             ) : null}
             <VantaButton
               type="submit"

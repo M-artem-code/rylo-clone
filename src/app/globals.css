@@ -137,3 +137,716 @@
   background: #f4f1ea;
   cursor: pointer;
 }
+
+:root {
+  --ease-cinematic: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-expose: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-ui: cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* --- VANTA motion: light as exposure --- */
+
+.vanta-cover {
+  contain: paint;
+}
+
+.vanta-cover-img {
+  transform-origin: center;
+}
+
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .vanta-cover[data-motion="none"] .vanta-cover-img,
+  .vanta-cover[data-motion="expose"].is-in .vanta-cover-img,
+  .vanta-cover[data-motion="aperture"].is-in .vanta-cover-img,
+  .vanta-cover[data-motion="rise"].is-in .vanta-cover-img {
+    transition: transform 1.05s var(--ease-cinematic);
+  }
+
+  .vanta-cover[data-motion="none"]:hover .vanta-cover-img,
+  .vanta-cover[data-motion="expose"].is-in:hover .vanta-cover-img,
+  .vanta-cover[data-motion="aperture"].is-in:hover .vanta-cover-img,
+  .vanta-cover[data-motion="rise"].is-in:hover .vanta-cover-img {
+    transform: scale(1.045);
+  }
+}
+
+.vanta-cover[data-motion="hero"] .vanta-cover-img {
+  animation: vanta-hero-expose 1.55s var(--ease-expose) both;
+}
+
+.vanta-cover[data-motion="contact"] {
+  animation: vanta-contact-open 1.25s var(--ease-cinematic) both;
+}
+
+.vanta-cover[data-motion="scene"] .vanta-cover-img {
+  animation: vanta-scene-in 0.7s var(--ease-expose) both;
+}
+
+.vanta-cover[data-motion="expose"].is-armed:not(.is-in) .vanta-cover-img {
+  transform: scale(1.07);
+  filter: brightness(0.52);
+  opacity: 0.78;
+}
+
+.vanta-cover[data-motion="expose"].is-in .vanta-cover-img {
+  transform: scale(1);
+  filter: brightness(1);
+  opacity: 1;
+  transition:
+    transform 1.15s var(--ease-cinematic),
+    filter 1.15s var(--ease-expose),
+    opacity 0.85s var(--ease-expose);
+}
+
+.vanta-cover[data-motion="aperture"].is-armed:not(.is-in) {
+  clip-path: inset(0 42% 0 42%);
+}
+
+.vanta-cover[data-motion="aperture"].is-in {
+  clip-path: inset(0);
+  transition: clip-path 1.15s var(--ease-cinematic);
+}
+
+.vanta-cover[data-motion="rise"].is-armed:not(.is-in) {
+  clip-path: inset(100% 0 0 0);
+}
+
+.vanta-cover[data-motion="rise"].is-in {
+  clip-path: inset(0);
+  transition: clip-path 1s var(--ease-cinematic);
+}
+
+.vanta-clip {
+  overflow: hidden;
+}
+
+.vanta-clip-inner {
+  transform-origin: center bottom;
+}
+
+.vanta-hero .vanta-clip-inner {
+  animation: vanta-line-up 1.05s var(--ease-cinematic) both;
+  animation-delay: calc(var(--vanta-line-delay, 380ms) + var(--vanta-i, 0) * 90ms);
+}
+
+.vanta-reveal.is-armed:not(.is-in) .vanta-clip-inner {
+  transform: translate3d(0, 108%, 0);
+}
+
+.vanta-reveal.is-in .vanta-clip-inner {
+  animation: vanta-line-up 1s var(--ease-cinematic) both;
+  animation-delay: calc(var(--vanta-delay, 0ms) + var(--vanta-i, 0) * 80ms);
+}
+
+.vanta-reveal.is-armed:not(.is-in).vanta-copy {
+  opacity: 0;
+  transform: translate3d(0, 12px, 0);
+}
+
+.vanta-reveal.is-in.vanta-copy {
+  opacity: 1;
+  transform: none;
+  transition:
+    opacity 0.7s var(--ease-expose) var(--vanta-delay, 0ms),
+    transform 0.7s var(--ease-cinematic) var(--vanta-delay, 0ms);
+}
+
+.vanta-hero-kicker {
+  animation: vanta-kicker 0.8s var(--ease-cinematic) 180ms both;
+}
+
+.vanta-hero-support {
+  animation: vanta-fade-up 0.85s var(--ease-cinematic) 720ms both;
+}
+
+.vanta-hero-cta {
+  animation: vanta-fade-up 0.8s var(--ease-cinematic) 840ms both;
+}
+
+.vanta-hero-scene {
+  animation: vanta-scene-card 0.95s var(--ease-cinematic) 980ms both;
+}
+
+.vanta-hero .vanta-header {
+  animation: vanta-fade 0.6s var(--ease-expose) 80ms both;
+}
+
+.vanta-scene-dot.is-live {
+  animation: vanta-ember 2.8s ease-in-out infinite;
+}
+
+.vanta-btn {
+  position: relative;
+  overflow: hidden;
+  transition:
+    transform 0.2s var(--ease-ui),
+    opacity 0.2s var(--ease-ui),
+    background-color 0.35s var(--ease-ui),
+    border-color 0.35s var(--ease-ui),
+    color 0.35s var(--ease-ui);
+}
+
+.vanta-btn::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    105deg,
+    transparent 36%,
+    rgb(232 198 128 / 0.28) 50%,
+    transparent 64%
+  );
+  transform: translate3d(-130%, 0, 0);
+  pointer-events: none;
+}
+
+.vanta-btn:hover::after {
+  transform: translate3d(130%, 0, 0);
+  transition: transform 0.7s var(--ease-cinematic);
+}
+
+.vanta-btn:active {
+  transform: scale(0.985);
+}
+
+.vanta-nav-link {
+  background-image: linear-gradient(#c9a66b, #c9a66b);
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  background-size: 0 1px;
+  padding-bottom: 2px;
+  transition:
+    color 0.28s var(--ease-ui),
+    background-size 0.4s var(--ease-cinematic);
+}
+
+.vanta-nav-link:hover,
+.vanta-nav-link.is-active {
+  background-size: 100% 1px;
+}
+
+.vanta-inline-link {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 0 1px;
+  transition:
+    color 0.25s var(--ease-ui),
+    background-size 0.35s var(--ease-cinematic);
+}
+
+.vanta-inline-link:hover {
+  color: #f4f1ea;
+  background-size: 100% 1px;
+}
+
+.vanta-logo-slit {
+  transition:
+    background-color 0.35s var(--ease-ui),
+    box-shadow 0.4s var(--ease-cinematic);
+}
+
+.vanta-logo:hover .vanta-logo-slit {
+  background-color: #e8c680;
+  box-shadow: 0 0 10px 1px rgb(201 166 107 / 0.45);
+}
+
+.vanta-row .vanta-cover-img {
+  transition: transform 1s var(--ease-cinematic);
+}
+
+.vanta-row-name {
+  transition: letter-spacing 0.5s var(--ease-cinematic);
+}
+
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .vanta-row:hover .vanta-cover-img {
+    transform: scale(1.055);
+  }
+
+  .vanta-row:hover .vanta-row-name {
+    letter-spacing: 0.22em;
+  }
+
+  .vanta-tile:hover .vanta-cover-img {
+    transform: scale(1.05);
+  }
+}
+
+.vanta-tile .vanta-cover-img {
+  transition: transform 1.1s var(--ease-cinematic);
+}
+
+.vanta-menu {
+  display: grid;
+  grid-template-rows: 0fr;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    grid-template-rows 0.42s var(--ease-cinematic),
+    opacity 0.28s var(--ease-ui);
+}
+
+.vanta-menu > .vanta-menu-inner {
+  overflow: hidden;
+}
+
+.vanta-menu.is-open {
+  grid-template-rows: 1fr;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.vanta-burger-line {
+  display: block;
+  height: 1px;
+  width: 20px;
+  background: #f4f1ea;
+  transition: transform 0.32s var(--ease-ui), width 0.32s var(--ease-ui);
+}
+
+.vanta-burger.is-open .vanta-burger-line:first-child {
+  transform: translateY(3.5px) rotate(40deg);
+}
+
+.vanta-burger.is-open .vanta-burger-line:last-child {
+  transform: translateY(-3.5px) rotate(-40deg);
+}
+
+.vanta-field {
+  transition:
+    border-color 0.28s var(--ease-ui),
+    box-shadow 0.28s var(--ease-ui);
+}
+
+.vanta-field:focus {
+  border-bottom-color: #c9a66b;
+  box-shadow: 0 1px 0 #c9a66b;
+}
+
+.vanta-form-note {
+  animation: vanta-fade-up 0.5s var(--ease-cinematic) both;
+}
+
+.vanta-swatch {
+  transition:
+    transform 0.22s var(--ease-ui),
+    box-shadow 0.22s var(--ease-ui);
+}
+
+.vanta-swatch:hover {
+  transform: scale(1.08);
+}
+
+.vanta-swatch.is-on {
+  box-shadow: 0 0 0 1px #080809, 0 0 0 2px #f4f1ea;
+}
+
+.vanta-product-orbit {
+  transform-style: preserve-3d;
+}
+
+.vanta-studio-wash {
+  transition: background 0.65s var(--ease-expose);
+}
+
+.vanta-value-tick {
+  animation: vanta-fade 0.28s var(--ease-ui) both;
+}
+
+.vanta-time-rule {
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.32s var(--ease-cinematic);
+}
+
+.vanta-time-link.is-on .vanta-time-rule {
+  transform: scaleX(1);
+}
+
+.vanta-chain-line {
+  transform-origin: left center;
+}
+
+.vanta-reveal.is-armed:not(.is-in) .vanta-chain-line {
+  transform: scaleX(0);
+}
+
+.vanta-reveal.is-in .vanta-chain-line {
+  transform: scaleX(1);
+  transition: transform 1.25s var(--ease-cinematic) 80ms;
+}
+
+.vanta-reveal.is-armed:not(.is-in) .vanta-chain-node {
+  transform: scale(0.45);
+  opacity: 0;
+}
+
+.vanta-reveal.is-in .vanta-chain-node {
+  transform: scale(1);
+  opacity: 1;
+  transition:
+    transform 0.5s var(--ease-cinematic),
+    opacity 0.4s var(--ease-expose);
+  transition-delay: calc(var(--vanta-i, 0) * 90ms + 180ms);
+}
+
+.vanta-polar-plot {
+  stroke-dasharray: 420;
+  stroke-dashoffset: 0;
+}
+
+.vanta-reveal.is-armed:not(.is-in) .vanta-polar-plot {
+  stroke-dashoffset: 420;
+}
+
+.vanta-reveal.is-in .vanta-polar-plot {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 1.4s var(--ease-cinematic) 160ms;
+}
+
+.vanta-reveal.is-armed:not(.is-in) .vanta-service-node {
+  transform: scale(0.4);
+}
+
+.vanta-reveal.is-in .vanta-service-node {
+  transform: scale(1);
+  transition: transform 0.45s var(--ease-cinematic);
+}
+
+.vanta-range::-webkit-slider-thumb {
+  transition: transform 0.2s var(--ease-ui);
+}
+
+.vanta-range:active::-webkit-slider-thumb {
+  transform: scale(1.22);
+}
+
+.vanta-grain {
+  position: fixed;
+  inset: 0;
+  z-index: 70;
+  pointer-events: none;
+  opacity: 0.042;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: 180px 180px;
+}
+
+.vanta-cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 90;
+  width: 18px;
+  height: 24px;
+  margin: -12px 0 0 -9px;
+  pointer-events: none;
+  opacity: 0;
+  will-change: transform;
+}
+
+.vanta-cursor[data-visible="true"] {
+  opacity: 1;
+}
+
+.vanta-cursor-plate {
+  display: block;
+  position: relative;
+  width: 10px;
+  height: 16px;
+  margin: 4px auto 0;
+  background: #26282c;
+  transition:
+    width 0.28s var(--ease-ui),
+    height 0.28s var(--ease-ui),
+    background-color 0.28s var(--ease-ui);
+}
+
+.vanta-cursor-slit {
+  position: absolute;
+  inset: 3px 3px;
+  background: #c9a66b;
+  transition:
+    inset 0.28s var(--ease-cinematic),
+    background-color 0.28s var(--ease-ui);
+}
+
+.vanta-cursor[data-state="hover"] .vanta-cursor-plate {
+  width: 12px;
+  height: 20px;
+}
+
+.vanta-cursor[data-state="hover"] .vanta-cursor-slit {
+  inset: 2px 4px;
+  background: #e8c680;
+}
+
+.vanta-cursor[data-state="image"] .vanta-cursor-plate {
+  width: 18px;
+  height: 26px;
+  background: #141518;
+}
+
+.vanta-cursor[data-state="image"] .vanta-cursor-slit {
+  inset: 4px 7px;
+}
+
+html.vanta-cursor-on,
+html.vanta-cursor-on * {
+  cursor: none !important;
+}
+
+html.vanta-cursor-on input,
+html.vanta-cursor-on textarea,
+html.vanta-cursor-on select,
+html.vanta-cursor-on input *,
+html.vanta-cursor-on textarea * {
+  cursor: text !important;
+}
+
+.vanta-veil {
+  position: fixed;
+  inset: 0;
+  z-index: 85;
+  pointer-events: none;
+  background: #080809;
+  opacity: 0;
+  clip-path: inset(0 50% 0 50%);
+}
+
+.vanta-veil.is-on {
+  animation: vanta-veil 0.54s var(--ease-cinematic) both;
+}
+
+.vanta-veil-slit {
+  position: absolute;
+  top: 18%;
+  bottom: 18%;
+  left: 50%;
+  width: 2px;
+  background: #c9a66b;
+  transform: translateX(-50%);
+}
+
+.vanta-share-void {
+  view-transition-name: vanta-void;
+}
+
+.vanta-share-atelier {
+  view-transition-name: vanta-atelier;
+}
+
+::view-transition-old(root) {
+  animation: vanta-vt-out 0.46s var(--ease-cinematic) both;
+}
+
+::view-transition-new(root) {
+  animation: vanta-vt-in 0.72s var(--ease-expose) both;
+}
+
+@keyframes vanta-hero-expose {
+  from {
+    transform: scale(1.1);
+    filter: brightness(0.28);
+  }
+  to {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+}
+
+@keyframes vanta-contact-open {
+  from {
+    clip-path: inset(0 48% 0 48%);
+    filter: brightness(0.4);
+  }
+  to {
+    clip-path: inset(0);
+    filter: brightness(1);
+  }
+}
+
+@keyframes vanta-scene-in {
+  from {
+    opacity: 0.2;
+    filter: brightness(0.7);
+  }
+  to {
+    opacity: 1;
+    filter: brightness(1);
+  }
+}
+
+@keyframes vanta-line-up {
+  from {
+    transform: translate3d(0, 108%, 0);
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes vanta-kicker {
+  from {
+    opacity: 0;
+    letter-spacing: 0.34em;
+  }
+  to {
+    opacity: 1;
+    letter-spacing: 0.22em;
+  }
+}
+
+@keyframes vanta-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes vanta-fade-up {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 14px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes vanta-scene-card {
+  from {
+    opacity: 0;
+    transform: translate3d(16px, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes vanta-ember {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgb(201 166 107 / 0);
+  }
+  50% {
+    box-shadow: 0 0 10px 2px rgb(201 166 107 / 0.35);
+  }
+}
+
+@keyframes vanta-veil {
+  0% {
+    opacity: 1;
+    clip-path: inset(0 0 0 0);
+  }
+  58% {
+    opacity: 1;
+    clip-path: inset(0 16% 0 16%);
+  }
+  100% {
+    opacity: 0;
+    clip-path: inset(0 50% 0 50%);
+  }
+}
+
+@keyframes vanta-vt-out {
+  to {
+    opacity: 0;
+    filter: brightness(0.25);
+  }
+}
+
+@keyframes vanta-vt-in {
+  from {
+    opacity: 0;
+    filter: brightness(1.12);
+  }
+  to {
+    opacity: 1;
+    filter: brightness(1);
+  }
+}
+
+@media (max-width: 768px) {
+  .vanta-grain {
+    opacity: 0.028;
+  }
+
+  .vanta-cover[data-motion="hero"] .vanta-cover-img {
+    animation-duration: 0.9s;
+  }
+
+  .vanta-hero .vanta-clip-inner,
+  .vanta-hero-kicker,
+  .vanta-hero-support,
+  .vanta-hero-cta,
+  .vanta-hero-scene {
+    animation-duration: 0.62s;
+  }
+
+  .vanta-hero-scene {
+    animation: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .vanta-cover-img,
+  .vanta-clip-inner,
+  .vanta-hero-kicker,
+  .vanta-hero-support,
+  .vanta-hero-cta,
+  .vanta-hero-scene,
+  .vanta-hero .vanta-header,
+  .vanta-cover[data-motion="hero"] .vanta-cover-img,
+  .vanta-cover[data-motion="contact"],
+  .vanta-cover[data-motion="scene"] .vanta-cover-img,
+  .vanta-form-note,
+  .vanta-value-tick,
+  .vanta-polar-plot,
+  .vanta-chain-line,
+  .vanta-chain-node,
+  .vanta-service-node {
+    animation: none !important;
+    transition: none !important;
+    transform: none !important;
+    filter: none !important;
+    opacity: 1 !important;
+    clip-path: none !important;
+    stroke-dashoffset: 0 !important;
+  }
+
+  .vanta-scene-dot.is-live {
+    animation: none;
+  }
+
+  .vanta-product-orbit {
+    transform: none !important;
+  }
+
+  .vanta-grain,
+  .vanta-cursor,
+  .vanta-veil {
+    display: none !important;
+  }
+
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation: none !important;
+  }
+}

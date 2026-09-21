@@ -5,6 +5,7 @@ import { routes } from "@/data/site";
 import { cn } from "@/lib/utils";
 
 import { CoverImage } from "./cover-image";
+import { HeadlineLines } from "./headline-lines";
 import { SiteHeader } from "./site-header";
 import { SiteLabel } from "./site-label";
 import { VantaButton } from "./vanta-button";
@@ -17,23 +18,21 @@ export function JournalView() {
         cta={{ label: "Read article", href: routes.article }}
       />
       <div className="grid lg:grid-cols-[1.4fr_1fr]">
-        <section className="relative min-h-[70vh] lg:min-h-[calc(100vh-76px)]">
+        <section className="vanta-hero relative min-h-[70vh] lg:min-h-[calc(100vh-76px)]">
           <CoverImage
             src={journalPage.featured.image}
             alt="Light and architecture"
             className="absolute inset-0"
+            motion="aperture"
+            priority
           />
           <div className="absolute inset-x-0 bottom-0 h-[42%] bg-linear-to-t from-void via-void/80 to-transparent" />
           <div className="relative z-10 flex min-h-[70vh] flex-col justify-end p-8 lg:min-h-[calc(100vh-76px)] lg:p-12">
-            <SiteLabel>{journalPage.featured.kicker}</SiteLabel>
+            <SiteLabel className="vanta-hero-kicker">{journalPage.featured.kicker}</SiteLabel>
             <h1 className="mt-3 font-display text-[48px] leading-[0.95] text-milk md:text-[66px]">
-              {journalPage.featured.headline.map((line) => (
-                <span key={line} className="block">
-                  {line}
-                </span>
-              ))}
+              <HeadlineLines lines={journalPage.featured.headline} />
             </h1>
-            <div className="mt-8">
+            <div className="vanta-hero-cta mt-8">
               <VantaButton href={journalPage.featured.cta.href} filled>
                 {journalPage.featured.cta.label}
               </VantaButton>
@@ -61,7 +60,7 @@ export function JournalView() {
               <Link
                 key={item.title}
                 href={item.href}
-                className="grid grid-cols-[160px_1fr] items-center gap-6 border-t border-graph py-4"
+                className="vanta-row grid grid-cols-[160px_1fr] items-center gap-6 border-t border-graph py-4"
               >
                 <CoverImage
                   src={item.image}

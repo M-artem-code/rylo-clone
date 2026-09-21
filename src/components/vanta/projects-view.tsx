@@ -24,10 +24,15 @@ export function ProjectsView() {
         </h1>
         <SiteLabel className="mt-2">{projectsPage.kicker}</SiteLabel>
         <div className="mt-8 grid grid-cols-1 gap-3 md:grid-cols-12">
-          <ProjectTile tile={lead} className="h-[260px] md:col-span-7 md:h-[430px]" />
+          <ProjectTile
+            tile={lead}
+            className="h-[260px] md:col-span-7 md:h-[430px]"
+            motion="expose"
+            share
+          />
           <div className="grid gap-3 md:col-span-5">
-            <ProjectTile tile={restaurant} className="h-[210px]" />
-            <ProjectTile tile={gallery} className="h-[204px]" />
+            <ProjectTile tile={restaurant} className="h-[210px]" motion="rise" />
+            <ProjectTile tile={gallery} className="h-[204px]" motion="rise" />
           </div>
           <ProjectTile tile={residence} className="h-[230px] md:col-span-4" />
           <ProjectTile tile={retail} className="h-[230px] md:col-span-4" />
@@ -48,6 +53,7 @@ export function ProjectsView() {
               src={projectsPage.compareImage}
               alt="With VANTA"
               className="h-[110px] w-[400px] max-w-full"
+              motion="expose"
             />
             <SiteLabel className="mt-2">With VANTA</SiteLabel>
           </figure>
@@ -64,18 +70,23 @@ function ProjectTile({
   tile,
   className,
   position,
+  motion = "none",
+  share = false,
 }: {
   tile: (typeof projectsPage.tiles)[number];
   className?: string;
   position?: string;
+  motion?: "none" | "expose" | "rise";
+  share?: boolean;
 }) {
   return (
-    <Link href={tile.href} className={cn("relative block", className)}>
+    <Link href={tile.href} className={cn("vanta-tile relative block", className)}>
       <CoverImage
         src={tile.image}
         alt={`${tile.title}, ${tile.city}`}
-        className="h-full min-h-[180px]"
+        className={cn("h-full min-h-[180px]", share && "vanta-share-atelier")}
         position={position}
+        motion={motion}
       />
       <div className="absolute inset-x-0 bottom-0 bg-void/60 px-3.5 py-2">
         <SiteLabel>

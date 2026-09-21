@@ -21,10 +21,10 @@ export function VantaButton({
   onClick,
 }: VantaButtonProps) {
   const classes = cn(
-    "inline-flex h-[42px] items-center justify-center px-[26px] text-[13px] tracking-[0.08em] transition-opacity hover:opacity-80",
+    "vanta-btn inline-flex h-[42px] items-center justify-center px-[26px] text-[13px] tracking-[0.08em]",
     filled
-      ? "bg-milk text-void"
-      : "border border-milk-soft/60 text-milk",
+      ? "vanta-btn-filled bg-milk text-void"
+      : "vanta-btn-line border border-milk-soft/60 text-milk",
     className,
   );
 

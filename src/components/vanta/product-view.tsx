@@ -22,11 +22,19 @@ export function ProductView() {
       />
       <div className="grid gap-10 px-6 py-8 lg:grid-cols-[1fr_0.85fr] lg:px-12">
         <div>
-          <CoverImage
-            src={void01.image}
-            alt={void01.name}
-            className="h-[480px] md:h-[720px]"
-          />
+          <div
+            className="vanta-product-orbit"
+            style={{
+              transform: `perspective(1400px) rotateY(${(rotation - 50) * 0.42}deg)`,
+            }}
+          >
+            <CoverImage
+              src={void01.image}
+              alt={void01.name}
+              className="vanta-share-void h-[480px] md:h-[720px]"
+              motion="aperture"
+            />
+          </div>
           <div className="mt-6 px-6 md:px-16">
             <input
               type="range"
@@ -56,6 +64,7 @@ export function ProductView() {
                 src={void01.after}
                 alt="With VANTA"
                 className="h-[140px]"
+                motion="expose"
               />
               <SiteLabel className="mt-2">With VANTA</SiteLabel>
             </figure>
@@ -90,7 +99,7 @@ export function ProductView() {
                     type="button"
                     aria-label={`Finish ${index + 1}`}
                     onClick={() => setFinish(index)}
-                    className="size-7 rounded-full border"
+                    className={`vanta-swatch size-7 rounded-full border ${finish === index ? "is-on" : ""}`}
                     style={{
                       background: color,
                       borderColor: finish === index ? "#f4f1ea" : "#34363a",

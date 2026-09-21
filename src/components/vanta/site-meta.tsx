@@ -12,7 +12,7 @@ export function SiteMeta({ right }: { right: string }) {
         {right.startsWith("Home") ? (
           <>
             Home  ·  Atmosphere  ·{" "}
-            <Link href={routes.services} className="hover:text-milk">
+            <Link href={routes.services} className="vanta-inline-link hover:text-milk">
               Services
             </Link>
           </>

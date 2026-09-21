@@ -1,7 +1,11 @@
+import type { CSSProperties } from "react";
+
 import { routes } from "@/data/site";
 import { technologyPage } from "@/data/technology";
 
 import { CoverImage } from "./cover-image";
+import { HeadlineLines } from "./headline-lines";
+import { Reveal } from "./reveal";
 import { SiteHeader } from "./site-header";
 import { SiteLabel } from "./site-label";
 import { VantaButton } from "./vanta-button";
@@ -15,20 +19,20 @@ export function TechnologyView() {
       />
       <div className="px-6 py-10 md:px-12">
         <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
-          <div>
+          <Reveal>
             <SiteLabel>{technologyPage.kicker}</SiteLabel>
             <h1 className="mt-3 font-display text-[56px] leading-[0.95] text-milk md:text-[72px]">
-              {technologyPage.headline.map((line) => (
-                <span key={line} className="block">
-                  {line}
-                </span>
-              ))}
+              <HeadlineLines lines={technologyPage.headline} />
             </h1>
-          </div>
-          <ol className="relative mt-10 flex justify-between">
-            <span className="absolute left-0 right-0 top-4 h-px bg-amber" />
-            {technologyPage.chain.map((step) => (
-              <li key={step} className="relative z-10 flex flex-col items-center">
+          </Reveal>
+          <Reveal as="ol" className="relative mt-10 flex justify-between">
+            <span className="vanta-chain-line absolute left-0 right-0 top-4 h-px bg-amber" />
+            {technologyPage.chain.map((step, index) => (
+              <li
+                key={step}
+                className="vanta-chain-node relative z-10 flex flex-col items-center"
+                style={{ "--vanta-i": index } as CSSProperties}
+              >
                 <span className="flex size-8 items-center justify-center rounded-full border border-amber bg-void">
                   <span className="size-2 rounded-full bg-amber" />
                 </span>
@@ -37,13 +41,13 @@ export function TechnologyView() {
                 </span>
               </li>
             ))}
-          </ol>
+          </Reveal>
         </div>
         <div className="mt-16 grid gap-4 lg:grid-cols-[1fr_1.4fr_1fr]">
-          <section className="border border-graph p-5">
+          <Reveal as="section" className="border border-graph p-5">
             <SiteLabel>Distribution</SiteLabel>
             <PolarChart />
-          </section>
+          </Reveal>
           <section className="border border-graph p-5">
             <SiteLabel>{technologyPage.optics.kicker}</SiteLabel>
             <CoverImage
@@ -51,6 +55,7 @@ export function TechnologyView() {
               alt="Linear lighting module"
               className="mt-5 h-[240px]"
               position="center 70%"
+              motion="expose"
             />
             <p className="mt-5 font-mono text-[12px] tracking-[0.12em] text-muted-vanta">
               {technologyPage.optics.flow}
@@ -113,7 +118,7 @@ function PolarChart() {
       ))}
       <line x1="80" y1="6" x2="80" y2="154" stroke="#c9a66b" strokeOpacity="0.3" />
       <line x1="6" y1="80" x2="154" y2="80" stroke="#c9a66b" strokeOpacity="0.3" />
-      <polyline points={points} fill="none" stroke="#c9a66b" strokeWidth="1.6" />
+      <polyline className="vanta-polar-plot" points={points} fill="none" stroke="#c9a66b" strokeWidth="1.6" />
     </svg>
   );
 }
