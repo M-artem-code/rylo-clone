@@ -1,9 +1,11 @@
-export default function Home() {
-  return (
-    <main className="flex min-h-screen items-center justify-center">
-      <p className="text-muted-foreground">
-        Clone target not yet built. Run <code className="font-mono text-foreground">/clone-website</code> to start.
-      </p>
-    </main>
-  );
+import type { Metadata } from "next";
+import { HomeView } from "@/components/orbital/home-view";
+
+export const metadata: Metadata = {
+  title: "ORBITAL — выход за линию Кармана",
+  description: "Суборбитальный ритуал: 100 км, четыре минуты невесомости, архив миссии.",
+};
+
+export default function HomePage() {
+  return <HomeView />;
 }

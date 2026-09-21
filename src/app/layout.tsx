@@ -1,20 +1,16 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Footer } from "@/components/orbital/footer";
+import { Header } from "@/components/orbital/header";
+import { geologica, martian, tektur, unbounded } from "@/lib/fonts";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: {
+    default: "ORBITAL — выход за линию Кармана",
+    template: "%s · ORBITAL",
+  },
+  description:
+    "Частный сервис суборбитальных полётов: окно запуска, допуск, капсула и архив миссии.",
 };
 
 export default function RootLayout({
@@ -24,10 +20,16 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      lang="ru"
+      className={`${unbounded.variable} ${geologica.variable} ${martian.variable} ${tektur.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full bg-paper font-body text-ink">
+        <div className="mx-auto min-h-full w-full max-w-[1600px]">
+          <Header />
+          {children}
+          <Footer />
+        </div>
+      </body>
     </html>
   );
 }
