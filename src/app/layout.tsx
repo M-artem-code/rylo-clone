@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 
+import { MotionProvider } from "@/components/motion/MotionProvider";
 import { SiteFooter } from "@/components/site/SiteFooter";
 import { SiteHeader } from "@/components/site/SiteHeader";
 import { alumni, golos, martian, onest, unbounded } from "@/fonts";
@@ -26,9 +27,11 @@ export default function RootLayout({
       className={`${unbounded.variable} ${onest.variable} ${golos.variable} ${alumni.variable} ${martian.variable} h-full antialiased`}
     >
       <body className="flex min-h-full flex-col bg-white text-ink">
-        <SiteHeader />
-        {children}
-        <SiteFooter />
+        <MotionProvider>
+          <SiteHeader />
+          {children}
+          <SiteFooter />
+        </MotionProvider>
       </body>
     </html>
   );

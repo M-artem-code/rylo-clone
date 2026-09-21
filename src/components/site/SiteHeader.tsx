@@ -1,6 +1,6 @@
 "use client";
 
-import { AnimatePresence, motion, useMotionValueEvent, useReducedMotion, useScroll } from "motion/react";
+import { AnimatePresence, motion, useMotionValueEvent, useScroll } from "motion/react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
@@ -45,7 +45,6 @@ export function SiteHeader() {
   const { active, cta } = chromeFor(path);
   const [menuFor, setMenuFor] = useState<string | null>(null);
   const [elevated, setElevated] = useState(false);
-  const reduce = useReducedMotion();
   const { scrollY } = useScroll();
   const open = menuFor === path;
 
@@ -77,7 +76,7 @@ export function SiteHeader() {
                 {item.label}
                 {isActive ? (
                   <motion.span
-                    layoutId={reduce ? undefined : "nav-orbit"}
+                    layoutId="nav-orbit"
                     className="absolute -bottom-1.5 left-0 h-0.5 w-full bg-violet"
                     transition={{ duration: 0.35, ease: easeOutLux }}
                   />
@@ -113,9 +112,9 @@ export function SiteHeader() {
       <AnimatePresence>
         {open ? (
           <motion.div
-            initial={reduce ? false : { height: 0, opacity: 0 }}
+            initial={{ height: 0, opacity: 0 }}
             animate={{ height: "auto", opacity: 1 }}
-            exit={reduce ? undefined : { height: 0, opacity: 0 }}
+            exit={{ height: 0, opacity: 0 }}
             transition={{ duration: 0.32, ease: easeOutLux }}
             className="overflow-hidden border-t border-line bg-white lg:hidden"
           >

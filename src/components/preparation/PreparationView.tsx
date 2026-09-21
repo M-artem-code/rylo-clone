@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useReducedMotion } from "motion/react";
+import { motion } from "motion/react";
 import Image from "next/image";
 
 import { DisplayLines } from "@/components/motion/DisplayLines";
@@ -11,8 +11,6 @@ import { preparation } from "@/data/preparation";
 import { duration, easeOutLux } from "@/lib/motion";
 
 export function PreparationView() {
-  const reduce = useReducedMotion();
-
   return (
     <main className="bg-white pb-16">
       <section className="px-page grid items-start gap-10 pt-12 lg:grid-cols-[1fr_minmax(0,720px)]">
@@ -26,7 +24,7 @@ export function PreparationView() {
           />
           <motion.p
             className="mt-8 max-w-[520px] font-body text-[17px] leading-7 text-mute"
-            initial={reduce ? false : { opacity: 0 }}
+            initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: duration.enter, delay: 0.52, ease: easeOutLux }}
           >
@@ -35,7 +33,7 @@ export function PreparationView() {
         </div>
         <motion.div
           className="relative min-h-[360px] overflow-hidden rounded-[24px] lg:min-h-[480px]"
-          initial={reduce ? false : { clipPath: "inset(0 18% 0 0)", scale: 1.04 }}
+          initial={{ clipPath: "inset(0 18% 0 0)", scale: 1.04 }}
           animate={{ clipPath: "inset(0 0 0 0)", scale: 1 }}
           transition={{ duration: 1.1, ease: easeOutLux }}
         >

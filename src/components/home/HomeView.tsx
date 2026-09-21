@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useReducedMotion } from "motion/react";
+import { motion } from "motion/react";
 import Image from "next/image";
 
 import { FlightTimeline } from "@/components/home/FlightTimeline";
@@ -16,7 +16,6 @@ import { cn } from "@/lib/utils";
 
 export function HomeView() {
   const featured = missions.slice(0, 3);
-  const reduce = useReducedMotion();
 
   return (
     <main>
@@ -44,7 +43,7 @@ export function HomeView() {
           />
           <motion.p
             className="mt-8 max-w-[520px] font-body text-[18px] leading-7 text-mute"
-            initial={reduce ? false : { opacity: 0, y: 14 }}
+            initial={{ opacity: 0, y: 14 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: duration.enter, delay: 0.72, ease: easeOutLux }}
           >
@@ -52,7 +51,7 @@ export function HomeView() {
           </motion.p>
           <motion.div
             className="mt-8 flex flex-wrap gap-3"
-            initial={reduce ? false : { opacity: 0, y: 12 }}
+            initial={{ opacity: 0, y: 12 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: duration.enter, delay: 0.86, ease: easeOutLux }}
           >
@@ -63,7 +62,7 @@ export function HomeView() {
           </motion.div>
           <motion.p
             className="mt-10 font-mono text-[12px] text-mute"
-            initial={reduce ? false : { opacity: 0 }}
+            initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.5, delay: 1.02, ease: easeOutLux }}
           >
@@ -71,7 +70,7 @@ export function HomeView() {
           </motion.p>
           <motion.div
             className="mt-8 grid max-w-[960px] grid-cols-2 gap-6 rounded-[22px] border border-white/60 bg-white/80 px-8 py-6 backdrop-blur-md sm:grid-cols-3 lg:grid-cols-5"
-            initial={reduce ? false : { opacity: 0, y: 20 }}
+            initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 1.08, ease: easeOutLux }}
           >

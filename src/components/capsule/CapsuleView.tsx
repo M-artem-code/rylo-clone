@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useReducedMotion } from "motion/react";
+import { motion } from "motion/react";
 import Image from "next/image";
 
 import { DisplayLines } from "@/components/motion/DisplayLines";
@@ -12,8 +12,6 @@ import { capsuleHero, capsuleInterior } from "@/data/capsule";
 import { duration, easeOutLux } from "@/lib/motion";
 
 export function CapsuleView() {
-  const reduce = useReducedMotion();
-
   return (
     <main>
       <section className="relative min-h-[calc(100vh-72px)] overflow-hidden bg-white">
@@ -33,7 +31,7 @@ export function CapsuleView() {
             key={spot.label}
             className="absolute z-10 hidden items-center gap-2 lg:flex"
             style={{ left: spot.x, top: spot.y }}
-            initial={reduce ? false : { opacity: 0, scale: 0.82 }}
+            initial={{ opacity: 0, scale: 0.82 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.45, delay: 0.55 + index * 0.12, ease: easeOutLux }}
           >
@@ -53,7 +51,7 @@ export function CapsuleView() {
             />
             <motion.p
               className="mt-3 font-display text-[24px] font-semibold text-cobalt md:text-[28px]"
-              initial={reduce ? false : { opacity: 0, y: 8 }}
+              initial={{ opacity: 0, y: 8 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: duration.enter, delay: 0.34, ease: easeOutLux }}
             >
@@ -61,7 +59,7 @@ export function CapsuleView() {
             </motion.p>
             <motion.p
               className="mt-6 max-w-[380px] font-body text-[17px] leading-7 text-mute"
-              initial={reduce ? false : { opacity: 0 }}
+              initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 0.5, delay: 0.46, ease: easeOutLux }}
             >
@@ -70,7 +68,7 @@ export function CapsuleView() {
           </div>
           <motion.div
             className="mt-10 max-w-[740px] rounded-[20px] bg-white/90 p-7 backdrop-blur-md"
-            initial={reduce ? false : { opacity: 0, y: 18 }}
+            initial={{ opacity: 0, y: 18 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.65, delay: 0.7, ease: easeOutLux }}
           >

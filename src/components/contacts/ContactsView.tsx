@@ -1,6 +1,6 @@
 "use client";
 
-import { AnimatePresence, motion, useReducedMotion } from "motion/react";
+import { AnimatePresence, motion } from "motion/react";
 import Image from "next/image";
 import { useSearchParams } from "next/navigation";
 import { FormEvent, useMemo, useState } from "react";
@@ -17,7 +17,6 @@ export function ContactsView() {
   const params = useSearchParams();
   const presetMission = getMission(params.get("mission") ?? "");
   const [sent, setSent] = useState(false);
-  const reduce = useReducedMotion();
 
   const defaults = useMemo(
     () => ({
@@ -66,7 +65,7 @@ export function ContactsView() {
                 {sent ? (
                   <motion.p
                     key="success"
-                    initial={reduce ? false : { opacity: 0, y: 8 }}
+                    initial={{ opacity: 0, y: 8 }}
                     animate={{ opacity: 1, y: 0 }}
                     className="rounded-[16px] bg-ice px-5 py-4 font-ui text-[15px] text-navy"
                   >
@@ -75,7 +74,7 @@ export function ContactsView() {
                 ) : (
                   <motion.div
                     key="submit"
-                    exit={reduce ? undefined : { opacity: 0, y: -8 }}
+                    exit={{ opacity: 0, y: -8 }}
                     transition={{ duration: duration.micro, ease: easeOutLux }}
                   >
                     <OrbitalButton type="submit">{contacts.submit}</OrbitalButton>
@@ -87,7 +86,7 @@ export function ContactsView() {
         </div>
         <motion.div
           className="relative min-h-[420px] overflow-hidden rounded-[24px]"
-          initial={reduce ? false : { clipPath: "inset(0 16% 0 0)" }}
+          initial={{ clipPath: "inset(0 16% 0 0)" }}
           animate={{ clipPath: "inset(0 0 0 0)" }}
           transition={{ duration: 1.05, ease: easeOutLux }}
         >

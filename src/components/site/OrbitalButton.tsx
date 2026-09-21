@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useMotionValue, useReducedMotion, useSpring } from "motion/react";
+import { motion, useMotionValue, useSpring } from "motion/react";
 import Link from "next/link";
 import type { ReactNode } from "react";
 
@@ -49,15 +49,13 @@ export function OrbitalButton({
   onClick,
 }: OrbitalButtonProps) {
   const fine = useFinePointer();
-  const reduce = useReducedMotion();
   const x = useMotionValue(0);
   const y = useMotionValue(0);
   const springX = useSpring(x, springMagnetic);
   const springY = useSpring(y, springMagnetic);
-  const magnetic = fine && !reduce;
 
   function onMove(event: React.MouseEvent<HTMLDivElement>) {
-    if (!magnetic) return;
+    if (!fine) return;
     const rect = event.currentTarget.getBoundingClientRect();
     x.set((event.clientX - rect.left - rect.width / 2) * 0.28);
     y.set((event.clientY - rect.top - rect.height / 2) * 0.28);
@@ -77,9 +75,9 @@ export function OrbitalButton({
   return (
     <motion.div
       className={cn("inline-flex", className)}
-      style={magnetic ? { x: springX, y: springY } : undefined}
-      whileHover={reduce ? undefined : { scale: 1.015 }}
-      whileTap={reduce ? undefined : { scale: 0.98 }}
+      style={{ x: springX, y: springY }}
+      whileHover={{ scale: 1.015 }}
+      whileTap={{ scale: 0.98 }}
       transition={springUi}
       onMouseMove={onMove}
       onMouseLeave={onLeave}

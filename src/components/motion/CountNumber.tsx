@@ -1,6 +1,6 @@
 "use client";
 
-import { animate, useMotionValue, useReducedMotion } from "motion/react";
+import { animate, useMotionValue, useMotionValueEvent } from "motion/react";
 import { useEffect, useState } from "react";
 
 import { easeOutLux } from "@/lib/motion";
@@ -18,22 +18,21 @@ export function CountNumber({
   className?: string;
   format?: (value: number) => string;
 }) {
-  const reduce = useReducedMotion();
   const motionValue = useMotionValue(value);
   const [display, setDisplay] = useState(value);
-  const shown = reduce ? value : display;
+
+  useMotionValueEvent(motionValue, "change", (next) => {
+    setDisplay(Math.round(next));
+  });
 
   useEffect(() => {
-    if (reduce) return;
-    const controls = animate(motionValue, value, { duration: 0.55, ease: easeOutLux });
-    const unsubscribe = motionValue.on("change", (next) => {
-      setDisplay(Math.round(next));
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const controls = animate(motionValue, value, {
+      duration: reduce ? 0 : 0.55,
+      ease: easeOutLux,
     });
-    return () => {
-      controls.stop();
-      unsubscribe();
-    };
-  }, [motionValue, reduce, value]);
+    return () => controls.stop();
+  }, [motionValue, value]);
 
-  return <span className={className}>{format(shown)}</span>;
+  return <span className={className}>{format(display)}</span>;
 }

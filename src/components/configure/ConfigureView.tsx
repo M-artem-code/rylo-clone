@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useReducedMotion } from "motion/react";
+import { motion } from "motion/react";
 import Image from "next/image";
 import { useRouter, useSearchParams } from "next/navigation";
 import { type ReactNode, useMemo, useState } from "react";
@@ -23,8 +23,6 @@ export function ConfigureView() {
   const [passengers, setPassengers] = useState(configure.defaultPassengers);
   const [seat, setSeat] = useState(configure.seats[0].code);
   const [archive, setArchive] = useState(true);
-  const reduce = useReducedMotion();
-
   const mission = missions.find((item) => item.slug === slug) ?? missions[0];
   const seatLabel = configure.seats.find((item) => item.code === seat)?.label ?? seat;
 
@@ -124,7 +122,7 @@ export function ConfigureView() {
 
         <motion.aside
           className="rounded-[24px] bg-white p-7"
-          initial={reduce ? false : { opacity: 0, y: 16 }}
+          initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: duration.enter, delay: 0.2, ease: easeOutLux }}
         >
@@ -197,12 +195,10 @@ function Chip({
   className?: string;
   delay?: number;
 }) {
-  const reduce = useReducedMotion();
-
   return (
     <motion.div
       className={`absolute rounded-[16px] bg-white/90 px-5 py-3 backdrop-blur-md ${className ?? ""}`}
-      initial={reduce ? false : { opacity: 0, y: 8 }}
+      initial={{ opacity: 0, y: 8 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5, delay, ease: easeOutLux }}
     >

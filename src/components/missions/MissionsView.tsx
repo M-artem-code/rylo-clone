@@ -1,6 +1,6 @@
 "use client";
 
-import { AnimatePresence, motion, useReducedMotion } from "motion/react";
+import { AnimatePresence, motion } from "motion/react";
 import Image from "next/image";
 import { useMemo, useState } from "react";
 
@@ -17,7 +17,6 @@ import { cn } from "@/lib/utils";
 export function MissionsView() {
   const [filter, setFilter] = useState<(typeof missionFilters)[number]>("Все");
   const [activeSlug, setActiveSlug] = useState(missions[0].slug);
-  const reduce = useReducedMotion();
 
   const visible = useMemo(
     () => (filter === "Все" ? missions : missions.filter((mission) => mission.filter === filter)),
@@ -47,7 +46,7 @@ export function MissionsView() {
             >
               {filter === item ? (
                 <motion.span
-                  layoutId={reduce ? undefined : "mission-filter"}
+                  layoutId="mission-filter"
                   className="absolute inset-0 rounded-full bg-cobalt"
                   transition={{ duration: 0.35, ease: easeOutLux }}
                 />
@@ -64,10 +63,10 @@ export function MissionsView() {
             {visible.map((mission) => (
               <motion.li
                 key={mission.slug}
-                layout={!reduce}
-                initial={reduce ? false : { opacity: 0, y: 10 }}
+                layout
+                initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
-                exit={reduce ? undefined : { opacity: 0, y: -8 }}
+                exit={{ opacity: 0, y: -8 }}
                 transition={{ duration: duration.micro, ease: easeOutLux }}
               >
                 <button
@@ -104,9 +103,9 @@ export function MissionsView() {
             <motion.div
               key={active.slug}
               className="absolute inset-0"
-              initial={reduce ? false : { opacity: 0, scale: 1.05 }}
+              initial={{ opacity: 0, scale: 1.05 }}
               animate={{ opacity: 1, scale: 1 }}
-              exit={reduce ? undefined : { opacity: 0 }}
+              exit={{ opacity: 0 }}
               transition={{ duration: 0.55, ease: easeOutLux }}
             >
               <Image src={active.image} alt="" fill className="object-cover" sizes="800px" />
@@ -126,7 +125,7 @@ export function MissionsView() {
               d="M80 520 C 220 180, 620 120, 720 260"
               stroke="#A78BFA"
               strokeWidth="2.4"
-              initial={reduce ? false : { pathLength: 0, opacity: 0.4 }}
+              initial={{ pathLength: 0, opacity: 0.4 }}
               animate={{ pathLength: 1, opacity: 1 }}
               transition={{ duration: 1.25, ease: easeOutLux }}
             />
@@ -136,7 +135,7 @@ export function MissionsView() {
               cy="260"
               r="6"
               fill="#7C3AED"
-              initial={reduce ? false : { scale: 0.4, opacity: 0 }}
+              initial={{ scale: 0.4, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               transition={{ delay: 0.7, duration: 0.35, ease: easeOutLux }}
             />
@@ -163,8 +162,6 @@ function Meta({ label, value }: { label: string; value: string }) {
 }
 
 export function MissionBriefing({ mission }: { mission: Mission }) {
-  const reduce = useReducedMotion();
-
   return (
     <section className="relative overflow-hidden bg-white">
       <div className="pointer-events-none absolute inset-y-0 right-0 w-[62%] max-lg:opacity-30">
@@ -182,7 +179,7 @@ export function MissionBriefing({ mission }: { mission: Mission }) {
         />
         <motion.p
           className="mt-3 font-condensed text-[34px] text-cobalt md:text-[42px]"
-          initial={reduce ? false : { opacity: 0, y: 10 }}
+          initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: duration.enter, delay: 0.36, ease: easeOutLux }}
         >
@@ -190,7 +187,7 @@ export function MissionBriefing({ mission }: { mission: Mission }) {
         </motion.p>
         <motion.p
           className="mt-6 max-w-[560px] font-body text-[18px] leading-7 text-mute"
-          initial={reduce ? false : { opacity: 0 }}
+          initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5, delay: 0.48, ease: easeOutLux }}
         >
@@ -198,7 +195,7 @@ export function MissionBriefing({ mission }: { mission: Mission }) {
         </motion.p>
         <motion.dl
           className="mt-10 grid max-w-[690px] grid-cols-2 gap-x-8 gap-y-8 sm:grid-cols-3"
-          initial={reduce ? false : { opacity: 0, y: 12 }}
+          initial={{ opacity: 0, y: 12 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.58, ease: easeOutLux }}
         >
@@ -218,7 +215,7 @@ export function MissionBriefing({ mission }: { mission: Mission }) {
         </motion.dl>
         <motion.div
           className="mt-10 flex flex-wrap gap-3"
-          initial={reduce ? false : { opacity: 0, y: 10 }}
+          initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.45, delay: 0.88, ease: easeOutLux }}
         >

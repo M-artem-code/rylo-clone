@@ -30,13 +30,14 @@ export function ParallaxMedia({
     offset: ["start end", "end start"],
   });
   const y = useTransform(scrollYProgress, [0, 1], [strength, -strength]);
+  const parallax = fine && reduce === false;
 
   return (
     <div ref={ref} className={cn("absolute inset-0 overflow-hidden", className)}>
       <motion.div
         className="absolute inset-[-14%]"
-        style={reduce || !fine ? undefined : { y }}
-        initial={reduce ? false : { scale: fromScale }}
+        style={parallax ? { y } : undefined}
+        initial={{ scale: fromScale }}
         animate={{ scale: toScale }}
         transition={{ duration: duration.cinematic, ease: easeOutLux }}
       >

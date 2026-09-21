@@ -1,6 +1,6 @@
 "use client";
 
-import { AnimatePresence, motion, useReducedMotion } from "motion/react";
+import { AnimatePresence, motion } from "motion/react";
 
 import { duration, easeOutLux } from "@/lib/motion";
 
@@ -11,12 +11,6 @@ export function SwapText({
   value: string;
   className?: string;
 }) {
-  const reduce = useReducedMotion();
-
-  if (reduce) {
-    return <span className={className}>{value}</span>;
-  }
-
   return (
     <span className="relative block overflow-hidden">
       <AnimatePresence mode="wait" initial={false}>

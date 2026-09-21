@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useReducedMotion } from "motion/react";
+import { motion } from "motion/react";
 import Image from "next/image";
 
 import { DisplayLines } from "@/components/motion/DisplayLines";
@@ -13,8 +13,6 @@ import { duration, easeOutLux } from "@/lib/motion";
 import { cn } from "@/lib/utils";
 
 export function ExperienceView() {
-  const reduce = useReducedMotion();
-
   return (
     <main>
       <section className="relative min-h-[calc(100vh-72px)] overflow-hidden">
@@ -42,7 +40,7 @@ export function ExperienceView() {
           />
           <motion.p
             className="mt-8 max-w-[620px] font-condensed text-[28px] leading-9 text-white md:text-[34px]"
-            initial={reduce ? false : { opacity: 0, y: 16 }}
+            initial={{ opacity: 0, y: 16 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: duration.headline, delay: 0.62, ease: easeOutLux }}
           >
@@ -50,7 +48,7 @@ export function ExperienceView() {
           </motion.p>
           <motion.p
             className="mt-4 font-ui text-[14px] text-white/80"
-            initial={reduce ? false : { opacity: 0 }}
+            initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.45, delay: 0.82, ease: easeOutLux }}
           >
@@ -58,7 +56,7 @@ export function ExperienceView() {
           </motion.p>
           <motion.div
             className="mt-16 flex flex-wrap gap-x-10 gap-y-3"
-            initial={reduce ? false : { opacity: 0 }}
+            initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.5, delay: 0.94, ease: easeOutLux }}
           >
@@ -77,7 +75,7 @@ export function ExperienceView() {
             ))}
           </motion.div>
           <motion.div
-            initial={reduce ? false : { opacity: 0, y: 10 }}
+            initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.45, delay: 1.05, ease: easeOutLux }}
           >

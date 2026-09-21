@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useReducedMotion } from "motion/react";
+import { motion } from "motion/react";
 import type { ReactNode } from "react";
 
 import { duration, easeOutLux, viewportOnce } from "@/lib/motion";
@@ -23,17 +23,15 @@ export function DisplayLines({
   delay = 0,
   inView = false,
 }: DisplayLinesProps) {
-  const reduce = useReducedMotion();
-
   return (
     <Tag className={className}>
       {lines.map((line, index) => (
         <span key={index} className="block overflow-hidden">
           <motion.span
-            className={cn("block", accentIndex === index && "text-cobalt")}
-            initial={reduce ? false : { y: "112%" }}
+            className={cn("orbital-clip-line block", accentIndex === index && "text-cobalt")}
+            initial={{ y: "112%" }}
             animate={inView ? undefined : { y: "0%" }}
-            whileInView={inView && !reduce ? { y: "0%" } : undefined}
+            whileInView={inView ? { y: "0%" } : undefined}
             viewport={inView ? viewportOnce : undefined}
             transition={{
               duration: duration.headline,

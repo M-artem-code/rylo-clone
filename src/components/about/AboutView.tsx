@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useReducedMotion } from "motion/react";
+import { motion } from "motion/react";
 import Image from "next/image";
 
 import { DisplayLines } from "@/components/motion/DisplayLines";
@@ -12,8 +12,6 @@ import { aboutHero, aboutOps } from "@/data/about";
 import { duration, easeOutLux } from "@/lib/motion";
 
 export function AboutView() {
-  const reduce = useReducedMotion();
-
   return (
     <main>
       <section className="grid min-h-[calc(100vh-72px)] bg-white lg:grid-cols-[1fr_1fr]">
@@ -32,7 +30,7 @@ export function AboutView() {
           />
           <motion.p
             className="mt-6 max-w-[760px] font-body text-[17px] leading-7 text-mute"
-            initial={reduce ? false : { opacity: 0 }}
+            initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: duration.enter, delay: 0.42, ease: easeOutLux }}
           >

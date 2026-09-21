@@ -263,6 +263,14 @@
     transform: none;
   }
 
+  .orbital-clip-line {
+    transform: none !important;
+  }
+
+  .orbital-timeline-draw {
+    display: none;
+  }
+
   .orbital-beacon::before,
   .orbital-btn::after {
     animation: none;
