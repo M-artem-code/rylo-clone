@@ -1,47 +1,42 @@
-# BRAND.md — your brand, consumed by /restyle
+# BRAND.md — BotSup
 
-Fill this in before running `/restyle`. Replace every TODO. Delete sections that don't apply.
+Fill-in for a future `/restyle`. Visual source of truth: `docs/design/botsup/`.
 
 ## Identity
 
-- **Name:** TODO
-- **Tagline:** TODO (one sentence, shows up in hero/meta)
-- **What you sell / offer:** TODO (1–2 sentences — /restyle rewrites all copy around this)
-- **Website domain:** TODO
+- **Name:** BotSup
+- **Tagline:** AI-бот в WhatsApp, который сам продаёт
+- **What you sell / offer:** Платформа AI WhatsApp-ботов: продажи, запись, квалификация лидов, автоподдержка и эскалация на человека
+- **Website domain:** botsup.example
 
 ## Voice
 
-- **Tone:** TODO (e.g. "direct, casual, no marketing fluff" or "premium and minimal")
-- **Words to avoid:** TODO (optional)
-- **Reference copy you like:** TODO (optional — paste a paragraph that sounds like you)
+- **Tone:** дерзкий, продуктовый, электрический, без серого SaaS-языка
+- **Words to avoid:** «оставьте заявку», «инновационные решения», «цифровая трансформация»
+- **Reference copy you like:** «Продажи в WhatsApp. Сами. Сейчас.»
 
 ## Colors
 
-Use any CSS format (hex, oklch, rgb).
-
-- **Primary:** TODO
-- **Primary foreground (text on primary):** TODO
-- **Background:** TODO
-- **Foreground (main text):** TODO
-- **Accent (optional):** TODO
-- **Dark mode:** TODO (either "derive from the above" or explicit values)
+- **Primary:** #B6FF00
+- **Primary foreground (text on primary):** #0C1F12
+- **Background:** #FAFDF8
+- **Foreground (main text):** #0C1F12
+- **Accent (optional):** #7CFF2A
+- **Dark mode:** derive from the above
 
 ## Typography
 
-- **Heading font:** TODO (Google Fonts name, or file in public/brand/)
-- **Body font:** TODO
-- **Mono font (if the site shows code):** TODO
+- **Heading font:** Unbounded
+- **Body font:** Onest
+- **UI font:** Geologica
+- **Mono font (if the site shows code):** Onest
 
 ## Assets (drop files into public/brand/)
 
-- **Logo:** public/brand/TODO.svg
-- **Logo (dark variant, optional):** public/brand/TODO
-- **Favicon source (square, ≥512px):** public/brand/TODO
-- **OG / social share image (1200×630, optional):** public/brand/TODO
-- **Product screenshots to swap in (optional):** public/brand/TODO
+Макеты и 3D-референсы: `docs/design/botsup/mockups/` и `docs/design/botsup/raw/`.
 
 ## Links & Contact
 
-- **CTA destination (where buttons should lead):** TODO
+- **CTA destination (where buttons should lead):** /launch
 - **Social links:** TODO
-- **Contact email shown on site:** TODO (public-facing only — no secrets in this file)
+- **Contact email shown on site:** hello@botsup.example
