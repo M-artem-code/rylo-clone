@@ -1,20 +1,42 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
+const unbounded = localFont({
+  src: "../fonts/Unbounded-Variable.ttf",
+  variable: "--font-unbounded",
+  weight: "200 900",
+  display: "block",
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+const syne = localFont({
+  src: "../fonts/Syne-Variable.ttf",
+  variable: "--font-syne",
+  weight: "400 800",
+  display: "block",
+});
+
+const manrope = localFont({
+  src: "../fonts/Manrope-Variable.ttf",
+  variable: "--font-manrope",
+  weight: "200 800",
+  display: "block",
+});
+
+const plex = localFont({
+  src: [
+    { path: "../fonts/IBMPlexMono-Regular.ttf", weight: "400" },
+    { path: "../fonts/IBMPlexMono-Medium.ttf", weight: "500" },
+    { path: "../fonts/IBMPlexMono-SemiBold.ttf", weight: "600" },
+    { path: "../fonts/IBMPlexMono-Bold.ttf", weight: "700" },
+  ],
+  variable: "--font-plex",
+  display: "block",
 });
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: "Nigma — ночная портретная студия, Москва",
+  description: "Индивидуальный портрет в ночной студии Nigma. Москва.",
 };
 
 export default function RootLayout({
@@ -24,10 +46,10 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      lang="ru"
+      className={`${unbounded.variable} ${syne.variable} ${manrope.variable} ${plex.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="nigma min-h-full">{children}</body>
     </html>
   );
 }
