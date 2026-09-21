@@ -44,7 +44,7 @@ export function ConfigureView() {
   }
 
   return (
-    <main className="bg-ice px-page py-12">
+    <main className="min-h-[calc(100vh-72px)] bg-ice px-page py-12">
       <Eyebrow>{configure.eyebrow}</Eyebrow>
       <h1 className="mt-3 font-display text-[36px] leading-[0.95] font-extrabold text-navy">
         {configure.lines[0]}
@@ -123,7 +123,7 @@ export function ConfigureView() {
           <p className="font-mono text-[11px] text-violet">ЖИВАЯ СМЕТА</p>
           <p className="mt-3 font-display text-[32px] font-extrabold text-navy">{formatPrice(estimate.total)}</p>
           <p className="mt-2 font-body text-[14px] text-mute">
-            за {passengers === 1 ? "одного" : "двоих и более"} · {program}
+            {passengers === 2 ? "за двоих · Signature" : `за ${passengers} · ${program}`}
           </p>
           <dl className="mt-8 space-y-3">
             {[

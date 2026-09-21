@@ -41,7 +41,7 @@ export function ContactsView() {
             <br />
             <span className="text-cobalt">{contacts.lines[1]}</span>
           </h1>
-          <form id="request" onSubmit={onSubmit} className="mt-10 grid gap-x-6 gap-y-6 sm:grid-cols-2">
+          <form id="request" method="post" onSubmit={onSubmit} className="mt-10 grid gap-x-6 gap-y-6 sm:grid-cols-2">
             {contacts.fields.map((field) => (
               <label key={field.name} className="block">
                 <span className="font-ui text-[13px] text-mute">{field.label}</span>

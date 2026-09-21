@@ -19,7 +19,7 @@ export function MissionsView() {
   const active = visible.find((mission) => mission.slug === activeSlug) ?? visible[0] ?? missions[0];
 
   return (
-    <main className="px-page bg-white pb-16">
+    <main className="px-page min-h-[calc(100vh-72px)] bg-white pb-16">
       <div className="pt-10">
         <Eyebrow>КАТАЛОГ ПУТЕШЕСТВИЙ</Eyebrow>
         <h1 className="mt-3 font-display text-[48px] font-extrabold text-navy md:text-[58px]">МИССИИ</h1>

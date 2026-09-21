@@ -47,7 +47,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-50 border-b border-line bg-white/90 backdrop-blur-md">
       <div className="px-page flex h-[72px] items-center justify-between gap-4">
         <Logo />
-        <nav className="hidden items-center gap-7 xl:flex">
+        <nav className="hidden items-center gap-7 lg:flex">
           {nav.map((item) => {
             const isActive = item.label === active;
             return (
@@ -73,7 +73,7 @@ export function SiteHeader() {
           </OrbitalButton>
           <button
             type="button"
-            className="flex h-10 w-10 flex-col items-center justify-center gap-1.5 xl:hidden"
+            className="flex h-10 w-10 flex-col items-center justify-center gap-1.5 lg:hidden"
             aria-label="Меню"
             onClick={() => setOpen((value) => !value)}
           >
@@ -83,7 +83,7 @@ export function SiteHeader() {
         </div>
       </div>
       {open ? (
-        <div className="border-t border-line bg-white px-page py-4 xl:hidden">
+        <div className="border-t border-line bg-white px-page py-4 lg:hidden">
           <nav className="flex flex-col gap-3">
             {nav.map((item) => (
               <Link

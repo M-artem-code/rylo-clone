@@ -7,32 +7,38 @@ import { capsuleHero, capsuleInterior } from "@/data/capsule";
 export function CapsuleView() {
   return (
     <main>
-      <section className="relative overflow-hidden bg-white">
-        <div className="px-page relative z-10 pt-12">
-          <Eyebrow>{capsuleHero.eyebrow}</Eyebrow>
-          <h1 className="mt-3 font-display text-[52px] leading-none font-extrabold text-navy md:text-[64px]">
-            {capsuleHero.title}
-          </h1>
-          <p className="mt-3 font-display text-[24px] font-semibold text-cobalt md:text-[28px]">{capsuleHero.name}</p>
-          <p className="mt-6 max-w-[380px] font-body text-[17px] leading-7 text-mute">{capsuleHero.lead}</p>
+      <section className="relative min-h-[calc(100vh-72px)] overflow-hidden bg-white">
+        <div className="pointer-events-none absolute inset-y-0 right-0 w-[72%] max-lg:opacity-40">
+          <Image
+            src={capsuleHero.image}
+            alt=""
+            fill
+            className="object-contain object-[70%_42%]"
+            sizes="72vw"
+          />
         </div>
-        <div className="relative mx-auto mt-[-40px] h-[520px] max-w-[1400px] md:h-[640px]">
-          <Image src={capsuleHero.image} alt="" fill className="object-contain object-[70%_42%]" sizes="1400px" />
-          {capsuleHero.hotspots.map((spot) => (
-            <div
-              key={spot.label}
-              className="absolute hidden items-center gap-2 md:flex"
-              style={{ left: spot.x, top: spot.y }}
-            >
-              <span className="size-3 rounded-full border-2 border-white bg-violet" />
-              <span className="rounded-[10px] border border-line bg-white/90 px-3 py-1.5 font-ui text-[13px] font-semibold text-navy">
-                {spot.label}
-              </span>
-            </div>
-          ))}
-        </div>
-        <div className="px-page relative z-10 pb-16">
-          <div className="max-w-[740px] rounded-[20px] bg-white/90 p-7 backdrop-blur-md">
+        {capsuleHero.hotspots.map((spot) => (
+          <div
+            key={spot.label}
+            className="absolute z-10 hidden items-center gap-2 lg:flex"
+            style={{ left: spot.x, top: spot.y }}
+          >
+            <span className="size-3 rounded-full border-2 border-white bg-violet" />
+            <span className="rounded-[10px] border border-line bg-white/90 px-3 py-1.5 font-ui text-[13px] font-semibold text-navy">
+              {spot.label}
+            </span>
+          </div>
+        ))}
+        <div className="px-page relative z-10 flex min-h-[calc(100vh-72px)] flex-col justify-between py-12">
+          <div>
+            <Eyebrow>{capsuleHero.eyebrow}</Eyebrow>
+            <h1 className="mt-3 font-display text-[52px] leading-none font-extrabold text-navy md:text-[64px]">
+              {capsuleHero.title}
+            </h1>
+            <p className="mt-3 font-display text-[24px] font-semibold text-cobalt md:text-[28px]">{capsuleHero.name}</p>
+            <p className="mt-6 max-w-[380px] font-body text-[17px] leading-7 text-mute">{capsuleHero.lead}</p>
+          </div>
+          <div className="mt-10 max-w-[740px] rounded-[20px] bg-white/90 p-7 backdrop-blur-md">
             <div className="grid grid-cols-2 gap-6 sm:grid-cols-4">
               {capsuleHero.specs.map((spec) => (
                 <div key={spec.label}>
