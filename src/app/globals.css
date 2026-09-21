@@ -7,9 +7,25 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: "Geist", "Geist Fallback", ui-sans-serif, system-ui, sans-serif;
-  --font-mono: "Geist Mono", "Geist Mono Fallback", ui-monospace, monospace;
-  --font-heading: var(--font-sans);
+  --font-sans: var(--font-onest), "Onest", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-martian), ui-monospace, monospace;
+  --font-heading: var(--font-unbounded), "Unbounded", sans-serif;
+  --font-display: var(--font-unbounded), "Unbounded", sans-serif;
+  --font-ui: var(--font-onest), "Onest", sans-serif;
+  --font-body: var(--font-golos), "Golos Text", sans-serif;
+  --font-condensed: var(--font-alumni), "Alumni Sans", sans-serif;
+  --color-navy: #081230;
+  --color-ink: #0b1533;
+  --color-mute: #5c6884;
+  --color-cobalt: #154cff;
+  --color-royal: #061654;
+  --color-violet: #7c3aed;
+  --color-violet-soft: #a78bfa;
+  --color-ice: #f4f8ff;
+  --color-ice-2: #e8f0ff;
+  --color-line: #d2dcee;
+  --color-ok: #16a374;
+  --color-warn: #d97706;
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -49,14 +65,14 @@
 }
 
 :root {
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.145 0 0);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.145 0 0);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.145 0 0);
-  --primary: oklch(0.205 0 0);
-  --primary-foreground: oklch(0.985 0 0);
+  --background: #ffffff;
+  --foreground: #0b1533;
+  --card: #ffffff;
+  --card-foreground: #0b1533;
+  --popover: #ffffff;
+  --popover-foreground: #0b1533;
+  --primary: #154cff;
+  --primary-foreground: #ffffff;
   --secondary: oklch(0.97 0 0);
   --secondary-foreground: oklch(0.205 0 0);
   --muted: oklch(0.97 0 0);
@@ -72,7 +88,7 @@
   --chart-3: oklch(0.439 0 0);
   --chart-4: oklch(0.371 0 0);
   --chart-5: oklch(0.269 0 0);
-  --radius: 0.625rem;
+  --radius: 1.375rem;
   --sidebar: oklch(0.985 0 0);
   --sidebar-foreground: oklch(0.145 0 0);
   --sidebar-primary: oklch(0.205 0 0);
@@ -122,9 +138,19 @@
     @apply border-border outline-ring/50;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-white text-ink font-body antialiased;
   }
   html {
-    @apply font-sans;
+    @apply font-body;
+  }
+}
+
+@utility px-page {
+  padding-inline: 1.25rem;
+  @media (min-width: 768px) {
+    padding-inline: 2.5rem;
+  }
+  @media (min-width: 1280px) {
+    padding-inline: 5rem;
   }
 }

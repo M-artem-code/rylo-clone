@@ -1,0 +1,25 @@
+export const contacts = {
+  eyebrow: "CONCIERGE",
+  lines: ["ОБСУДИМ", "ВАШ ПОЛЁТ"],
+  fields: [
+    { name: "name", label: "Имя", placeholder: "Александра Волкова", type: "text" },
+    { name: "phone", label: "Телефон", placeholder: "+33 6 18 00 00 00", type: "tel" },
+    { name: "email", label: "Email", placeholder: "a.volkova@mail.com", type: "email" },
+    { name: "travelers", label: "Путешественники", placeholder: "2", type: "text" },
+    { name: "mission", label: "Миссия", placeholder: "AURORA  ·  18 марта 2026", type: "text" },
+    { name: "comment", label: "Комментарий", placeholder: "Хотим места у рассвета, ряд A", type: "text" },
+  ],
+  submit: "Обсудить путешествие с консультантом →",
+  success: "Заявка принята. Консультант свяжется в течение 24 часов.",
+  spaceportLabel: "ATLANTIC SPACEPORT",
+  spaceportMeta: "28.5°N  ·  операционный центр ORBITAL",
+  spaceportContacts: "concierge@orbital.space  ·  +1 305 010 1000",
+  image: "/orbital/plate-spaceport.png",
+  nextEyebrow: "WHAT HAPPENS NEXT",
+  next: [
+    { num: "01", title: "Консультация", desc: "Личный разговор о мотивации и датах." },
+    { num: "02", title: "Подбор миссии", desc: "Маршрут, высота, характер вида." },
+    { num: "03", title: "Подготовка", desc: "Пятинедельный контур допуска." },
+    { num: "04", title: "Бронирование", desc: "Место в капсуле и сопровождение." },
+  ],
+};
