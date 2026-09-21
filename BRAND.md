@@ -1,47 +1,40 @@
-# BRAND.md — your brand, consumed by /restyle
-
-Fill this in before running `/restyle`. Replace every TODO. Delete sections that don't apply.
+# BRAND.md — Nigma
 
 ## Identity
 
-- **Name:** TODO
-- **Tagline:** TODO (one sentence, shows up in hero/meta)
-- **What you sell / offer:** TODO (1–2 sentences — /restyle rewrites all copy around this)
-- **Website domain:** TODO
+- **Name:** Nigma
+- **Tagline:** Ночная портретная студия, Москва
+- **What you sell / offer:** Индивидуальные ночные портреты в собственной тёмной студии Nigma. Только студия, только ночь, только портрет.
+- **Website domain:** nigma.studio
 
 ## Voice
 
-- **Tone:** TODO (e.g. "direct, casual, no marketing fluff" or "premium and minimal")
-- **Words to avoid:** TODO (optional)
-- **Reference copy you like:** TODO (optional — paste a paragraph that sounds like you)
+- **Tone:** After midnight. Charged, precise, not cute and not corporate.
+- **Words to avoid:** Купить, Оплатить, Забронировать онлайн, цены, отзывы, награды
+- **Reference copy you like:** НОЧЬ. СВЕТ. ТЫ.
 
 ## Colors
 
-Use any CSS format (hex, oklch, rgb).
-
-- **Primary:** TODO
-- **Primary foreground (text on primary):** TODO
-- **Background:** TODO
-- **Foreground (main text):** TODO
-- **Accent (optional):** TODO
-- **Dark mode:** TODO (either "derive from the above" or explicit values)
+- **Primary:** #FF2E9A
+- **Primary foreground (text on primary):** #0B0B10
+- **Background:** #0B0B10
+- **Foreground (main text):** #F4F4F7
+- **Accent (optional):** #2DE2E6
+- **Dark mode:** this is the only mode
 
 ## Typography
 
-- **Heading font:** TODO (Google Fonts name, or file in public/brand/)
-- **Body font:** TODO
-- **Mono font (if the site shows code):** TODO
+- **Heading font:** Unbounded ExtraBold (Cyrillic display) / Syne ExtraBold (Latin wordmark)
+- **Body font:** Manrope
+- **Mono font (if the site shows code):** IBM Plex Mono
 
 ## Assets (drop files into public/brand/)
 
-- **Logo:** public/brand/TODO.svg
-- **Logo (dark variant, optional):** public/brand/TODO
-- **Favicon source (square, ≥512px):** public/brand/TODO
-- **OG / social share image (1200×630, optional):** public/brand/TODO
-- **Product screenshots to swap in (optional):** public/brand/TODO
+- **Logo:** wordmark NIGMA only
+- **Favicon source (square, ≥512px):** src/app/icon.svg
 
 ## Links & Contact
 
-- **CTA destination (where buttons should lead):** TODO
-- **Social links:** TODO
-- **Contact email shown on site:** TODO (public-facing only — no secrets in this file)
+- **CTA destination (where buttons should lead):** /request
+- **Social links:** Telegram @nigma_studio
+- **Contact email shown on site:** hello@nigma.studio
