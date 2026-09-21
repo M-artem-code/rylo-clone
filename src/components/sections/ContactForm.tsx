@@ -78,7 +78,7 @@ export function ContactForm({ content }: ContactFormProps) {
           value={comment}
           onChange={(event) => setComment(event.target.value)}
           placeholder={content.commentPlaceholder}
-          rows={5}
+          rows={6}
           className="mt-2 w-full resize-none rounded-xl border border-white/10 bg-white/[0.03] px-4 py-3 text-[14px] text-tv-text outline-none placeholder:text-tv-muted-2 focus:border-tv-gold/50"
         />
       </label>

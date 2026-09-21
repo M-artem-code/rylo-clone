@@ -42,27 +42,18 @@ export function System({ content }: SystemProps) {
         <h2 className="font-display text-[36px] font-medium text-tv-text md:text-[40px]">
           {content.title}
         </h2>
-        <p className="mt-4 max-w-4xl text-[17px] leading-7 text-tv-muted">
+        <p className="mt-4 max-w-5xl text-[17px] leading-7 text-tv-muted xl:whitespace-nowrap">
           {content.subtitle}
         </p>
         <div className="relative mt-24 flex-1">
-          <div className="absolute top-[70px] right-10 left-10 hidden h-px bg-tv-gold/40 lg:block" />
-          <div className="absolute top-[68px] right-16 left-16 hidden justify-between lg:flex">
-            {Array.from({ length: 15 }).map((_, i) => (
-              <span
-                key={i}
-                className="size-1.5 rounded-full bg-tv-gold"
-                aria-hidden
-              />
-            ))}
-          </div>
-          <ol className="grid grid-cols-2 gap-x-4 gap-y-10 sm:grid-cols-3 lg:grid-cols-6">
+          <div className="pointer-events-none absolute top-[70px] right-[7%] left-[7%] z-0 hidden h-px bg-tv-gold/30 lg:block" />
+          <ol className="relative z-10 grid grid-cols-2 gap-x-4 gap-y-10 sm:grid-cols-3 lg:grid-cols-6">
             {content.nodes.map((node) => {
               const Icon = icons[node.kind];
               return (
                 <li key={node.title} className="flex flex-col items-center text-center">
-                  <div className="flex size-[140px] items-center justify-center rounded-[40px] border border-tv-gold/35 bg-tv-surface text-tv-gold shadow-[0_10px_30px_rgb(0_0_0_/_0.35)]">
-                    <Icon className="size-12" />
+                  <div className="flex size-[140px] items-center justify-center rounded-[40px] border border-tv-gold/35 bg-[#14171c] text-tv-gold shadow-[0_10px_30px_rgb(0_0_0_/_0.35)]">
+                    <Icon className="size-10" />
                   </div>
                   <p className="mt-7 text-[16px] font-semibold text-tv-text">
                     {node.title}

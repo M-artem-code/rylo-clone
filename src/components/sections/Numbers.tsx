@@ -33,7 +33,7 @@ export function Numbers({ content }: NumbersProps) {
           {content.stats.map((stat, index) => (
             <article
               key={stat.label}
-              className="min-h-[420px] rounded-[22px] border border-white/10 bg-[#101216]/70 px-8 py-12 backdrop-blur-md"
+              className="min-h-[420px] rounded-[22px] border border-white/10 bg-[#101216]/45 px-8 py-12 backdrop-blur-md"
             >
               <p className="text-[13px] font-medium tracking-[0.16em] text-tv-gold">
                 {`0${index + 1}`}

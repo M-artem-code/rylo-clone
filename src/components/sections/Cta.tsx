@@ -17,10 +17,10 @@ export function Cta({ content }: CtaProps) {
         className="object-cover object-center"
         sizes="100vw"
       />
-      <div className="absolute inset-0 bg-[#08090b99]" />
-      <div className="absolute inset-x-0 bottom-0 h-[420px] bg-gradient-to-t from-[#08090bc8] to-transparent" />
+      <div className="absolute inset-0 bg-[#08090b73]" />
+      <div className="absolute inset-x-0 bottom-0 h-[420px] bg-gradient-to-t from-[#08090bb0] to-transparent" />
       <div className="relative z-10 mx-auto flex min-h-[1080px] max-w-[1920px] items-center px-6 xl:px-24">
-        <div className="w-full max-w-[884px] rounded-[24px] border border-white/10 bg-[#0a0c0e]/60 px-12 py-16 backdrop-blur-md">
+        <div className="w-full max-w-[884px] rounded-[24px] border border-white/15 bg-white/[0.04] px-12 py-16 backdrop-blur-md">
           <p className="mb-5 flex items-center gap-3 text-[12px] font-medium tracking-[0.2em] text-tv-gold uppercase">
             <span className="size-[7px] rounded-full bg-tv-gold" aria-hidden />
             {content.eyebrow}

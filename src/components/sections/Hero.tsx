@@ -21,15 +21,18 @@ export function Hero({ content }: HeroProps) {
       <div className="absolute inset-0 bg-gradient-to-r from-[#08090bd6] via-[#08090b88] to-transparent" />
       <div className="absolute inset-x-0 bottom-0 h-72 bg-gradient-to-t from-[#08090baa] to-transparent" />
       <div className="relative z-10 mx-auto flex min-h-[100svh] max-w-[1920px] flex-col justify-between px-6 pt-32 pb-10 xl:px-24">
-        <div className="max-w-[640px] pt-16">
+        <div className="max-w-[860px] pt-16">
           <p className="mb-5 flex items-center gap-3 text-[12px] font-medium tracking-[0.2em] text-tv-gold uppercase">
             <span className="size-[7px] rounded-full bg-tv-gold" aria-hidden />
             {content.eyebrow}
           </p>
           <h1 className="font-display text-[40px] leading-[1.15] text-tv-text sm:text-[48px] xl:text-[56px]">
-            <span className="font-light">{content.title[0]}</span>
-            <br />
-            <span className="font-medium">{content.title[1]}</span>
+            <span className="block font-light whitespace-nowrap max-[520px]:whitespace-normal">
+              {content.title[0]}
+            </span>
+            <span className="block font-medium whitespace-nowrap max-[520px]:whitespace-normal">
+              {content.title[1]}
+            </span>
           </h1>
           <p className="mt-8 max-w-[620px] text-[18px] leading-7 text-tv-muted">
             {content.subtitle}
@@ -47,7 +50,7 @@ export function Hero({ content }: HeroProps) {
             </GoldButton>
           </div>
         </div>
-        <div className="mt-16 grid grid-cols-1 overflow-hidden rounded-[20px] border border-white/10 bg-[#0c0e11]/70 backdrop-blur-md sm:grid-cols-3">
+        <div className="mt-16 hidden grid-cols-1 overflow-hidden rounded-[20px] border border-white/10 bg-[#0c0e11]/70 backdrop-blur-md sm:grid sm:grid-cols-3">
           {content.chips.map((chip, index) => (
             <div
               key={chip.title}

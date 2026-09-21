@@ -21,16 +21,30 @@ export function Logo({
       className={cn("inline-flex items-center gap-3", className)}
       aria-label={wordmark}
     >
-      <span
-        className={cn(
-          "relative block size-9 shrink-0 rounded-[10px] border-2 border-tv-gold",
-          markClassName,
-        )}
+      <svg
+        viewBox="0 0 36 36"
+        className={cn("size-9 shrink-0", markClassName)}
         aria-hidden
       >
-        <span className="absolute top-[22%] left-1/2 h-[32%] w-[56%] -translate-x-1/2 rounded-full border-2 border-b-0 border-tv-gold" />
-        <span className="absolute top-[42%] left-1/2 h-[36%] w-[2.5px] -translate-x-1/2 rounded-full bg-tv-gold" />
-      </span>
+        <rect
+          x="1.2"
+          y="1.2"
+          width="33.6"
+          height="33.6"
+          rx="10"
+          fill="none"
+          stroke="#E6C34A"
+          strokeWidth="2"
+        />
+        <path
+          d="M10.2 16.4a8 8 0 0 1 15.6 0"
+          fill="none"
+          stroke="#E6C34A"
+          strokeWidth="2"
+          strokeLinecap="round"
+        />
+        <rect x="16.7" y="15.2" width="2.6" height="12" rx="1.3" fill="#E6C34A" />
+      </svg>
       <span className="text-[15px] font-semibold tracking-[0.11em] text-tv-text">
         {wordmark}
       </span>

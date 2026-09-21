@@ -27,7 +27,7 @@ export function SmartHome({ content }: SmartHomeProps) {
             src={content.image}
             alt={content.imageAlt}
             fill
-            className="object-cover"
+            className="object-cover object-[30%_center]"
             sizes="(min-width: 1280px) 724px, 100vw"
           />
         </div>

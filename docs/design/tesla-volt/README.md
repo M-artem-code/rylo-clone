@@ -32,5 +32,10 @@ All desktop frames are 1920×1080.
 - Evening architecture + solar + storage + quiet automation
 - Numbers on screen 03 are conceptual, not claimed metrics
 
-Regenerate: `python3 docs/design/tesla-volt/render_mockups.py`  
+The approved boards are implemented in the Next.js app:
+
+- `/` full landing (all sections)
+- `/solutions` `/system` `/projects` `/process` `/contacts`
+
+Regenerate mockups: `python3 docs/design/tesla-volt/render_mockups.py`  
 Unbounded is SIL Open Font License.

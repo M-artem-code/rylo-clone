@@ -25,17 +25,12 @@ export default function Icon() {
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
+            color: "#E6C34A",
+            fontSize: 14,
+            fontWeight: 600,
           }}
         >
-          <div
-            style={{
-              width: 10,
-              height: 10,
-              border: "2px solid #E6C34A",
-              borderBottom: 0,
-              borderRadius: "10px 10px 0 0",
-            }}
-          />
+          V
         </div>
       </div>
     ),
