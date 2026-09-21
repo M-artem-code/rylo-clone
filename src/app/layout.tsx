@@ -1,20 +1,33 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import localFont from "next/font/local";
+
+import { SiteFooter } from "@/components/northline/SiteFooter";
+import { SiteHeader } from "@/components/northline/SiteHeader";
+import { site } from "@/data/site";
+
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
+const onest = localFont({
+  src: "../fonts/Onest.ttf",
+  variable: "--font-onest",
+  display: "swap",
+  weight: "100 900",
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+const unbounded = localFont({
+  src: "../fonts/Unbounded.ttf",
+  variable: "--font-unbounded",
+  display: "swap",
+  weight: "200 900",
 });
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: {
+    default: "NORTHLINE — мебель как часть архитектуры",
+    template: "%s · NORTHLINE",
+  },
+  description:
+    "Студия индивидуальной мебели: кухни, хранение, гардеробные и предметы интерьера для жилых и коммерческих пространств.",
 };
 
 export default function RootLayout({
@@ -24,10 +37,14 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      lang={site.locale}
+      className={`${onest.variable} ${unbounded.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="flex min-h-full flex-col bg-nl-bg font-sans text-nl-ink">
+        <SiteHeader />
+        <div className="flex-1">{children}</div>
+        <SiteFooter />
+      </body>
     </html>
   );
 }
