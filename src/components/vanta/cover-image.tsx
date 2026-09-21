@@ -27,18 +27,13 @@ export function CoverImage({
 }: CoverImageProps) {
   const ref = useRef<HTMLDivElement>(null);
   const needsView = motion === "expose" || motion === "aperture" || motion === "rise";
-  const { inView, armed } = useEnterView(ref, needsView);
+  useEnterView(ref, needsView);
 
   return (
     <div
       ref={ref}
       data-motion={motion}
-      className={cn(
-        "vanta-cover relative overflow-hidden bg-void",
-        armed && "is-armed",
-        inView && "is-in",
-        className,
-      )}
+      className={cn("vanta-cover relative overflow-hidden bg-void", className)}
     >
       <Image
         src={src}

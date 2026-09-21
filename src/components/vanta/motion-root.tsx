@@ -121,22 +121,15 @@ function ApertureCursor({ enabled }: { enabled: boolean }) {
 
 function PageVeil({ enabled }: { enabled: boolean }) {
   const pathname = usePathname();
-  const first = useRef(true);
-  const [on, setOn] = useState(false);
-
-  useEffect(() => {
-    if (first.current) {
-      first.current = false;
-      return;
-    }
-    if (!enabled) return;
-    setOn(true);
-    const timer = window.setTimeout(() => setOn(false), 560);
-    return () => window.clearTimeout(timer);
-  }, [enabled, pathname]);
+  const [origin] = useState(pathname);
+  const play = enabled && pathname !== origin;
 
   return (
-    <div className={on ? "vanta-veil is-on" : "vanta-veil"} aria-hidden>
+    <div
+      key={pathname}
+      className={play ? "vanta-veil is-on" : "vanta-veil"}
+      aria-hidden
+    >
       <span className="vanta-veil-slit" />
     </div>
   );

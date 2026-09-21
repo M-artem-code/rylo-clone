@@ -20,17 +20,12 @@ export function Reveal({
   delay?: number;
 }) {
   const ref = useRef<HTMLElement | null>(null);
-  const { inView, armed } = useEnterView(ref);
+  useEnterView(ref);
 
   return (
     <Tag
       ref={ref as never}
-      className={cn(
-        "vanta-reveal",
-        armed && "is-armed",
-        inView && "is-in",
-        className,
-      )}
+      className={cn("vanta-reveal", className)}
       style={{ "--vanta-delay": `${delay}ms` } as CSSProperties}
     >
       {children}

@@ -80,6 +80,8 @@ export function SiteHeader({
           "vanta-menu absolute inset-x-0 top-[76px] z-30 bg-void lg:hidden",
           open && "is-open border-b border-graph",
         )}
+        inert={!open}
+        aria-hidden={!open}
       >
         <div className="vanta-menu-inner">
           <nav className="flex flex-col gap-5 px-6 py-8">
