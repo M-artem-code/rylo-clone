@@ -345,12 +345,6 @@ def extract_photos() -> None:
 
     p05 = Image.open(ASSETS / "05-solution-atelier.png")
     crop_save(p05, (400, 72, 864, 428), "atelier-hero.png")
-    crop_save(p05, (40, 450, 288, 628), "atelier-stone.png")
-    crop_save(p05, (300, 450, 558, 628), "atelier-drawer.png")
-    crop_save(p05, (572, 450, 830, 628), "atelier-handle.png")
-
-    p01 = Image.open(ASSETS / "01-home-hero.png")
-    crop_save(p01, (620, 78, 1260, 678), "kitchen-island.png")
 
     empty = ASSETS / "photo-empty-room.png"
     if empty.exists():
@@ -358,10 +352,6 @@ def extract_photos() -> None:
 
     p09 = Image.open(ASSETS / "09-contact.png")
     crop_save(p09, (48, 700, 300, 980), "still-life.png")
-
-    p03 = Image.open(ASSETS / "03-home-projects-cta.png")
-    crop_save(p03, (48, 118, 420, 330), "home-apt.png")
-    crop_save(p03, (444, 118, 816, 330), "home-house.png")
 
     print("photos extracted", len(list(PHOTO_DIR.glob("*.png"))))
 
