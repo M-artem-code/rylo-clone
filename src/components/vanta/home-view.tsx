@@ -11,6 +11,8 @@ import {
 import { routes } from "@/data/site";
 
 import { CoverImage } from "./cover-image";
+import { HeadlineLines } from "./headline-lines";
+import { Reveal } from "./reveal";
 import { SiteHeader } from "./site-header";
 import { SiteLabel } from "./site-label";
 import { SiteMeta } from "./site-meta";
@@ -19,12 +21,13 @@ import { VantaButton } from "./vanta-button";
 export function HomeView() {
   return (
     <main className="bg-void">
-      <section className="relative min-h-screen">
+      <section className="vanta-hero relative min-h-screen">
         <CoverImage
           src={homeHero.image}
           alt={homeHero.imageAlt}
           className="absolute inset-0"
           priority
+          motion="hero"
         />
         <div className="absolute inset-x-0 top-0 h-40 bg-linear-to-b from-void/80 to-transparent" />
         <div className="absolute inset-x-0 bottom-0 h-[42%] bg-linear-to-t from-void via-void/70 to-transparent" />
@@ -35,18 +38,14 @@ export function HomeView() {
         <div className="relative z-10 flex min-h-[calc(100vh-76px)] flex-col justify-end px-6 pb-10 md:px-12 md:pb-16">
           <div className="grid gap-10 lg:grid-cols-[1fr_360px] lg:items-end">
             <div>
-              <SiteLabel className="mb-4">{homeHero.kicker}</SiteLabel>
+              <SiteLabel className="vanta-hero-kicker mb-4">{homeHero.kicker}</SiteLabel>
               <h1 className="font-display text-[40px] leading-[0.95] text-milk md:text-[78px]">
-                {homeHero.headline.map((line) => (
-                  <span key={line} className="block">
-                    {line}
-                  </span>
-                ))}
+                <HeadlineLines lines={homeHero.headline} />
               </h1>
-              <p className="mt-6 max-w-xl font-news text-[16px] text-milk-soft md:text-[20px]">
+              <p className="vanta-hero-support mt-6 max-w-xl font-news text-[16px] text-milk-soft md:text-[20px]">
                 {homeHero.support}
               </p>
-              <div className="mt-8 flex flex-wrap gap-3">
+              <div className="vanta-hero-cta mt-8 flex flex-wrap gap-3">
                 <VantaButton href={homeHero.primary.href} filled>
                   {homeHero.primary.label}
                 </VantaButton>
@@ -55,7 +54,7 @@ export function HomeView() {
                 </VantaButton>
               </div>
             </div>
-            <div className="hidden bg-void/60 p-6 lg:block">
+            <div className="vanta-hero-scene hidden bg-void/60 p-6 lg:block">
               <SiteLabel>{homeHero.scene.index}</SiteLabel>
               <p className="mt-2 font-serif text-[28px] text-milk">
                 {homeHero.scene.name}
@@ -72,7 +71,9 @@ export function HomeView() {
                   >
                     <span
                       className={`block size-1.5 rounded-full ${
-                        step === homeHero.scene.active ? "bg-amber" : "bg-dim"
+                        step === homeHero.scene.active
+                          ? "vanta-scene-dot is-live bg-amber"
+                          : "bg-dim"
                       }`}
                     />
                   </span>
@@ -98,14 +99,12 @@ export function HomeView() {
       <section className="px-6 py-20 md:px-12 md:py-24">
         <SiteLabel className="mb-6">{homePhilosophy.kicker}</SiteLabel>
         <div className="grid gap-10 lg:grid-cols-2 lg:items-end">
-          <h2 className="font-display text-[48px] leading-[0.95] text-milk md:text-[86px]">
-            {homePhilosophy.headline.map((line) => (
-              <span key={line} className="block">
-                {line}
-              </span>
-            ))}
-          </h2>
-          <div>
+          <Reveal>
+            <h2 className="font-display text-[48px] leading-[0.95] text-milk md:text-[86px]">
+              <HeadlineLines lines={homePhilosophy.headline} />
+            </h2>
+          </Reveal>
+          <Reveal className="vanta-copy" delay={80}>
             <p className="max-w-md font-news text-[22px] leading-8 text-milk-soft">
               {homePhilosophy.body}
             </p>
@@ -114,7 +113,7 @@ export function HomeView() {
                 {homePhilosophy.cta.label}
               </VantaButton>
             </div>
-          </div>
+          </Reveal>
         </div>
       </section>
 
@@ -126,6 +125,7 @@ export function HomeView() {
               src={homeAtmospheres.items[0].image}
               alt="Night atmosphere"
               className="h-[320px] md:h-[520px]"
+              motion="aperture"
             />
             <SiteLabel className="mt-3">Night</SiteLabel>
           </figure>
@@ -134,6 +134,7 @@ export function HomeView() {
               src={homeAtmospheres.items[1].image}
               alt="Morning atmosphere"
               className="h-[248px]"
+              motion="expose"
             />
             <SiteLabel className="mt-3">Morning</SiteLabel>
           </figure>
@@ -143,6 +144,7 @@ export function HomeView() {
                 src={homeAtmospheres.items[2].image}
                 alt="Day atmosphere"
                 className="h-[256px]"
+                motion="rise"
               />
               <SiteLabel className="mt-3">Day</SiteLabel>
             </figure>
@@ -151,6 +153,7 @@ export function HomeView() {
                 src={homeAtmospheres.items[3].image}
                 alt="Evening atmosphere"
                 className="h-[256px]"
+                motion="rise"
               />
               <SiteLabel className="mt-3">Evening</SiteLabel>
             </figure>
@@ -162,13 +165,14 @@ export function HomeView() {
         <SiteLabel className="mb-6">{homeObjects.kicker}</SiteLabel>
         <div className="grid gap-6 md:grid-cols-3">
           {homeObjects.items.map((item) => (
-            <Link key={item.name} href={item.href} className="block">
+            <Link key={item.name} href={item.href} className="vanta-row block">
               <CoverImage
                 src={item.image}
                 alt={item.name}
-                className="h-[280px]"
+                className={item.name === "VOID" ? "vanta-share-void h-[280px]" : "h-[280px]"}
+                motion="rise"
               />
-              <p className="mt-5 font-italiana text-[28px] tracking-[0.18em] text-milk">
+              <p className="vanta-row-name mt-5 font-italiana text-[28px] tracking-[0.18em] text-milk">
                 {item.name}
               </p>
               <p className="mt-2 font-mono text-[11px] tracking-[0.1em] text-muted-vanta">
@@ -190,7 +194,8 @@ export function HomeView() {
           <CoverImage
             src={homeProject.image}
             alt={homeProject.title}
-            className="h-[320px] md:h-[420px]"
+            className="vanta-share-atelier h-[320px] md:h-[420px]"
+            motion="expose"
           />
           <div className="absolute inset-x-0 bottom-0 bg-linear-to-t from-void via-void/70 to-transparent p-6 md:p-8">
             <p className="font-serif text-[32px] text-milk">{homeProject.title}</p>
@@ -210,13 +215,14 @@ export function HomeView() {
             src={homeStudio.image}
             alt="Light Studio preview"
             className="h-[160px]"
+            motion="rise"
           />
           <div>
             <p className="max-w-md font-news text-[22px] text-milk-soft">
               {homeStudio.body}
             </p>
             <div className="relative mt-8 h-px max-w-md bg-graph-2">
-              <span className="absolute left-1/2 top-1/2 size-2.5 -translate-x-1/2 -translate-y-1/2 rounded-full bg-amber" />
+              <span className="vanta-scene-dot is-live absolute left-1/2 top-1/2 size-2.5 -translate-x-1/2 -translate-y-1/2 rounded-full bg-amber" />
             </div>
             <div className="mt-3 flex max-w-md justify-between font-mono text-[11px] tracking-[0.14em]">
               <span className="text-muted-vanta">{homeStudio.mood}</span>
@@ -232,4 +238,3 @@ export function HomeView() {
     </main>
   );
 }
-

@@ -26,7 +26,7 @@ export function SiteHeader({
 
   if (variant === "article") {
     return (
-      <header className="flex h-[76px] items-center justify-between border-b border-graph px-6 md:px-12">
+      <header className="vanta-header flex h-[76px] items-center justify-between border-b border-graph px-6 md:px-12">
         <Logo />
         <p className="font-mono text-[11px] tracking-[0.14em] text-muted-vanta">
           {articleMeta}
@@ -38,7 +38,7 @@ export function SiteHeader({
   return (
     <header
       className={cn(
-        "relative z-20 flex h-[76px] items-center justify-between px-6 md:px-12",
+        "vanta-header relative z-20 flex h-[76px] items-center justify-between px-6 md:px-12",
         variant === "default" && "border-b border-graph bg-void",
       )}
     >
@@ -49,16 +49,11 @@ export function SiteHeader({
             key={link.href}
             href={link.href}
             className={cn(
-              "font-sans text-[13px] tracking-[0.04em] transition-colors",
-              active === link.label ? "text-milk" : "text-muted-vanta hover:text-milk",
+              "vanta-nav-link font-sans text-[13px] tracking-[0.04em]",
+              active === link.label ? "is-active text-milk" : "text-muted-vanta hover:text-milk",
             )}
           >
-            <span className="relative">
-              {link.label}
-              {active === link.label ? (
-                <span className="absolute -bottom-1.5 left-0 right-0 h-px bg-amber" />
-              ) : null}
-            </span>
+            {link.label}
           </Link>
         ))}
       </nav>
@@ -68,17 +63,26 @@ export function SiteHeader({
         </VantaButton>
         <button
           type="button"
-          className="flex h-8 w-8 flex-col items-end justify-center gap-1.5 lg:hidden"
-          aria-label="Open menu"
+          className={cn(
+            "vanta-burger flex h-8 w-8 flex-col items-end justify-center gap-1.5 lg:hidden",
+            open && "is-open",
+          )}
+          aria-label={open ? "Close menu" : "Open menu"}
+          aria-expanded={open}
           onClick={() => setOpen((value) => !value)}
         >
-          <span className="block h-px w-5 bg-milk" />
-          <span className="block h-px w-5 bg-milk" />
+          <span className="vanta-burger-line" />
+          <span className="vanta-burger-line" />
         </button>
       </div>
-      {open ? (
-        <div className="absolute inset-x-0 top-[76px] z-30 border-b border-graph bg-void px-6 py-8 lg:hidden">
-          <nav className="flex flex-col gap-5">
+      <div
+        className={cn(
+          "vanta-menu absolute inset-x-0 top-[76px] z-30 bg-void lg:hidden",
+          open && "is-open border-b border-graph",
+        )}
+      >
+        <div className="vanta-menu-inner">
+          <nav className="flex flex-col gap-5 px-6 py-8">
             {navLinks.map((link) => (
               <Link
                 key={link.href}
@@ -97,7 +101,7 @@ export function SiteHeader({
             </VantaButton>
           </nav>
         </div>
-      ) : null}
+      </div>
     </header>
   );
 }

@@ -2,6 +2,8 @@ import { journalArticle } from "@/data/journal";
 import { images } from "@/data/site";
 
 import { CoverImage } from "./cover-image";
+import { HeadlineLines } from "./headline-lines";
+import { Reveal } from "./reveal";
 import { SiteHeader } from "./site-header";
 import { SiteLabel } from "./site-label";
 import { SiteMeta } from "./site-meta";
@@ -13,25 +15,26 @@ export function ArticleView() {
       <SiteHeader variant="article" cta={journalArticle.projectCta} articleMeta={journalArticle.issue} />
       <article className="px-6 py-10 md:px-12">
         <div className="grid gap-10 lg:grid-cols-2">
-          <div>
+          <Reveal>
             <SiteLabel>{journalArticle.kicker}</SiteLabel>
             <h1 className="mt-4 font-display text-[48px] leading-[0.95] text-milk md:text-[64px]">
-              {journalArticle.headline.map((line) => (
-                <span key={line} className="block">
-                  {line}
-                </span>
-              ))}
+              <HeadlineLines lines={journalArticle.headline} />
             </h1>
-          </div>
+          </Reveal>
           <CoverImage
             src={images.stair}
             alt="Stair with concealed linear light"
             className="h-[420px]"
+            motion="expose"
           />
         </div>
-        <p className="mt-12 font-serif text-[40px] italic text-milk">
-          {journalArticle.pull}
-        </p>
+        <Reveal>
+          <p className="mt-12 font-serif text-[40px] italic text-milk">
+            <span className="vanta-clip block">
+              <span className="vanta-clip-inner block">{journalArticle.pull}</span>
+            </span>
+          </p>
+        </Reveal>
         <div className="mt-10 grid gap-10 md:grid-cols-2">
           <p className="font-news text-[20px] leading-[30px] text-milk-soft">
             {journalArticle.left}
@@ -45,6 +48,7 @@ export function ArticleView() {
             src={images.restaurant}
             alt="Private dining"
             className="h-[360px] md:h-[520px]"
+            motion="expose"
           />
           <SiteLabel className="mt-4">{journalArticle.diningCaption}</SiteLabel>
         </figure>
@@ -54,6 +58,7 @@ export function ArticleView() {
               src={images.lightingPlan}
               alt="Lighting plan"
               className="h-[380px]"
+              motion="rise"
             />
             <SiteLabel className="mt-3">Lighting plan</SiteLabel>
           </figure>
@@ -62,6 +67,7 @@ export function ArticleView() {
               src={images.bronze}
               alt="Brushed bronze"
               className="h-[380px]"
+              motion="rise"
             />
             <SiteLabel className="mt-3">Bronze, brushed</SiteLabel>
           </figure>

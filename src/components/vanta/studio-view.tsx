@@ -22,6 +22,9 @@ export function StudioView() {
     [sceneName],
   );
 
+  const warmth = Math.max(0, Math.min(1, (4000 - kelvin) / 1800));
+  const shade = 0.1 + (1 - brightness / 100) * 0.36;
+
   function applyScene(name: string) {
     const next = studioPage.scenes.find((item) => item.name === name);
     if (!next) return;
@@ -40,21 +43,32 @@ export function StudioView() {
       />
       <div className="grid min-h-[calc(100vh-76px)] lg:grid-cols-[1fr_640px]">
         <section className="relative min-h-[520px]">
-          <CoverImage src={scene.image} alt={scene.name} className="absolute inset-0" />
+          <CoverImage
+            key={scene.image}
+            src={scene.image}
+            alt={scene.name}
+            className="absolute inset-0"
+            motion="scene"
+          />
+          <div
+            aria-hidden
+            className="vanta-studio-wash pointer-events-none absolute inset-0"
+            style={{
+              background: `linear-gradient(180deg, rgba(201, 166, 107, ${0.03 + warmth * 0.1}) 0%, rgba(8, 8, 9, ${shade}) 100%)`,
+            }}
+          />
           <div className="absolute left-6 top-6 flex gap-8 md:left-12">
             {studioPage.times.map((item) => (
               <button
                 key={item}
                 type="button"
                 onClick={() => setTime(item)}
-                className="font-mono text-[11px] tracking-[0.14em]"
+                className={`vanta-time-link font-mono text-[11px] tracking-[0.14em] ${item === time ? "is-on" : ""}`}
               >
                 <span className={item === time ? "text-amber" : "text-muted-vanta"}>
                   {item}
                 </span>
-                {item === time ? (
-                  <span className="mt-1 block h-px w-full bg-amber" />
-                ) : null}
+                <span className="vanta-time-rule mt-1 block h-px w-full bg-amber" />
               </button>
             ))}
           </div>
@@ -140,7 +154,9 @@ function Field({ label, value }: { label: string; value: string }) {
       <span className="font-mono text-[11px] tracking-[0.16em] text-muted-vanta">
         {label}
       </span>
-      <span className="font-sans text-[15px] text-milk">{value}</span>
+      <span key={value} className="vanta-value-tick font-sans text-[15px] text-milk">
+        {value}
+      </span>
     </div>
   );
 }
