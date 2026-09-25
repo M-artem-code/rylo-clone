@@ -1,0 +1,91 @@
+export const home = {
+  hero: {
+    mark: "CUT 01",
+    verticalMark: "AFTER MIDNIGHT",
+    wordmark: "ARCANA",
+    credit: "NIGHT STUDIO  /  AUTHORIAL",
+    headline: ["Ночь как", "материал,", "не как фильтр"] as const,
+    body:
+      "Авторская ночная студия. Не прокат площадки и не универсальный цех. Здесь собирают кадр, в котором тьма — материал, а человек — герой.",
+    cta: "Оставить заявку  →",
+    image: "/images/arcana/hero-face.jpg",
+    imageMobile: "/images/arcana/hero-face-mobile.jpg",
+    focus: "38% 46%",
+    focusMobile: "40% 38%",
+  },
+  pause: {
+    mark: "CUT 00",
+    lines: ["Это не зал.", "Это ночная студия."] as const,
+  },
+  series: {
+    label: "СЕРИИ",
+    english: "SELECTED NIGHTS",
+    linkLabel: "Смотреть редакции  →",
+    href: "/series",
+    image: "/images/arcana/contact-sheet.jpg",
+    focus: "50% 42%",
+    captions: ["01  Ртуть", "02  После полуночи", "03  Чёрная коробка"] as const,
+    mock: "MOCK DATA — названия серий демонстрационные",
+  },
+  shelves: {
+    portrait: {
+      title: "PORTRAIT",
+      lead: "Понятный вход в тот же взгляд",
+      meta: "вход от  ·  после брифа",
+      note: "Меньше кастома. Тот же авторский свет.",
+      href: "/portrait",
+      image: "/images/arcana/portrait-figure.jpg",
+      focus: "48% 32%",
+    },
+    deep: {
+      title: "FASHION  /  BRAND",
+      lead: "Полный кастом. Собирается заново.",
+      note: "Вторая глубина — не отдельный культ, а уровень сервиса",
+      href: "/brands",
+      image: "/images/arcana/fashion-figure.jpg",
+      focus: "42% 38%",
+    },
+  },
+  studio: {
+    mark: "SCENE  /  STUDIO  /  AFTER HOURS",
+    title: "Пространство как сцена.",
+    note: "Дом бренда — своя студия. Город не главный.",
+    href: "/studio",
+    image: "/images/arcana/studio-beam.jpg",
+    focus: "62% 48%",
+  },
+  script: {
+    title: "Ночь по шагам",
+    aside: "не «наш процесс» — сценарий",
+    steps: [
+      {
+        num: "01",
+        title: "Бриф об образе",
+        note: "Короткий разговор. Что за ночь нужна и кому.",
+      },
+      {
+        num: "02",
+        title: "Сцена и свет",
+        note: "Собираем луч, а не декорацию.",
+      },
+      {
+        num: "03",
+        title: "Съёмка",
+        note: "Автор, команда, контролируемая тьма.",
+      },
+      {
+        num: "04",
+        title: "Отбор и ретушь",
+        note: "Кадры, которые можно сразу публиковать.",
+      },
+    ],
+    cta: "Оставить заявку  →",
+    ctaNote: "Две полки: Portrait или более глубокий трек",
+  },
+  footer: {
+    wordmark: "ARCANA",
+    line: "Ночная авторская студия",
+    meta: "Заявка  ·  Telegram  ·  MOCK DATA — контакты не зафиксированы",
+    aside: "Concept mockup  ·  не выдавать выдуманное за факт",
+  },
+} as const;
