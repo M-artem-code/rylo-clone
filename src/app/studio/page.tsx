@@ -15,7 +15,7 @@ export default function StudioPage() {
         />
         <div className="absolute inset-x-6 top-10 md:inset-x-14">
           <p className="folio-track-mark text-[11px] text-mercury">{studioPage.mark}</p>
-          <h1 className="mt-4 font-serif text-[clamp(36px,4.4vw,52px)] text-bone">
+          <h1 className="folio-reveal mt-4 font-serif text-[clamp(36px,4.4vw,52px)] text-bone">
             {studioPage.title}
           </h1>
         </div>

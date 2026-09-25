@@ -80,11 +80,12 @@ export default function HomePage() {
             {home.series.linkLabel}
           </Link>
         </div>
-        <div className="relative mt-7 h-[220px] md:h-[420px]">
+        <div className="relative mt-7 aspect-[16/6] min-h-[240px] md:min-h-[420px]">
           <FolioImage
             src={home.series.image}
             alt="Контактная лента ночных портретов"
-            focus={home.series.focus}
+            focus="50% 38%"
+            eager
             className="absolute inset-0"
             sizes="100vw"
             vignette={false}
@@ -100,7 +101,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="grid gap-16 border-t border-rule px-6 py-12 md:px-14 lg:grid-cols-[820fr_48px_1fr] lg:gap-0 lg:py-16">
+      <section className="grid gap-16 border-t border-rule px-6 py-12 md:px-14 lg:grid-cols-[minmax(0,0.92fr)_48px_minmax(0,1.08fr)] lg:gap-0 lg:py-16">
         <Link href={home.shelves.portrait.href} className="group block">
           <h2 className="font-serif text-[clamp(36px,4vw,56px)] leading-none text-bone">
             {home.shelves.portrait.title}
@@ -111,6 +112,7 @@ export default function HomePage() {
               src={home.shelves.portrait.image}
               alt="Portrait — человек в луче"
               focus={home.shelves.portrait.focus}
+              eager
               className="absolute inset-0"
               sizes="(min-width: 1024px) 42vw, 100vw"
             />
@@ -129,6 +131,7 @@ export default function HomePage() {
               src={home.shelves.deep.image}
               alt="Fashion / Brand — фигура в чёрном пальто"
               focus={home.shelves.deep.focus}
+              eager
               className="absolute inset-0"
               sizes="(min-width: 1024px) 48vw, 100vw"
             />
@@ -141,20 +144,18 @@ export default function HomePage() {
         <FolioImage
           src={home.studio.image}
           alt="Студия: прибор и луч"
-          focus={home.studio.focus}
+          focus="70% 50%"
+          eager
           className="absolute inset-0"
           sizes="100vw"
         />
-        <div className="absolute inset-0 flex flex-col justify-between px-6 py-8 md:px-14">
+        <Link href={home.studio.href} className="absolute inset-0 flex flex-col justify-between px-6 py-8 md:px-14">
           <p className="folio-track-mark text-[11px] text-mercury">{home.studio.mark}</p>
           <div>
             <p className="font-serif text-[clamp(28px,3vw,40px)] text-bone">{home.studio.title}</p>
             <p className="mt-2 text-[14px] text-bone-soft">{home.studio.note}</p>
-            <Link href={home.studio.href} className="mt-4 inline-block text-[13px] text-bone">
-              Смотреть студию  →
-            </Link>
           </div>
-        </div>
+        </Link>
       </section>
 
       <section className="px-6 py-16 md:px-14 md:py-20">

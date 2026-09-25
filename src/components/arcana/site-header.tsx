@@ -63,7 +63,7 @@ export function SiteHeader() {
         <div className="flex items-center gap-5">
           <button
             type="button"
-            className="folio-track-mark text-[11px] text-mercury lg:hidden"
+            className="folio-track-mark min-h-11 px-1 text-[11px] text-mercury lg:hidden"
             aria-expanded={open}
             aria-controls="folio-menu"
             onClick={() => setOpen((value) => !value)}

@@ -7,7 +7,7 @@ export default function BrandsPage() {
     <main className="px-6 py-10 md:px-14 md:py-12">
       <p className="folio-track-mark text-[11px] text-mercury">{brandPage.mark}</p>
       <div className="mt-4 flex flex-col gap-3 md:flex-row md:items-end md:gap-10">
-        <h1 className="font-serif text-[clamp(40px,5vw,58px)] leading-none text-bone">
+        <h1 className="folio-reveal font-serif text-[clamp(40px,5vw,58px)] leading-none text-bone">
           {brandPage.title}
         </h1>
         <p className="font-serif text-[28px] italic text-bone-soft">{brandPage.italic}</p>

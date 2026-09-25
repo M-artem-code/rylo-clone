@@ -36,7 +36,7 @@ export default async function ApplyPage({
 
       <div className="flex flex-col justify-center px-6 py-14 md:px-14 lg:px-16">
         <p className="folio-track-mark text-[11px] text-mercury">{applyPage.mark}</p>
-        <h1 className="mt-5 font-serif text-[clamp(32px,3.6vw,46px)] leading-[1.1] text-bone">
+        <h1 className="folio-reveal mt-5 font-serif text-[clamp(32px,3.6vw,46px)] leading-[1.1] text-bone">
           {applyPage.headline.map((line) => (
             <span key={line} className="block">
               {line}
@@ -44,7 +44,7 @@ export default async function ApplyPage({
           ))}
         </h1>
         <p className="mt-6 text-[14px] text-bone-soft">{applyPage.lead}</p>
-        <div className="mt-10">
+        <div className="mt-8">
           <ApplyForm defaultMode={mode} />
         </div>
       </div>

@@ -9,7 +9,7 @@ export default function SeriesPage() {
   return (
     <main className="px-6 py-10 md:px-14 md:py-12">
       <p className="folio-track-mark text-[11px] text-mercury">{seriesPage.mark}</p>
-      <h1 className="mt-4 font-serif text-[clamp(36px,4vw,52px)] leading-tight text-bone">
+      <h1 className="folio-reveal mt-4 font-serif text-[clamp(36px,4vw,52px)] leading-tight text-bone">
         {seriesPage.title}
       </h1>
       <p className="mt-5 max-w-[40rem] text-[14px] text-bone-soft">{seriesPage.lead}</p>

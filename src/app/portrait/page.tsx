@@ -21,7 +21,7 @@ export default function PortraitPage() {
 
       <div className="flex flex-col justify-center px-6 py-14 md:px-14 lg:px-16">
         <p className="folio-track-mark text-[11px] text-mercury">{portraitPage.mark}</p>
-        <h1 className="mt-5 font-serif text-[clamp(36px,4vw,52px)] leading-[1.05] text-bone">
+        <h1 className="folio-reveal mt-5 font-serif text-[clamp(36px,4vw,52px)] leading-[1.05] text-bone">
           {portraitPage.headline.map((line) => (
             <span key={line} className="block">
               {line}

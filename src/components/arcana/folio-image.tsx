@@ -9,6 +9,7 @@ type FolioImageProps = {
   className?: string;
   imageClassName?: string;
   priority?: boolean;
+  eager?: boolean;
   sizes?: string;
   vignette?: boolean;
 };
@@ -20,6 +21,7 @@ export function FolioImage({
   className,
   imageClassName,
   priority = false,
+  eager = false,
   sizes = "(min-width: 1024px) 70vw, 100vw",
   vignette = true,
 }: FolioImageProps) {
@@ -30,11 +32,11 @@ export function FolioImage({
         alt={alt}
         fill
         priority={priority}
+        {...(priority ? {} : { loading: eager ? "eager" : "lazy" })}
         quality={93}
         sizes={sizes}
         className={cn(
-          "object-cover folio-expose transition-[filter,transform] duration-700 ease-out",
-          "hover:brightness-[1.06]",
+          "object-cover transition-[filter] duration-700 ease-out motion-safe:hover:brightness-[1.06]",
           imageClassName,
         )}
         style={{ objectPosition: focus }}

@@ -41,14 +41,18 @@ export function ApplyForm({ defaultMode = "Portrait" }: { defaultMode?: Mode }) 
     return Object.keys(next).length === 0;
   }
 
-  function onSubmit(event: FormEvent<HTMLFormElement>) {
-    event.preventDefault();
+  function submit() {
     if (!validate()) return;
     setLoading(true);
     window.setTimeout(() => {
       setLoading(false);
       setSent(true);
-    }, 500);
+    }, 400);
+  }
+
+  function onSubmit(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    submit();
   }
 
   if (sent) {
@@ -60,37 +64,42 @@ export function ApplyForm({ defaultMode = "Portrait" }: { defaultMode?: Mode }) 
   }
 
   return (
-    <form onSubmit={onSubmit} className="flex flex-col gap-7" noValidate>
+    <form onSubmit={onSubmit} className="flex flex-col gap-5" noValidate>
       {applyPage.fields.map((field) => {
         const key = field.id as keyof Fields;
         const isTask = field.id === "task";
+        const inputId = `apply-${field.id}`;
         return (
-          <label key={field.id} className="block">
-            <span className="text-[12px] text-mercury">{field.label}</span>
+          <div key={field.id} className="block">
+            <label htmlFor={inputId} className="text-[12px] text-mercury">
+              {field.label}
+            </label>
             {isTask ? (
               <textarea
+                id={inputId}
                 name={field.id}
-                rows={3}
+                rows={2}
                 value={fields[key]}
                 placeholder={field.placeholder}
                 onChange={(event) => set(key, event.target.value)}
-                className="mt-3 w-full resize-none border-0 border-b border-rule-strong bg-transparent pb-3 text-[15px] text-bone outline-none placeholder:text-bone-faint focus:border-bone"
+                className="mt-2 w-full resize-none border-0 border-b border-rule-strong bg-transparent pb-2 text-[15px] text-bone outline-none placeholder:text-bone-faint focus:border-bone"
               />
             ) : (
               <input
+                id={inputId}
                 name={field.id}
                 type="text"
                 autoComplete={field.autocomplete}
                 value={fields[key]}
                 placeholder={field.placeholder}
                 onChange={(event) => set(key, event.target.value)}
-                className="mt-3 w-full border-0 border-b border-rule-strong bg-transparent pb-3 text-[15px] text-bone outline-none placeholder:text-bone-faint focus:border-bone"
+                className="mt-2 w-full border-0 border-b border-rule-strong bg-transparent pb-2 text-[15px] text-bone outline-none placeholder:text-bone-faint focus:border-bone"
               />
             )}
             {errors[key] ? (
               <span className="mt-2 block text-[12px] text-bone-dim">{errors[key]}</span>
             ) : null}
-          </label>
+          </div>
         );
       })}
 
@@ -118,7 +127,7 @@ export function ApplyForm({ defaultMode = "Portrait" }: { defaultMode?: Mode }) 
       </div>
 
       <div className="flex flex-col gap-4 sm:flex-row sm:items-center">
-        <FolioButton type="submit" filled disabled={loading}>
+        <FolioButton type="button" filled disabled={loading} onClick={submit}>
           {loading ? "Отправка…" : applyPage.submit}
         </FolioButton>
         <span className="text-[13px] text-bone-dim">{applyPage.telegram}</span>
