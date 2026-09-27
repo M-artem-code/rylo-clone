@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gornich — кабинет</title>
+  <link rel="stylesheet" href="assets/css/gornich.css">
+</head>
+<body>
+  <div class="page">
+    <div class="folio"><span data-i18n="folioL">№ 18  ·  ВЫПУСК</span><span data-i18n="folioR">ИЗРАИЛЬ  ·  ЧАСЫ УБОРКИ</span></div>
+    <div class="rule-double"></div>
+    <header class="mast">
+      <div>
+        <a class="brand" href="index.html">GORNICH</a>
+        <div class="brand-sub" data-i18n="sub">часы уборки  ·  своя витрина  ·  свой час</div>
+      </div>
+      <div class="mast-end">
+        <div class="switch" role="group">
+          <button type="button" data-lang="ru" class="is-on">RU</button>
+          <button type="button" data-lang="he">HE</button>
+          <span class="he-label">עברית</span>
+        </div>
+        <nav class="nav">
+          <a href="vitrine.html" data-i18n="navVitrine">Витрина</a>
+          <a href="rules.html" data-i18n="navRules">Правила</a>
+        </nav>
+      </div>
+    </header>
+    <div class="rule"></div>
+    <p class="crumb">Кабинет  ·  чистый бланк, без интерьера</p>
+    <div class="rule" style="margin-top:12px"></div>
+
+    <main class="wrap" data-cabinet>
+      <h1 class="display display-lg" style="margin-top:24px" data-i18n="cabinetTitle">Ваша лавка</h1>
+      <p class="lede" data-i18n="cabinetLede">Лицо, час, услуги, районы, слоты — это же окно видит клиент.</p>
+
+      <div class="cabinet">
+        <div>
+          <p class="eyebrow" data-i18n="profile">ПРОФИЛЬ</p>
+          <div class="panel">
+            <div class="field"><label data-i18n="nameField">Имя на витрине</label><input name="name" value="Дарья К."></div>
+            <div class="field"><label data-i18n="hourField">Час, ₪</label><input name="hour" type="number" value="92"></div>
+            <div class="field"><label data-i18n="langsField">Языки</label><input name="langs" value="русский, иврит"></div>
+            <div class="field"><label data-i18n="areasField">Районы</label><input name="areas" value="Тель-Авив, Яффо, Бат-Ям"></div>
+          </div>
+          <p class="eyebrow" data-i18n="servicesShelf">УСЛУГИ НА ПОЛКЕ</p>
+          <div class="shelf"></div>
+          <div class="shelf-row">
+            <button type="button" class="tag is-on" data-service="Стандарт"><i class="hole"></i><i class="fold"></i><strong>Стандарт</strong><small data-i18n="on">вкл</small></button>
+            <button type="button" class="tag" data-service="Генеральная"><i class="hole"></i><i class="fold"></i><strong>Генеральная</strong><small data-i18n="off">выкл</small></button>
+            <button type="button" class="tag" data-service="После ремонта"><i class="hole"></i><i class="fold"></i><strong>После ремонта</strong><small data-i18n="off">выкл</small></button>
+            <button type="button" class="tag is-on" data-service="Окна"><i class="hole"></i><i class="fold"></i><strong>Окна</strong><small data-i18n="on">вкл</small></button>
+            <button type="button" class="tag is-on" data-service="Глажка"><i class="hole"></i><i class="fold"></i><strong>Глажка</strong><small data-i18n="on">вкл</small></button>
+          </div>
+          <p class="eyebrow">СЛОТЫ  ·  12 ОКТ</p>
+          <div class="slots" data-slots style="margin-left:0">
+            <button type="button" class="slot" data-slot="09:00">09:00</button>
+            <button type="button" class="slot" data-slot="11:00">11:00</button>
+            <button type="button" class="slot is-on" data-slot="14:00">14:00</button>
+            <button type="button" class="slot" data-slot="16:00">16:00</button>
+            <button type="button" class="slot" data-slot="18:00">18:00</button>
+          </div>
+          <button class="cta" type="button" data-i18n="openIntake" style="margin-top:20px">Открыть приём заказов</button>
+        </div>
+
+        <div>
+          <p class="eyebrow" data-i18n="clientSees">ТАК ВИДИТ КЛИЕНТ</p>
+          <div class="vitrine" data-preview>
+            <img class="shot" src="assets/photos/daria.png" alt="">
+            <span class="tag"><i class="hole"></i><i class="fold"></i><strong data-pv-hour>₪92/ч</strong></span>
+            <h3 data-pv-name>Дарья К.</h3>
+            <p class="meta" data-pv-langs>русский · иврит</p>
+            <p class="meta" data-pv-areas>Тель-Авив, Яффо, Бат-Ям</p>
+            <p class="services" data-pv-services>Стандарт · Глажка · Окна</p>
+            <div class="slots">
+              <span class="slot">09:00</span><span class="slot">11:00</span><span class="slot is-on">14:00</span><span class="slot">16:00</span>
+            </div>
+            <p class="meta" data-i18n="reviewsAfter">отзывы появятся после визитов</p>
+          </div>
+        </div>
+      </div>
+      <p class="note" data-i18n="cabinetNote">Заказов, рейтинга и «уже 40 визитов» в кабинете нет. Сначала живая витрина, потом отзывы.</p>
+    </main>
+    <footer class="foot" data-i18n="footLive">GORNICH  ·  витрина живёт, когда горничная выставляет час  ·  города без окон не обещаем</footer>
+  </div>
+  <script src="assets/js/gornich.js"></script>
+</body>
+</html>

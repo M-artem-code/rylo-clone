@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gornich — клиент</title>
+  <link rel="stylesheet" href="assets/css/gornich.css">
+</head>
+<body>
+  <div class="page">
+    <div class="folio">
+      <span data-i18n="folioL">№ 18  ·  ВЫПУСК</span>
+      <span data-i18n="folioR">ИЗРАИЛЬ  ·  ЧАСЫ УБОРКИ</span>
+    </div>
+    <div class="rule-double"></div>
+    <header class="mast">
+      <div>
+        <a class="brand" href="index.html">GORNICH</a>
+        <div class="brand-sub" data-i18n="sub">часы уборки  ·  своя витрина  ·  свой час</div>
+      </div>
+      <div class="mast-end">
+        <div class="switch" role="group">
+          <button type="button" data-lang="ru" class="is-on">RU</button>
+          <button type="button" data-lang="he">HE</button>
+          <span class="he-label">עברית</span>
+        </div>
+        <nav class="nav">
+          <a href="vitrine.html" data-i18n="navSearch">Поиск</a>
+          <a href="#tariffs" data-i18n="navTariffs">Тарифы</a>
+          <a href="vitrine.html" data-i18n="navVitrine">Витрина</a>
+          <a href="rules.html" data-i18n="navRules">Правила</a>
+        </nav>
+      </div>
+    </header>
+    <div class="rule"></div>
+
+    <main class="wrap">
+      <h1 class="display display-xl" style="margin-top:28px" data-i18n="clientTitle">Свой час горничной.</h1>
+      <p class="lede" data-i18n="clientLede">Не агентство и не группа в чате. Человек с лицом, своим прайсом и слотами. Тип уборки меняет часы — не подменяет чужую ставку.</p>
+
+      <p class="eyebrow" id="calc" data-i18n="calc">РАСЧЁТ ВИЗИТА</p>
+      <form class="ledger" data-calc>
+        <div class="field">
+          <label data-i18n="city">Город</label>
+          <select name="city">
+            <option>Тель-Авив</option>
+            <option>Яффо</option>
+            <option>Рамат-Ган</option>
+            <option>Холон</option>
+            <option>Хайфа</option>
+            <option>Петах-Тиква</option>
+          </select>
+        </div>
+        <div class="field">
+          <label data-i18n="meters">Метраж</label>
+          <input name="m2" type="number" min="20" max="300" value="72">
+        </div>
+        <div class="field">
+          <label data-i18n="date">Дата</label>
+          <input name="date" type="date" value="2026-10-12">
+        </div>
+        <div class="field">
+          <label data-i18n="type">Тип</label>
+          <select name="type">
+            <option>Стандарт</option>
+            <option>Генеральная</option>
+            <option>После ремонта</option>
+            <option>Окна</option>
+            <option>Глажка</option>
+          </select>
+        </div>
+        <div class="ledger-aside">
+          <div class="hours-read" data-hours-read>~ 4 ч  ×  час горничной</div>
+          <button class="cta" type="submit" data-i18n="find">Найти горничную</button>
+        </div>
+      </form>
+
+      <p class="eyebrow" id="tariffs" data-i18n="shelfTariffs">ТАРИФЫ НА ПОЛКЕ</p>
+      <div class="shelf"></div>
+      <div class="shelf-row">
+        <button type="button" class="tag wide" data-tariff="Стандарт"><i class="hole"></i><i class="fold"></i><strong>Стандарт</strong><small data-i18n="tagHours">час × оценка часов</small></button>
+        <button type="button" class="tag wide" data-tariff="Генеральная"><i class="hole"></i><i class="fold"></i><strong>Генеральная</strong><small data-i18n="tagHours">час × оценка часов</small></button>
+        <button type="button" class="tag wide" data-tariff="После ремонта"><i class="hole"></i><i class="fold"></i><strong>После ремонта</strong><small data-i18n="tagHours">час × оценка часов</small></button>
+        <button type="button" class="tag wide" data-tariff="Окна"><i class="hole"></i><i class="fold"></i><strong>Окна</strong><small data-i18n="tagHours">час × оценка часов</small></button>
+        <button type="button" class="tag wide" data-tariff="Глажка"><i class="hole"></i><i class="fold"></i><strong>Глажка</strong><small data-i18n="tagHours">час × оценка часов</small></button>
+      </div>
+
+      <p class="eyebrow how-label" data-i18n="how">КАК ЭТО РАБОТАЕТ</p>
+      <section class="how">
+        <article><h3 data-i18n="how1t">01  Тариф</h3><p data-i18n="how1">Выбираете тип уборки. Он задаёт оценку часов, не чужой прайс.</p></article>
+        <article><h3 data-i18n="how2t">02  Метраж</h3><p data-i18n="how2">Город, метры и дата. На экране сразу вилка времени.</p></article>
+        <article><h3 data-i18n="how3t">03  Витрина</h3><p data-i18n="how3">Смотрите окно: лицо, языки, районы, услуги, слоты, час.</p></article>
+        <article><h3 data-i18n="how4t">04  Запрос</h3><p data-i18n="how4">Человек + слот + сумма. Это запрос, не подтверждённый визит.</p></article>
+      </section>
+
+      <div class="rule" style="margin:36px 0 20px"></div>
+      <div class="split-head">
+        <p class="eyebrow" style="margin:0" data-i18n="vitrine">ВИТРИНА</p>
+        <span class="muted" data-i18n="noRating">без рейтинга  ·  отзывы после визитов</span>
+      </div>
+
+      <div class="windows" style="margin-top:20px">
+        <a class="vitrine" href="shop.html?id=daria">
+          <img class="shot" src="assets/photos/daria.png" alt="">
+          <span class="tag"><i class="hole"></i><i class="fold"></i><strong>₪92/ч</strong></span>
+          <h3>Дарья К.</h3>
+          <p class="meta">Тель-Авив, Яффо</p>
+          <p class="meta">русский · иврит</p>
+          <p class="services">Стандарт · Глажка · Окна</p>
+          <div class="slots" data-slots>
+            <span class="slot">09:00</span><span class="slot">11:00</span><span class="slot">14:00</span><span class="slot">16:00</span>
+          </div>
+        </a>
+        <a class="vitrine" href="shop.html?id=noa">
+          <img class="shot" src="assets/photos/noa.png" alt="">
+          <span class="tag"><i class="hole"></i><i class="fold"></i><strong>₪105/ч</strong></span>
+          <h3>Noa R.</h3>
+          <p class="meta">Рамат-Ган, Гиватаим</p>
+          <p class="meta">иврит · English</p>
+          <p class="services">Генеральная · Окна</p>
+          <div class="slots"><span class="slot">10:00</span><span class="slot">13:00</span><span class="slot">15:00</span></div>
+        </a>
+        <a class="vitrine" href="shop.html?id=marina">
+          <img class="shot" src="assets/photos/marina.png" alt="">
+          <span class="tag"><i class="hole"></i><i class="fold"></i><strong>₪85/ч</strong></span>
+          <h3>Марина Л.</h3>
+          <p class="meta">Холон, Бат-Ям</p>
+          <p class="meta">русский · иврит</p>
+          <p class="services">Стандарт · После ремонта</p>
+          <div class="slots"><span class="slot">09:00</span><span class="slot">12:00</span><span class="slot">16:00</span></div>
+        </a>
+      </div>
+    </main>
+    <footer class="foot" data-i18n="footLive">GORNICH  ·  витрина живёт, когда горничная выставляет час  ·  города без окон не обещаем</footer>
+  </div>
+  <script src="assets/js/gornich.js"></script>
+</body>
+</html>
