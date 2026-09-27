@@ -52,10 +52,37 @@ type MaidRow = QueryResultRow & {
 
 const globalPool = globalThis as unknown as { gornichPool?: Pool };
 
+function hasDatabase() {
+  return Boolean(process.env.DATABASE_URL);
+}
+
 function connectionString() {
   const url = process.env.DATABASE_URL;
   if (!url) throw new Error("no_database");
   return url;
+}
+
+function seedMaids(): PublicMaid[] {
+  return [...SEED].reverse().map((maid) => ({
+    id: maid.id,
+    name: maid.name,
+    hour: maid.hour,
+    areas: [...maid.areas],
+    areasText: maid.areas.join(", "),
+    langs: [...maid.langs],
+    langsText: maid.langs.join(" · "),
+    services: [...maid.services],
+    slots: [...maid.slots],
+    photo: maid.photo,
+    open: true,
+  }));
+}
+
+function matchesFilter(maid: PublicMaid, filter: { type?: string; areas?: string[]; langs?: string[] }) {
+  const okType = !filter.type || maid.services.includes(filter.type);
+  const okArea = !filter.areas?.length || maid.areas.some((area) => filter.areas?.includes(area));
+  const okLang = !filter.langs?.length || maid.langs.some((lang) => filter.langs?.includes(lang));
+  return okType && okArea && okLang;
 }
 
 function getPool() {
@@ -151,8 +178,6 @@ async function migrate() {
     );
     CREATE INDEX IF NOT EXISTS orders_maid_idx ON orders (maid_id, created_at DESC);
   `);
-  const { rows } = await pool.query<{ n: number }>("SELECT COUNT(*)::int AS n FROM maids WHERE seeded = TRUE");
-  if (Number(rows[0]?.n) > 0) return;
   for (const maid of SEED) {
     await pool.query(
       `INSERT INTO maids (id, email, password_hash, name, hour, areas, langs, services, slots, photo, open, seeded)
@@ -173,19 +198,16 @@ async function migrate() {
 }
 
 export async function listMaids(filter: { type?: string; areas?: string[]; langs?: string[] }) {
+  if (!hasDatabase()) return seedMaids().filter((maid) => matchesFilter(maid, filter));
   await ready();
   const { rows } = await getPool().query<MaidRow>(
     "SELECT * FROM maids WHERE open = TRUE ORDER BY seeded ASC, created_at DESC",
   );
-  return rows.map(toPublic).filter((maid) => {
-    const okType = !filter.type || maid.services.includes(filter.type);
-    const okArea = !filter.areas?.length || maid.areas.some((area) => filter.areas?.includes(area));
-    const okLang = !filter.langs?.length || maid.langs.some((lang) => filter.langs?.includes(lang));
-    return okType && okArea && okLang;
-  });
+  return rows.map(toPublic).filter((maid) => matchesFilter(maid, filter));
 }
 
 export async function getOpenMaid(id: string) {
+  if (!hasDatabase()) return seedMaids().find((maid) => maid.id === id) ?? null;
   await ready();
   const { rows } = await getPool().query<MaidRow>("SELECT * FROM maids WHERE id = $1 AND open = TRUE", [id]);
   return rows[0] ? toPublic(rows[0]) : null;
