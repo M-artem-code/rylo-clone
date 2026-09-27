@@ -6,151 +6,63 @@
   <title>Gornich — витрина</title>
   <link rel="stylesheet" href="assets/css/gornich.css">
 </head>
-<body>
-  <div class="page">
-    <div class="folio"><span data-i18n="folioL">№ 18  ·  ВЫПУСК</span><span data-i18n="folioR">ИЗРАИЛЬ  ·  ЧАСЫ УБОРКИ</span></div>
-    <div class="rule-double"></div>
-    <header class="mast">
+<body data-page="vitrine">
+  <header class="top">
+    <div class="top-inner">
+      <a class="brand" href="index.html">GORNICH</a>
+      <nav class="nav">
+        <a href="client.html" data-i18n="navSearch">Поиск</a>
+        <a href="vitrine.html" aria-current="page" data-i18n="navVitrine">Витрина</a>
+        <a href="login.html" data-i18n="doorMaid">Я горничная</a>
+        <a href="rules.html" data-i18n="navRules">Правила</a>
+      </nav>
+      <div class="switch" role="group" aria-label="Language">
+        <button type="button" data-lang="ru" class="is-on">RU</button>
+        <button type="button" data-lang="he">HE</button>
+      </div>
+    </div>
+  </header>
+  <main class="wrap" data-market>
+    <div class="query">
+      <p class="query-line" data-query-line></p>
+      <span class="muted" data-count></span>
+    </div>
+    <div class="market">
+      <aside class="filters">
+        <div class="field">
+          <label data-i18n="type">Тип</label>
+          <select name="type">
+            <option value="" data-i18n="anyType">Любой тип</option>
+            <option>Стандарт</option>
+            <option>Генеральная</option>
+            <option>После ремонта</option>
+            <option>Окна</option>
+            <option>Глажка</option>
+          </select>
+        </div>
+        <p class="eyebrow" data-i18n="areas">РАЙОНЫ</p>
+        <ul class="filter-list">
+          <li><label><input type="checkbox" name="area" value="Тель-Авив"> Тель-Авив</label></li>
+          <li><label><input type="checkbox" name="area" value="Яффо"> Яффо</label></li>
+          <li><label><input type="checkbox" name="area" value="Рамат-Ган"> Рамат-Ган</label></li>
+          <li><label><input type="checkbox" name="area" value="Холон"> Холон</label></li>
+          <li><label><input type="checkbox" name="area" value="Хайфа"> Хайфа</label></li>
+          <li><label><input type="checkbox" name="area" value="Петах-Тиква"> Петах-Тиква</label></li>
+        </ul>
+        <p class="eyebrow" data-i18n="langs">ЯЗЫКИ</p>
+        <ul class="filter-list">
+          <li><label><input type="checkbox" name="lang" value="русский"> русский</label></li>
+          <li><label><input type="checkbox" name="lang" value="иврит"> иврит</label></li>
+          <li><label><input type="checkbox" name="lang" value="English"> English</label></li>
+        </ul>
+      </aside>
       <div>
-        <a class="brand" href="index.html">GORNICH</a>
-        <div class="brand-sub" data-i18n="sub">часы уборки  ·  своя витрина  ·  свой час</div>
+        <div class="windows tight" data-results></div>
+        <p class="empty" data-empty hidden data-i18n="emptyWindows">В этом срезе окон нет.</p>
       </div>
-      <div class="mast-end">
-        <div class="switch" role="group">
-          <button type="button" data-lang="ru" class="is-on">RU</button>
-          <button type="button" data-lang="he">HE</button>
-          <span class="he-label">עברית</span>
-        </div>
-        <nav class="nav">
-          <a href="vitrine.html" aria-current="page" data-i18n="navSearch">Поиск</a>
-          <a href="client.html#tariffs" data-i18n="navTariffs">Тарифы</a>
-          <a href="vitrine.html" data-i18n="navVitrine">Витрина</a>
-          <a href="rules.html" data-i18n="navRules">Правила</a>
-        </nav>
-      </div>
-    </header>
-    <div class="rule"></div>
-    <p class="crumb">Поиск  ·  Тель-Авив  ·  72 м²  ·  12 окт  ·  Стандарт</p>
-    <div class="rule" style="margin-top:12px"></div>
-
-    <main class="wrap" data-market>
-      <div class="query" style="margin-top:24px">
-        <span class="query-line">Тель-Авив   ·   72 м²   ·   12 окт   ·   Стандарт   ·   ~4 ч</span>
-        <span class="muted" data-count>6 витрин</span>
-      </div>
-
-      <div class="market">
-        <aside class="filters">
-          <p class="eyebrow" data-i18n="areas">РАЙОНЫ</p>
-          <ul class="filter-list">
-            <li><label><input type="checkbox" name="area" value="Тель-Авив"> Тель-Авив</label></li>
-            <li><label><input type="checkbox" name="area" value="Яффо"> Яффо</label></li>
-            <li><label><input type="checkbox" name="area" value="Рамат-Ган"> Рамат-Ган</label></li>
-            <li><label><input type="checkbox" name="area" value="Холон"> Холон</label></li>
-            <li><label><input type="checkbox" name="area" value="Хайфа"> Хайфа</label></li>
-            <li><label><input type="checkbox" name="area" value="Петах-Тиква"> Петах-Тиква</label></li>
-          </ul>
-          <p class="eyebrow" data-i18n="langs">ЯЗЫКИ</p>
-          <ul class="filter-list">
-            <li><label><input type="checkbox" name="lang" value="русский"> русский</label></li>
-            <li><label><input type="checkbox" name="lang" value="иврит"> иврит</label></li>
-            <li><label><input type="checkbox" name="lang" value="English"> English</label></li>
-          </ul>
-        </aside>
-
-        <div class="windows tight">
-          <article class="vitrine" data-seller="daria">
-            <img class="shot" src="assets/photos/daria.png" alt="">
-            <span class="tag"><i class="hole"></i><i class="fold"></i><strong>₪92/ч</strong></span>
-            <h3>Дарья К.</h3>
-            <p class="meta">Тель-Авив, Яффо</p>
-            <p class="meta">русский · иврит</p>
-            <p class="services">Стандарт · Глажка · Окна</p>
-            <div class="slots"><span class="slot">09:00</span><span class="slot">11:00</span><span class="slot">14:00</span></div>
-            <p class="meta" data-i18n="reviewsAfter">отзывы появятся после визитов</p>
-            <a class="cta" href="shop.html?id=daria" data-i18n="openWindow">Открыть окно</a>
-          </article>
-          <article class="vitrine" data-seller="noa">
-            <img class="shot" src="assets/photos/noa.png" alt="">
-            <span class="tag"><i class="hole"></i><i class="fold"></i><strong>₪105/ч</strong></span>
-            <h3>Noa R.</h3>
-            <p class="meta">Рамат-Ган, Гиватаим</p>
-            <p class="meta">иврит · English</p>
-            <p class="services">Генеральная · Окна</p>
-            <div class="slots"><span class="slot">10:00</span><span class="slot">13:00</span><span class="slot">15:00</span></div>
-            <p class="meta" data-i18n="reviewsAfter">отзывы появятся после визитов</p>
-            <a class="cta" href="shop.html?id=noa" data-i18n="openWindow">Открыть окно</a>
-          </article>
-          <article class="vitrine" data-seller="marina">
-            <img class="shot" src="assets/photos/marina.png" alt="">
-            <span class="tag"><i class="hole"></i><i class="fold"></i><strong>₪85/ч</strong></span>
-            <h3>Марина Л.</h3>
-            <p class="meta">Холон, Бат-Ям</p>
-            <p class="meta">русский · иврит</p>
-            <p class="services">Стандарт · После ремонта</p>
-            <div class="slots"><span class="slot">09:00</span><span class="slot">12:00</span><span class="slot">16:00</span></div>
-            <p class="meta" data-i18n="reviewsAfter">отзывы появятся после визитов</p>
-            <a class="cta" href="shop.html?id=marina" data-i18n="openWindow">Открыть окно</a>
-          </article>
-          <article class="vitrine" data-seller="yael">
-            <img class="shot" src="assets/photos/yael.png" alt="">
-            <span class="tag"><i class="hole"></i><i class="fold"></i><strong>₪110/ч</strong></span>
-            <h3>Yael S.</h3>
-            <p class="meta">Тель-Авив</p>
-            <p class="meta">иврит · English</p>
-            <p class="services">Окна · Генеральная</p>
-            <div class="slots"><span class="slot">11:00</span><span class="slot">14:00</span><span class="slot">17:00</span></div>
-            <p class="meta" data-i18n="reviewsAfter">отзывы появятся после визитов</p>
-            <a class="cta" href="shop.html?id=yael" data-i18n="openWindow">Открыть окно</a>
-          </article>
-          <article class="vitrine" data-seller="olga">
-            <img class="shot" src="assets/photos/olga.png" alt="">
-            <span class="tag"><i class="hole"></i><i class="fold"></i><strong>₪88/ч</strong></span>
-            <h3>Ольга П.</h3>
-            <p class="meta">Петах-Тиква</p>
-            <p class="meta">русский</p>
-            <p class="services">Стандарт · Глажка · Окна</p>
-            <div class="slots"><span class="slot">08:30</span><span class="slot">12:30</span><span class="slot">15:30</span></div>
-            <p class="meta" data-i18n="reviewsAfter">отзывы появятся после визитов</p>
-            <a class="cta" href="shop.html?id=olga" data-i18n="openWindow">Открыть окно</a>
-          </article>
-          <article class="vitrine" data-seller="tamar">
-            <img class="shot" src="assets/photos/tamar.png" alt="">
-            <span class="tag"><i class="hole"></i><i class="fold"></i><strong>₪95/ч</strong></span>
-            <h3>Tamar B.</h3>
-            <p class="meta">Хайфа</p>
-            <p class="meta">иврит · русский</p>
-            <p class="services">Стандарт · Генеральная</p>
-            <div class="slots"><span class="slot">09:00</span><span class="slot">13:00</span><span class="slot">16:00</span></div>
-            <p class="meta" data-i18n="reviewsAfter">отзывы появятся после визитов</p>
-            <a class="cta" href="shop.html?id=tamar" data-i18n="openWindow">Открыть окно</a>
-          </article>
-        </div>
-      </div>
-    </main>
-    <footer class="foot" data-i18n="footLive">GORNICH  ·  витрина живёт, когда горничная выставляет час  ·  города без окон не обещаем</footer>
-  </div>
+    </div>
+  </main>
+  <footer class="foot" data-i18n="footLive">GORNICH  ·  витрина живёт, когда горничная открывает приём</footer>
   <script src="assets/js/gornich.js"></script>
-  <script>
-    (function () {
-      const q = new URLSearchParams(location.search);
-      const city = q.get("city");
-      const m2 = q.get("m2") || "72";
-      const type = q.get("type") || "Стандарт";
-      const hours = q.get("hours") || "4";
-      const date = q.get("date") || "2026-10-12";
-      const line = document.querySelector(".query-line");
-      const crumb = document.querySelector(".crumb");
-      if (line) line.textContent = `${city || "Тель-Авив"}   ·   ${m2} м²   ·   ${date}   ·   ${type}   ·   ~${hours} ч`;
-      if (crumb) crumb.textContent = `Поиск  ·  ${city || "Тель-Авив"}  ·  ${m2} м²  ·  ${type}`;
-      document.querySelectorAll(".vitrine .cta").forEach((a) => {
-        const href = new URL(a.getAttribute("href"), location.href);
-        ["city", "m2", "type", "hours", "date"].forEach((k) => {
-          if (q.get(k)) href.searchParams.set(k, q.get(k));
-        });
-        a.setAttribute("href", href.pathname.replace(/^\//, "") + href.search);
-      });
-    })();
-  </script>
 </body>
 </html>

@@ -6,49 +6,34 @@
   <title>Gornich — вход</title>
   <link rel="stylesheet" href="assets/css/gornich.css">
 </head>
-<body>
-  <div class="page page-gate">
-    <div class="folio"><span data-i18n="folioL">№ 18  ·  ВЫПУСК</span><span data-i18n="folioR">ИЗРАИЛЬ  ·  ЧАСЫ УБОРКИ</span></div>
-    <div class="rule-double"></div>
-    <header class="mast">
-      <div>
-        <a class="brand" href="index.html">GORNICH</a>
-        <div class="brand-sub" data-i18n="sub">часы уборки  ·  своя витрина  ·  свой час</div>
+<body data-page="login">
+  <header class="top">
+    <div class="top-inner">
+      <a class="brand" href="index.html">GORNICH</a>
+      <nav class="nav">
+        <a href="client.html" data-i18n="navSearch">Поиск</a>
+        <a href="vitrine.html" data-i18n="navVitrine">Витрина</a>
+        <a href="login.html" aria-current="page" data-i18n="doorMaid">Я горничная</a>
+        <a href="rules.html" data-i18n="navRules">Правила</a>
+      </nav>
+      <div class="switch" role="group" aria-label="Language">
+        <button type="button" data-lang="ru" class="is-on">RU</button>
+        <button type="button" data-lang="he">HE</button>
       </div>
-      <div class="mast-end">
-        <div class="switch" role="group">
-          <button type="button" data-lang="ru" class="is-on">RU</button>
-          <button type="button" data-lang="he">HE</button>
-          <span class="he-label">עברית</span>
-        </div>
-        <nav class="nav">
-          <a href="index.html">GORNICH</a>
-          <a href="client.html">Уборка</a>
-          <a href="rules.html">Правила</a>
-        </nav>
-      </div>
-    </header>
-    <div class="rule"></div>
-    <main class="wrap">
-      <div class="login">
-        <h1 class="display display-lg" data-i18n="loginTitle">Вход в витрину</h1>
-        <p class="lede" style="margin-inline:auto" data-i18n="loginLede">Сначала вход. Лавку собираете уже внутри — услуга, час, район.</p>
-        <form class="login-box" data-login>
-          <div class="field">
-            <label data-i18n="mail">Почта</label>
-            <input name="mail" type="text" placeholder="hello@mail" required>
-          </div>
-          <div class="field">
-            <label data-i18n="pass">Пароль</label>
-            <input name="pass" type="password" required>
-          </div>
-          <button class="cta block" type="submit" data-i18n="enter">Войти и открыть витрину</button>
-          <a class="ghost-link" href="cabinet.html" data-i18n="create">Нет окна — создать витрину</a>
-        </form>
-      </div>
-    </main>
-    <footer class="foot" data-i18n="gateFoot">Цена часа видна  ·  без торга в чате  ·  заказ = запрос, не подтверждённый визит  ·  отзывы только после визитов</footer>
-  </div>
+    </div>
+  </header>
+  <main class="wrap center">
+    <h1 class="display display-lg" data-i18n="loginTitle">Вход в лавку</h1>
+    <p class="lede" data-i18n="loginLede">Только существующий аккаунт. Новое окно открывается регистрацией.</p>
+    <form class="panel stack" data-login>
+      <div class="field"><label data-i18n="mail">Почта</label><input name="email" type="email" autocomplete="username" required></div>
+      <div class="field"><label data-i18n="pass">Пароль</label><input name="password" type="password" autocomplete="current-password" required></div>
+      <p class="form-error" data-error hidden></p>
+      <button class="cta block" type="submit" data-i18n="enter">Войти</button>
+      <a class="ghost-link" href="register.html" data-i18n="create">Нет окна — зарегистрироваться</a>
+    </form>
+  </main>
+  <footer class="foot" data-i18n="gateFoot">Цена часа видна  ·  без торга в чате  ·  заказ = запрос, не подтверждённый визит</footer>
   <script src="assets/js/gornich.js"></script>
 </body>
 </html>

@@ -6,102 +6,50 @@
   <title>Gornich — окно</title>
   <link rel="stylesheet" href="assets/css/gornich.css">
 </head>
-<body>
-  <div class="page">
-    <div class="folio"><span data-i18n="folioL">№ 18  ·  ВЫПУСК</span><span data-i18n="folioR">ИЗРАИЛЬ  ·  ЧАСЫ УБОРКИ</span></div>
-    <div class="rule-double"></div>
-    <header class="mast">
-      <div>
-        <a class="brand" href="index.html">GORNICH</a>
-        <div class="brand-sub" data-i18n="sub">часы уборки  ·  своя витрина  ·  свой час</div>
+<body data-page="shop">
+  <header class="top">
+    <div class="top-inner">
+      <a class="brand" href="index.html">GORNICH</a>
+      <nav class="nav">
+        <a href="client.html" data-i18n="navSearch">Поиск</a>
+        <a href="vitrine.html" data-i18n="navVitrine">Витрина</a>
+        <a href="login.html" data-i18n="doorMaid">Я горничная</a>
+        <a href="rules.html" data-i18n="navRules">Правила</a>
+      </nav>
+      <div class="switch" role="group" aria-label="Language">
+        <button type="button" data-lang="ru" class="is-on">RU</button>
+        <button type="button" data-lang="he">HE</button>
       </div>
-      <div class="mast-end">
-        <div class="switch" role="group">
-          <button type="button" data-lang="ru" class="is-on">RU</button>
-          <button type="button" data-lang="he">HE</button>
-          <span class="he-label">עברית</span>
-        </div>
-        <nav class="nav">
-          <a href="vitrine.html" data-i18n="navSearch">Поиск</a>
-          <a href="vitrine.html" data-i18n="navVitrine">Витрина</a>
-          <a href="rules.html" data-i18n="navRules">Правила</a>
-        </nav>
-      </div>
-    </header>
-    <div class="rule"></div>
-    <p class="crumb" data-i18n="shopCrumb">Витрина  /  Дарья К.  ·  так выглядит окно</p>
-    <div class="rule" style="margin-top:12px"></div>
-
-    <main class="wrap shop" style="margin-top:28px" data-shop>
-      <img class="hero-shot" src="assets/photos/daria.png" alt="" data-photo>
-      <div>
-        <div class="shop-head">
-          <div>
-            <h1 class="display" data-name>Дарья К.</h1>
-            <p class="meta muted" style="margin:12px 0 4px;font-size:18px" data-langs>русский · иврит</p>
-            <p class="meta muted" style="margin:0;font-size:18px" data-areas>Тель-Авив, Яффо</p>
-          </div>
-          <span class="tag wide"><i class="hole"></i><i class="fold"></i><strong data-hour>₪92/ч</strong><small data-i18n="herHour">её час</small></span>
-        </div>
-        <div class="rule" style="margin:24px 0 8px"></div>
-        <p class="eyebrow" data-i18n="shopServices">ЛАВКА УСЛУГ</p>
-        <div class="shelf"></div>
-        <div class="shelf-row" data-service-row></div>
-        <p class="eyebrow">СЛОТ  ·  12 ОКТ</p>
-        <div class="slots" data-slots style="margin-left:0">
-          <button type="button" class="slot" data-slot="09:00">09:00</button>
-          <button type="button" class="slot" data-slot="11:00">11:00</button>
-          <button type="button" class="slot is-on" data-slot="14:00">14:00</button>
-          <button type="button" class="slot" data-slot="16:00">16:00</button>
-        </div>
+    </div>
+  </header>
+  <main class="wrap">
+    <p class="kicker" data-crumb data-i18n="shopCrumb">Окно</p>
+    <div class="shop" data-shop>
+      <img class="hero-shot" alt="" data-photo>
+      <div class="shop-copy">
+        <h1 class="display" data-name></h1>
+        <p class="muted" data-langs></p>
+        <p class="muted" data-areas></p>
+        <p class="sum" data-hour></p>
+        <p class="eyebrow" data-i18n="shopServices">УСЛУГИ</p>
+        <div class="chips" data-service-row></div>
+        <p class="eyebrow" data-i18n="rowSlot">Слот</p>
+        <div class="slots" data-slots></div>
         <div class="estimate" data-order-math>
-          <p class="eyebrow" style="margin-top:0" data-i18n="visitBuild">СБОР ВИЗИТА</p>
-          <p class="lede-sm" data-visit-line>72 м²  ·  стандарт  ·  ~4 ч</p>
-          <p class="sum" data-sum-line>4 × ₪92  =  ₪368</p>
+          <p class="eyebrow" data-i18n="visitBuild">СБОР ВИЗИТА</p>
+          <p data-visit-line></p>
+          <p class="sum" data-sum-line></p>
           <p class="muted" data-i18n="sumBefore">Сумма до заявки. В чате цена не переписывается.</p>
         </div>
-        <a class="cta block" href="order.html" data-to-order data-i18n="chooseOrder" style="margin-top:16px">Выбрать и заказать</a>
+        <a class="cta block" href="order.html" data-to-order data-i18n="chooseOrder">Выбрать и заказать</a>
       </div>
-    </main>
-
-    <section class="wrap reviews">
+    </div>
+    <section>
       <p class="eyebrow" data-i18n="reviews">ОТЗЫВЫ</p>
-      <p class="lede" data-i18n="reviewsNote">Пустые линейки — не рейтинг. Отзывы появятся после визитов. Звёзд и «проверена» здесь нет.</p>
-      <div class="review-lines"><p></p><p></p><p></p></div>
+      <p class="lede" data-i18n="reviewsNote">Текста нет, пока не было визита. Рейтинга и бейджа «проверена» здесь нет.</p>
     </section>
-    <footer class="foot" data-i18n="footLive">GORNICH  ·  витрина живёт, когда горничная выставляет час  ·  города без окон не обещаем</footer>
-  </div>
+  </main>
+  <footer class="foot" data-i18n="footLive">GORNICH  ·  витрина живёт, когда горничная открывает приём</footer>
   <script src="assets/js/gornich.js"></script>
-  <script>
-    (function () {
-      const s = sellerById(qs("id", "daria"));
-      const m2 = qs("m2", "72");
-      const type = qs("type", "Стандарт");
-      const hours = qs("hours", String(hoursFor(m2, type)));
-      document.querySelector("[data-photo]").src = s.photo;
-      document.querySelector("[data-name]").textContent = s.name;
-      document.querySelector("[data-langs]").textContent = s.langsText;
-      document.querySelector("[data-areas]").textContent = s.areasText;
-      document.querySelector("[data-hour]").textContent = "₪" + s.hour + "/ч";
-      const crumb = document.querySelector(".crumb");
-      crumb.textContent = "Витрина  /  " + s.name + "  ·  так выглядит окно";
-      const row = document.querySelector("[data-service-row]");
-      row.innerHTML = s.services.map((name) =>
-        '<span class="tag wide"><i class="hole"></i><i class="fold"></i><strong>' + name + '</strong><small data-i18n="timesM2">× метраж</small></span>'
-      ).join("");
-      const slots = document.querySelector("[data-slots]");
-      slots.innerHTML = s.slots.map((t) =>
-        '<button type="button" class="slot' + (t === (qs("slot", "14:00")) || (t === s.slots[2] && !qs("slot") && t === "14:00") ? " is-on" : "") + '" data-slot="' + t + '">' + t + "</button>"
-      ).join("");
-      if (!slots.querySelector(".is-on") && s.slots[0]) {
-        const pref = qs("slot", s.slots.includes("14:00") ? "14:00" : s.slots[0]);
-        const btn = [...slots.querySelectorAll(".slot")].find((b) => b.dataset.slot === pref) || slots.querySelector(".slot");
-        if (btn) btn.classList.add("is-on");
-        slots.dataset.selected = btn ? btn.dataset.slot : pref;
-      }
-      document.querySelector("[data-visit-line]").textContent = m2 + " м²  ·  " + type.toLowerCase() + "  ·  ~" + hours + " ч";
-      document.querySelector("[data-sum-line]").textContent = hours + " × ₪" + s.hour + "  =  ₪" + (Number(hours) * s.hour);
-    })();
-  </script>
 </body>
 </html>

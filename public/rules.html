@@ -6,44 +6,35 @@
   <title>Gornich — правила</title>
   <link rel="stylesheet" href="assets/css/gornich.css">
 </head>
-<body>
-  <div class="page">
-    <div class="folio"><span data-i18n="folioL">№ 18  ·  ВЫПУСК</span><span data-i18n="folioR">ИЗРАИЛЬ  ·  ЧАСЫ УБОРКИ</span></div>
-    <div class="rule-double"></div>
-    <header class="mast">
-      <div>
-        <a class="brand" href="index.html">GORNICH</a>
-        <div class="brand-sub" data-i18n="sub">часы уборки  ·  своя витрина  ·  свой час</div>
+<body data-page="rules">
+  <header class="top">
+    <div class="top-inner">
+      <a class="brand" href="index.html">GORNICH</a>
+      <nav class="nav">
+        <a href="client.html" data-i18n="navSearch">Поиск</a>
+        <a href="vitrine.html" data-i18n="navVitrine">Витрина</a>
+        <a href="login.html" data-i18n="doorMaid">Я горничная</a>
+        <a href="rules.html" aria-current="page" data-i18n="navRules">Правила</a>
+      </nav>
+      <div class="switch" role="group" aria-label="Language">
+        <button type="button" data-lang="ru" class="is-on">RU</button>
+        <button type="button" data-lang="he">HE</button>
       </div>
-      <div class="mast-end">
-        <div class="switch" role="group">
-          <button type="button" data-lang="ru" class="is-on">RU</button>
-          <button type="button" data-lang="he">HE</button>
-          <span class="he-label">עברית</span>
-        </div>
-        <nav class="nav">
-          <a href="vitrine.html" data-i18n="navSearch">Поиск</a>
-          <a href="vitrine.html" data-i18n="navVitrine">Витрина</a>
-          <a href="rules.html" aria-current="page" data-i18n="navRules">Правила</a>
-        </nav>
-      </div>
-    </header>
-    <div class="rule"></div>
-
-    <main class="wrap">
-      <h1 class="display display-lg" style="margin-top:28px" data-i18n="rulesTitle">Правила рынка</h1>
-      <p class="lede" data-i18n="rulesLede">Не бейджи и не «проверена». Коротко: что видно до заявки, кто подтверждает, что нельзя обещать.</p>
-      <div class="rules-grid">
-        <article><h2 data-i18n="r1t">Цена</h2><p data-i18n="r1">На карточке стоит час горничной. Тип уборки умножает время. Сумма визита собирается до кнопки «Заказать» и не торгуется в чате.</p></article>
-        <article><h2 data-i18n="r2t">Запрос</h2><p data-i18n="r2">Кнопка собирает человека, слот и ₪. Статус — «запрос отправлен». Визит не подтверждён, оплаты на экране нет.</p></article>
-        <article><h2 data-i18n="r3t">Пустой город</h2><p data-i18n="r3">Если в городе нет окон — не рисуем фейковый список. Покрытие растёт вместе с витринами.</p></article>
-        <article><h2 data-i18n="r4t">Отзывы</h2><p data-i18n="r4">Каркас есть. Текста нет, пока не было визита. Рейтинга 4.9, счётчиков и цитат не будет, пока их нет.</p></article>
-        <article><h2 data-i18n="r5t">Горничная</h2><p data-i18n="r5">Свой час, своё лицо, свои районы. Доход и поток заказов платформа не гарантирует.</p></article>
-        <article><h2 data-i18n="r6t">Язык</h2><p data-i18n="r6">Иврит и русский равны переключателем. На одном экране один язык.</p></article>
-      </div>
-    </main>
-    <footer class="foot" data-i18n="footLive">GORNICH  ·  витрина живёт, когда горничная выставляет час  ·  города без окон не обещаем</footer>
-  </div>
+    </div>
+  </header>
+  <main class="wrap">
+    <h1 class="display display-lg" data-i18n="rulesTitle">Правила рынка</h1>
+    <p class="lede" data-i18n="rulesLede">Что видно до заявки, кто подтверждает, чего здесь нет.</p>
+    <section class="rules">
+      <article><h2 data-i18n="r1t">Цена</h2><p data-i18n="r1">На карточке стоит час горничной. Тип уборки умножает время. Сумма собирается до отправки и не торгуется в чате.</p></article>
+      <article><h2 data-i18n="r2t">Запрос</h2><p data-i18n="r2">Клиент оставляет имя и телефон. Заявка падает в кабинет. Визит не подтверждён, пока горничная сама не примет.</p></article>
+      <article><h2 data-i18n="r3t">Пустой срез</h2><p data-i18n="r3">Если фильтр никого не находит — список пустой. Чужие города не подмешиваем.</p></article>
+      <article><h2 data-i18n="r4t">Отзывы</h2><p data-i18n="r4">Их нет, пока не было визита. Рейтинга и бейджа «проверена» не рисуем.</p></article>
+      <article><h2 data-i18n="r5t">Горничная</h2><p data-i18n="r5">Регистрация публикует окно. Закрытый приём исчезает из поиска, заявки в кабинете остаются.</p></article>
+      <article><h2 data-i18n="r6t">Язык</h2><p data-i18n="r6">Иврит и русский переключаются. На одном экране один язык.</p></article>
+    </section>
+  </main>
+  <footer class="foot" data-i18n="footLive">GORNICH  ·  витрина живёт, когда горничная открывает приём</footer>
   <script src="assets/js/gornich.js"></script>
 </body>
 </html>
