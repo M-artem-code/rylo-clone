@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    { "source": "/catalog", "destination": "/index.html" },
+    { "source": "/catalog/:path*", "destination": "/index.html" },
+    { "source": "/cabinet", "destination": "/index.html" },
+    { "source": "/cabinet/:path*", "destination": "/index.html" },
+    { "source": "/enter", "destination": "/index.html" },
+    { "source": "/enter/:path*", "destination": "/index.html" },
+    { "source": "/maid/:path*", "destination": "/index.html" },
+    { "source": "/sent", "destination": "/index.html" }
+  ]
+}
