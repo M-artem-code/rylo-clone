@@ -1,57 +1,19 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ru">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Gornich</title>
-  <link rel="stylesheet" href="assets/css/gornich.css">
-</head>
-<body data-page="gate">
-  <header class="top">
-    <div class="top-inner">
-      <a class="brand" href="index.html">GORNICH</a>
-      <nav class="nav">
-        <a href="client.html" data-i18n="navSearch">Поиск</a>
-        <a href="vitrine.html" data-i18n="navVitrine">Витрина</a>
-        <a href="login.html" data-i18n="doorMaid">Я горничная</a>
-        <a href="rules.html" data-i18n="navRules">Правила</a>
-      </nav>
-      <div class="switch" role="group" aria-label="Language">
-        <button type="button" data-lang="ru" class="is-on">RU</button>
-        <button type="button" data-lang="he">HE</button>
-      </div>
-    </div>
-  </header>
-  <main class="wrap">
-    <p class="kicker" data-i18n="gateKicker">Тель-Авив  ·  час с лицом</p>
-    <h1 class="display display-xl" data-i18n="gateTitle">Две двери. Один прилавок.</h1>
-    <p class="lede" data-i18n="gateLede">Не группа в чате и не агентство без лица. Горничная ставит свой час. Клиент собирает визит: тариф, метраж, окно, слот.</p>
-    <div class="doors">
-      <a class="door door-client" href="client.html">
-        <div>
-          <h2 data-i18n="doorClient">Ищу уборку</h2>
-          <p data-i18n="doorClientP">Найти час, слот и человека. Тип уборки меняет время, не чужой прайс.</p>
-        </div>
-        <span class="go" data-i18n="tagEnter">вход</span>
-      </a>
-      <a class="door door-maid" href="register.html">
-        <div>
-          <h2 data-i18n="doorMaid">Я горничная</h2>
-          <p data-i18n="doorMaidP">Открыть свою витрину. Свой час, услуги, районы — и заявки приходят сюда.</p>
-        </div>
-        <span class="go" data-i18n="tagEnter">вход</span>
-      </a>
-    </div>
-    <p class="eyebrow" data-i18n="shelfToday">НА ПОЛКЕ СЕГОДНЯ</p>
-    <div class="chips">
-      <a class="chip" href="client.html?type=%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82#calc"><strong>Стандарт</strong><small data-i18n="tagHours">час × оценка часов</small></a>
-      <a class="chip" href="client.html?type=%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F#calc"><strong>Генеральная</strong><small data-i18n="tagHours">час × оценка часов</small></a>
-      <a class="chip" href="client.html?type=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0#calc"><strong>После ремонта</strong><small data-i18n="tagHours">час × оценка часов</small></a>
-      <a class="chip" href="client.html?type=%D0%9E%D0%BA%D0%BD%D0%B0#calc"><strong>Окна</strong><small data-i18n="tagHours">час × оценка часов</small></a>
-      <a class="chip" href="client.html?type=%D0%93%D0%BB%D0%B0%D0%B6%D0%BA%D0%B0#calc"><strong>Глажка</strong><small data-i18n="tagHours">час × оценка часов</small></a>
-    </div>
-  </main>
-  <footer class="foot" data-i18n="gateFoot">Цена часа видна  ·  без торга в чате  ·  заказ = запрос, не подтверждённый визит</footer>
-  <script src="assets/js/gornich.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TidyUp — каталог горничных</title>
+    <meta
+      name="description"
+      content="Каталог горничных со своими ценами и графиком. Выберите услугу и время, оставьте адрес и телефон."
+    />
+    <meta property="og:title" content="TidyUp — каталог горничных" />
+    <script type="module" crossorigin src="./assets/index-Cdr_OM30.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-DHen7G-n.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
 </html>
